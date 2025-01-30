@@ -1,0 +1,8 @@
+creer l'environement virtuel
+
+python3 -m venv -/envs/xxxx 
+#choisi un path 
+source -/envs/xxx/bin/activate
+#trouver le path: whereis xxx
+which python3 #le quel outile que utilise par l'environement
+python -m pip install wordcloud #installer 
