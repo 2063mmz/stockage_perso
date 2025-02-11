@@ -1,9 +1,9 @@
    MétéoImmoEmploiObsèquesLégalesBoutiqueJeuxNos événements Partenaires Je m'abonne
-   (BUTTON)
+   
    La Montagne
    À la uneVie localeSportsLoisirsÉconomie
    La Montagne
-   (BUTTON)
+   
    footer background image
    Télécharger notre application sur :
    Retrouvez-nous sur les réseaux
@@ -21,7 +21,7 @@
    Archives
    Archives 2025Archives 2024Archives 2023Archives 2022Archives 2021Archives 2020Archives 2019Archives 2018Archives 2017Archives 2016Archives 2015Archives 2014Archives 2013Archives 2012Archives
    2011Communes AllierCommunes CantalCommunes CorrèzeCommunes CreuseCommunes Puy-de-DômeElectionsExamens
-   Groupe Centre FranceMentions légalesCGUPolitique de confidentialitéDroit à l'oubliJe me désabonne (BUTTON) Gestion des cookies
+   Groupe Centre FranceMentions légalesCGUPolitique de confidentialitéDroit à l'oubliJe me désabonne  Gestion des cookies
    AccueilLoisirsVins
 Douceur des vins et dolce vita dans le saint-pourcinois
 Après Sancerre dimanche dernier, nous faisons étape dans le saint-pourcinois (Allier) pour une balade authentique dans ce vignoble considéré comme le plus ancien de France. Au fil des vins et de
@@ -82,10 +82,10 @@ rencontres passionnantes avec des vignerons talentueux, vous découvrirez pourqu
    disait qu’elles n’étaient pas à leur place est révolue. Corinne Laurent en est l’illustration parfaite. Pendant quatorze ans, elle a d’ailleurs incarné cette évolution dans ses ex-fonctions
    de présidente de la fédération départementale des vignerons indépendants de l’Allier. Une nouvelle preuve que les femmes sont solidement implantées dans le paysage de la filière. Qu’ils
    soient élaborés par des vigneronnes ou des vignerons, une chose est sûre. Vous risquez de tomber amoureux des vins de saint-pourçain.
-   (BUTTON) Commenter
+    Commenter
    Partager :
-   (BUTTON) (BUTTON) (BUTTON) (BUTTON) (BUTTON)
-   (BUTTON)
+       
+   
    MoulinsLoisirsVins
 A la une
    Transport
@@ -125,3 +125,4 @@ Du Centre-Val de Loire au Massif Central en passant par la Bourgogne... De la ne
    Massif central, Centre-Val de Loire... De nouvelles chutes de neige attendues en plaine dans plusieurs régions vendredi
      
    Voir plus d’articles
+
