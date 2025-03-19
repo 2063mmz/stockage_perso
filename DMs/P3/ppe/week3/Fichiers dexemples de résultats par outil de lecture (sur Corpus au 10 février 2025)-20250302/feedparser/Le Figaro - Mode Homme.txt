@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/mode-homme/la-question-existentielle-d-ou-vient-le-jean-francais-de-kendrick-lamar-au-super-bowl-20250210
+source : Le Figaro - Mode Homme.xml
+title : La question existentielle: d’où vient le jean français de Kendrick Lamar au Super Bowl?
+description : Quand un rappeur américain s’inspire (malgré lui?) de Serge Gainsbourg.
+date : Mon, 10 Feb 2025 13:17:54 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/style/81-boulevard-voltaire-a-nous-tous-on-balaie-un-siecle-de-mode-20250207
+source : Le Figaro - Mode Homme.xml
+title : Au 81 boulevard Voltaire à Paris, le concept store secret dédié au vintage que le monde nous envie : « À nous tous, on balaie un siècle de mode »
+description : Une poignée de spécialistes du vintage, du vêtement de travail ancien au sportswear italien, ont investi pour quelques mois un bâtiment abandonné du 11e arrondissement, à Paris. Une expérience rare qui ravive les années underground de la capitale.
+date : Sat, 08 Feb 2025 22:39:35 +0100
+categories : ['Mode Homme', 'Style']
+
+id : https://www.lefigaro.fr/mode-homme/la-rayure-force-le-trait-20250207
+source : Le Figaro - Mode Homme.xml
+title : La rayure force le trait
+description : Sur les podiums, dans les collections, vestes et costumes rayés retrouvent la ligne et donnent du panache à la silhouette.
+date : Fri, 07 Feb 2025 07:00:09 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/prise-de-poids-taillons-dans-le-vif-20250207
+source : Le Figaro - Mode Homme.xml
+title : Prise de poids? Taillons dans le vif
+description : LA CHRONIQUE DE JULIEN SCAVINI - Très peu d’hommes vont voir le retoucheur pour faire élargir un pantalon ou, si c’est nécessaire, en racheter un autre.
+date : Fri, 07 Feb 2025 10:39:20 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/la-petite-histoire-de-true-religion-la-nouvelle-marque-de-jeans-preferee-de-timothee-chalamet-20250206
+source : Le Figaro - Mode Homme.xml
+title : La petite histoire de True Religion, la nouvelle marque de jeans préférée de Timothée Chalamet
+description : Il joue Bob Dylan à l’écran mais, à la ville, ne jure que par une marque de denim des années 2000 qu’on croyait un peu ringarde et oubliée. Pourquoi? Explications.
+date : Thu, 06 Feb 2025 14:49:29 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/le-client-berluti-se-distingue-par-son-allure-remarquable-20250206
+source : Le Figaro - Mode Homme.xml
+title : « Le client Berluti se distingue par son allure remarquable »
+description : Jean-Marc Mansvelt, le nouveau directeur général, revient aux fondamentaux de la marque avec l’emblématique soulier Alessandro qui célèbre ses 130 ans et la mythique veste Forestière de Le Corbusier taillée à l’origine par Arnys.
+date : Thu, 06 Feb 2025 13:48:31 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/mercato-de-la-mode-kim-jones-quitte-dior-men-20250131
+source : Le Figaro - Mode Homme.xml
+title : Mercato de la mode : Kim Jones quitte Dior Men
+description : Le Britannique, en poste depuis 2018 avenue Montaigne, quitte son poste après des mois de rumeurs. Ni le nom de son remplaçant, ni celui de son prochain employeur, n’est pour l’instant connu.
+date : Fri, 31 Jan 2025 08:58:00 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/un-confort-style-20250131
+source : Le Figaro - Mode Homme.xml
+title : Un confort stylé
+description : Plus décontracté que le pantalon classique mais plus chic que le survêtement, le «easy pant» gagne du terrain.
+date : Fri, 31 Jan 2025 07:00:07 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/visite-chez-charvet-20250131
+source : Le Figaro - Mode Homme.xml
+title : Julien Scavini: «Si à 50 ans on n’a pas une cravate Charvet, c’est qu’on a renoncé!»
+description : Les six étages de ce paquebot de prestige sont lovés à un angle de la place Vendôme, à Paris.
+date : Fri, 31 Jan 2025 12:07:46 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/anthony-vaccarello-j-ai-imagine-une-rencontre-entre-robert-mapplethorpe-et-yves-saint-laurent-20250129
+source : Le Figaro - Mode Homme.xml
+title : Anthony Vaccarello: «J’ai imaginé une rencontre entre Robert Mapplethorpe et Yves Saint Laurent»
+description : Mardi soir, en pleine semaine de la haute couture, le directeur artistique de la maison Saint Laurent livrait une collection masculine d’une sophistication sulfureuse, entre costumes classiques et cuissardes fétichistes.
+date : Wed, 29 Jan 2025 13:37:26 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/figures-de-style-a-la-fashion-week-de-paris-20250126
+source : Le Figaro - Mode Homme.xml
+title : Figures de style à la Fashion Week de Paris
+description : Hermès cultive le succès et l’assurance, Kenzo envoie ses couleurs, Comme des Garçons Homme Plus défend la paix… Sur les défilés homme automne-hiver 2025-2026, chaque créateur donne sa vision de l’air du temps.
+date : Sun, 26 Jan 2025 18:30:11 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/dior-un-homme-sensible-20250124
+source : Le Figaro - Mode Homme.xml
+title : Fashion week de Paris: chez Dior Men, un homme sensible
+description : Sous la houlette de Kim Jones, la maison de l’avenue Montaigne dévoile une collection hiver 2025-2026 d’un luxe fou, entre héritage du fondateur et esthétique de dandy.
+date : Fri, 24 Jan 2025 18:05:48 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/fashion-week-de-paris-la-nostalgie-camarades-20250124
+source : Le Figaro - Mode Homme.xml
+title : Fashion Week de Paris : la nostalgie camarades
+description : D’Amiri à Fursac, décidément, les designers de mode masculine n’en finissent pas de revisiter le temps passé, celui des contre-cultures, de la musique rock, de l’opulence des années 1970 à l’esthétique hipster.
+date : Fri, 24 Jan 2025 18:06:44 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/colmar-le-chic-technique-20250124
+source : Le Figaro - Mode Homme.xml
+title : Colmar, le chic technique
+description : Le spécialiste transalpin des vêtements de ski apporte une touche de douceur inédite à ses tenues techniques.
+date : Fri, 24 Jan 2025 07:00:12 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/le-succes-de-la-chemise-sans-col-20250124
+source : Le Figaro - Mode Homme.xml
+title : Le succès de la chemise sans col
+description : LA CHRONIQUE DE JULIEN SCAVINI - Ce morceau de tissu rigidifié et baleiné, dont la forme plus ou moins marquée des pointes définit l’esthétique.
+date : Fri, 24 Jan 2025 06:00:14 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/style/cris-et-chuchotements-a-la-fashion-week-de-paris-20250123
+source : Le Figaro - Mode Homme.xml
+title : Cris et chuchotements à la Fashion Week de Paris
+description : Après le défilé spectaculaire et VIP de Louis Vuitton, la semaine des collections montre une facette plus sobre, où les vêtements d’Auralee, Lemaire, Paul Smith, Issey Myake et Ami parlent à la vraie vie.
+date : Fri, 24 Jan 2025 13:06:21 +0100
+categories : ['Mode Homme', 'Style']
+
+id : https://www.lefigaro.fr/mode-homme/chez-louis-vuitton-pharrell-williams-et-nigo-des-amis-en-or-20250122
+source : Le Figaro - Mode Homme.xml
+title : Chez Louis Vuitton, Pharrell Williams et Nigo, des amis en or
+description : DÉFILÉ - Ce mardi soir, dans la Cour carrée du Louvre, la maison racontait l’histoire d’amitié entre la pop star américaine et le directeur artistique de Kenzo. Une profusion de références et de codes maison, parfois jusqu’à l’excès à attendre à l’hiver prochain.
+date : Wed, 22 Jan 2025 16:30:26 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/pourquoi-milan-est-ellle-la-capitale-de-la-mode-masculine-20250120
+source : Le Figaro - Mode Homme.xml
+title : Pourquoi Milan est-elle la capitale de la mode masculine?
+description : Malgré un calendrier clairsemé, la Fashion Week transalpine de l’hiver 2025-2026 dévoile toutes ses facettes : la puissance du vêtement chez Prada, le sportswear italien d’Armani, la « sprezzatura » et l’esprit très Mastroianni de Dolce & Gabbana.
+date : Mon, 20 Jan 2025 17:56:37 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/les-couleurs-du-voyage-selon-rimowa-20250117
+source : Le Figaro - Mode Homme.xml
+title : Les couleurs du voyage selon Rimowa
+description : Teintes inédites et collaborations inattendues animent la ligne Essential du spécialiste allemand des bagages.
+date : Fri, 17 Jan 2025 07:00:11 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/hartwood-label-etiquette-20250117
+source : Le Figaro - Mode Homme.xml
+title : Hartwood, label étiquette
+description : LA CHRONIQUE DE JULIEN SCAVINI - S’il ne s’agit pas d’une marque grand public, elle est pourtant connue de tous grâce au film Les Visiteurs.
+date : Fri, 17 Jan 2025 06:00:15 +0100
+categories : ['Mode Homme']
+

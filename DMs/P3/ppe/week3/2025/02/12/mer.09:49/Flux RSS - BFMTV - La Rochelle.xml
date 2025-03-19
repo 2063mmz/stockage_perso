@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Home La Rochelle - actualités</title>
+        <link>https://www.bfmtv.com/la-rochelle/</link>
+        <description>Suivez toute l'actualité politique, économique, météo, sportive et sociale de la Rochelle et ses alentours en temps réel</description>
+        <lastBuildDate>Wed, 12 Feb 2025 08:48:06 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>BFMTV</generator>
+        <language>fr</language>
+        <image>
+            <title>Home La Rochelle - actualités</title>
+            <url>https://www.bfmtv.com/assets/v11/images/BFMTV_default_16x9.8715a163008e9f3fc3799c8e2c6ebafa.jpg</url>
+            <link>https://www.bfmtv.com/la-rochelle/</link>
+        </image>
+        <copyright>Copyright BFMTV</copyright>
+        <category>Home La Rochelle - actualités</category>
+        <atom:link href="https://www.bfmtv.com/la-rochelle/" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mégabassines: des manifestants repoussés par des gendarmes dans le port de La Rochelle]]></title>
+            <link>https://www.bfmtv.com/la-rochelle/megabassines-la-mobilisation-debute-un-convoi-de-tracteurs-present-sur-le-port-de-la-pallice-a-la-rochelle_AV-202407200152.html</link>
+            <guid>https://www.bfmtv.com/la-rochelle/megabassines-la-mobilisation-debute-un-convoi-de-tracteurs-present-sur-le-port-de-la-pallice-a-la-rochelle_AV-202407200152.html</guid>
+            <pubDate>Sat, 20 Jul 2024 08:17:48 GMT</pubDate>
+            <description><![CDATA[Une grande manifestation était annoncée dès 10 heures, ce samedi 20 juillet, à La Rochelle par des militants "anti-bassines". Plus tôt dans la matinée, des tracteurs sont arrivés pour bloquer une entreprise de silos située sur le port.<br /><br /><img src="https://images.bfmtv.com/mhp2wfPxewWwsaZEJsAEcfSodXU=/0x0:1920x1080/800x0/images/Les-tendarmes-ont-evacue-quelque-200-manifestants-qui-bloquaient-un-batiment-a-La-Rochelle-1907085.jpg" />]]></description>
+            <enclosure url="https://images.bfmtv.com/mhp2wfPxewWwsaZEJsAEcfSodXU=/0x0:1920x1080/800x0/images/Les-tendarmes-ont-evacue-quelque-200-manifestants-qui-bloquaient-un-batiment-a-La-Rochelle-1907085.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[La Rochelle: important incendie en cours dans des silos de céréales au port de commerce]]></title>
+            <link>https://www.bfmtv.com/la-rochelle/la-rochelle-important-incendie-en-cours-dans-des-silos-de-cereales-au-port-de-commerce_AN-202308100305.html</link>
+            <guid>https://www.bfmtv.com/la-rochelle/la-rochelle-important-incendie-en-cours-dans-des-silos-de-cereales-au-port-de-commerce_AN-202308100305.html</guid>
+            <pubDate>Thu, 10 Aug 2023 12:39:12 GMT</pubDate>
+            <description><![CDATA[Un important dispositif d'intervention et de sécurisation des populations est en cours dans la zone de l'incendie.<br /><br /><img src="https://images.bfmtv.com/Sip1HUvxUbufEZWigmgvS4n8fAw=/0x0:1920x1080/800x0/images/incendie-La-Rochelle-1687399.jpg" />]]></description>
+            <enclosure url="https://images.bfmtv.com/Sip1HUvxUbufEZWigmgvS4n8fAw=/0x0:1920x1080/800x0/images/incendie-La-Rochelle-1687399.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

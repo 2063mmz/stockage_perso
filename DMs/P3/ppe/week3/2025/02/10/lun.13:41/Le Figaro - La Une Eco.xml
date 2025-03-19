@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/figaro_economie.xml" rel="self" type="application/rss+xml"/>
+        <category>Economie</category>
+        <title>Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine</title>
+        <description>Retrouvez l&#039;actualité économique des entreprises, de la Bourse de Paris et des marchés financiers en direct, et nos conseils en gestion de patrimoine sur Lefigaro.fr</description>
+        <link>http://www.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Mon, 10 Feb 2025 13:38:47 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <image>
+            <title>Le Figaro - Economie - Actualité économique et financière, conseils en gestion de patrimoine</title>
+            <url>https://static.lefigaro.fr/common/logos/logo-150x150.png</url>
+            <link>http://www.lefigaro.fr</link>
+            <description>Retrouvez l&#039;actualité économique des entreprises, de la Bourse de Paris et des marchés financiers en direct, et nos conseils en gestion de patrimoine sur Lefigaro.fr</description>
+        </image>
+
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/l-usine-allemagne-en-peril-au-coeur-de-la-campagne-electorale-20250209</guid>
+                <title>Récession, énergie chère, compétitivité en berne... L’«usine Allemagne» en péril</title>
+                                <link>https://www.lefigaro.fr/conjoncture/l-usine-allemagne-en-peril-au-coeur-de-la-campagne-electorale-20250209</link>
+                                    <description>DÉCRYPTAGE - À deux semaines d’élections cruciales, les partis s’affrontent sur les remèdes à apporter à l’effritement du modèle allemand.</description>
+                                <category>Conjoncture</category>
+                <pubDate>Sun, 09 Feb 2025 19:41:30 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x1895_crop/2025/02/09/e4e0ebc961d954f4303a3377782ce73b2dd9a414e2c1bba108661da128960a35.jpg" width="3000" height="1895">
+                            <media:description type="plain">Des vans électriques VW ID.Buzz sont garés sur le parking de l’usine Volkswagen Commercial Vehicles, à Hanovre. Dans le cade d’un plan de réduction des coûts, le constructeur automobile allemand envisage de supprimer 30.000 postes.</media:description>
+                            <media:credit>Julian Stratenschulte/dpa via Reuters Connect</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/elections-en-allemagne-a-salzgitter-la-conversion-a-l-hydrogene-de-l-acierie-divise-la-classe-politique-20250209</guid>
+                <title>Élections en Allemagne: à Salzgitter, la conversion à l’hydrogène de l’aciérie divise la classe politique</title>
+                                <link>https://www.lefigaro.fr/conjoncture/elections-en-allemagne-a-salzgitter-la-conversion-a-l-hydrogene-de-l-acierie-divise-la-classe-politique-20250209</link>
+                                    <description>REPORTAGE - L’État fédéral et le Land de Basse-Saxe se sont engagés à subventionner la conversion à une production moins carbonée. Le candidat de la CDU aux législatives, Friedrich Merz, ne croit pas au développement de la filière hydrogène.</description>
+                                <category>Conjoncture</category>
+                <pubDate>Sun, 09 Feb 2025 17:08:40 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x1856_crop/2025/02/09/b02350d17bb7a3b642173657f48fa554405d9339b5a827812d60092d8cb7553b.jpg" width="3000" height="1856">
+                            <media:description type="plain">Le site de Salzgitter AG a entamé sa mue pour se transformer en un complexe intégré de production d’acier par hydrogène vert.</media:description>
+                            <media:credit>Julian Stratenschulte/dpa via Reuters Connect</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/l-union-europeenne-n-a-recu-aucune-notification-de-nouveaux-droits-de-douane-americains-20250210</guid>
+                <title>L'Union européenne n'a reçu «aucune notification» de nouveaux droits de douane américains</title>
+                                <link>https://www.lefigaro.fr/conjoncture/l-union-europeenne-n-a-recu-aucune-notification-de-nouveaux-droits-de-douane-americains-20250210</link>
+                                    <description>Dans un communiqué, la commission annonce qu’elle réagira pour protéger les intérêts des entreprises européennes en cas de «mesures injustifiées».</description>
+                                <category>Conjoncture</category>
+                <pubDate>Mon, 10 Feb 2025 09:32:39 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2002_crop/2025/02/10/f9122962e1ccd6e9e8dd267d7a50e7ccffe3346ed1063a64462018edb15caa4d.jpg" width="3000" height="2002">
+                            <media:description type="plain">«Nous ne répondrons pas à des annonces générales sans précisions ou clarification écrite», a écrit la commission dans un communiqué</media:description>
+                            <media:credit>Andrzej / stock.adobe.com</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/intelligence-artificielle-le-patron-de-bpifrance-appelle-tout-le-monde-a-travailler-avec-mistral-20250210</guid>
+                <title>Intelligence artificielle : le patron de Bpifrance appelle «tout le monde à travailler avec Mistral»</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/intelligence-artificielle-le-patron-de-bpifrance-appelle-tout-le-monde-a-travailler-avec-mistral-20250210</link>
+                                    <description>La banque publique d’investissement française a annoncé la semaine dernière vouloir investir 10 milliards d’euros dans l’IA d’ici 2029.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Mon, 10 Feb 2025 11:49:38 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/orig/2025/02/10/317e5de9fa8655896cb51156138223573630dd20fddf9fec34ba249c7ee87341.jpg" width="3000" height="2001">
+                            <media:description type="plain">Nicolas Dufourcq, directeur général de Bpifrance.</media:description>
+                            <media:credit>THOMAS SAMSON / AFP</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/societes/un-atterrissage-brutal-panique-sur-un-vol-easyjet-apres-le-malaise-du-pilote-20250210</guid>
+                <title>Un atterrissage «brutal» : panique sur un vol EasyJet après le malaise du pilote</title>
+                                <link>https://www.lefigaro.fr/societes/un-atterrissage-brutal-panique-sur-un-vol-easyjet-apres-le-malaise-du-pilote-20250210</link>
+                                    <description>L’avion, qui reliait l’Égypte à l’Angleterre, a été dérouté samedi et s’est finalement posé à Athènes.</description>
+                                <category>Entreprises</category>
+                <pubDate>Mon, 10 Feb 2025 10:39:50 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/orig/2025/02/10/5d6f43a8fc878f5cfb5e88f96dfc28331dc44b53777a971d057979f6ca67a986.jpg" width="3000" height="2001">
+                            <media:description type="plain">Un avion de la compagnie EasyJet , qui reliait la ville égyptienne d’Hurghada à celle de Manchester, a dû être détourné et atterrir en urgence.</media:description>
+                            <media:credit>Claudia Greco / REUTERS</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/decideurs/nokia-annonce-le-depart-de-son-pdg-pekka-lundmark-justin-hotard-nomme-successeur-20250210</guid>
+                <title>Nokia annonce le départ de son PDG Pekka Lundmark, Justin Hotard nommé successeur</title>
+                                <link>https://www.lefigaro.fr/decideurs/nokia-annonce-le-depart-de-son-pdg-pekka-lundmark-justin-hotard-nomme-successeur-20250210</link>
+                                    <description>L’équipementier a enregistré une hausse de 89% de son bénéfice net en 2024 à 1,28 milliard d’euros et fait état d’un net redressement de ses ventes de 10% au quatrième trimestre.</description>
+                                <category>Décideurs</category>
+                <pubDate>Mon, 10 Feb 2025 11:46:54 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2209_crop/2025/02/10/3524b33b278363abb8329c0acfebc0ccf11336533640228e00af77432ae9920f.jpg" width="3000" height="2209">
+                            <media:description type="plain">Le président et directeur général actuel de Nokia, Pekka Lundmark, la présidente du conseil d’administration de Nokia, Sari Baldauf, et le prochain président et directeur général de Nokia, Justin Hotard, ce lundi.</media:description>
+                            <media:credit>Markku Ulander / REUTERS</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/c-est-trop-facile-d-etre-planque-dans-son-bureau-macron-appelle-les-patrons-a-defendre-sa-politique-de-l-offre-20250210</guid>
+                <title>«C’est trop facile d’être planqué dans son bureau» : Macron appelle les patrons à défendre sa politique de l’offre</title>
+                                <link>https://www.lefigaro.fr/conjoncture/c-est-trop-facile-d-etre-planque-dans-son-bureau-macron-appelle-les-patrons-a-defendre-sa-politique-de-l-offre-20250210</link>
+                                    <description>«Soyez patriotes vous-mêmes», a lancé le chef de l’État aux dirigeants de grandes entreprises, lors d’un entretien, dimanche soir.</description>
+                                <category>Conjoncture</category>
+                <pubDate>Mon, 10 Feb 2025 11:02:04 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/orig/2025/02/10/a47c48d66992e149777b53c9bc19bda11b4965792151b1d185eb7817467f2928.jpg" width="3000" height="2000">
+                            <media:description type="plain">«Je leur dis, expliquez plutôt tout ce qu’on a bien fait pendant sept ans», a lancé le chef de l’État, d’un ton courroucé, à l’adresse des patrons tricolores.</media:description>
+                            <media:credit>Gonzalo Fuentes / REUTERS</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/economie/acheter-des-billets-de-train-avec-des-miles-d-air-france-est-desormais-possible-20250209</guid>
+                <title>Acheter des billets de train avec des miles d’Air France est désormais possible</title>
+                                <link>https://www.lefigaro.fr/economie/acheter-des-billets-de-train-avec-des-miles-d-air-france-est-desormais-possible-20250209</link>
+                                    <description>Les deux entreprises célèbrent les 30 ans du partenariat Train + Air qui permet de relier les aéroports de Roissy et Orly à 22 gares françaises via le TGV.</description>
+                                <category>Économie</category>
+                <pubDate>Sun, 09 Feb 2025 18:47:46 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2025/02/09/f4a6fe3cd55904cc688553914acda1adb890b660480301402234c0344e224467.jpg" width="3000" height="2000">
+                            <media:description type="plain">« Il n’y a pas de secret, si nous voulons avoir plus de voyageurs, il faut qu’il y ait plus d’offres », pointe Christophe Fanichet, PDG de SNCF Voyageurs.</media:description>
+                            <media:credit>DIMITAR DILKOFF / AFP</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/eliminons-le-gaspillage-trump-demande-d-arreter-la-production-du-penny-jugee-trop-couteuse-20250210</guid>
+                <title>«Éliminons le gaspillage» : Trump demande d'arrêter la production du penny, jugée trop coûteuse</title>
+                                <link>https://www.lefigaro.fr/conjoncture/eliminons-le-gaspillage-trump-demande-d-arreter-la-production-du-penny-jugee-trop-couteuse-20250210</link>
+                                    <description>«Pendant bien trop longtemps, les États-Unis ont frappé des pièces d’un cent qui nous coûtent littéralement plus de 2 cents (à produire). C’est du gaspillage!», juge le président américain.</description>
+                                <category>Conjoncture</category>
+                <pubDate>Mon, 10 Feb 2025 09:33:00 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/orig/2025/02/10/7ee3b43f341bfc8d9a465a553cd479d5c45ba604cee6365d44aeeaf7216a0fe8.JPG" width="3000" height="2000">
+                            <media:description type="plain">«J’ai demandé au secrétaire au Trésor américain d’arrêter de produire de nouvelles pièces d’un cent», a déclaré Donald Trump.</media:description>
+                            <media:credit>Kevin Lamarque / REUTERS</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/jean-pierre-robin-comptes-publics-et-commerce-exterieur-les-deficits-jumeaux-qui-ruinent-les-francais-20250209</guid>
+                <title>Jean-Pierre Robin : «Comptes publics et commerce extérieur, les déficits jumeaux qui ruinent les Français»</title>
+                                <link>https://www.lefigaro.fr/conjoncture/jean-pierre-robin-comptes-publics-et-commerce-exterieur-les-deficits-jumeaux-qui-ruinent-les-francais-20250209</link>
+                                    <description>CHRONIQUE - Lorsque l’on importe plus qu’on exporte, cela se fait aux dépens du «made in France», de nos usines et de nos travailleurs, d’où la désindustrialisation et le chômage de masse.</description>
+                                <category>Conjoncture</category>
+                <pubDate>Mon, 10 Feb 2025 09:50:02 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1600x900_crop/2025/02/09/26fec76320845557c64593d1799969cc4c8929f05289ad554d55d105d3f34378.jpg" width="1600" height="900">
+                            <media:description type="plain">En 2024, le commerce extérieur de la France affiche à nouveau un déficit de 81 milliards d’euros avec l’étranger.</media:description>
+                            <media:credit>sissoupitch - stock.adobe.com</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/en-marge-du-sommet-sur-l-ia-la-france-capte-des-dizaines-de-milliards-d-euros-d-investissements-20250209</guid>
+                <title>IA: Emmanuel Macron annonce des investissements en France de «109 milliards d’euros dans les prochaines années»</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/en-marge-du-sommet-sur-l-ia-la-france-capte-des-dizaines-de-milliards-d-euros-d-investissements-20250209</link>
+                                    <description>DÉCRYPTAGE - Les annonces fracassantes, dont celles de constructions de gigantesques data centers, pleuvent depuis jeudi. Elles devraient continuer jusqu’à la clôture du sommet mardi.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Mon, 10 Feb 2025 10:25:14 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/orig/2025/02/09/f11fcfc7fd823215d8c9a97fd2c363bb292da883a536e596f0188deb1f373b22.jpg" width="1260" height="708">
+                            <media:description type="plain">Emmanuel Macron dimanche soir, interviewé sur France 2.</media:description>
+                            <media:credit>Capture France2.</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/ia-mistral-va-construire-son-premier-centre-de-donnees-en-france-annonce-son-patron-20250209</guid>
+                <title>IA: Mistral va construire son premier centre de données en France</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/ia-mistral-va-construire-son-premier-centre-de-donnees-en-france-annonce-son-patron-20250209</link>
+                                    <description>Arthur Mensch, le jeune patron de 32 ans de la start-up française, a annoncé la construction d’un centre de données en Essonne qui représente «plusieurs milliards d’euros» d’investissements.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Mon, 10 Feb 2025 09:59:47 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/orig/2025/02/09/b51d792ab014a9d01cf0895f6c2259e584e8b69737f184b67074f546de781277.jpg" width="3000" height="2001">
+                            <media:description type="plain">Arthur Mensch, patron de la start-up française Mistral.</media:description>
+                            <media:credit>Abdul Saboor / REUTERS</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/c-est-un-moment-d-ecoute-pour-rassurer-les-francais-face-a-l-intelligence-artificielle-l-etat-mise-sur-les-cafes-ia-20250209</guid>
+                <title>«C’est un moment d’écoute»: pour rassurer les Français face à l’intelligence artificielle, l’État mise sur les «cafés IA»</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/c-est-un-moment-d-ecoute-pour-rassurer-les-francais-face-a-l-intelligence-artificielle-l-etat-mise-sur-les-cafes-ia-20250209</link>
+                                    <description>REPORTAGE - Après une phase d’expérimentation à succès, le gouvernement va généraliser ce dispositif. Organisé partout en France, il vise à écouter les peurs et interrogations des citoyens, et éviter une fracture de la société.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Mon, 10 Feb 2025 09:55:25 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/2400x1600_crop/2025/02/09/84f835821d4bb708cb07bdc50e47b4dbd93fc2453b738d16b279d94cdb83d1af.jpg" width="2400" height="1600">
+                            <media:description type="plain">La ministre du Numérique, Clara Chappaz (en pull noir et pantalon moutarde), participait à un « café IA », le 17 janvier, à Vandœuvre (Meurthe-et-Moselle).</media:description>
+                            <media:credit>Préfecture de Meurthe-et-Moselle</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/vox/societe/l-editorial-de-jacques-olivier-martin-l-indispensable-revolte-numerique-de-l-europe-20250209</guid>
+                <title>L’éditorial de Jacques-Olivier Martin: «L’indispensable révolte numérique de l’Europe»</title>
+                                <link>https://www.lefigaro.fr/vox/societe/l-editorial-de-jacques-olivier-martin-l-indispensable-revolte-numerique-de-l-europe-20250209</link>
+                                    <description>L’Europe ne peut pas passer à côté de la révolution de l’intelligence artificielle. Sa survie en dépend.</description>
+                                <category>Vox Économie</category>
+                <pubDate>Mon, 10 Feb 2025 09:43:28 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2025/02/09/a5d969106dd7d2554624a4acc3e0060d91898063f885fbd0183709db2600e4cf.png" width="1920" height="1080">
+                            <media:description type="plain">Jacques-Olivier Martin, directeur de la rédaction du Figaro.fr.</media:description>
+                            <media:credit>Le Figaro</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/societes/pilule-orale-medicaments-encore-plus-efficaces-ce-que-preparent-les-labos-contre-l-obesite-20250209</guid>
+                <title>Pilule, médicaments encore plus efficaces: ce que préparent les labos contre l’obésité</title>
+                                <link>https://www.lefigaro.fr/societes/pilule-orale-medicaments-encore-plus-efficaces-ce-que-preparent-les-labos-contre-l-obesite-20250209</link>
+                                    <description>Novo Nordisk et Eli Lilly sont pour l’instant les champions de ce nouveau marché. Ils préparent les nouvelles générations de médicaments.</description>
+                                <category>Entreprises</category>
+                <pubDate>Sun, 09 Feb 2025 22:04:46 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2007_crop/2025/02/09/087e5f011a33a4b1e050a5b79408c1d2d5a69c582e843409a9328ac512dff68d.jpg" width="3000" height="2007">
+                            <media:description type="plain">Plus efficaces, plus pratiques à prendre au quotidien, voire moins chers: les labos redoublent d’inventivité pour se distinguer.</media:description>
+                            <media:credit>Staff / REUTERS</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/anne-de-guigne-pour-relever-le-niveau-de-vie-en-france-arretons-de-parler-de-pouvoir-d-achat-20250209</guid>
+                <title>Anne de Guigné: «Pour relever le niveau de vie en France, arrêtons de parler de pouvoir d’achat»</title>
+                                <link>https://www.lefigaro.fr/conjoncture/anne-de-guigne-pour-relever-le-niveau-de-vie-en-france-arretons-de-parler-de-pouvoir-d-achat-20250209</link>
+                                    <description>CHRONIQUE - Les fins de mois restent difficiles pour de nombreux Français. Appréhender cette réalité par la notion de «pouvoir d’achat» n’aide en rien à répondre au gigantesque défi de la revalorisation du travail.</description>
+                                <category>Conjoncture</category>
+                <pubDate>Sun, 09 Feb 2025 16:45:16 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2025/02/09/bf0912adb55aeb1e5309b721b2e1c4ee10eacc2b3b10f1326664c78f402dc3a8.jpg" width="3000" height="2000">
+                            <media:description type="plain">La grande distribution a participé à la passion française pour le pouvoir d’achat.</media:description>
+                            <media:credit>Carlos Osorio / REUTERS</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/thierry-breton-la-regulation-favorisera-l-emergence-de-champions-europeens-20250209</guid>
+                <title>Thierry Breton : « IA, commerce, défense : l’Europe doit affirmer son leadership »</title>
+                                <link>https://www.lefigaro.fr/conjoncture/thierry-breton-la-regulation-favorisera-l-emergence-de-champions-europeens-20250209</link>
+                                    <description>ENTRETIEN - L’ex-commissaire européen au Marché intérieur défend la régulation européenne sur le numérique et appelle l’UE à doubler le nombre de supercalculateurs.</description>
+                                <category>Conjoncture</category>
+                <pubDate>Sun, 09 Feb 2025 16:30:00 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2001_crop/2025/02/09/c2a6580f519954ca8cfb5b9c8fd1035357e6e106dd70198662d852b335306c14.jpg" width="3000" height="2001">
+                            <media:description type="plain">Thierry Breton, le 6 février.</media:description>
+                            <media:credit>SEBASTIEN SORIANO / Le Figaro</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/international/trump-est-sur-que-musk-va-debusquer-des-centaines-de-milliards-de-dollars-de-fraude-20250209</guid>
+                <title>Trump est sûr que Musk va débusquer des «centaines de milliards de dollars de fraude»</title>
+                                <link>https://www.lefigaro.fr/international/trump-est-sur-que-musk-va-debusquer-des-centaines-de-milliards-de-dollars-de-fraude-20250209</link>
+                                    <description>Le président des États-Unis recommande à Elon Musk, qu’il a chargé de tailler dans les dépenses fédérales, «d’aller consulter le ministère de l’Éducation et ensuite l’armée».</description>
+                                <category>International</category>
+                <pubDate>Mon, 10 Feb 2025 10:13:35 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/orig/2025/02/09/b1d3401fb937ae6640115b86f5423bb869f033a6098fc2947dc6d896208f1780.jpg" width="1775" height="1183">
+                            <media:description type="plain">Elon Musk et Donald Trump.</media:description>
+                            <media:credit>Brian Snyder / REUTERS</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/un-elon-musk-francais-le-patron-de-la-cpme-veut-s-inspirer-du-patron-de-x-pour-reduire-les-depenses-publiques-en-france-20250209</guid>
+                <title>Dépenses publiques : la CPME plaide pour «un Elon Musk français»</title>
+                                <link>https://www.lefigaro.fr/conjoncture/un-elon-musk-francais-le-patron-de-la-cpme-veut-s-inspirer-du-patron-de-x-pour-reduire-les-depenses-publiques-en-france-20250209</link>
+                                    <description>S’il n’est «pas fan des États-Unis», Amir Reza-Tofighi salue toutefois le choix de Trump d’avoir choisi un «entrepreneur à la tête d’un plan de réduction des dépenses».</description>
+                                <category>Conjoncture</category>
+                <pubDate>Mon, 10 Feb 2025 10:08:23 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1773x997_crop/2025/02/09/e55a5847c5aa6a9f42a9a8a31963b21581fad54be41d3024cef729e3b0ae7313.jpg" width="1773" height="997">
+                            <media:description type="plain">Amir Reza-Tofighi, président de la CPME.</media:description>
+                            <media:credit>STEPHANE DE SAKUTIN / AFP</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/flash-eco/bien-joue-ca-m-a-plutot-fait-rire-macron-s-amuse-des-parodies-sur-lui-avant-le-sommet-de-l-ia-20250209</guid>
+                <title>«Bien joué, ça m’a plutôt fait rire» : Macron s’amuse des parodies sur lui avant le sommet de l’IA</title>
+                                <link>https://www.lefigaro.fr/flash-eco/bien-joue-ca-m-a-plutot-fait-rire-macron-s-amuse-des-parodies-sur-lui-avant-le-sommet-de-l-ia-20250209</link>
+                                    <description>Dans une vidéo publiée sur les réseaux sociaux, le président de la République a réagi à plusieurs vidéos parodiques générées par l’intelligence artificielle.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Mon, 10 Feb 2025 10:24:55 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/orig/2025/02/09/916a862da2ddc2e239a4befb30587aee62341761df42042ceecdf63d8395f8ea.jpg" width="1920" height="1080">
+                            <media:description type="plain">Emmanuel Macron a réagi à des vidéos générées par l’Intelligence artificielle le parodiant.</media:description>
+                            <media:credit>via REUTERS / TERESA SUAREZ</media:credit>
+                        </media:content>
+                                                </item>
+            </channel>
+</rss>

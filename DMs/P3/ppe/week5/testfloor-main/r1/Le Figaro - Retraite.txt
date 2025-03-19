@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/retraite/victor-trentenaire-et-retraite-depuis-4-ans-ma-strategie-a-beaucoup-repose-sur-de-nouveaux-concepts-rentables-20241231
+source : Le Figaro - Retraite.xml
+title : Victor, 36 ans et retraité : «Ma stratégie a beaucoup reposé sur de nouveaux concepts rentables»
+description : JEUNES ET RETRAITÉS - À 36 ans, Victor Lora ne travaille plus. Son secret ? Appliquer la méthode FIRE, mais en l’adaptant.
+date : Fri, 31 Jan 2025 12:54:13 +0100
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/quentin-retraite-a-38-ans-etre-salarie-actionnaire-m-a-conduit-a-la-liberte-financiere-20241211
+source : Le Figaro - Retraite.xml
+title : Quentin, retraité à 38 ans : «Être salarié actionnaire m’a conduit à la liberté financière»
+description : JEUNES ET RETRAITÉS - Fortune faite, Quentin a tout quitté avant ses 40 ans pour partir vivre au soleil avec sa famille. L’aboutissement d’une stratégie bien huilée qu’il nous dévoile.
+date : Wed, 11 Dec 2024 07:00:00 +0100
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/expatries-comment-securiser-le-montant-de-votre-pension-de-retraite-20241204
+source : Le Figaro - Retraite.xml
+title : Expatriés: comment sécuriser le montant de votre pension de retraite
+description : NOS CONSEILS - Selon les pays où vous avez travaillé et la durée de vos missions, l’impact sur le montant de votre pension de retraite ne sera pas le même. Voici comment vous assurer que toutes vos cotisations ont été prises en compte.
+date : Wed, 04 Dec 2024 07:30:00 +0100
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/elle-paie-un-tiers-de-moins-qu-a-l-ehpad-comment-l-habitat-partage-fait-baisser-la-facture-des-aines-20241024
+source : Le Figaro - Retraite.xml
+title : « Elle payait 4300 euros à l'Ehpad, elle paie maintenant 2900 euros »&#160;: comment l’habitat partagé fait baisser la facture des aînés
+description : La colocation gagne du terrain chez les seniors, notamment chez les plus âgés qui y voient une alternative à l’Ehpad. À la clé, la promesse d’un meilleur accompagnement et d’un cadre de vie plus agréable.
+date : Fri, 25 Oct 2024 06:26:43 +0200
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/couple-comment-anticiper-financierement-son-installation-en-maison-de-retraite-20240803
+source : Le Figaro - Retraite.xml
+title : Couple: comment anticiper financièrement son installation en maison de retraite
+description : NOS CONSEILS – Même s&#039;il est toujours difficile d&#039;envisager de s&#039;installer dans une maison de retraite, en prenant de l&#039;âge l&#039;éventualité peut s&#039;imposer un jour ou l&#039;autre. Autant s&#039;y préparer, notamment financièrement, pour pouvoir choisir un établissement en ayant toutes les cartes en main.
+date : Sat, 03 Aug 2024 10:00:00 +0200
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/golden-visa-placements-immobilier-succession-les-cles-pour-prendre-sereinement-sa-retraite-a-l-etranger-20240729
+source : Le Figaro - Retraite.xml
+title : Golden visa, placements, immobilier, succession… Les clés pour prendre sereinement sa retraite à l’étranger
+description : NOS CONSEILS - Partir vivre sa retraite au soleil, les pieds dans une eau turquoise, beaucoup en rêvent. Mais ce n&#039;est pas si simple et de mauvaises surprises peuvent vite gâcher la fête. Voici tout ce qu’il faut anticiper avant de s’expatrier.
+date : Mon, 29 Jul 2024 20:07:59 +0200
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/retraite-des-femmes-tous-les-points-a-verifier-pour-ne-pas-voir-sa-pension-minoree-20240601
+source : Le Figaro - Retraite.xml
+title : Retraite des femmes : tous les points à vérifier pour ne pas voir sa pension minorée
+description : NOS CONSEILS – A la retraite, même avec des carrières complètes, les femmes touchent 40 % de moins que les hommes. Pour réduire cet écart, plusieurs dispositifs leur sont réservés. En principe les caisses les appliquent d&#039;office mais mieux vaut s&#039;en assurer.
+date : Sat, 01 Jun 2024 08:51:08 +0200
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/les-pistes-pour-bien-utiliser-la-fiscalite-du-plan-d-epargne-retraite-20240529
+source : Le Figaro - Retraite.xml
+title : Les pistes pour bien utiliser la fiscalité du plan d'épargne-retraite
+description : Attractive, la fiscalité du PER varie en fonction des options choisies par l&#039;épargnant au moment du versement. Avec parfois de mauvaises surprises
+date : Wed, 29 May 2024 08:00:00 +0200
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/retraite-qui-peut-encore-partir-avant-l-heure-20240407
+source : Le Figaro - Retraite.xml
+title : Retraite: qui peut encore partir avant l’heure?
+description : DÉCRYPTAGE - La réforme a maintenu plusieurs dispositifs qui permettent d’arrêter de travailler avant l’âge légal de départ désormais fixé à 64 ans.
+date : Sun, 07 Apr 2024 07:00:15 +0200
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/retraite-que-valent-vraiment-les-trimestres-accordes-au-titre-de-la-maternite-20240406
+source : Le Figaro - Retraite.xml
+title : Retraite: que valent vraiment les trimestres accordés au titre de la maternité?
+description : Malgré une majoration, les femmes sont perdantes avec le recul de l’âge légal de départ.
+date : Sat, 06 Apr 2024 07:00:18 +0200
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/retraite-ces-couacs-qui-empechent-le-versement-des-pensions-20240330
+source : Le Figaro - Retraite.xml
+title : Retraite: ces couacs qui empêchent le versement des pensions
+description : Retard, montant erronés, la réforme des retraites votée l’an dernier n’a pas tout réglé. Heureusement les assurés peuvent contester, mais les démarches sont longues et fastidieuses.
+date : Sat, 30 Mar 2024 12:17:20 +0100
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/retraite-comment-estimer-votre-pension-au-plus-juste-20240323
+source : Le Figaro - Retraite.xml
+title : Retraite: comment estimer votre pension au plus juste
+description : NOS CONSEILS - Conséquence de la réforme, les estimations de pension reçues avant décembre dernier sont obsolètes. La marche à suivre pour refaire vos calculs.
+date : Sun, 24 Mar 2024 17:49:55 +0100
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/retraite-complementaire-comment-les-salaries-ont-perdu-des-droits-20240324
+source : Le Figaro - Retraite.xml
+title : Retraite complémentaire: comment les salariés ont perdu des droits
+description : DÉCRYPTAGE - Les cotisations, surtout celles des cadres, permettent d’acquérir deux fois moins de pensions qu’il y a cinquante ans.
+date : Sun, 24 Mar 2024 07:00:15 +0100
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/retraite-ces-dispositifs-qui-dopent-le-montant-de-votre-pension-20240207
+source : Le Figaro - Retraite.xml
+title : Retraite : ces dispositifs qui dopent le montant de votre pension
+description : NOS CONSEILS - Quelle part de votre dernier salaire toucherez-vous une fois à la retraite ? Plusieurs possibilités s&#039;offrent à vous pour augmenter vos pensions, que vous soyez encore en activité ou non.
+date : Wed, 07 Feb 2024 17:41:47 +0100
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/retraites-6-pays-ou-s-installer-pour-payer-moins-d-impots-20231229
+source : Le Figaro - Retraite.xml
+title : Retraités : 6 pays où s'installer pour payer moins d'impôts
+description : NOS CONSEILS - Des pays ont mis en place des dispositifs fiscaux alléchants pour attirer sur leur sol les retraités. La concurrence est rude entre ces eldorados qui leur promettent, en toute légalité, un exil sous le soleil, loin du fisc.
+date : Fri, 29 Dec 2023 14:05:20 +0100
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/gilbert-cette-conseiller-de-l-ombre-de-macron-a-la-tete-du-cor-20231204
+source : Le Figaro - Retraite.xml
+title : Gilbert Cette, conseiller de l’ombre de Macron, à la tête du COR
+description : PORTRAIT - L’enseignant, diplômé de l’Ensae Paris souhaite mettre l’accent sur la pédagogie sur le sujet des retraites.
+date : Mon, 04 Dec 2023 18:10:19 +0100
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/retraite-est-ce-encore-utile-de-racheter-des-trimestres-20231030
+source : Le Figaro - Retraite.xml
+title : Retraite: est-ce encore utile de racheter des trimestres?
+description : NOS CONSEILS – Racheter de nouveaux trimestres pour partir plus tôt? Se faire rembourser ceux déjà acquis mais devenus insuffisants après le report de l’âge légal à 64 ans? La réforme entrée en vigueur le 1er septembre a changé la donne. Toutes les infos nécessaires pour prendre les bonnes décisions.
+date : Wed, 01 Nov 2023 14:04:56 +0100
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/retraites-depart-du-president-du-cor-20231025
+source : Le Figaro - Retraite.xml
+title : Retraites: départ du président du COR
+description : FOCUS - Le départ de Pierre-Louis Bras «n’est pas une sanction», a cependant commenté l’entourage de la première ministre.
+date : Thu, 26 Oct 2023 08:01:43 +0200
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/fin-de-l-aubaine-des-produits-retraite-pour-mineur-20231021
+source : Le Figaro - Retraite.xml
+title : Fin de l’aubaine des produits retraite pour mineur
+description : DÉCRYPTAGE - Le PER, ce placement destiné à financer ses vieux jours, permettait aussi de défiscaliser en donnant de l’argent à ses enfants. Cette possibilité disparaît en 2024.
+date : Sat, 21 Oct 2023 07:00:24 +0200
+categories : ['Retraite']
+
+id : https://www.lefigaro.fr/retraite/retraites-l-etat-veut-puiser-dans-les-caisses-de-l-agirc-arrco-20231001
+source : Le Figaro - Retraite.xml
+title : Plus de 68 milliards d'euros de réserve : le magot des retraites suscite les convoitises de l'État
+description : DÉCRYPTAGE - Au grand dam du patronat et des syndicats, le gouvernement pourrait prélever de 1 à 3 milliards dans les excédents du régime des retraites complémentaires Agirc-Arrco du privé.
+date : Mon, 02 Oct 2023 09:37:20 +0200
+categories : ['Retraite']
+

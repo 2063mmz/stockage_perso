@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/automobile/peninsula-classics-best-of-the-best-a-une-ferrari-250-lm-20250210
+source : Le Figaro - La Une Art de vivre.xml
+title : Peninsula Classics, Best of the Best à une Ferrari 250 LM
+description : La dixième édition du concours organisé par la chaîne hôtelière hongkongaise a récompensé la berlinette provenant de la collection de la famille Cox.
+date : Mon, 10 Feb 2025 12:24:20 +0100
+categories : ['Automobile', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/automobile/depardieu-en-caleche-depannage-en-helico-et-escorte-du-gign-les-perles-des-voituriers-d-hotels-de-luxe-20250207
+source : Le Figaro - La Une Art de vivre.xml
+title : Dépannages en hélico, Lamborghini, escorte du GIGN... Les histoires secrètes des voituriers de grands hôtels
+description : TÉMOIGNAGES - C’est le métier de rêve pour qui veut conduire des voitures à plusieurs centaines de milliers d’euros. Nous avons demandé aux voituriers de grands hôtels de luxe de nous raconter leurs anecdotes les plus marquantes.
+date : Mon, 10 Feb 2025 11:27:38 +0100
+categories : ['Automobile', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/gastronomie/top-chef-et-le-guide-michelin-la-tambouille-ephemere-20250207
+source : Le Figaro - La Une Art de vivre.xml
+title : «Top Chef» et Michelin, la tambouille éphémère
+description : Le Guide Michelin a signé un partenariat avec «Top Chef», l’émission de M6. Le vainqueur du télécrochet pourrait se voir immédiatement «prêter» une étoile : un concept bien dans son époque.
+date : Fri, 07 Feb 2025 18:37:23 +0100
+categories : ['Gastronomie', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/gastronomie/brasserie-roseaux-a-lyon-l-ode-a-la-cuisine-classique-du-couple-mey-20250207
+source : Le Figaro - La Une Art de vivre.xml
+title : Brasserie Roseaux à Lyon: l’ode à la cuisine classique du couple Mey
+description : Après le gastronomique Ombellule, Tabata et Ludovic Mey ont inauguré leur seconde table dans le 6earrondissement de la capitale des Gaules.
+date : Fri, 07 Feb 2025 15:08:56 +0100
+categories : ['Gastronomie', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/gastronomie/meilleur-cacao-du-monde-et-cuisine-novoandine-bogota-la-nouvelle-etape-gourmande-d-amerique-du-sud-20250207
+source : Le Figaro - La Une Art de vivre.xml
+title : Meilleur cacao du monde et cuisine «novoandine»: Bogota, la nouvelle destination gourmande d’Amérique du Sud
+description : REPORTAGE - Mixant à merveille les produits de la forêt amazonienne et ceux des littoraux pacifiques et caribéens, la cuisine de la capitale colombienne mérite le voyage. Notre sélection des meilleures adresses.
+date : Fri, 07 Feb 2025 16:14:34 +0100
+categories : ['Gastronomie', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/gastronomie/le-chef-trois-etoiles-alexandre-mazzia-prend-la-tete-des-tables-du-mucem-20250207
+source : Le Figaro - La Une Art de vivre.xml
+title : Le chef trois étoiles Alexandre Mazzia prend la tête des tables du Mucem
+description : La toque du restaurant AM remplace Gérald Passedat dans le musée marseillais. Il pilotera trois espaces de restauration dans le bâtiment J4 dès le printemps 2025.
+date : Fri, 07 Feb 2025 13:43:10 +0100
+categories : ['Gastronomie', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/gastronomie/bistrot-darsy-ode-a-la-nostalgie-a-menilmontant-20250207
+source : Le Figaro - La Une Art de vivre.xml
+title : Bistrot Darsy, ode à la nostalgie à Ménilmontant
+description : CRITIQUE GASTRONOMIQUE - Dans le 20e arrondissement parisien, décor rétro et classiques bistrotiers bien troussés au programme.
+date : Fri, 07 Feb 2025 11:30:00 +0100
+categories : ['Gastronomie', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/gastronomie/chez-margaux-recettes-de-gendre-ideal-et-service-a-la-francaise-20250207
+source : Le Figaro - La Une Art de vivre.xml
+title : Chez Margaux, recettes de gendre idéal et service à la française
+description : CRITIQUE GASTRONOMIQUE - Dans le 16e arrondissement parisien, face à la tour Eiffel, cette adresse dans la plus pure tradition cocardière.
+date : Fri, 07 Feb 2025 11:00:00 +0100
+categories : ['Gastronomie', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/gastronomie/papalito-cuisine-sud-americaine-a-montparnasse-20250207
+source : Le Figaro - La Une Art de vivre.xml
+title : Papalito, cuisine sud-américaine à Montparnasse
+description : CRITIQUE GASTRONOMIQUE - Le restaurant de l’Hôtel Les Artistes, dans le 14e arrondissement parisien, se perd un peu entre spécialités mexicaines, péruviennes et autres passe-plats de brasserie.
+date : Fri, 07 Feb 2025 10:30:00 +0100
+categories : ['Gastronomie', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/gastronomie/le-celebre-restaurant-maxims-rouvre-sa-doublure-voisine-le-bistrot-minim-s-20250207
+source : Le Figaro - La Une Art de vivre.xml
+title : Le célèbre restaurant Maxims’ rouvre sa doublure voisine, le bistrot Minim’s
+description : CRITIQUE GASTRONOMIQUE - Après avoir relancé l’institution festive de la rue Royale, le groupe Paris Society double la mise en mettant à l’honneur les classiques français.
+date : Fri, 07 Feb 2025 08:00:00 +0100
+categories : ['Gastronomie', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/gastronomie/alliance-le-raffinement-est-dans-l-assiette-20250207
+source : Le Figaro - La Une Art de vivre.xml
+title : Alliance, le raffinement est dans l’assiette
+description : Dans le 5e arrondissement de Paris, près des quais et de Notre-Dame, ce restaurant, reflet de deux personnalités, a peu d’égal dans la capitale.
+date : Fri, 07 Feb 2025 07:00:12 +0100
+categories : ['Gastronomie', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/gastronomie/le-dejeuner-du-dimanche-de-matthieu-carlin-20250207
+source : Le Figaro - La Une Art de vivre.xml
+title : Le déjeuner du dimanche de… Matthieu Carlin,
+description : «Je fais un gratin dauphinois comme celui de ma mère. C’est un plat familial qui me rappelle mes origines grenobloises», affirme le chef pâtissier de l’hôtel de Crillon.
+date : Fri, 07 Feb 2025 06:00:10 +0100
+categories : ['Gastronomie', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/gastronomie/bordeaux-cinq-restaurants-pour-se-rechauffer-cet-hiver-20250206
+source : Le Figaro - La Une Art de vivre.xml
+title : Bordeaux: nos cinq restaurants pour se réchauffer cet hiver
+description : LA SÉLECTION DU FIGARO - Nouvelles cantines méditerranéennes et restaurants montagnards: nos bonnes tables pour braver le froid dans la capitale girondine et alentour.
+date : Thu, 06 Feb 2025 21:32:19 +0100
+categories : ['Gastronomie', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/gastronomie/a-paris-les-costes-relancent-l-aventure-avec-yannick-alleno-20250206
+source : Le Figaro - La Une Art de vivre.xml
+title : À Paris, Gilbert et Thierry Costes relancent L’Aventure
+description : CRITIQUE GASTRONOMIQUE - Près de l’Étoile, le groupe Beaumarly fait renaître cette adresse noctambule en la dotant d’un hôtel (bientôt), d’un club et d’un restaurant mondain dont la carte est signée Yannick Alléno.
+date : Fri, 07 Feb 2025 10:03:28 +0100
+categories : ['Gastronomie', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/automobile/si-ma-voiture-tombe-trop-souvent-en-panne-puis-je-faire-un-recours-contre-le-constructeur-20250206
+source : Le Figaro - La Une Art de vivre.xml
+title : «Si ma voiture tombe trop souvent en panne, puis-je faire un recours contre le constructeur ?»
+description : LE COURRIER DES MOTEURS - Cette semaine, Vincent, propriétaire d’un véhicule Peugeot 3008 à Chalon-sur-Saône, se demande s’il peut faire un recours en justice contre Stellantis après des pannes trop fréquentes à son goût.
+date : Thu, 06 Feb 2025 17:24:59 +0100
+categories : ['Automobile', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/gastronomie/notre-selection-de-8-restaurants-a-paris-pour-se-regaler-de-souffles-sales-et-sucres-20250206
+source : Le Figaro - La Une Art de vivre.xml
+title : 8 restaurants à Paris pour se régaler de soufflés salés et sucrés
+description : LA SÉLECTION DU FIGARO - Fromage, Grand Marnier, chocolat: nos meilleures adresses pour déguster ce plat totem de la gastronomie française.
+date : Fri, 07 Feb 2025 10:18:05 +0100
+categories : ['Gastronomie', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/automobile/une-voiture-volee-toutes-les-4-minutes-en-france-voici-les-modeles-preferes-des-malfrats-20250206
+source : Le Figaro - La Une Art de vivre.xml
+title : Une voiture volée toutes les 4 minutes en France : voici les modèles préférés des malfrats
+description : Selon l’Observatoire Coyote, les vols de voitures sont en hausse. Des réseaux organisés sévissent sur certains types de modèles et dans des régions précises.
+date : Thu, 06 Feb 2025 16:17:14 +0100
+categories : ['Automobile', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/automobile/pres-de-35-millions-d-euros-pour-la-ferrari-250-lm-victorieuse-au-mans-20250206
+source : Le Figaro - La Une Art de vivre.xml
+title : Près de 35 millions d’euros pour la Ferrari 250 LM victorieuse au Mans
+description : ENCHÈRES - En marge du salon Rétromobile, la neuvième Ferrari victorieuse dans la Sarthe a battu un record en vente publique.
+date : Thu, 06 Feb 2025 09:51:35 +0100
+categories : ['Automobile', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/automobile/agressivite-sur-la-route-pourquoi-perdons-nous-si-facilement-notre-calme-au-volant-20250205
+source : Le Figaro - La Une Art de vivre.xml
+title : Pourquoi s’énerve-t-on facilement au volant ? Les réponses d’un psychologue
+description : PSYCHOLOGIE - En conduisant, même les personnes les plus sages peuvent se révéler extrêmement violentes. Le psychologue Jean-Pascal Assailly explique que cela est lié à des facteurs bien précis.
+date : Wed, 05 Feb 2025 20:49:42 +0100
+categories : ['Automobile', 'La Une Art de vivre']
+
+id : https://www.lefigaro.fr/automobile/l-ecologie-l-ecologie-tu-parles-la-voie-de-covoiturage-sur-le-peripherique-parisien-divise-les-automobilistes-20250204
+source : Le Figaro - La Une Art de vivre.xml
+title : «L’écologie, tu parles...» : la future voie de covoiturage du périphérique peine à séduire les automobilistes franciliens
+description : TÉMOIGNAGES - Une voie réservée au covoiturage entrera en vigueur le 3 mars sur le périphérique parisien. Les automobilistes interrogés par Le Figaro, affichent globalement leur mécontentement.
+date : Tue, 04 Feb 2025 20:22:38 +0100
+categories : ['Automobile', 'La Une Art de vivre']
+

@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/horlogerie/retromobile-des-bolides-et-des-montres-20250207
+source : Le Figaro - Horlogerie.xml
+title : Rétromobile: des bolides et des montres
+description : Le salon dédié aux amoureux de l’automobile et de la moto de collection, est aussi le rendez-vous des amateurs d’horlogerie.
+date : Fri, 07 Feb 2025 07:00:06 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/a-l-heure-des-amoureux-20250203
+source : Le Figaro - Horlogerie.xml
+title : À l’heure des amoureux
+description : Et si elle et lui portaient tous les deux la même, ou presque ? Les montres de couple sont (presque) de retour.
+date : Mon, 03 Feb 2025 16:49:16 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/daniel-craig-david-beckham-lewis-hamilton-pourquoi-leur-poignet-passionne-tant-les-watch-spotters-20250203
+source : Le Figaro - Horlogerie.xml
+title : Horlogerie : Daniel Craig, David Beckham, Lewis Hamilton... Pourquoi leur poignet passionne tant les «watch spotters» ?
+description : Quand Omega « teste » ses nouveautés au poignet de Daniel Craig, tout comme Tudor avec David Beckham, ce sont les aficionados de nouvelles montres qui se chargent du buzz sur internet…
+date : Mon, 03 Feb 2025 17:00:54 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/l-heure-h-les-news-horlogeres-de-la-semaine-20250131
+source : Le Figaro - Horlogerie.xml
+title : L’Heure H, les news horlogères de la semaine
+description : Des cadrans en pierre dure, un morceau de Pays Basque et une touche de rugby : c’est le meilleur de l’air du temps.
+date : Fri, 31 Jan 2025 16:58:06 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/rugby-voici-la-nouvelle-montre-breitling-du-xv-de-france-20250131
+source : Le Figaro - Horlogerie.xml
+title : Rugby : voici la nouvelle montre Breitling du XV de France
+description : Alors que le Tournoi de rugby débute à Paris face au Pays de Galles, l’horloger suisse dévoile les nouvelles éditions limitées de sa Chronomat Six Nations aux couleurs de chaque équipe.
+date : Fri, 31 Jan 2025 16:35:54 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/coeurs-de-pierre-20250131
+source : Le Figaro - Horlogerie.xml
+title : Des montres au cœur de pierre
+description : Fastueux et colorés, complexes à réaliser, les cadrans en pierre dure sont des petits bijoux d’élégance horlogère.
+date : Fri, 31 Jan 2025 17:13:26 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/voici-la-premiere-montre-basque-au-monde-20250130
+source : Le Figaro - Horlogerie.xml
+title : Voici la première montre basque au monde
+description : La marque française March LA.B, créée au Pays Basque par Alain Marhic il y a 13 ans, a imaginé un garde-temps bilingue.
+date : Thu, 30 Jan 2025 12:29:18 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/l-heure-h-special-lvmh-watch-week-20250124
+source : Le Figaro - Horlogerie.xml
+title : L’Heure H - Spécial LVMH Watch Week
+description : Cette semaine, New York accueillait l’édition 2025 de la LVMH Watch Week. Le Figaro y a assisté en exclusivité.
+date : Fri, 24 Jan 2025 16:05:55 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/lvmh-watch-week-un-nouvel-ovni-horloger-signe-gerald-genta-20250124
+source : Le Figaro - Horlogerie.xml
+title : LVMH Watch Week : un nouvel OVNI horloger signé Gérald Genta
+description : La nouvelle Gentissima Oursin Fire Opal marie grain de folie esthétique et technicité extrême. Un mariage fidèle à l’esprit du Picasso des montres.
+date : Fri, 24 Jan 2025 15:05:37 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/lvmh-watch-week-hublot-revisite-sa-big-bang-meca-10-20250124
+source : Le Figaro - Horlogerie.xml
+title : LVMH Watch Week : Hublot revisite sa Big Bang Meca-10
+description : En ce début d’année, la manufacture de Nyon remet l’accent sur la qualité de ses calibres avec un trio de Big Bang Meca-10 de 42 mm de diamètre.
+date : Fri, 24 Jan 2025 12:38:44 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/les-montres-de-voyage-eternelles-globe-trotteuses-20250124
+source : Le Figaro - Horlogerie.xml
+title : Les montres de voyage, éternelles globe-trotteuses
+description : Le nouvel opus de The Millennium Watch Book se penche cette fois sur les montres de voyage. Tout un monde au poignet...
+date : Fri, 24 Jan 2025 11:48:13 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/lvmh-watch-week-la-geniale-spin-time-de-louis-vuitton-est-de-retour-20250124
+source : Le Figaro - Horlogerie.xml
+title : LVMH Watch Week : la géniale Spin Time de Louis Vuitton est de retour
+description : La même, mais en mieux : la géniale Spin Time, premier mouvement développé par La Fabrique du Temps, est de retour en édition limitée.
+date : Fri, 24 Jan 2025 11:31:05 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/horlogerie-le-tour-du-monde-20250124
+source : Le Figaro - Horlogerie.xml
+title : Heures universelles, le tour du monde au poignet
+description : Pour les globe-trotteurs amateurs de montres sophistiquées, les heures universelles font tourner les destinations, et les têtes.
+date : Fri, 24 Jan 2025 11:41:29 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/a-new-york-lvmh-veut-marquer-son-temps-20250123
+source : Le Figaro - Horlogerie.xml
+title : À New York, LVMH veut marquer son temps
+description : Toutes les forces vives horlogères du groupe français étaient réunies, cette semaine, à Manhattan, afin de dévoiler les montres de neuf de ses marques, ainsi que la nouvelle stratégie de synergie industrielle en termes de mouvements dernier cri.
+date : Fri, 24 Jan 2025 11:06:43 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/la-haute-couture-horlogere-de-tiffany-co-20250123
+source : Le Figaro - Horlogerie.xml
+title : La haute couture horlogère de Tiffany &amp; Co.
+description : La maison new-yorkaise a profité de la LVMH Watch Week pour présenter ses nouvelles montres joaillières créées sous l’égide de Nicolas Beau, vice-président en charge de l’horlogerie.
+date : Thu, 23 Jan 2025 11:15:27 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/lvmh-watch-week-la-tag-heuer-formula-1-passe-la-cinquieme-20250122
+source : Le Figaro - Horlogerie.xml
+title : LVMH Watch Week : la TAG Heuer Formula 1 passe la cinquième
+description : Le nouveau chronométreur de la F1, et toujours partenaire de l’écurie Oracle Red Bull Racing dévoile cinq nouvelles montres Formula 1.
+date : Wed, 22 Jan 2025 11:26:27 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/lvmh-watch-week-zenith-entre-squelette-et-arc-en-ciel-20250122
+source : Le Figaro - Horlogerie.xml
+title : LVMH Watch Week : Zenith entre squelette et arc-en-ciel
+description : À l’occasion de la LVMH Watch Week 2025 a dévoilé une version squelettée de la DEFY Skyline Chronograph ainsi qu’une étonnante pièce sertie.
+date : Thu, 23 Jan 2025 15:23:20 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/lvmh-watch-week-une-watch-box-transparente-signee-l-epee-1839-20250122
+source : Le Figaro - Horlogerie.xml
+title : LVMH Watch Week : une «watch box » transparente signée L’Epée 1839
+description : La manufacture suisse a dévoilé un écrin de luxe dans lequel abriter ses garde-temps préférés
+date : Wed, 22 Jan 2025 05:55:08 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/lvmh-watch-week-une-tambour-convergence-a-guichet-pour-louis-vuitton-20250122
+source : Le Figaro - Horlogerie.xml
+title : LVMH Watch Week : une Tambour Convergence à guichet pour Louis Vuitton
+description : Surprise : la Fabrique du Temps Louis Vuitton rend hommage aux montres à guichet, en les réinterprétant dans un style contemporain.
+date : Wed, 22 Jan 2025 05:29:29 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/l-heure-h-les-news-horlogeres-de-la-semaine-20250117
+source : Le Figaro - Horlogerie.xml
+title : L’Heure H, les news horlogères de la semaine
+description : Quelles sont les dernières tendances de l’air du temps ? Voici les cinq actualités horlogères de la semaine...
+date : Fri, 17 Jan 2025 18:34:43 +0100
+categories : ['Horlogerie']
+

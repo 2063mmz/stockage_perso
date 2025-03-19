@@ -1,0 +1,28 @@
+id : https://www.bfmtv.com/reims/violences-urbaines-apres-la-mort-de-nahel-un-commissariat-de-quartier-attaque-et-pille-a-reims_AN-202306300065.html
+source : Flux RSS - BFMTV - Reims.xml
+title : <![CDATA[Violences urbaines après la mort de Nahel: un commissariat de quartier attaqué et pillé à Reims]]>
+description : <![CDATA[Lors de cette troisième soirée de violences urbaines en France après la mort du jeune Nahel à Nanterre, un commissariat rémois a été pillé. Le maire de la ville a déploré les agissements de "hordes de sauvages".<br /><br /><img src="https://images.bfmtv.com/raGqtrA8fL8jBj0Db2z8eH6--d0=/0x0:1920x1080/800x0/images/Des-videos-sur-les-reseaux-sociaux-montrent-des-jeunes-sortir-d-un-commissariat-de-Reims-apres-l-avoir-pille-dans-la-nuit-du-29-au-30-juin-2023-1666188.jpg" />]]>
+date : Fri, 30 Jun 2023 00:35:47 GMT
+categories : 
+
+id : https://www.bfmtv.com/reims/troubles-severes-situation-critique-ce-que-l-on-sait-de-l-attaque-au-couteau-au-chu-de-reims_AN-202305220954.html
+source : Flux RSS - BFMTV - Reims.xml
+title : <![CDATA["Troubles sévères", situation "critique"... Ce que l'on sait de l'attaque au couteau au CHU de Reims]]>
+description : <![CDATA[Alors qu'une femme est morte et l'autre toujours hospitalisée après l'attaque au couteau ce lundi au CHU de Reims, le profil du mis en cause commence à se révéler. <br /><br /><img src="https://images.bfmtv.com/vYJ_a6B5SZJUKj-gJVwEin4VSR4=/8x0:1912x1071/800x0/images/Le-centre-hospitalier-universitaire-de-Reims-illustration-1641560.jpg" />]]>
+date : Mon, 22 May 2023 21:54:41 GMT
+categories : 
+
+id : https://www.bfmtv.com/reims/attaque-au-chu-de-reims-braun-indique-que-la-situation-reste-extremement-critique-pour-les-blessees_AV-202305220883.html
+source : Flux RSS - BFMTV - Reims.xml
+title : <![CDATA[Attaque au CHU de Reims: Braun indique que la situation reste "extrêmement critique" pour les blessées]]>
+description : <![CDATA[Le ministre de la Santé s'est rendu au centre hospitalier universitaire de Reims où deux femmes ont été grièvement blessées à l'arme blanche ce lundi par un homme semblant souffrir de "troubles sévères". La situation reste "extrêmement critique et délicate", selon François Braun.<br /><br /><img src="https://images.bfmtv.com/fsF8XaNtkQNTSRPWbCHBrQEPATI=/0x0:1920x1080/800x0/images/Francois-Braun-au-CHU-de-Reims-le-22-mai-2023-1641511.jpg" />]]>
+date : Mon, 22 May 2023 20:11:40 GMT
+categories : 
+
+id : https://www.bfmtv.com/reims/reims-une-infirmiere-et-une-secretaire-medicale-du-chu-blessees-a-l-arme-blanche_AD-202305220600.html
+source : Flux RSS - BFMTV - Reims.xml
+title : <![CDATA[Reims: une infirmière et une secrétaire médicale du CHU blessées à l'arme blanche]]>
+description : <![CDATA[Une enquête pour tentative d'assassinat a été ouverte après l'agression à l'arme blanche d'une infirmière et d'une secrétaire médicale au CHU de Reims. Le ministre de la Santé se rend sur place.<br /><br /><img src="https://images.bfmtv.com/BoOuW36yo0RfrHO-mTY2WhMne9g=/7x5:2983x1679/800x0/images/-186959.jpg" />]]>
+date : Mon, 22 May 2023 16:21:00 GMT
+categories : 
+

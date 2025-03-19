@@ -1,0 +1,140 @@
+id : https://immobilier.lefigaro.fr/article/ils-n-ont-aucune-visibilite-les-investisseurs-desertent-le-marche-immobilier-20250210
+source : Le Figaro - Immobilier.xml
+title : «Ils n’ont aucune visibilité» : les investisseurs désertent le marché immobilier
+description : Avec la fin du dispositif d’incitation fiscal Pinel et la sortie des passoires thermiques du marché locatif, les investisseurs disparaissent peu à peu.
+date : Mon, 10 Feb 2025 06:00:00 +0100
+categories : ['Immobilier']
+
+id : https://immobilier.lefigaro.fr/annonces/edito/acheter/video/immobilier-vers-une-reprise-durable-en-2025
+source : Le Figaro - Immobilier.xml
+title : Immobilier : vers une reprise durable en 2025 ?
+description : Entre l’évolution des taux d’intérêt, les conditions de crédit, les prix de logements, les incertitudes politiques, économiques…Jordan Frarier (Foncia) et Ludovic Huzieux (Artemis courtage) partagent leurs points de vue dans l’émission Figaro Immo, animée par Olivier Marin.
+date : Sun, 09 Feb 2025 17:02:06 +0100
+categories : ['investir']
+
+id : https://immobilier.lefigaro.fr/article/a-los-angeles-cette-propriete-feng-shui-a-27-millions-d-euros-attire-les-ondes-positives_ccdecc82-ce68-11ef-b7ce-edfe2e768602/
+source : Le Figaro - Immobilier.xml
+title : À Los Angeles, cette propriété feng shui à 27 millions d’euros attire les ondes positives
+description : EN IMAGES - Avec cette propriété qui arrive sur le marché pour une somme rondelette, vous pourrez acquérir un domaine où règne l’harmonie, en Californie.
+date : Sun, 09 Feb 2025 08:00:07 +0100
+categories : ['Architecture']
+
+id : https://immobilier.lefigaro.fr/article/ce-musee-inedit-ouvre-au-rez-de-chaussee-d-une-barre-hlm-20250209
+source : Le Figaro - Immobilier.xml
+title : Ce musée inédit a ouvert au rez-de-chaussée d’une barre HLM
+description : EN IMAGES - C’est une première. À Rennes, un musée fleurit au pied d’un immeuble de logements sociaux, depuis le 1er février.
+date : Sun, 09 Feb 2025 08:00:00 +0100
+categories : ['Immobilier']
+
+id : https://immobilier.lefigaro.fr/article/la-spectaculaire-degringolade-des-ventes-du-numero-1-de-la-construction-de-maisons-20250208
+source : Le Figaro - Immobilier.xml
+title : La spectaculaire dégringolade des ventes du numéro 1 de la construction de maisons
+description : Le chiffre d’affaires d’Hexaom, qui entrevoit une amélioration en 2025, a chuté de 29% en 2024.
+date : Sat, 08 Feb 2025 11:25:16 +0100
+categories : ['Immobilier']
+
+id : https://immobilier.lefigaro.fr/article/cette-immense-villa-moderniste-au-passe-tourmente-est-a-vendre-pour-4-millions-d-euros-20250208
+source : Le Figaro - Immobilier.xml
+title : Cette immense villa moderniste au passé tourmenté est à vendre pour 4 millions d’euros
+description : EN IMAGES - Située en région parisienne, cette réalisation majeure de l’architecte Robert Mallet-Stevens a connu de nombreux projets avortés et se cherche un avenir plus serein avec un nouveau propriétaire.
+date : Sat, 08 Feb 2025 07:00:00 +0100
+categories : ['Immobilier']
+
+id : https://immobilier.lefigaro.fr/article/des-proprietaires-decouvrent-dans-leur-immeuble-de-l-amiante-que-le-diagnostiqueur-n-avait-pas-trouvee-20250208
+source : Le Figaro - Immobilier.xml
+title : Des propriétaires découvrent dans leur immeuble de l’amiante que le diagnostiqueur n’avait pas trouvée
+description : Un diagnostiqueur avait conclu, avant la vente, à l’absence de matériaux contenant de l’amiante mais les acquéreurs en ont repéré dans l’entrée du bâtiment.
+date : Sat, 08 Feb 2025 07:00:00 +0100
+categories : ['Immobilier']
+
+id : https://immobilier.lefigaro.fr/article/ce-chantier-a-1-milliard-de-dollars-de-donald-trump-bloque-par-l-indonesie-20250207
+source : Le Figaro - Immobilier.xml
+title : Ce chantier à 1 milliard de dollars de Donald Trump bloqué par l’Indonésie
+description : Le ministre indonésien de l’Environnement a ordonné l’arrêt du projet en raison de plusieurs violations des règles environnementales.
+date : Fri, 07 Feb 2025 11:56:58 +0100
+categories : ['Immobilier']
+
+id : https://immobilier.lefigaro.fr/article/pour-le-prix-d-un-3-pieces-parisien-offrez-vous-cette-demeure-medievale-liee-a-richard-iii-et-a-cromwell-20250207
+source : Le Figaro - Immobilier.xml
+title : Pour le prix d’un 3-pièces parisien, offrez-vous cette demeure médiévale liée à Richard III et à Cromwell
+description : EN IMAGES - Au nord-ouest de l’Angleterre, cette demeure de la fin du 15e siècle est à vendre pour 660.000 euros. Le roi Richard III était propriétaire de ces terres et Oliver Cromwell a résidé dans ce bâtiment.
+date : Fri, 07 Feb 2025 15:09:48 +0100
+categories : ['Immobilier']
+
+id : https://immobilier.lefigaro.fr/article/pourquoi-y-a-t-il-toujours-autant-de-dpe-non-renseignes-dans-les-annonces-immobilieres-20250207
+source : Le Figaro - Immobilier.xml
+title : Pourquoi y a-t-il toujours autant de DPE non renseignés dans les annonces immobilières ?
+description : Près d’une annonce sur cinq est diffusée sans information sur la performance énergétique du bien. À Paris, cela concerne une annonce sur trois.
+date : Fri, 07 Feb 2025 10:26:31 +0100
+categories : ['Immobilier']
+
+id : https://immobilier.lefigaro.fr/article/a-paris-les-charges-de-copropriete-s-envolent-20250206
+source : Le Figaro - Immobilier.xml
+title : À Paris, les charges de copropriété s’envolent
+description : Les dépenses courantes des immeubles privés de la capitale ont bondi de 10,7 % en 2023. Les copropriétaires dépensent en moyenne 6500 euros par lot, travaux compris.
+date : Thu, 06 Feb 2025 07:47:29 +0100
+categories : ['Immobilier']
+
+id : https://immobilier.lefigaro.fr/article/a-nice-ce-logement-a-1-73-million-d-euros-mele-ambiance-de-riad-et-vue-sur-la-cathedrale-orthodoxe-20250206
+source : Le Figaro - Immobilier.xml
+title : À Nice, ce logement à 1,73 million d’euros mêle ambiance de riad et vue sur la cathédrale orthodoxe
+description : Proposé à la vente en plein cœur de Nice, l’appartement se déploie sur plus de 200 m² avec un patio inspiré de l’architecture mauresque andalouse.
+date : Thu, 06 Feb 2025 06:00:00 +0100
+categories : ['Immobilier']
+
+id : https://immobilier.lefigaro.fr/article/donations-frais-de-notaire-pret-a-taux-zero-ce-que-bayrou-prepare-pour-les-proprietaires-20250205
+source : Le Figaro - Immobilier.xml
+title : Donations, frais de notaire, prêt à taux zéro : ce que Bayrou prépare pour les propriétaires
+description : Les propriétaires immobiliers en savent désormais plus sur ce qui les attend pour 2025.
+date : Wed, 05 Feb 2025 06:00:00 +0100
+categories : ['Immobilier']
+
+id : https://immobilier.lefigaro.fr/article/biarritz-reclame-100-000-euros-a-un-proprietaire-qui-loue-son-logement-sur-airbnb-20250205
+source : Le Figaro - Immobilier.xml
+title : Biarritz réclame 100.000 euros à un propriétaire qui loue son logement sur Airbnb
+description : Un propriétaire se voit attaquer en justice par la Ville de Biarritz pour ne pas avoir mis des logements en location à l’année en échange des biens touristiques qu’il louait sur Airbnb.
+date : Wed, 05 Feb 2025 06:00:00 +0100
+categories : ['Immobilier']
+
+id : https://immobilier.lefigaro.fr/article/il-faudra-au-moins-5-ans-pour-reconstruire-les-milliers-de-maisons-detruites-a-los-angeles-20250204
+source : Le Figaro - Immobilier.xml
+title : Il faudra au moins 5 ans pour reconstruire les milliers de maisons détruites à Los Angeles
+description : Rien que pour dépolluer les sols, de longs mois seront nécessaires avant de mettre en œuvre des normes tatillonnes et affronter le manque d’ouvriers du bâtiment et de matériaux. Un immense défi.
+date : Tue, 04 Feb 2025 16:34:23 +0100
+categories : ['Immobilier']
+
+id : https://immobilier.lefigaro.fr/article/si-cette-condition-n-est-pas-respectee-le-conge-pour-vente-d-un-bien-detenu-par-une-sci-est-illegal-20250204
+source : Le Figaro - Immobilier.xml
+title : Si cette condition n’est pas respectée, le congé pour vente d’un bien détenu par une SCI est illégal
+description : La justice se penchait sur un bien immobilier détenu en indivision par une SCI pour lequel les locataires contestaient la régularité du congé.
+date : Tue, 04 Feb 2025 06:00:00 +0100
+categories : ['Immobilier']
+
+id : https://immobilier.lefigaro.fr/article/l-inadaptation-du-logement-au-handicap-un-critere-neglige-les-handicapes-particulierement-touches-par-le-mal-logement-20250203
+source : Le Figaro - Immobilier.xml
+title : « L’inadaptation du logement au handicap, un critère négligé » : les handicapés particulièrement touchés par le mal-logement
+description : Les personnes en situation de handicap peinent plus que les autres à trouver un logement à louer et encore plus à accéder à la propriété, selon le 30e rapport de la Fondation pour le Logement des Défavorisés (ex-Fondation Abbé Pierre).
+date : Mon, 03 Feb 2025 22:00:00 +0100
+categories : ['Immobilier']
+
+id : https://immobilier.lefigaro.fr/annonces/edito/acheter/video/immobilier-de-luxe--quelles-sont-les-grandes-tenda
+source : Le Figaro - Immobilier.xml
+title : Immobilier de luxe : quelles sont les grandes tendances ?
+description : Destinations les plus prisées mais aussi types de biens, architecture et design…Thibault de Saint Vincent, président du groupe Barnes et Guillaume de Saint Lager, fondateur de l’agence Paragone, apportent leurs éclairages, dans l’émission Figaro Immo, animée par Olivier Marin
+date : Mon, 03 Feb 2025 09:43:02 +0100
+categories : ['investir']
+
+id : https://immobilier.lefigaro.fr/article/sur-5-ans-la-quasi-totalite-des-acheteurs-immobiliers-parisiens-ont-fait-des-moins-values-20250203
+source : Le Figaro - Immobilier.xml
+title : Sur 5 ans, la quasi-totalité des acheteurs immobiliers parisiens ont fait des moins-values
+description : CARTE INTERACTIVE - Selon les statistiques des notaires, l’investissement immobilier dans la capitale suscite encore partout des plus-values à 10 ans, mais c’est l’inverse sur 5 ans. Seuls trois arrondissements tirent leur épingle du jeu.
+date : Mon, 03 Feb 2025 06:00:00 +0100
+categories : ['Immobilier']
+
+id : https://immobilier.lefigaro.fr/article/il-echappe-a-la-taxe-sur-les-logements-vacants-et-bon-nombre-d-autres-proprietaires-pourraient-le-faire_c107afc0-dfbe-11ef-b14e-6c94e49a5c73/
+source : Le Figaro - Immobilier.xml
+title : Il échappe à la taxe sur les logements vacants et bon nombre d’autres propriétaires pourraient le faire
+description : La Cour d’appel administrative de Nantes a désavoué le fisc qui réclamait indûment à un contribuable la taxe sur les logements vacants.
+date : Sun, 02 Feb 2025 08:00:12 +0100
+categories : ['Actualité']
+

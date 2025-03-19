@@ -1,0 +1,7 @@
+id : https://www.bfmtv.com/ajaccio/ajaccio-une-inondation-provoque-un-coupure-de-courant-dans-un-hopital_AN-202312050576.html
+source : Flux RSS - BFMTV - Ajaccio.xml
+title : <![CDATA[Ajaccio: une inondation provoque un coupure de courant dans un hôpital]]>
+description : <![CDATA[Les sous-sols de l'hôpital Eugénie d'Ajaccio ont été inondés cette nuit, ce qui a occasionné une coupure de courant. Aucun patient n'a été blessé.<br /><br /><img src="https://images.bfmtv.com/6Y7tRt_s-ytG_ljFbTo85OVOu8k=/50x0:1634x891/800x0/images/Hopital-Ajaccio-Eugenie-1761914.jpg" />]]>
+date : Tue, 05 Dec 2023 14:08:10 GMT
+categories : 
+

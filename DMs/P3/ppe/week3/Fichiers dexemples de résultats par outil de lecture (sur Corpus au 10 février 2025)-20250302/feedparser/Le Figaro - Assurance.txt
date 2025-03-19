@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/finances-perso/assurance-emprunteur-comment-eviter-de-payer-le-prix-fort-20250125
+source : Le Figaro - Assurance.xml
+title : Assurance emprunteur, comment éviter de payer le prix fort ?
+description : NOS CONSEILS - La loi Lemoine du 28 février 2022 a libéralisé l’assurance emprunteur. Son objectif : tirer à la baisse les tarifs en facilitant la mise en concurrence. Malheureusement, de trop nombreuses banques se montrent réticentes.
+date : Sat, 25 Jan 2025 15:00:00 +0100
+categories : ['Assurance', 'Finances perso']
+
+id : https://www.lefigaro.fr/assurance/quelles-sont-les-meilleures-complementaires-sante-notre-classement-2025-20241128
+source : Le Figaro - Assurance.xml
+title : Quelles sont les meilleures complémentaires santé ? Découvrez notre palmarès 2025
+description : EXCLUSIF - Pour les retraités, les indépendants, les étudiants, les personnes sans emploi, choisir une assurance santé est parfois un véritable casse-tête. Pour vous aider à faire le bon choix, Le Figaro a comparé 24 complémentaires santé.
+date : Thu, 28 Nov 2024 14:16:38 +0100
+categories : ['Assurance']
+
+id : https://www.lefigaro.fr/assurance/les-solutions-pour-remedier-a-l-angoisse-de-la-dependance-20241121
+source : Le Figaro - Assurance.xml
+title : Grand âge : les solutions pour remédier à l’angoisse de la dépendance
+description : NOS CONSEILS - Souvent onéreux, les contrats d’assurance ne sont pas toujours efficaces. Voici des options alternatives souvent négligées à tort.
+date : Thu, 21 Nov 2024 16:09:06 +0100
+categories : ['Assurance']
+
+id : https://www.lefigaro.fr/assurance/assurances-prevoyances-comment-bien-se-proteger-face-aux-aleas-de-la-vie-20241121
+source : Le Figaro - Assurance.xml
+title : Assurances, prévoyances: comment bien se protéger face aux aléas de la vie
+description : NOS CONSEILS - Tous les contrats ne se valent pas. Quelques recommandations pour faire un état des lieux et prendre les décisions en cohérence avec votre budget.
+date : Thu, 21 Nov 2024 11:00:11 +0100
+categories : ['Assurance']
+
+id : https://www.lefigaro.fr/economie/quatre-conseils-pour-contester-l-attribution-d-une-assurance-vie-20241120
+source : Le Figaro - Assurance.xml
+title : Quatre conseils pour contester l’attribution d’une assurance-vie
+description : DÉCRYPTAGE - Les héritiers qui s’estiment spoliés peuvent agir en justice. Voici la marche à suivre.
+date : Wed, 20 Nov 2024 16:00:00 +0100
+categories : ['Assurance', 'Économie']
+
+id : https://www.lefigaro.fr/finances-perso/comment-se-defendre-face-aux-clauses-illegales-de-ses-contrats-d-assurance-20241101
+source : Le Figaro - Assurance.xml
+title : Comment se défendre face aux clauses illégales de ses contrats d’assurance ?
+description : NOS CONSEILS - Beaucoup trop de contrats d’assurance contiennent encore des clauses d’exclusion de garantie qui ont été censurées depuis longtemps par la Cour de cassation. Voici comment se défendre.
+date : Fri, 01 Nov 2024 19:34:09 +0100
+categories : ['Assurance', 'Finances perso']
+
+id : https://www.lefigaro.fr/assurance/habitation-auto-sante-pourquoi-les-tarifs-des-assurances-vont-flamber-en-2025-20240923
+source : Le Figaro - Assurance.xml
+title : Habitation, auto, santé... Pourquoi les tarifs des assurances vont flamber en 2025
+description : DÉCRYPTAGE - Les tarifs devraient augmenter deux à trois fois plus vite que l’inflation.
+date : Mon, 23 Sep 2024 17:04:47 +0200
+categories : ['Assurance']
+
+id : https://www.lefigaro.fr/assurance/vacances-le-guide-pour-en-finir-avec-les-assurances-superflues-20240608
+source : Le Figaro - Assurance.xml
+title : Voyages : nos astuces pour ne pas payer d'assurances inutiles
+description : NOS CONSEILS - Ces garanties qui viennent s'ajouter à des couvertures dont le voyageur bénéficie par ailleurs peuvent faire doublon. Faut-il pour autant y renoncer?
+date : Tue, 11 Jun 2024 18:15:23 +0200
+categories : ['Assurance']
+
+id : https://www.lefigaro.fr/assurance/objets-de-valeur-etes-vous-bien-couvert-par-votre-assureur-20240428
+source : Le Figaro - Assurance.xml
+title : Objets de valeur: êtes-vous bien couvert par votre assureur?
+description : NOS CONSEILS - Tous les points à vérifier pour faire évoluer votre contrat d’assurance et éviter plafond de remboursement et exclusion.
+date : Sun, 28 Apr 2024 07:00:11 +0200
+categories : ['Assurance']
+
+id : https://www.lefigaro.fr/assurance/que-valent-les-comparateurs-d-assurances-20240427
+source : Le Figaro - Assurance.xml
+title : Que valent les comparateurs d'assurances ?
+description : NOS CONSEILS - Lancés au début des années 2000, ils donnent accès en quelques clics à des tarifs d'assurances pour vous aider à dénicher les offres les plus compétitives.
+date : Sat, 27 Apr 2024 12:00:00 +0200
+categories : ['Assurance']
+
+id : https://www.lefigaro.fr/assurance/notre-palmares-2024-des-meilleures-assurances-auto-20240328
+source : Le Figaro - Assurance.xml
+title : Notre palmarès 2024 des meilleures assurances auto
+description : EXCLUSIF - Rapport qualité-prix, indemnisation des sinistres, réactivité... Le Figaro a comparé 28 assureurs pour vous aider à faire le meilleur choix de contrat pour votre véhicule.
+date : Sat, 30 Mar 2024 10:44:35 +0100
+categories : ['Assurance']
+
+id : https://www.lefigaro.fr/assurance/ces-maisons-en-france-que-les-compagnies-d-assurances-ne-veulent-plus-couvrir-20240202
+source : Le Figaro - Assurance.xml
+title : Ces maisons en France que les compagnies d’assurances ne veulent plus couvrir
+description : Gabriel Attal a annoncé une réforme pour éviter que les assureurs se détournent des zones à risques.
+date : Fri, 02 Feb 2024 20:13:54 +0100
+categories : ['Assurance']
+
+id : https://www.lefigaro.fr/assurance/assurance-emprunteur-renegociez-pour-realiser-de-vraies-economies-20240202
+source : Le Figaro - Assurance.xml
+title : Assurance-emprunteur: renégociez pour réaliser de vraies économies
+description : NOS CONSEILS - Depuis la loi Lemoine, il est possible de résilier son contrat d’assurance à tout moment pour en souscrire un moins cher. Les astuces des courtiers.
+date : Fri, 02 Feb 2024 07:00:34 +0100
+categories : ['Assurance']
+
+id : https://www.lefigaro.fr/assurance/notre-palmares-des-meilleures-complementaires-sante-20231101
+source : Le Figaro - Assurance.xml
+title : Notre palmarès 2024 des meilleures complémentaires santé
+description : EXCLUSIF - Pour les retraités, les indépendants, les personnes sans emploi ou les étudiants, choisir une assurance santé individuelle n’est pas si simple. Le Figaro a diligenté une grande enquête pour faire le bon choix.
+date : Thu, 28 Nov 2024 08:42:52 +0100
+categories : ['Assurance']
+
+id : https://www.lefigaro.fr/assurance/assurance-auto-tiers-ou-tous-risques-comment-ne-pas-payer-pour-rien-20231031
+source : Le Figaro - Assurance.xml
+title : Assurance auto: tiers ou tous risques, comment ne pas payer pour rien
+description : NOS CONSEILS – Sans assurance automobile, n'envisagez pas de conduire sur la voie publique ! Sur la route une couverture minimum est absolument obligatoire. Mais faut-il aller au-delà ? Voici quelques éléments pour faire les bons arbitrages.
+date : Tue, 31 Oct 2023 09:17:22 +0100
+categories : ['Assurance']
+
+id : https://www.lefigaro.fr/assurance/assurance-habitation-les-astuces-pour-reduire-sa-facture-20231028
+source : Le Figaro - Assurance.xml
+title : Assurance habitation : les astuces pour réduire sa facture
+description : NOS CONSEILS - Vol, dégâts des eaux, catastrophes naturelles... difficile de s’y retrouver dans le maquis des contrats et des options proposés par les assureurs. On vous explique comment bien choisir en fonction de vos besoins pour faire des économies.
+date : Sat, 28 Oct 2023 10:00:00 +0200
+categories : ['Assurance']
+
+id : https://www.lefigaro.fr/assurance/l-inexorable-hausse-des-assurances-d-entreprises-20231026
+source : Le Figaro - Assurance.xml
+title : L'inexorable hausse des assurances d'entreprises
+description : DÉCRYPTAGE - Les tarifs augmenteront encore significativement l'an prochain, les garanties dommages aux biens en tête.
+date : Thu, 26 Oct 2023 22:04:08 +0200
+categories : ['Assurance']
+
+id : https://www.lefigaro.fr/assurance/l-offensive-des-assureurs-vie-pour-faire-revenir-les-epargnants-20231008
+source : Le Figaro - Assurance.xml
+title : L’offensive des assureurs-vie pour faire revenir les épargnants
+description : DÉCRYPTAGE - Avec la hausse des taux, le rendement des fonds en euros fait pâle figure par rapport aux autres placements. Les compagnies multiplient les offres pour relancer la collecte.
+date : Sun, 08 Oct 2023 19:08:06 +0200
+categories : ['Assurance']
+
+id : https://www.lefigaro.fr/assurance/forte-hausse-des-tarifs-d-assurance-en-vue-en-2024-20230922
+source : Le Figaro - Assurance.xml
+title : Forte hausse des tarifs d’assurance en vue en 2024
+description : DÉCRYPTAGE - Les contrats auto et habitation pourraient grimper de 4 % à 8 %. L’inflation devrait être plus marquée pour les complémentaires santé.
+date : Fri, 22 Sep 2023 18:56:07 +0200
+categories : ['Assurance']
+
+id : https://www.lefigaro.fr/assurance/de-plus-en-plus-de-communes-se-retrouvent-dans-l-incapacite-de-s-assurer-20230920
+source : Le Figaro - Assurance.xml
+title : De plus en plus de communes se retrouvent dans l’incapacité de s’assurer
+description : Les assureurs sont dépassés par les risques climatiques et perdent de l’argent.
+date : Wed, 20 Sep 2023 20:16:05 +0200
+categories : ['Assurance']
+

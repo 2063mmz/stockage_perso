@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/conjoncture/l-usine-allemagne-en-peril-au-coeur-de-la-campagne-electorale-20250209
+source : Le Figaro - La Une Eco.xml
+title : Récession, énergie chère, compétitivité en berne... L’«usine Allemagne» en péril
+description : DÉCRYPTAGE - À deux semaines d’élections cruciales, les partis s’affrontent sur les remèdes à apporter à l’effritement du modèle allemand.
+date : Sun, 09 Feb 2025 19:41:30 +0100
+categories : ['Conjoncture', 'Economie']
+
+id : https://www.lefigaro.fr/conjoncture/elections-en-allemagne-a-salzgitter-la-conversion-a-l-hydrogene-de-l-acierie-divise-la-classe-politique-20250209
+source : Le Figaro - La Une Eco.xml
+title : Élections en Allemagne: à Salzgitter, la conversion à l’hydrogène de l’aciérie divise la classe politique
+description : REPORTAGE - L’État fédéral et le Land de Basse-Saxe se sont engagés à subventionner la conversion à une production moins carbonée. Le candidat de la CDU aux législatives, Friedrich Merz, ne croit pas au développement de la filière hydrogène.
+date : Sun, 09 Feb 2025 17:08:40 +0100
+categories : ['Conjoncture', 'Economie']
+
+id : https://www.lefigaro.fr/conjoncture/l-union-europeenne-n-a-recu-aucune-notification-de-nouveaux-droits-de-douane-americains-20250210
+source : Le Figaro - La Une Eco.xml
+title : L'Union européenne n'a reçu «aucune notification» de nouveaux droits de douane américains
+description : Dans un communiqué, la commission annonce qu’elle réagira pour protéger les intérêts des entreprises européennes en cas de «mesures injustifiées».
+date : Mon, 10 Feb 2025 09:32:39 +0100
+categories : ['Conjoncture', 'Economie']
+
+id : https://www.lefigaro.fr/secteur/high-tech/intelligence-artificielle-le-patron-de-bpifrance-appelle-tout-le-monde-a-travailler-avec-mistral-20250210
+source : Le Figaro - La Une Eco.xml
+title : Intelligence artificielle : le patron de Bpifrance appelle «tout le monde à travailler avec Mistral»
+description : La banque publique d’investissement française a annoncé la semaine dernière vouloir investir 10 milliards d’euros dans l’IA d’ici 2029.
+date : Mon, 10 Feb 2025 11:49:38 +0100
+categories : ['Economie', 'Tech & Web']
+
+id : https://www.lefigaro.fr/societes/un-atterrissage-brutal-panique-sur-un-vol-easyjet-apres-le-malaise-du-pilote-20250210
+source : Le Figaro - La Une Eco.xml
+title : Un atterrissage «brutal» : panique sur un vol EasyJet après le malaise du pilote
+description : L’avion, qui reliait l’Égypte à l’Angleterre, a été dérouté samedi et s’est finalement posé à Athènes.
+date : Mon, 10 Feb 2025 10:39:50 +0100
+categories : ['Economie', 'Entreprises']
+
+id : https://www.lefigaro.fr/decideurs/nokia-annonce-le-depart-de-son-pdg-pekka-lundmark-justin-hotard-nomme-successeur-20250210
+source : Le Figaro - La Une Eco.xml
+title : Nokia annonce le départ de son PDG Pekka Lundmark, Justin Hotard nommé successeur
+description : L’équipementier a enregistré une hausse de 89% de son bénéfice net en 2024 à 1,28 milliard d’euros et fait état d’un net redressement de ses ventes de 10% au quatrième trimestre.
+date : Mon, 10 Feb 2025 11:46:54 +0100
+categories : ['Décideurs', 'Economie']
+
+id : https://www.lefigaro.fr/conjoncture/c-est-trop-facile-d-etre-planque-dans-son-bureau-macron-appelle-les-patrons-a-defendre-sa-politique-de-l-offre-20250210
+source : Le Figaro - La Une Eco.xml
+title : «C’est trop facile d’être planqué dans son bureau» : Macron appelle les patrons à défendre sa politique de l’offre
+description : «Soyez patriotes vous-mêmes», a lancé le chef de l’État aux dirigeants de grandes entreprises, lors d’un entretien, dimanche soir.
+date : Mon, 10 Feb 2025 11:02:04 +0100
+categories : ['Conjoncture', 'Economie']
+
+id : https://www.lefigaro.fr/economie/acheter-des-billets-de-train-avec-des-miles-d-air-france-est-desormais-possible-20250209
+source : Le Figaro - La Une Eco.xml
+title : Acheter des billets de train avec des miles d’Air France est désormais possible
+description : Les deux entreprises célèbrent les 30 ans du partenariat Train + Air qui permet de relier les aéroports de Roissy et Orly à 22 gares françaises via le TGV.
+date : Sun, 09 Feb 2025 18:47:46 +0100
+categories : ['Economie', 'Économie']
+
+id : https://www.lefigaro.fr/conjoncture/eliminons-le-gaspillage-trump-demande-d-arreter-la-production-du-penny-jugee-trop-couteuse-20250210
+source : Le Figaro - La Une Eco.xml
+title : «Éliminons le gaspillage» : Trump demande d'arrêter la production du penny, jugée trop coûteuse
+description : «Pendant bien trop longtemps, les États-Unis ont frappé des pièces d’un cent qui nous coûtent littéralement plus de 2 cents (à produire). C’est du gaspillage!», juge le président américain.
+date : Mon, 10 Feb 2025 09:33:00 +0100
+categories : ['Conjoncture', 'Economie']
+
+id : https://www.lefigaro.fr/conjoncture/jean-pierre-robin-comptes-publics-et-commerce-exterieur-les-deficits-jumeaux-qui-ruinent-les-francais-20250209
+source : Le Figaro - La Une Eco.xml
+title : Jean-Pierre Robin : «Comptes publics et commerce extérieur, les déficits jumeaux qui ruinent les Français»
+description : CHRONIQUE - Lorsque l’on importe plus qu’on exporte, cela se fait aux dépens du «made in France», de nos usines et de nos travailleurs, d’où la désindustrialisation et le chômage de masse.
+date : Mon, 10 Feb 2025 09:50:02 +0100
+categories : ['Conjoncture', 'Economie']
+
+id : https://www.lefigaro.fr/secteur/high-tech/en-marge-du-sommet-sur-l-ia-la-france-capte-des-dizaines-de-milliards-d-euros-d-investissements-20250209
+source : Le Figaro - La Une Eco.xml
+title : IA: Emmanuel Macron annonce des investissements en France de «109 milliards d’euros dans les prochaines années»
+description : DÉCRYPTAGE - Les annonces fracassantes, dont celles de constructions de gigantesques data centers, pleuvent depuis jeudi. Elles devraient continuer jusqu’à la clôture du sommet mardi.
+date : Mon, 10 Feb 2025 10:25:14 +0100
+categories : ['Economie', 'Tech & Web']
+
+id : https://www.lefigaro.fr/secteur/high-tech/ia-mistral-va-construire-son-premier-centre-de-donnees-en-france-annonce-son-patron-20250209
+source : Le Figaro - La Une Eco.xml
+title : IA: Mistral va construire son premier centre de données en France
+description : Arthur Mensch, le jeune patron de 32 ans de la start-up française, a annoncé la construction d’un centre de données en Essonne qui représente «plusieurs milliards d’euros» d’investissements.
+date : Mon, 10 Feb 2025 09:59:47 +0100
+categories : ['Economie', 'Tech & Web']
+
+id : https://www.lefigaro.fr/secteur/high-tech/c-est-un-moment-d-ecoute-pour-rassurer-les-francais-face-a-l-intelligence-artificielle-l-etat-mise-sur-les-cafes-ia-20250209
+source : Le Figaro - La Une Eco.xml
+title : «C’est un moment d’écoute»: pour rassurer les Français face à l’intelligence artificielle, l’État mise sur les «cafés IA»
+description : REPORTAGE - Après une phase d’expérimentation à succès, le gouvernement va généraliser ce dispositif. Organisé partout en France, il vise à écouter les peurs et interrogations des citoyens, et éviter une fracture de la société.
+date : Mon, 10 Feb 2025 09:55:25 +0100
+categories : ['Economie', 'Tech & Web']
+
+id : https://www.lefigaro.fr/vox/societe/l-editorial-de-jacques-olivier-martin-l-indispensable-revolte-numerique-de-l-europe-20250209
+source : Le Figaro - La Une Eco.xml
+title : L’éditorial de Jacques-Olivier Martin: «L’indispensable révolte numérique de l’Europe»
+description : L’Europe ne peut pas passer à côté de la révolution de l’intelligence artificielle. Sa survie en dépend.
+date : Mon, 10 Feb 2025 09:43:28 +0100
+categories : ['Economie', 'Vox Économie']
+
+id : https://www.lefigaro.fr/societes/pilule-orale-medicaments-encore-plus-efficaces-ce-que-preparent-les-labos-contre-l-obesite-20250209
+source : Le Figaro - La Une Eco.xml
+title : Pilule, médicaments encore plus efficaces: ce que préparent les labos contre l’obésité
+description : Novo Nordisk et Eli Lilly sont pour l’instant les champions de ce nouveau marché. Ils préparent les nouvelles générations de médicaments.
+date : Sun, 09 Feb 2025 22:04:46 +0100
+categories : ['Economie', 'Entreprises']
+
+id : https://www.lefigaro.fr/conjoncture/anne-de-guigne-pour-relever-le-niveau-de-vie-en-france-arretons-de-parler-de-pouvoir-d-achat-20250209
+source : Le Figaro - La Une Eco.xml
+title : Anne de Guigné: «Pour relever le niveau de vie en France, arrêtons de parler de pouvoir d’achat»
+description : CHRONIQUE - Les fins de mois restent difficiles pour de nombreux Français. Appréhender cette réalité par la notion de «pouvoir d’achat» n’aide en rien à répondre au gigantesque défi de la revalorisation du travail.
+date : Sun, 09 Feb 2025 16:45:16 +0100
+categories : ['Conjoncture', 'Economie']
+
+id : https://www.lefigaro.fr/conjoncture/thierry-breton-la-regulation-favorisera-l-emergence-de-champions-europeens-20250209
+source : Le Figaro - La Une Eco.xml
+title : Thierry Breton : « IA, commerce, défense : l’Europe doit affirmer son leadership »
+description : ENTRETIEN - L’ex-commissaire européen au Marché intérieur défend la régulation européenne sur le numérique et appelle l’UE à doubler le nombre de supercalculateurs.
+date : Sun, 09 Feb 2025 16:30:00 +0100
+categories : ['Conjoncture', 'Economie']
+
+id : https://www.lefigaro.fr/international/trump-est-sur-que-musk-va-debusquer-des-centaines-de-milliards-de-dollars-de-fraude-20250209
+source : Le Figaro - La Une Eco.xml
+title : Trump est sûr que Musk va débusquer des «centaines de milliards de dollars de fraude»
+description : Le président des États-Unis recommande à Elon Musk, qu’il a chargé de tailler dans les dépenses fédérales, «d’aller consulter le ministère de l’Éducation et ensuite l’armée».
+date : Mon, 10 Feb 2025 10:13:35 +0100
+categories : ['Economie', 'International']
+
+id : https://www.lefigaro.fr/conjoncture/un-elon-musk-francais-le-patron-de-la-cpme-veut-s-inspirer-du-patron-de-x-pour-reduire-les-depenses-publiques-en-france-20250209
+source : Le Figaro - La Une Eco.xml
+title : Dépenses publiques : la CPME plaide pour «un Elon Musk français»
+description : S’il n’est «pas fan des États-Unis», Amir Reza-Tofighi salue toutefois le choix de Trump d’avoir choisi un «entrepreneur à la tête d’un plan de réduction des dépenses».
+date : Mon, 10 Feb 2025 10:08:23 +0100
+categories : ['Conjoncture', 'Economie']
+
+id : https://www.lefigaro.fr/flash-eco/bien-joue-ca-m-a-plutot-fait-rire-macron-s-amuse-des-parodies-sur-lui-avant-le-sommet-de-l-ia-20250209
+source : Le Figaro - La Une Eco.xml
+title : «Bien joué, ça m’a plutôt fait rire» : Macron s’amuse des parodies sur lui avant le sommet de l’IA
+description : Dans une vidéo publiée sur les réseaux sociaux, le président de la République a réagi à plusieurs vidéos parodiques générées par l’intelligence artificielle.
+date : Mon, 10 Feb 2025 10:24:55 +0100
+categories : ['Economie', 'Tech & Web']
+

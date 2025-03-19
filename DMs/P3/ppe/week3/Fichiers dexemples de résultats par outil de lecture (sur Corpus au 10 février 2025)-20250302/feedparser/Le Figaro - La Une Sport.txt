@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/sports/rugby/top-14/top-14-julien-dumora-castres-mettra-un-terme-a-sa-carriere-a-l-issue-de-la-saison-20250210
+source : Le Figaro - La Une Sport.xml
+title : Top 14 : Julien Dumora (Castres) mettra un terme à sa carrière à l’issue de la saison
+description : L’arrière du Castres Olympique mettra un terme à sa carrière à l’issue de la saison et intégrer le staff du club.
+date : Mon, 10 Feb 2025 13:25:08 +0100
+categories : ['Sports', 'Top 14']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-mpetshi-perricard-forfait-a-marseille-20250210
+source : Le Figaro - La Une Sport.xml
+title : Tennis : Mpetshi Perricard forfait à Marseille
+description : Giovanni Mpetshi Perricard ne fera pas son retour sur les courts de l’ATP 250 de Marseille. Malade le Tricolore s’ajoute à la liste des forfaits déjà bien remplie.
+date : Mon, 10 Feb 2025 13:19:55 +0100
+categories : ['Sports', 'Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-novak-djokovic-assure-etre-gueri-a-quasiment-100-20250210
+source : Le Figaro - La Une Sport.xml
+title : Tennis : Novak Djokovic assure être guéri à «quasiment 100%»
+description : Le Serbe a donné de ses nouvelles sur le plan médical en vue du tournoi à Doha auquel il prendra part dans une semaine.
+date : Mon, 10 Feb 2025 12:45:24 +0100
+categories : ['Sports', 'Tennis']
+
+id : https://www.lefigaro.fr/sports/boxe/boxe-la-federation-internationale-porte-plainte-contre-le-cio-au-sujet-d-imane-khelif-et-de-lin-yu-ting-20250210
+source : Le Figaro - La Une Sport.xml
+title : Boxe : la Fédération internationale porte plainte contre le CIO au sujet d’Imane Khelif et de Lin Yu-Ting
+description : Exclue du mouvement olympique, l’IBA continue de contester le droit octroyé aux deux boxeuses à concourir chez les femmes lors des JO 2024.
+date : Mon, 10 Feb 2025 13:15:32 +0100
+categories : ['Boxe', 'Sports']
+
+id : https://www.lefigaro.fr/sports/basket/basket-fournier-et-hoard-forfaits-pour-les-derniers-matches-de-qualification-a-l-euro-2025-luwawu-cabarot-et-cornelie-appeles-20250210
+source : Le Figaro - La Une Sport.xml
+title : Basket : Fournier et Hoard forfaits pour les derniers matches de qualification à l’Euro 2025, Luwawu-Cabarot et Cornelie appelés
+description : L’équipe de France joue ses deux derniers matches de qualification à l’Euro 2025 les 21 et 24 février, en Croatie et en Bosnie-Herzégovine.
+date : Mon, 10 Feb 2025 11:14:11 +0100
+categories : ['Basket', 'Sports']
+
+id : https://www.lefigaro.fr/sports/autres-sports/super-bowl-un-drapeau-palestinien-brandit-durant-le-traditionnel-show-de-la-mi-temps-20250210
+source : Le Figaro - La Une Sport.xml
+title : Super Bowl : un drapeau palestinien brandi durant le traditionnel show de la mi-temps
+description : LE SCAN SPORT - En marge du concert du rappeur américain Kendrick Lamar, un figurant du spectacle a affiché un drapeau palestinien, avant d’être arrêté puis évacué.
+date : Mon, 10 Feb 2025 11:30:40 +0100
+categories : ['Autres Sports', 'Sports']
+
+id : https://www.lefigaro.fr/sports/autres-sports/ski-alpin-shiffrin-au-depart-du-combine-a-saalbach-impasse-sur-le-geant-20250210
+source : Le Figaro - La Une Sport.xml
+title : Ski alpin : Shiffrin au départ du combiné à Saalbach, impasse sur le géant
+description : L’Américaine a annoncé qu’elle ne participerait pas au slalom géant des mondiaux de ski qui se tiennent jeudi à Saalbach.
+date : Mon, 10 Feb 2025 10:01:59 +0100
+categories : ['Autres Sports', 'Sports']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-la-fantastique-remontada-de-belinda-bencic-au-classement-20250210
+source : Le Figaro - La Une Sport.xml
+title : Tennis : la fantastique remontada de Belinda Bencic au classement
+description : Grâce à son titre à Abou Dhabi, la Suissesse progresse de 92 places dans la hiérarchie mondiale.
+date : Mon, 10 Feb 2025 09:50:51 +0100
+categories : ['Sports', 'Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-alex-de-minaur-frappe-de-nouveau-a-la-porte-du-top-5-20250210
+source : Le Figaro - La Une Sport.xml
+title : Tennis : Alex De Minaur frappe de nouveau à la porte du top 5
+description : Grâce à sa finale à Rotterdam, perdue face à Carlos Alcaraz, l’Australien remonte au 6e rang mondial.
+date : Mon, 10 Feb 2025 09:47:32 +0100
+categories : ['Sports', 'Tennis']
+
+id : https://www.lefigaro.fr/culture/le-monde-est-en-train-de-guerir-donald-trump-jubile-apres-les-huees-envers-taylor-swift-lors-du-super-bowl-20250210
+source : Le Figaro - La Une Sport.xml
+title : Super Bowl : « Le monde est en train de guérir », jubile Donald Trump après les huées envers Taylor Swift
+description : La pop star, en couple avec un des joueurs vedettes de Kansas City, a été sifflée par le public lorsqu’elle est apparue sur l’écran géant du stade. Un symbole pour le 47e président des États-Unis.
+date : Mon, 10 Feb 2025 10:26:40 +0100
+categories : ['Culture', 'Sports']
+
+id : https://www.lefigaro.fr/sports/football/ligue-1/des-grands-discours-neal-maupay-se-moque-d-angers-sur-les-reseaux-sociaux-apres-la-victoire-marseillaise-20250210
+source : Le Figaro - La Une Sport.xml
+title : «Des grands discours» : Neal Maupay se moque d’Angers sur les réseaux sociaux après la victoire marseillaise
+description : LE SCAN SPORT - Ce dimanche soir dans une story Instagram, l’attaquant marseillais a charrié Jean-Jacques Batoum, préparateur physique du SCO, et son discours d’avant-match.
+date : Mon, 10 Feb 2025 09:02:36 +0100
+categories : ['Ligue 1', 'Sports']
+
+id : https://www.lefigaro.fr/sports/football/jaloux-de-mbappe-refus-de-prolonger-cicatrice-du-ballon-d-or-entre-vinicius-et-le-real-madrid-le-torchon-brule-20250210
+source : Le Figaro - La Une Sport.xml
+title : Jaloux de Mbappé, refus de prolonger, cicatrice du Ballon d’Or... Entre Vinicius et le Real Madrid, le torchon brûle
+description : DÉCRYPTAGE - Depuis de nombreuses semaines, Vinicius Jr n’est plus que l’ombre de lui-même au Real Madrid. Selon la presse espagnole, un véritable malaise serait même présent entre la star brésilienne et la Maison Blanche.
+date : Mon, 10 Feb 2025 11:23:42 +0100
+categories : ['Football', 'Sports']
+
+id : https://www.lefigaro.fr/culture/kendrick-lamar-au-super-bowl-le-quart-d-heure-de-gloire-de-la-culture-hip-hop-americaine-20250210
+source : Le Figaro - La Une Sport.xml
+title : Super Bowl : entre classiques du rap et attaques contre Drake, Kendric Lamar interprète une ode au hip-hop américain
+description : Lors de son show à la mi-temps de la finale du championnat de football américain, le rappeur de 37 ans n’a pas manqué d’interpréter son morceau rempli de haine pour son rival Drake.
+date : Mon, 10 Feb 2025 10:53:42 +0100
+categories : ['Culture', 'Sports']
+
+id : https://www.lefigaro.fr/sports/autres-sports/une-performance-unique-un-jogger-parcourt-55-km-dans-paris-pour-tracer-la-tour-eiffel-20250210
+source : Le Figaro - La Une Sport.xml
+title : «Une performance unique» : un jogger parcourt 55 km dans Paris pour tracer la Tour Eiffel
+description : LE SCAN SPORT - En utilisant l’application Strava, Guillaume Lazert, adepte de l’art du GPS drawing, a parcouru 55 km pour tracer la Tour Eiffel en plein cœur de Paris.
+date : Mon, 10 Feb 2025 08:33:05 +0100
+categories : ['Autres Sports', 'Sports']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-rome-roland-garros-us-open-les-5-plus-grands-matches-de-la-carriere-de-diego-schwartzman-20250210
+source : Le Figaro - La Une Sport.xml
+title : Tennis : Rome, Roland-Garros, US Open... Les 5 plus grands matches de la carrière de Diego Schwartzman
+description : Ancien demi-finaliste à Roland-Garros et membre du top 10, Diego Schwartzman s’apprête à mettre un terme à sa carrière cette semaine dans «son» tournoi de Buenos Aires. Voici les 5 plus grands matches de sa carrière.
+date : Mon, 10 Feb 2025 08:16:10 +0100
+categories : ['Sports', 'Tennis']
+
+id : https://www.lefigaro.fr/sports/autres-sports/nfl-avec-la-maniere-philadelphie-remporte-le-super-bowl-et-prive-kansas-city-d-un-record-historique-20250210
+source : Le Figaro - La Une Sport.xml
+title : NFL : avec la manière, Philadelphie remporte le Super Bowl et prive Kansas City d’un record historique
+description : Sous les yeux de Donald Trump, les Eagles ont nettement dominé les Chiefs de Patrick Mahomes (40-22), privant ces derniers d’un triplé inédit.
+date : Mon, 10 Feb 2025 08:48:01 +0100
+categories : ['Autres Sports', 'Sports']
+
+id : https://www.lefigaro.fr/sports/football/ligue-1/classement-ligue-1-paris-leader-intouchable-marseille-solide-dauphin-nice-sur-le-podium-20250210
+source : Le Figaro - La Une Sport.xml
+title : Classement Ligue 1 : Paris leader intouchable, Marseille solide dauphin, Nice sur le podium
+description : Le PSG toujours en tête, Marseille solide deuxième, Montpellier retrouve les abysses, Monaco doublé par Nice... retrouvez le classement de la Ligue 1 après 21 journées.
+date : Mon, 10 Feb 2025 08:00:00 +0100
+categories : ['Ligue 1', 'Sports']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-football-taille-retraite-5-choses-a-savoir-sur-diego-schwartzman-20250210
+source : Le Figaro - La Une Sport.xml
+title : Tennis : football, taille, retraite… 5 choses à savoir sur Diego Schwartzman
+description : À 32 ans, l’ancien numéro un argentin Schwartzman va dire adieu au tennis cette semaine à domicile à Buenos Aires.
+date : Mon, 10 Feb 2025 13:01:32 +0100
+categories : ['Sports', 'Tennis']
+
+id : https://www.lefigaro.fr/sports/coup-d-envoi-du-super-bowl-kansas-city-affronte-philadelphie-20250210
+source : Le Figaro - La Une Sport.xml
+title : Super Bowl : Trump, Lamar, show... Les images marquantes de la finale remportée par les Philadelphie Eagles
+description : EN IMAGES - La franchise de Pennsylvanie a largement dominé Kansas City (40-22) grâce à une défense asphyxiante.
+date : Mon, 10 Feb 2025 09:18:18 +0100
+categories : ['Sports']
+
+id : https://www.lefigaro.fr/sports/football/ligue-1/angers-marseille-on-a-vraiment-joue-comme-une-grande-equipe-savoure-de-zerbi-20250210
+source : Le Figaro - La Une Sport.xml
+title : Ligue 1 : «On a vraiment joué comme une grande équipe», savoure Roberto De Zerbi
+description : L’entraîneur de Marseille s’est satisfait de la victoire des siens ce dimanche soir à Angers (0-2) et souligne la performance de son équipe.
+date : Mon, 10 Feb 2025 08:20:27 +0100
+categories : ['Ligue 1', 'Sports']
+

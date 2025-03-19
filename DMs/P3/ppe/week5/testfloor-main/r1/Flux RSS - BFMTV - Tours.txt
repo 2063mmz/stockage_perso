@@ -1,0 +1,14 @@
+id : https://www.bfmtv.com/tours/tours-un-enfant-de-4-ans-survit-miraculeusement-a-une-chute-du-sixieme-etage_AN-202205310282.html
+source : Flux RSS - BFMTV - Tours.xml
+title : <![CDATA[Tours: un enfant de 4 ans survit miraculeusement à une chute du sixième étage]]>
+description : <![CDATA[Âgé de 4 ans, l'enfant aurait échappé à la surveillance de son père. Il a été transporté à l'hôpital et souffre de fractures, mais ses jours ne sont pas en danger. <br /><br /><img src="https://images.bfmtv.com/NmJie52YWSKYKgoRSUdZKyhcIAA=/1x43:1121x673/800x0/images/Tours-chute-1422576.jpg" />]]>
+date : Tue, 31 May 2022 09:49:02 GMT
+categories : 
+
+id : https://www.bfmtv.com/tours/tours-une-enquete-ouverte-apres-le-deces-d-un-homme-d-une-vingtaine-d-annees-par-arme-blanche_AD-202112250128.html
+source : Flux RSS - BFMTV - Tours.xml
+title : <![CDATA[Tours: une enquête ouverte après le décès d'un homme d'une vingtaine d'années par arme blanche]]>
+description : <![CDATA[Transporté à l'hôpital dans la nuit, un homme âgé d'une vingtaine d'années est décédé des suites de blessures provoquées, a priori, par arme blanche. Une enquête a été ouverte ce samedi.<br /><br /><img src="https://images.bfmtv.com/cww6Sr5ge9Gfk7rMmNBVSu-NOoI=/4x3:1252x705/800x0/images/-117160.jpg" />]]>
+date : Sat, 25 Dec 2021 17:27:45 GMT
+categories : 
+

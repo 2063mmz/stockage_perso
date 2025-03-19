@@ -1,0 +1,24 @@
+用列表的形式去代替函数括号里的变量，直接只带
+eg：
+def xxx(path:str)- list[str]:
+    return[]
+这样的形式，然后，与其用for,一节一节的形式，可以使用直接列一行，xx for xx in xx.比较方便
+
+corriger：
+
+对于处理没有文件名字这个问题：就用len,用suffix
+result = []
+for file in files:
+    if file.is_file() and file.suffix==".xml":
+         result.append(str(file))
+    elif file.is_dir():
+        result.extend(str(file)for file in 函数xxx(file))
+
+
+学习argparse.ArgumentParser (description="foobar")
+然后用这个写一个week1的ppt里的引用，介绍这个函数是干嘛的， --h是help等等这种信息
+callable是把后面的list变成一个可以处理的，然后放到后面
+
+对于文件加入，不能用attend,而是extend
+
+可以把item放在字典里，然后根据字典的关键词来输出，写一个输出order

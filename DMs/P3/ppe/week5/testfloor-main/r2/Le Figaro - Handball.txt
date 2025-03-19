@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/sports/handball/handball-le-psg-elimine-nantes-aux-tirs-au-but-en-quarts-de-finale-de-la-coupe-20250208
+source : Le Figaro - Handball.xml
+title : Handball : le PSG élimine Nantes aux tirs au but en quarts de finale de la Coupe
+description : Le Paris SG a éliminé Nantes aux tirs au but dans le choc des quarts de finale de la Coupe de France de handball (35-35, 5-4 tab) ce samedi à Coubertin.
+date : Sat, 08 Feb 2025 23:39:45 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/hand-ferran-sole-prolonge-avec-le-psg-20250206
+source : Le Figaro - Handball.xml
+title : Handball : Ferran Solé prolonge avec le PSG
+description : L’Espagnol Ferran Solé a prolongé jusqu’en 2027 avec le PSG Handball a annoncé le champion de France en titre jeudi. Le club de la capitale a aussi officialisé l’arrivée de l’ailier gauche Emil Mellegard.
+date : Thu, 06 Feb 2025 18:55:42 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/hand-le-danemark-champion-du-monde-pour-la-quatrieme-fois-de-suite-20250202
+source : Le Figaro - Handball.xml
+title : Mondial de handball 2025 : le Danemark plus que jamais roi du monde
+description : Les Danois ont surclassé la Croatie, dimanche à Oslo (32-26), en finale, décrochant ainsi leur quatrième titre mondial d’affilée.
+date : Mon, 03 Feb 2025 08:32:11 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/mondial-de-hand-l-arret-miraculeux-de-la-tete-du-gardien-francais-qui-offre-le-bronze-aux-bleus-20250202
+source : Le Figaro - Handball.xml
+title : Mondial de handball 2025 : l’arrêt miraculeux... de la tête du gardien français, qui offre le bronze aux Bleus
+description : Charles Bolzinger, le deuxième gardien français, a sorti une parade incroyable à cinq secondes de la fin du match pour permettre aux Bleus de monter sur le podium.
+date : Mon, 03 Feb 2025 08:33:03 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/mondial-de-handball-les-bleus-s-en-tirent-face-au-portugal-et-decrochent-le-bronze-20250202
+source : Le Figaro - Handball.xml
+title : Mondial de handball 2025 : les Bleus s’en tirent face au Portugal et décrochent le bronze
+description : Sur le gong, les Bleus s’en sont remis à un bel arrêt de leur gardien Charles Bolzinger pour s’offrir la médaille de bronze contre le Portugal (35-34).
+date : Mon, 03 Feb 2025 08:33:25 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/hand-le-danemark-met-fin-au-reve-portugais-au-mondial-et-file-en-finale-20250131
+source : Le Figaro - Handball.xml
+title : Hand : le Danemark met fin au rêve portugais au Mondial et file en finale
+description : Vainqueurs du Portugal (40-27), les Danois affronteront la Croatie en finale du Mondial.
+date : Fri, 31 Jan 2025 22:22:20 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/handball-pourquoi-l-equipe-de-france-a-perdu-la-recette-du-succes-20250131
+source : Le Figaro - Handball.xml
+title : Handball : pourquoi l’équipe de France a perdu la recette du succès
+description : DÉCRYPTAGE - Six mois après la retentissante sortie de route des JO de Paris, les Bleus ont buté sur la Croatie en demi-finales du Mondial. Un double échec qui, forcément, interpelle après tant d’années de domination.
+date : Fri, 31 Jan 2025 14:51:52 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/mondial-de-handball-2025-notre-entame-de-match-nous-coute-tres-cher-deplore-guillaume-gille-20250130
+source : Le Figaro - Handball.xml
+title : Mondial de handball 2025 : «Notre entame de match nous coûte très cher», déplore Guillaume Gille
+description : Découvrez les réactions des Bleus après leur défaite face à la Croatie en demi-finales (28-31).
+date : Fri, 31 Jan 2025 10:20:47 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/mondial-de-handball-2025-un-premier-acte-terrible-une-gauche-defaillante-les-tops-flops-de-france-croatie-20250130
+source : Le Figaro - Handball.xml
+title : Mondial de handball 2025 : un premier acte terrible, une gauche défaillante… Les tops/flops de France-Croatie
+description : L’équipe de France a échoué en demi-finales face à la Croatie (28-31). Découvrez ce qui a plu... et déplu à notre rédaction.
+date : Thu, 30 Jan 2025 23:19:47 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/mondial-de-handball-2025-la-croatie-eteint-la-france-en-demi-finale-20250130
+source : Le Figaro - Handball.xml
+title : Mondial de handball 2025 : la Croatie éteint la France en demi-finales
+description : Complètement assommés par une première période cauchemardesque, les Bleus échouent à Zagreb (28-31) dans leur quête d’un septième titre mondial.
+date : Thu, 30 Jan 2025 22:59:21 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/en-direct-france-croatie-les-bleus-visent-la-finale-dans-le-volcan-de-zagreb-20250130
+source : Le Figaro - Handball.xml
+title : Mondial de handball 2025 : revivez la défaite des Bleus en demi-finales face à la Croatie
+description : Opposée à sa rivale croate dans le volcan de Zagreb, l’équipe de France a échoué ce jeudi (28-31).
+date : Thu, 30 Jan 2025 22:47:14 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/mondial-de-handball-2025-l-avenement-d-aymeric-minne-en-equipe-de-france-20250130
+source : Le Figaro - Handball.xml
+title : Mondial de handball 2025 : l’avènement d’Aymeric Minne en équipe de France
+description : Décisif en quarts, l’électrique Nantais s’affirme, après plusieurs rendez-vous manqués en Bleu, comme une pièce essentielle en vue de la demi-finale contre la Croatie ce jeudi (21h).
+date : Thu, 30 Jan 2025 00:40:46 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/mondial-de-handball-2025-ambiance-folle-souvenir-de-2009-tout-ce-qu-il-faut-savoir-sur-la-demie-france-croatie-20250130
+source : Le Figaro - Handball.xml
+title : Mondial de handball 2025 : ambiance folle, souvenir de 2009… Tout ce qu’il faut savoir sur la demie France-Croatie
+description : Véritable classique de la discipline, l’opposition entre Français et Croates devrait encore faire des étincelles ce jeudi dans une Arena de Zagreb pleine à craquer.
+date : Thu, 30 Jan 2025 00:04:43 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/mondial-de-handball-2025-tombeur-de-l-allemagne-le-portugal-en-demi-finale-pour-la-premiere-fois-de-son-histoire-20250129
+source : Le Figaro - Handball.xml
+title : Mondial de handball 2025 : tombeur de l’Allemagne, le Portugal en demi-finale pour la première fois de son histoire
+description : None
+date : Wed, 29 Jan 2025 23:42:15 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/mondial-de-handball-le-danemark-ecrase-le-bresil-et-file-demi-finales-20250129
+source : Le Figaro - Handball.xml
+title : Mondial de handball 2025 : le Danemark écrase le Brésil et file en demi-finales
+description : Sans surprise, les Danois, grand favori du Mondial n’ont fait qu’une bouchée du Brésil en quart de finale pour rallier les demi-finales.
+date : Wed, 29 Jan 2025 23:42:43 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/mondial-de-handball-six-mois-apres-l-echec-des-jo-2024-les-bleus-de-nouveau-dans-le-carre-final-20250129
+source : Le Figaro - Handball.xml
+title : Mondial de handball 2025 : six mois après l’échec des JO, les Bleus de retour dans le carré final
+description : DÉCRYPTAGE - L’équipe de France défiera la Croatie, ce jeudi à Zagreb, lors d’une demi-finale qui s’annonce bouillante.
+date : Wed, 29 Jan 2025 23:43:17 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/france-croatie-a-quelle-heure-et-sur-quelle-chaine-suivre-le-match-20250129
+source : Le Figaro - Handball.xml
+title : Mondial de handball 2025 : à quelle heure et sur quelle chaîne suivre la demie France-Croatie ?
+description : Les handballeurs français défient les Croates jeudi soir (21h) en demi-finales du Mondial à Zagreb.
+date : Thu, 30 Jan 2025 00:21:12 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/mondial-de-handball-en-video-le-but-magique-et-decisif-a-la-derniere-seconde-du-heros-luka-karabatic-20250128
+source : Le Figaro - Handball.xml
+title : Mondial de handball 2025 : en vidéo, le but magique et décisif à la dernière seconde du héros Luka Karabatic
+description : À la toute dernière seconde, d’un tir du milieu de terrain, l’ex-capitaine de l’équipe de France a qualifié les siens pour le dernier carré.
+date : Wed, 29 Jan 2025 10:27:57 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/mondial-de-handball-2025-luka-karabatic-decisif-karl-konan-fautif-les-tops-flops-du-quart-france-egypte-20250128
+source : Le Figaro - Handball.xml
+title : Mondial de handball 2025 : Luka Karabatic décisif, Karl Konan fautif… Les tops/flops du quart France-Egypte
+description : L’équipe de France a validé son billet pour les demi-finales de justesse face à l’Égypte (34-33). Découvrez ce qui a plu... et déplu à notre rédaction.
+date : Tue, 28 Jan 2025 23:25:24 +0100
+categories : ['Handball']
+
+id : https://www.lefigaro.fr/sports/handball/mondial-de-handball-2025-on-est-toujours-vivants-se-felicite-le-heros-francais-luka-karabatic-20250128
+source : Le Figaro - Handball.xml
+title : Mondial de handball 2025 : «On est toujours vivants», se félicite le héros français Luka Karabatic
+description : Découvrez les réactions des Bleus après leur victoire à la dernière seconde sur l’Égypte en quarts de finale (34-33).
+date : Tue, 28 Jan 2025 23:17:50 +0100
+categories : ['Handball']
+

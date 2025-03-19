@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/figaro_lefigaromagazine.xml" rel="self" type="application/rss+xml"/>
+        <category>Le Figaro Magazine</category>
+        <title>Le Figaro - Magazine : Actualité du journal</title>
+        <description>Le Figaro Magazine : Retrouvez toute l&#039;actualité</description>
+        <link>http://www.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Wed, 12 Feb 2025 09:42:40 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <image>
+            <title>Le Figaro - Magazine : Actualité du journal</title>
+            <url>https://static.lefigaro.fr/common/logos/logo-150x150.png</url>
+            <link>http://www.lefigaro.fr</link>
+            <description>Le Figaro Magazine : Retrouvez toute l&#039;actualité</description>
+        </image>
+
+                    <item>
+                <guid>https://www.lefigaro.fr/vox/culture/macron-la-droite-et-l-histoire-entretien-avec-le-phenomene-philippe-de-villiers-ce-vicomte-qui-parle-au-peuple-20250207</guid>
+                <title>Macron, la droite et l’Histoire... Enquête sur le phénomène Philippe de Villiers, ce vicomte qui parle au peuple</title>
+                                <link>https://www.lefigaro.fr/vox/culture/macron-la-droite-et-l-histoire-entretien-avec-le-phenomene-philippe-de-villiers-ce-vicomte-qui-parle-au-peuple-20250207</link>
+                                    <description>Avec Mémoricide, il caracole en tête des ventes de livres. À 75 ans, le vicomte qui pensait terminer sa vie en paria se trouve adoubé par une partie de la France. Nous sommes allés le voir dans sa Vendée natale.</description>
+                                <category>Vox Culture</category>
+                <pubDate>Fri, 07 Feb 2025 11:34:51 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2025/02/06/60e8b3db09fb5f9e3c32e368b25eed1126483f0d284e72d59d43eddd142e65df.jpg" width="3000" height="2000">
+                            <media:description type="plain">Philippe de Villiers dans son bureau vendéen, qu’ il a installé dans une grange de sa propriété.</media:description>
+                            <media:credit>Olivier Coret pour Le Figaro Magazine</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/lefigaromagazine/l-editorial-du-figaro-magazine-nous-sommes-face-a-un-marche-de-dupes-20250207</guid>
+                <title>L’éditorial du Figaro Magazine: « Nous sommes face à un marché de dupes »</title>
+                                <link>https://www.lefigaro.fr/lefigaromagazine/l-editorial-du-figaro-magazine-nous-sommes-face-a-un-marche-de-dupes-20250207</link>
+                                    <description>Le gouvernement explique doctement que tout le monde doit prendre sa part de l’effort pour enrayer le dérapage des finances publiques. Comme si les entreprises et l’administration avaient une responsabilité équivalente dans cette banqueroute.</description>
+                                <category>Le Figaro Magazine</category>
+                <pubDate>Fri, 07 Feb 2025 08:00:00 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1279x719_crop/2025/02/05/f2595be21a2deaa2581ccf9eaed3d91308a675b19b2e54a728856b59d9b728aa.jpg" width="1279" height="719">
+                            <media:description type="plain">Guillaume Roquette, directeur de la rédaction du Figaro Magazine.</media:description>
+                            <media:credit>Le Figaro Magazine</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/politique/francois-bayrou-est-le-plus-grand-rentier-de-la-vie-politique-les-indiscretions-du-figaro-magazine-20250206</guid>
+                <title>«François Bayrou est le plus grand rentier de la vie politique»: les indiscrétions du Figaro Magazine</title>
+                                <link>https://www.lefigaro.fr/politique/francois-bayrou-est-le-plus-grand-rentier-de-la-vie-politique-les-indiscretions-du-figaro-magazine-20250206</link>
+                                    <description>CHRONIQUE - Petites phrases et coulisses de la semaine politique.</description>
+                                <category>Politique</category>
+                <pubDate>Thu, 06 Feb 2025 09:57:07 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/2995x1685_crop/2025/02/05/4ed4a02e11ed0e61c1a11bd9655216bcfc6e32e1a289459b2fcf2826dd90eb5f.jpg" width="2995" height="1685">
+                            <media:description type="plain">«J’avais signé pour Emmanuel Macron en 2017, je me retrouve avec François Bayrou en 2025 !», déplore une députée Renaissance. </media:description>
+                            <media:credit>Benoit Tessier / REUTERS</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/immobilier-la-crise-politique-fait-grimper-le-cout-du-credit-20250209</guid>
+                <title>Immobilier: la crise politique fait grimper le coût du crédit</title>
+                                <link>https://www.lefigaro.fr/conjoncture/immobilier-la-crise-politique-fait-grimper-le-cout-du-credit-20250209</link>
+                                    <description>DÉCRYPTAGE - Les banques ont remonté leurs barèmes en février, une première depuis plus d’un an. En cause, l’instabilité gouvernementale qui se répercute sur les taux.</description>
+                                <category>Conjoncture</category>
+                <pubDate>Sun, 09 Feb 2025 11:37:25 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2025/02/06/341e00cf1194038b1ba49aa0cb0b24147f03e9c745dd7a4b7eb1b74d16367085.jpg" width="3000" height="2000">
+                            <media:description type="plain">Depuis la censure du gouvernement Barnier, la France emprunte plus cher sur les marchés. </media:description>
+                            <media:credit>Sutthicha / stock.adobe.com</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/lefigaromagazine/grace-a-l-ia-creez-le-livre-de-votre-vie-20250209</guid>
+                <title>Grâce à l’IA, créez le livre de votre vie</title>
+                                <link>https://www.lefigaro.fr/lefigaromagazine/grace-a-l-ia-creez-le-livre-de-votre-vie-20250209</link>
+                                    <description>Il suffit de répondre oralement aux questions d’une application mobile nourrie à l’IA, pour retrouver son histoire mise en page sur papier.</description>
+                                <category>Le Figaro Magazine</category>
+                <pubDate>Mon, 10 Feb 2025 10:05:18 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/2248x1264_crop/2025/02/07/732535ffc4254e108c2ff45babdaad4d0499e7e5e3ef91573bff5d5a534902f8.jpg" width="2248" height="1264">
+                            <media:description type="plain">La start-up Ma vie en livre (Mavieenlivre.com/webapp) a développé une application conçue pour écrire automatiquement le scénario de sa vie.</media:description>
+                            <media:credit>sdp</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/international/ils-etaient-les-plus-cruels-et-les-plus-extremistes-sur-la-piste-des-djihadistes-francais-en-syrie-20250207</guid>
+                <title>«Ils étaient les plus cruels et les plus extrémistes»: sur la piste des djihadistes français en Syrie</title>
+                                <link>https://www.lefigaro.fr/international/ils-etaient-les-plus-cruels-et-les-plus-extremistes-sur-la-piste-des-djihadistes-francais-en-syrie-20250207</link>
+                                    <description>REPORTAGE - Lors de l’incursion menée par les troupes HTS (Hayat Tahrir al-Sham) en Syrie contre le régime el-Assad, des vidéos ont rappelé la présence de Français parmi les groupes islamistes armés. Nous nous sommes rendus sur place pour tenter de les rencontrer.</description>
+                                <category>International</category>
+                <pubDate>Sat, 08 Feb 2025 21:12:46 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1862x928_crop/2025/02/07/6b64f818e6c8b4b2f1d613b2b8dea66ee65d8f76d95f20f9b755e1e7cad6a0ff.jpg" width="1862" height="928">
+                            <media:description type="plain">Reem est partie en Syrie en 2014 pour rejoinde le groupe État islamique. Elle vit aujourd’hui à Idlib avec ses trois enfants.</media:description>
+                            <media:credit>Olivier Coret pour Le Figaro Magazine</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/lefigaromagazine/rdc-emmanuel-de-merode-directeur-du-parc-national-des-virunga-menace-par-la-guerre-20250205</guid>
+                <title>RDC: Emmanuel de Merode, directeur du parc national des Virunga menacé par la guerre</title>
+                                <link>https://www.lefigaro.fr/lefigaromagazine/rdc-emmanuel-de-merode-directeur-du-parc-national-des-virunga-menace-par-la-guerre-20250205</link>
+                                    <description>Dans l’est de la République démocratique du Congo, les rebelles du M23, poursuivent une tentative d’annexion qui ne dit pas son nom. Acteur sécuritaire et économique dans cette région, le Parc national des Virunga se retrouve en première ligne.</description>
+                                <category>Le Figaro Magazine</category>
+                <pubDate>Wed, 05 Feb 2025 09:38:13 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1280x720_crop/2025/02/05/2782ab8d8b1db6ee25159748c1a617516f222ebd15fb71caf38cf8da6b565258.jpg" width="1280" height="720">
+                            <media:description type="plain">Emmanuel de Merode, directeur du Parc national des Virunga</media:description>
+                            <media:credit>Brent Stirton / Getty Images</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/international/disciple-de-donald-trump-marco-rubio-et-la-diplomatie-du-pistolet-sur-la-tempe-20250205</guid>
+                <title>Marco Rubio, disciple de Donald Trump et adepte de la diplomatie du pistolet sur la tempe</title>
+                                <link>https://www.lefigaro.fr/international/disciple-de-donald-trump-marco-rubio-et-la-diplomatie-du-pistolet-sur-la-tempe-20250205</link>
+                                    <description>Dès ses premiers pas en Amérique centrale, le nouveau secrétaire d’État a fait usage des méthodes radicales du Président. Avec des résultats immédiats.</description>
+                                <category>International</category>
+                <pubDate>Wed, 05 Feb 2025 11:00:00 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1599x899_crop/2025/02/04/d4dbc4174891921109d4c386710f811dc484747fc5d9291a4f21ca976852a2cc.jpg" width="1599" height="899">
+                            <media:description type="plain">À Panamá City, des manifestants anti-Mario Rubio. </media:description>
+                            <media:credit>MARTIN BERNETTI / AFP</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/vox/monde/avec-donald-trump-l-union-europeenne-s-interroge-sur-sa-legislation-en-matiere-migratoire-20250206</guid>
+                <title>Avec Donald Trump, l’Union européenne s’interroge sur sa législation en matière migratoire</title>
+                                <link>https://www.lefigaro.fr/vox/monde/avec-donald-trump-l-union-europeenne-s-interroge-sur-sa-legislation-en-matiere-migratoire-20250206</link>
+                                    <description>CHRONIQUE - Quand le président américain renvoie 27.000 clandestins en Colombie, les Vingt-Sept s’interrogent sur sa législation en matière migratoire.</description>
+                                <category>Vox Monde</category>
+                <pubDate>Thu, 06 Feb 2025 10:03:22 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2025/02/05/414858e896a685fdbe49b732667165e69274032a0f4740bbe97bb11c72795f78.jpg" width="3000" height="1687">
+                            <media:description type="plain">Le président américain Donald Trump à la Maison Blanche, le 4 février 2025.</media:description>
+                            <media:credit>Pool/ABACA</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/lefigaromagazine/bertrand-de-saint-vincent-pour-etre-centenaire-il-convient-de-ne-jamais-s-arreter-de-vivre-20250207</guid>
+                <title>Bertrand de Saint Vincent : «Pour être centenaire, il convient de ne jamais s’arrêter de vivre»</title>
+                                <link>https://www.lefigaro.fr/lefigaromagazine/bertrand-de-saint-vincent-pour-etre-centenaire-il-convient-de-ne-jamais-s-arreter-de-vivre-20250207</link>
+                                    <description>CHRONIQUE - Une petite fille sur deux qui naît aujourd’hui sera centenaire. Comment faire pour tenir si longtemps ?</description>
+                                <category>Le Figaro Magazine</category>
+                <pubDate>Fri, 07 Feb 2025 17:22:52 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1273x716_crop/2025/02/06/da11873aa982f464ba76ba5a1adadb5f2a174b9762ce4ae119e3efe7641a2d47.jpg" width="1273" height="716">
+                            <media:description type="plain">Bertrand de Saint Vincent.</media:description>
+                            <media:credit>François Bouchon / Le Figaro</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/frederic-beigbeder-j-ecris-l-iliade-de-pierre-michon-le-baroud-d-honneur-de-notre-plus-grand-ecrivain-20250207</guid>
+                <title>Frédéric Beigbeder: «J’écris l’Iliade de Pierre Michon, le baroud d’honneur de notre plus grand écrivain»</title>
+                                <link>https://www.lefigaro.fr/livres/frederic-beigbeder-j-ecris-l-iliade-de-pierre-michon-le-baroud-d-honneur-de-notre-plus-grand-ecrivain-20250207</link>
+                                    <description>CHRONIQUE - Le dernier livre du meilleur prosateur français alterne voyage érotique chez Homère et souvenirs de clochard céleste.</description>
+                                <category>Livres</category>
+                <pubDate>Fri, 07 Feb 2025 16:31:09 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2025/02/05/3edfc13ad86e8f0f71c567761b792385caefd4e8d55d04dd7e780c3fd6755ea4.jpg" width="3000" height="1687">
+                            <media:description type="plain">Frédéric Beigbeder.</media:description>
+                            <media:credit>François BOUCHON</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/voyages/inspiration/voyage-en-angola-le-dernier-secret-d-afrique-20250207</guid>
+                <title>Voyage en Angola, le dernier secret d’Afrique</title>
+                                <link>https://www.lefigaro.fr/voyages/inspiration/voyage-en-angola-le-dernier-secret-d-afrique-20250207</link>
+                                    <description>GRAND REPORTAGE - C’est une destination qu’on pensait ne jamais pouvoir visiter. Heureuse surprise : l’Angola s’ouvre tout juste au tourisme ! L’occasion de découvrir un pays de brousse, de montagnes rocheuses et de chutes d’eau spectaculaires. La langue portugaise apporte une langueur presque brésilienne à ce territoire baigné par l’Atlantique, et durement marqué par l’esclavagisme.</description>
+                                <category>Inspiration</category>
+                <pubDate>Fri, 07 Feb 2025 09:20:25 +0100</pubDate>
+
+                            </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/livres/regis-debray-j-essaierai-d-ecrire-des-livres-qui-restent-sur-une-epoque-qui-passe-20250208</guid>
+                <title>Régis Debray: «J’essaierai d’écrire des livres qui restent sur une époque qui passe»</title>
+                                <link>https://www.lefigaro.fr/livres/regis-debray-j-essaierai-d-ecrire-des-livres-qui-restent-sur-une-epoque-qui-passe-20250208</link>
+                                    <description>UN HOMME, UNE VOIX - Si Julien Gracq l’avait à l’estomac, l’ancien révolutionnaire la porte au plus profond de lui, telle la blessure d’un amour auquel il aurait renoncé trop tôt au profit du monde et de ses illusions.</description>
+                                <category>Livres</category>
+                <pubDate>Sat, 08 Feb 2025 16:00:00 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/2035x1145_crop/2025/02/05/259ec2fa125a656e66b7d5dce7f8cb0e60fd5d1e3d90214cd88ac8a0dd6f3c90.jpg" width="2035" height="1145">
+                            <media:description type="plain">Régis Debray.</media:description>
+                            <media:credit>Francesca Mantovani-éditions Ga</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/vox/monde/michael-prazan-il-y-a-une-detestation-presque-instinctive-de-l-etat-juif-qui-s-est-enkystee-a-gauche-20250206</guid>
+                <title>Michaël Prazan : « Il y a une détestation presque instinctive de l’État juif qui s’est enkystée à gauche »</title>
+                                <link>https://www.lefigaro.fr/vox/monde/michael-prazan-il-y-a-une-detestation-presque-instinctive-de-l-etat-juif-qui-s-est-enkystee-a-gauche-20250206</link>
+                                    <description>ENTRETIEN - Dans La Vérité sur le Hamas et ses «idiots utiles», l’écrivain et documentariste remonte aux origines de l’organisation terroriste. Et dénonce la responsabilité des partis d’extrême gauche, de certains intellectuels et ONG, dans la propagation de l’islamisme et la résurgence de l’antisémitisme.</description>
+                                <category>Vox Monde</category>
+                <pubDate>Thu, 06 Feb 2025 12:00:00 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1499x843_crop/2025/02/05/d2311b8d38e4c2f82f7195cfd7887f12c110f15fa2289b16648afc114eede07c.jpg" width="1499" height="843">
+                            <media:description type="plain">L’écrivain Michaël Prazan.</media:description>
+                            <media:credit>Franck Ferville pour «Le Figaro Magazine»</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/vox/societe/alexandre-devecchio-les-gueux-face-aux-zones-a-forte-exclusion-20250206</guid>
+                <title>Alexandre Devecchio : « Les gueux face aux Zones à Forte Exclusion »</title>
+                                <link>https://www.lefigaro.fr/vox/societe/alexandre-devecchio-les-gueux-face-aux-zones-a-forte-exclusion-20250206</link>
+                                    <description>LA BATAILLE DES IDÉES - Une vague de colère, relayée par les réseaux sociaux et les élus locaux, commence à naître contre les zones à faibles émissions. L’écrivain Alexandre Jardin prédit une révolte des gueux.</description>
+                                <category>Vox Société</category>
+                <pubDate>Thu, 06 Feb 2025 07:00:00 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2025/02/05/69dd1480f3e8434e2bf55bf1e04f4c9383f7396027bfed72699d86c5919f36b8.jpg" width="3000" height="1687">
+                            <media:description type="plain">Les ZFE sont des «Zones à Forte Exclusion» des Français modestes. </media:description>
+                            <media:credit>Photoagriculture / stock.adobe.com</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/vox/de-quoi-la-profanation-de-la-tombe-de-jean-marie-le-pen-est-elle-le-nom-20250205</guid>
+                <title>De quoi la profanation de la tombe de Jean-Marie Le Pen est-elle le nom?</title>
+                                <link>https://www.lefigaro.fr/vox/de-quoi-la-profanation-de-la-tombe-de-jean-marie-le-pen-est-elle-le-nom-20250205</link>
+                                    <description>LA MINUTE PHILO - On ne peut rien comprendre à la profanation des morts si l’on ne comprend qu’elle résulte directement d’une vie humaine préalablement aliénée, mutilée, dégradée</description>
+                                <category>Vox</category>
+                <pubDate>Thu, 06 Feb 2025 09:06:22 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2025/02/04/e2de99bf281e0cca4fb73190da0f55edc757bc9a473edd2307458adb9a394396.jpg" width="3000" height="1687">
+                            <media:description type="plain">Le caveau de la famille Le Pen a été dégradé fin janvier, trois semaines après la mort du fondateur du RN. </media:description>
+                            <media:credit>Le Floch Pascal/ABACA</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/strip-tease-integral-l-emission-culte-de-la-tele-belge-revient-au-cinema-20250208</guid>
+                <title>Strip-tease intégral, l’émission culte de la télé belge revient au cinéma</title>
+                                <link>https://www.lefigaro.fr/cinema/strip-tease-integral-l-emission-culte-de-la-tele-belge-revient-au-cinema-20250208</link>
+                                    <description>LA CHRONIQUE DE JEAN-CHRISTOPHE BUISSON - L’émission culte de la télé belge «Strip-Tease» fait son retour au cinéma le 12 février. C’est évidemment une réussite.</description>
+                                <category>Cinéma</category>
+                <pubDate>Sat, 08 Feb 2025 21:14:58 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1217x685_crop/2025/02/06/963c9271b94525df8ccb634187113da096726575fe66de4e01e72a0499aadd96.jpg" width="1217" height="685">
+                            <media:description type="plain">Le film «Strip-tease intégral» sort le 12 février.</media:description>
+                            <media:credit>Strip-tease intégral</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/international/a-oimiakon-en-russie-la-ville-ou-le-froid-ne-meurt-jamais-20250207</guid>
+                <title>À Oïmiakon, en Russie, la ville où le froid ne meurt jamais</title>
+                                <link>https://www.lefigaro.fr/international/a-oimiakon-en-russie-la-ville-ou-le-froid-ne-meurt-jamais-20250207</link>
+                                    <description>REPORTAGE - Dans cette localité reculée de Sibérie, l’hiver dure neuf mois et on y a enregistré la température record de – 71 °C !  Aujourd’hui, une poignée d’habitants se sont adaptés à ces conditions extrêmes, dans un paysage polaire permanent.</description>
+                                <category>International</category>
+                <pubDate>Sun, 09 Feb 2025 15:36:59 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1515x852_crop/2025/02/06/6d97c842de5e597533cc7bb677edc733cb8c6914e66e7ea5e05b037a7b78f690.jpg" width="1515" height="852">
+                            <media:description type="plain">Oïmiakon et ses environs sont encaissés dans une cuvette entourée de montagnes. Les vents polaires s’engouffrent dans cette vallée fermée, expliquant ces températures moyennes de – 40 °C l’hiver.</media:description>
+                            <media:credit>Natalya Saprunova pour «Le Figaro Magazine»</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/international/comment-l-armee-francaise-prepare-la-guerre-de-demain-20250131</guid>
+                <title>Comment l’armée française prépare la guerre de demain</title>
+                                <link>https://www.lefigaro.fr/international/comment-l-armee-francaise-prepare-la-guerre-de-demain-20250131</link>
+                                    <description>REPORTAGE EXCLUSIF - Riche des enseignements que lui révèlent les conflits en Ukraine et au Proche-Orient, l’état-major français accélère et réorganise sa capacité d’innovation.</description>
+                                <category>International</category>
+                <pubDate>Tue, 04 Feb 2025 12:45:29 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2025/01/30/5d3061ae07bcf3d44fd1ba756eb009863dc4618e37675025dbcfcc207a41797e.jpg" width="3000" height="1687">
+                            <media:description type="plain">Sur le plateau du Larzac, en Aveyron, les légionnaires de la 13e DBLE (demi-brigade de Légion étrangère) expérimentent le lancer d’un nuage de drones à partir d’unvéhicule blindé multi-rôle Griffon.</media:description>
+                            <media:credit>Thomas Goisque pour Le Figaro Magazine</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/international/apres-des-annees-de-conflit-a-distance-l-armee-francaise-au-defi-de-la-haute-intensite-20250201</guid>
+                <title>Après des années de conflit à distance, l’armée française au défi de la haute intensité</title>
+                                <link>https://www.lefigaro.fr/international/apres-des-annees-de-conflit-a-distance-l-armee-francaise-au-defi-de-la-haute-intensite-20250201</link>
+                                    <description>DÉCRYPTAGE - Nos forces armées doivent se préparer à des confrontations majeures si un conflit intervient.</description>
+                                <category>International</category>
+                <pubDate>Sat, 01 Feb 2025 07:00:00 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1519x854_crop/2025/01/30/fd6fdad5a21dc4a3afa8eddf6cd2dd0a1dc2b058ba92af4cdec9ab0ce99a6814.jpg" width="1519" height="854">
+                            <media:description type="plain">Sur les causses du plateau du Larzac en Aveyron, les légionnaires de 13e DBLE (Demi-Brigade de Légion Étrangère) expérimentent le lancer d’un nuage de drone à partir d’un Véhicule Blindé Multi-rôle Griffon (VBRM).</media:description>
+                            <media:credit>Thomas Goisque pour «Le Figaro Magazine»</media:credit>
+                        </media:content>
+                                                </item>
+            </channel>
+</rss>

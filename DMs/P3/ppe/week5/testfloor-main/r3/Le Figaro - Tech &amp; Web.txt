@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/politique/intelligence-artificielle-emmanuel-macron-veut-relancer-l-europe-dans-la-course-20250209
+source : Le Figaro - Tech &amp; Web.xml
+title : Intelligence artificielle: Emmanuel Macron veut relancer l’Europe dans la course
+description : DÉCRYPTAGE - Le chef de l’État préside lundi et mardi un sommet sur l’IA qui mêle enjeux technologiques, économiques et diplomatiques. Et lui permet de remettre en scène son identité politique.
+date : Mon, 10 Feb 2025 09:44:27 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/international/la-france-ne-peut-pas-passer-a-cote-de-cette-revolution-le-gratin-mondial-de-l-intelligence-artificielle-a-rendez-vous-a-paris-20250209
+source : Le Figaro - Tech &amp; Web.xml
+title : «La France ne peut pas passer à côté de cette révolution»: le gratin mondial de l’intelligence artificielle a rendez-vous à Paris
+description : DÉCRYPTAGE - L’Europe voudrait rattraper son retard et s’imposer sur un marché dominé par les États-Unis et la Chine.
+date : Mon, 10 Feb 2025 09:54:38 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/secteur/high-tech/en-marge-du-sommet-sur-l-ia-la-france-capte-des-dizaines-de-milliards-d-euros-d-investissements-20250209
+source : Le Figaro - Tech &amp; Web.xml
+title : IA: Emmanuel Macron annonce des investissements en France de «109 milliards d’euros dans les prochaines années»
+description : DÉCRYPTAGE - Les annonces fracassantes, dont celles de constructions de gigantesques data centers, pleuvent depuis jeudi. Elles devraient continuer jusqu’à la clôture du sommet mardi.
+date : Mon, 10 Feb 2025 10:25:14 +0100
+categories : ['Tech & Web']
+
+id : https://www.lefigaro.fr/conjoncture/thierry-breton-la-regulation-favorisera-l-emergence-de-champions-europeens-20250209
+source : Le Figaro - Tech &amp; Web.xml
+title : Thierry Breton : « IA, commerce, défense : l’Europe doit affirmer son leadership »
+description : ENTRETIEN - L’ex-commissaire européen au Marché intérieur défend la régulation européenne sur le numérique et appelle l’UE à doubler le nombre de supercalculateurs.
+date : Sun, 09 Feb 2025 16:30:00 +0100
+categories : ['Conjoncture']
+
+id : https://www.lefigaro.fr/culture/nos-conseils-pour-ameliorer-la-batterie-de-son-mobile-20250209
+source : Le Figaro - Tech &amp; Web.xml
+title : Nos conseils pour améliorer la batterie de son mobile
+description : Véritable source de stress pour certains, l’autonomie d’un smartphone peut être optimisée avec quelques mesures simples.
+date : Mon, 10 Feb 2025 09:03:39 +0100
+categories : ['Tech & Web']
+
+id : https://www.lefigaro.fr/secteur/high-tech/c-est-un-moment-d-ecoute-pour-rassurer-les-francais-face-a-l-intelligence-artificielle-l-etat-mise-sur-les-cafes-ia-20250209
+source : Le Figaro - Tech &amp; Web.xml
+title : «C’est un moment d’écoute»: pour rassurer les Français face à l’intelligence artificielle, l’État mise sur les «cafés IA»
+description : REPORTAGE - Après une phase d’expérimentation à succès, le gouvernement va généraliser ce dispositif. Organisé partout en France, il vise à écouter les peurs et interrogations des citoyens, et éviter une fracture de la société.
+date : Mon, 10 Feb 2025 09:55:25 +0100
+categories : ['Tech & Web']
+
+id : https://www.lefigaro.fr/secteur/high-tech/avec-brookfield-un-nouveau-mega-investissement-de-20-milliards-d-euros-dans-les-data-centers-en-france-20250209
+source : Le Figaro - Tech &amp; Web.xml
+title : Avec Brookfield, un nouveau méga investissement de 20 milliards d’euros dans les data centers en France
+description : Le gérant d’actif canadien, propriétaire de l’exploitant européen Data4, promet d’investir dans des nouveaux sites ainsi que des puces d’IA. Après Abu Dhabi jeudi, la France continue sa moisson d’investissement dans ces infrastructures.
+date : Mon, 10 Feb 2025 13:04:20 +0100
+categories : ['Tech & Web']
+
+id : https://www.lefigaro.fr/conjoncture/a-quoi-pourrait-bien-servir-la-reserve-americaine-de-bitcoins-voulue-par-donald-trump-20250208
+source : Le Figaro - Tech &amp; Web.xml
+title : À quoi pourrait bien servir la réserve américaine de bitcoins voulue par Donald Trump ?
+description : DÉCRYPTAGE - Le président américain a ordonné la création d’un groupe de travail sur les cryptomonnaies, chargé de réfléchir à la création d’un «stock national d’actifs numériques». Derrière l’effet de mode et les questions légales, se dessine une véritable course technologique.
+date : Sat, 08 Feb 2025 08:00:00 +0100
+categories : ['Conjoncture']
+
+id : https://www.lefigaro.fr/secteur/high-tech/xavier-niel-aurait-des-vues-sur-telecom-italia-20250207
+source : Le Figaro - Tech &amp; Web.xml
+title : Xavier Niel aurait des vues sur Telecom Italia
+description : Plusieurs médias italiens indiquent que l’homme d’affaires français, très présent sur le marché local du mobile, s’intéresserait de près à l’opérateur historique du pays. Il faudrait le cas échéant convaincre Rome ainsi que le premier actionnaire de Telecom Italia, Vivendi.
+date : Fri, 07 Feb 2025 18:13:03 +0100
+categories : ['Tech & Web']
+
+id : https://www.lefigaro.fr/actualite-france/je-suis-tombee-amoureuse-de-chatgpt-20250207
+source : Le Figaro - Tech &amp; Web.xml
+title : «Il surpasse la majorité des hommes» : l’incroyable histoire de Mika, tombée amoureuse de ChatGPT
+description : TÉMOIGNAGE - Cette jeune femme de 23 ans voit en Elias - le nom que s’est donné l’intelligence artificielle générative lors de leurs discussions - un partenaire fiable, qui répond à (presque) toutes ses attentes affectives.
+date : Sat, 08 Feb 2025 12:04:30 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/secteur/high-tech/c-est-mon-premier-reflexe-de-la-journee-ces-francais-qui-preferent-l-ia-a-google-pour-leurs-recherches-20250207
+source : Le Figaro - Tech &amp; Web.xml
+title : «C’est mon premier réflexe de la journée» : ces Français qui préfèrent l’IA à Google pour leurs recherches
+description : TÉMOIGNAGES - Réserver un voyage, trouver un produit high-tech, poser une question... Ils sont nombreux à utiliser l’intelligence artificielle comme moteur de recherche, assurant qu’elle leur permet «un gain de temps considérable». Mais gare aux résultats qui peuvent parfois être tronqués.
+date : Fri, 07 Feb 2025 22:45:24 +0100
+categories : ['Tech & Web']
+
+id : https://www.lefigaro.fr/conjoncture/budget-mauvaise-surprise-pour-les-entreprises-innovantes-qui-perdent-des-avantages-fiscaux-20250206
+source : Le Figaro - Tech &amp; Web.xml
+title : «Pas moins de 3 milliards d’euros vont être coupés» : le budget réserve aussi de mauvaises surprises pour les entreprises innovantes
+description : DÉCRYPTAGE - Alors que le budget 2025 est sur le point d’être complètement adopté, les aides à l’innovation vont payer un lourd tribut à la lutte contre le déficit.
+date : Fri, 07 Feb 2025 16:30:37 +0100
+categories : ['Conjoncture']
+
+id : https://www.lefigaro.fr/secteur/high-tech/mistral-ai-lance-son-assistant-le-chat-sur-iphone-et-android-pour-rendre-l-ia-populaire-20250206
+source : Le Figaro - Tech &amp; Web.xml
+title : La start-up française Mistral AI lance son assistant Le Chat sur iPhone et Android pour «rendre l’IA populaire»
+description : EXCLUSIF - À l’occasion du sommet sur l’IA, la start-up veut diffuser ses produits auprès du grand public. Arrivée de DeepSeek, contrats commerciaux, rumeurs sur la Bourse... Le cofondateur et directeur général Arthur Mensch détaille sa stratégie au Figaro.
+date : Thu, 06 Feb 2025 17:02:54 +0100
+categories : ['Tech & Web']
+
+id : https://www.lefigaro.fr/secteur/high-tech/interdiction-des-reseaux-sociaux-pour-les-jeunes-clara-chappaz-appelle-a-regarder-la-question-sans-tabou-20250206
+source : Le Figaro - Tech &amp; Web.xml
+title : Interdiction des réseaux sociaux pour les jeunes : Clara Chappaz appelle à «regarder la question sans tabou»
+description : Alors que le 6 février marque la journée mondiale sans téléphone portable, la ministre déléguée à l’Intelligence artificielle et au Numérique, s’est exprimée sur RTL Matin. Elle a appelé à «encadrer l’utilisation de ces réseaux».
+date : Thu, 06 Feb 2025 14:07:51 +0100
+categories : ['Tech & Web']
+
+id : https://www.lefigaro.fr/conjoncture/comment-l-etat-veut-convertir-ses-5-7-millions-d-agents-publics-a-l-ia-20250206
+source : Le Figaro - Tech &amp; Web.xml
+title : Comment l’État veut convertir les 5,7 millions d’agents publics à l’IA
+description : Le ministre de la Fonction publique, Laurent Marcangeli, a présenté ce jeudi sa feuille de route pour la généralisation de l’intelligence artificielle dans l’administration. Objectif : « simplifier la vie » des agents.
+date : Fri, 07 Feb 2025 17:52:01 +0100
+categories : ['Conjoncture']
+
+id : https://www.lefigaro.fr/secteur/high-tech/yann-le-cun-joelle-barral-arthur-mensch-ces-sept-grandes-figures-francaises-de-l-intelligence-artificielle-20250206
+source : Le Figaro - Tech &amp; Web.xml
+title : Yann Le Cun, Joëlle Barral, Arthur Mensch... Ces sept grandes figures françaises de l’intelligence artificielle
+description : PORTRAITS - Discrètes, ces personnalités façonnent pourtant le monde de demain. Beaucoup d’entre elles ont fait leurs armes au sein des Gafam avant, parfois, de déployer leurs solutions en France. Le Figaro dresse le portrait de ces cerveaux hors du commun.
+date : Fri, 07 Feb 2025 10:08:13 +0100
+categories : ['Tech & Web']
+
+id : https://www.lefigaro.fr/secteur/high-tech/ia-liang-wenfeng-fondateur-de-deepseek-le-geek-providentiel-qui-galvanise-la-chine-20250205
+source : Le Figaro - Tech &amp; Web.xml
+title : IA : Liang Wenfeng, fondateur de DeepSeek, le geek providentiel qui galvanise la Chine
+description : PORTRAIT - L’ingénieur jusqu’alors inconnu a été propulsé au rang de héros national depuis que son IA a ébranlé les géants américains de la tech. Et ce, alors que son parcours d’entrepreneur ne colle pas tout à fait à la ligne du Parti.
+date : Thu, 06 Feb 2025 10:19:19 +0100
+categories : ['Tech & Web']
+
+id : https://www.lefigaro.fr/secteur/high-tech/matchft-chatft-ces-outils-dopes-a-l-ia-que-france-travail-experimente-pour-mieux-accompagner-les-chomeurs-20250204
+source : Le Figaro - Tech &amp; Web.xml
+title : MatchFT, ChatFT... Ces outils dopés à l’IA que France Travail expérimente pour mieux accompagner les chômeurs
+description : L’opérateur a dévoilé mardi de nouveaux moyens, développés avec Mistral AI, qui doivent permettre de faciliter la recherche d’emploi et d’alléger la paperasse.
+date : Thu, 06 Feb 2025 14:12:38 +0100
+categories : ['Tech & Web']
+
+id : https://www.lefigaro.fr/secteur/high-tech/dassault-systemes-veut-devenir-le-champion-de-l-ia-industrielle-20250204
+source : Le Figaro - Tech &amp; Web.xml
+title : Dassault Systèmes veut devenir le «champion de l’IA industrielle»
+description : L’éditeur de logiciels a connu une fin d’année dynamique, qui compense les secousses dans le secteur automobile et médical. Il vient de signer un contrat décennal avec le groupe Volkswagen.
+date : Wed, 05 Feb 2025 11:17:08 +0100
+categories : ['Tech & Web']
+
+id : https://www.lefigaro.fr/actualite-france/entre-vie-de-reve-et-scenarios-sadiques-pourquoi-les-sims-seduisent-toujours-25-ans-apres-la-creation-du-jeu-video-20250204
+source : Le Figaro - Tech &amp; Web.xml
+title : À 25 ans, le jeu vidéo Les Sims captive toujours : «On peut faire des choses que l’on n’ose pas dans la vie»
+description : GÉNÉRATIONS - Le célèbre jeu vidéo américain fête ses 25 ans ce mardi 4 février. Adeptes de la première heure, les joueurs racontent au Figaro les meilleurs souvenirs de leur fausse vie virtuelle.
+date : Wed, 05 Feb 2025 12:08:40 +0100
+categories : ['Société']
+

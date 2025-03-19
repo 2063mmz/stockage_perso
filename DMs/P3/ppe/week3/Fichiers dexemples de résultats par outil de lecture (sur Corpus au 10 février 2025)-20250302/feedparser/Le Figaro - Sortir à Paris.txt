@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/sortir-paris/loic-prigent-penser-qu-un-jogging-n-est-pas-elegant-c-est-une-faute-de-gout-20241130
+source : Le Figaro - Sortir à Paris.xml
+title : Loïc Prigent: «Penser qu'un jogging n'est pas élégant, c'est une faute de goût»
+description : ENTRETIEN - Journaliste et documentariste, ce quinquagénaire fin et drôle arpente, caméra au poing, les défilés et leurs coulisses depuis trente ans. Avec son million d'abonnés sur les réseaux sociaux, il publie Mille milliards de rubans - La vraie histoire de la mode (Grasset) où il raconte les prémices de la mode française au XIXe siècle.
+date : Sat, 30 Nov 2024 20:53:01 +0100
+categories : ['Sortir à Paris']
+
+id : https://www.lefigaro.fr/arts-expositions/art-basel-paris-entend-jouer-dans-la-cour-des-grands-des-foires-d-art-contemporain-20241018
+source : Le Figaro - Sortir à Paris.xml
+title : Art Basel Paris entend jouer dans la cour des grands des foires d’art contemporain
+description : EXPOSITION - En entrant au Grand Palais rénové, la foire internationale, ancrée en Suisse, a réussi à attirer la crème des VIP dans la capitale. Pléthore d'offre d'un niveau exceptionnel pour des acheteurs qui font la loi dans un marché qui sent venir l'orage.
+date : Sat, 19 Oct 2024 15:36:44 +0200
+categories : ['Arts Expositions', 'Sortir à Paris']
+
+id : https://www.lefigaro.fr/arts-expositions/que-faut-il-voir-pendant-la-folle-semaine-de-la-art-week-paris-20241018
+source : Le Figaro - Sortir à Paris.xml
+title : Que faut-il voir pendant la folle semaine de la «Art Week Paris» ?
+description : NOTRE SÉLECTION - Des foires aux musées, des galeries du Marais à Matignon, Paris regorge de propositions en cette semaine qui met l’art moderne et contemporain à l’honneur.
+date : Fri, 25 Oct 2024 11:41:37 +0200
+categories : ['Arts Expositions', 'Sortir à Paris']
+
+id : https://www.lefigaro.fr/arts-expositions/l-intrepide-galleria-continua-s-ancre-a-matignon-la-prospere-20240920
+source : Le Figaro - Sortir à Paris.xml
+title : L’intrépide Galleria Continua s’ancre à Matignon la prospère
+description : INFO LE FIGARO - Alors que de nombreuses galeries ferment dans la capitale, cette succursale italienne dont l’espace du Marais est déjà un grand succès, ouvre le 4 octobre un neuvième espace dans le nouveau Triangle d’or du marché de l’art.
+date : Fri, 20 Sep 2024 18:34:57 +0200
+categories : ['Arts Expositions', 'Sortir à Paris']
+
+id : https://www.lefigaro.fr/sortir-paris/ambiance-club-med-au-champ-de-mars-et-scenes-de-liesse-a-la-concorde-de-l-art-de-se-laisser-prendre-aux-jeux-20240807
+source : Le Figaro - Sortir à Paris.xml
+title : Ambiance Club Med au Champ-de-Mars et scènes de liesse à la Concorde: l’art de se laisser prendre aux Jeux
+description : Sans absolument connaître toutes les règles, notre journaliste a assisté aux huitièmes de final du beach-volley au Champ-de-Mars puis à la finale du basket 3x3 masculin à la Concorde. Une soirée en argent.
+date : Wed, 07 Aug 2024 19:41:49 +0200
+categories : ['Sortir à Paris']
+
+id : https://www.lefigaro.fr/sortir-paris/plages-cuisine-musique-les-reggae-nights-de-la-jamaique-en-seine-saint-denis-20240806
+source : Le Figaro - Sortir à Paris.xml
+title : Plages, cuisine, musique: les «Reggae Nights» de la Jamaïque en Seine-Saint-Denis
+description : La Maison de la Jamaïque, installée près du Stade de France, permet de faire découvrir au public les «bonnes ondes» de la troisième plus grande île des Caraïbes.
+date : Tue, 06 Aug 2024 15:48:58 +0200
+categories : ['Sortir à Paris']
+
+id : https://www.lefigaro.fr/voyages/jo-paris-2024-l-etonnante-escale-d-air-france-au-palais-de-tokyo-20240729
+source : Le Figaro - Sortir à Paris.xml
+title : JO Paris 2024 : l’étonnante escale d’Air France au Palais de Tokyo
+description : Air France célèbre les Jeux olympiques et paralympiques de Paris 2024 au Palais de Tokyo avec un restaurant éphémère, des expositions, et des objets exclusifs, offrant une immersion unique dans l'univers de la compagnie. Une expérience à ne pas manquer cet été.
+date : Mon, 29 Jul 2024 17:06:58 +0200
+categories : ['Sortir à Paris', 'Voyage']
+
+id : https://www.lefigaro.fr/sortir-paris/les-jardins-parisiens-la-bulle-de-fraicheur-des-jo-2024-20240725
+source : Le Figaro - Sortir à Paris.xml
+title : Les jardins parisiens, la bulle de fraîcheur des JO 2024
+description : La compétition va battre son plein sur les sites de la capitale. Les espaces verts se révèlent un bon plan pour reprendre son souffle entre les deux épreuves.
+date : Thu, 25 Jul 2024 17:20:53 +0200
+categories : ['Sortir à Paris']
+
+id : https://www.lefigaro.fr/sortir-paris/chasse-aux-oeufs-geante-pour-petits-et-grands-dans-l-ancien-relais-de-chasse-de-louis-xiv-20240331
+source : Le Figaro - Sortir à Paris.xml
+title : Chasse aux œufs géante pour petits et grands dans l’ancien relais de chasse de Louis XIV
+description : Dans la forêt de Saint-Germain en Laye, la Maison du Val - gérée par le groupe Les Hôtels (Très) Particuliers - fête Pâques à sa façon, en collaboration avec les chocolatiers parisiens Plaq.
+date : Sun, 31 Mar 2024 09:00:00 +0200
+categories : ['Sortir à Paris']
+
+id : https://www.lefigaro.fr/sortir-paris/les-marchands-au-fil-des-stands-a-la-foire-de-chatou-20220920
+source : Le Figaro - Sortir à Paris.xml
+title : Foire de Chatou: les marchands, au fil des stands à la
+description : Dix jours pour découvrir mobilier, peinture, arts de la table, de l’écriture, fripes, horlogerie, sculptures… et bien d’autres objets.
+date : Tue, 20 Sep 2022 15:17:02 +0200
+categories : ['Sortir à Paris']
+
+id : https://www.lefigaro.fr/sortir-paris/remi-machard-chatou-c-est-un-musee-a-ciel-ouvert-20220920
+source : Le Figaro - Sortir à Paris.xml
+title : Rémi Machard: «Chatou, c’est un musée à ciel ouvert»
+description : ENTRETIEN - Le président du Syndicat national du commerce de l’antiquité, de l’occasion et des galeries d’art détaille ses objectifs et ses projets pour la Foire de Chatou.
+date : Tue, 20 Sep 2022 14:41:13 +0200
+categories : ['Sortir à Paris']
+
+id : https://www.lefigaro.fr/sortir-paris/foie-gras-huitres-comment-manger-sur-le-pouce-a-la-foire-de-chatou-20220920
+source : Le Figaro - Sortir à Paris.xml
+title : Foie gras, huîtres,... Comment manger sur le pouce à la Foire de Chatou
+description : Environ 300 exposants venus de France et de Belgique sont rassemblés pour le plus grand événement de France de la brocante et des antiquités.
+date : Tue, 20 Sep 2022 14:25:37 +0200
+categories : ['Sortir à Paris']
+
+id : https://www.lefigaro.fr/sortir-paris/trouvailles-et-merveilles-a-la-foire-de-chatou-20220920
+source : Le Figaro - Sortir à Paris.xml
+title : Trouvailles et merveilles à la Foire de Chatou
+description : Le marché à la ferraille est devenu au fil du temps celui des belles antiquités. Un rendez-vous très prisé à l’ouest de paris, du 23 septembre au 2 octobre.
+date : Tue, 20 Sep 2022 14:37:39 +0200
+categories : ['Sortir à Paris']
+
+id : https://www.lefigaro.fr/sortir-paris/nocturne-rive-droite-au-fil-des-galeries-20220913
+source : Le Figaro - Sortir à Paris.xml
+title : Nocturne rive droite: au fil des galeries
+description : EXPOSITION - Toutes spécialités confondues, elles se réunissent pour un soir autour de leur passion pour l’art.
+date : Wed, 14 Sep 2022 14:51:12 +0200
+categories : ['Sortir à Paris']
+
+id : https://www.lefigaro.fr/sortir-paris/nocturne-rive-droite-ces-huit-nouvelles-galeries-participantes-20220913
+source : Le Figaro - Sortir à Paris.xml
+title : Nocturne rive droite: ces huit nouvelles galeries participantes
+description : Qu'ils rejoignent pour la première fois la programmation de la Nocturne rive droite ou inaugurent un nouveau lieu qu'ils souhaitent associer à l'événement, ces huit nouveaux participants sont à découvrir cette année.
+date : Tue, 13 Sep 2022 17:19:11 +0200
+categories : ['Sortir à Paris']
+
+id : https://www.lefigaro.fr/sortir-paris/guillaume-leage-l-interspecialite-au-coeur-de-l-evenement-20220913
+source : Le Figaro - Sortir à Paris.xml
+title : Guillaume Léage: «L’interspécialité au cœur de l’événement»
+description : ENTRETIEN - Ce spécialiste des meubles et objets d’art du XVIIIe siècle constate une reprise de son activité, après les années de Covid.
+date : Wed, 14 Sep 2022 14:49:49 +0200
+categories : ['Sortir à Paris']
+
+id : https://www.lefigaro.fr/sortir-paris/nocturne-rive-droite-a-paris-l-art-a-l-unisson-d-oeuvres-en-objets-rares-20220913
+source : Le Figaro - Sortir à Paris.xml
+title : Nocturne rive droite: à Paris, l’art à l’unisson d’oeuvres en objets rares
+description : EXPOSITION - Dans le 8e arrondissement parisien, les amateurs se donnent rendez-vous pour admirer des pièces exceptionnelles.
+date : Wed, 14 Sep 2022 14:46:34 +0200
+categories : ['Sortir à Paris']
+
+id : https://www.lefigaro.fr/sortir-paris/a-clichy-le-kiosque-contours-enchante-le-parc-des-impressionnistes-20220708
+source : Le Figaro - Sortir à Paris.xml
+title : À Clichy, le Kiosque Contours enchante le parc des Impressionnistes
+description : Tout l'été, le parc des Impressionnistes accueille le Kiosque Contours, une guinguette festive où il fait bon prendre l'apéro loin de l'agitation citadine.
+date : Fri, 08 Jul 2022 16:43:59 +0200
+categories : ['Sortir à Paris']
+
+id : https://www.lefigaro.fr/sortir-paris/immersion-dans-la-vie-de-victor-prouve-a-issy-les-moulineaux-20220630
+source : Le Figaro - Sortir à Paris.xml
+title : Immersion dans La Vie de Victor Prouvé à Issy-les-Moulineaux
+description : Jusqu'au 14 août, le Musée de la Carte à jouer retrace la construction de la frise La Vie imaginée par Victor Prouvé pour orner l'escalier d'honneur de l'Hôtel de Ville d'Issy-les-Moulineaux.
+date : Thu, 30 Jun 2022 14:01:02 +0200
+categories : ['Sortir à Paris']
+
+id : https://www.lefigaro.fr/sortir-paris/que-faire-a-paris-cet-ete-des-idees-de-sorties-en-famille-20220630
+source : Le Figaro - Sortir à Paris.xml
+title : Que faire à Paris cet été ? Des idées de sorties en famille
+description : Parce qu'il faut souvent occuper ses enfants durant toute la période estivale ou en attendant le grand départ en vacances, Le Figaro vous propose une vingtaine d'idées de sorties réjouissantes pour toute la famille et pour tous les goûts !
+date : Fri, 01 Jul 2022 11:07:05 +0200
+categories : ['Sortir à Paris']
+

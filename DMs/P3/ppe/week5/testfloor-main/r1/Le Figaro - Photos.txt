@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/photos/angleterre-afrique-du-sud-les-plus-belles-photos-du-match-20231021
+source : Le Figaro - Photos.xml
+title : Angleterre - Afrique du Sud : les plus belles photos du match
+description : EN IMAGES - Au terme d’un match à suspense, les Springboks ont triomphé du XV de la Rose. Revivez le match dans l’objectif de nos photographes.
+date : Sat, 21 Oct 2023 23:32:36 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/france-afrique-du-sud-nos-plus-belles-photos-du-match-20231016
+source : Le Figaro - Photos.xml
+title : France - Afrique du Sud : nos plus belles photos du match
+description : EN IMAGES - Du combat intense à la détresse des Bleus, revivez le quart de finale de la coupe du monde de rugby dans l’objectif de nos photographes.
+date : Mon, 16 Oct 2023 00:09:21 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/france-italie-les-plus-belles-photos-du-match-20231006
+source : Le Figaro - Photos.xml
+title : France - Italie : les plus belles photos du match
+description : EN IMAGES - Revivez la belle victoire du XV de France face aux Italiens dans l’objectif de nos photographes.
+date : Fri, 06 Oct 2023 23:55:53 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/coupe-du-monde-de-rugby-les-plus-belles-photos-du-figaro-20230925
+source : Le Figaro - Photos.xml
+title : Coupe du monde de rugby : les plus belles photos du Figaro
+description : EN IMAGES - Revivez les matches majeurs du tournoi au travers du regard de nos photographes.
+date : Sun, 22 Oct 2023 08:06:03 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/france-uruguay-les-plus-belles-photos-du-match-20230914
+source : Le Figaro - Photos.xml
+title : France - Uruguay : les plus belles photos du match
+description : EN IMAGES - Au terme d’un match disputé, le XV de France est venu à bout des Uruguayens, jeudi, à l’occasion de la 2e journée de la Coupe du monde de rugby.
+date : Fri, 15 Sep 2023 14:37:25 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/disparition-de-pierre-colacicco-photographe-au-figaro-20230511
+source : Le Figaro - Photos.xml
+title : Disparition de Pierre Colacicco, photographe au Figaro
+description : EN IMAGES - Tout au long d&#039;une illustre carrière, il a photographié les plus grandes personnalités de la mode, de la politique ou du sport. Pour lui rendre hommage, Le Figaro a rassemblé certains de ses plus beaux clichés.
+date : Thu, 11 May 2023 19:51:33 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/les-images-les-plus-marquantes-de-2022-20230101
+source : Le Figaro - Photos.xml
+title : Les photos les plus marquantes de 2022
+description : EN IMAGES - De la guerre en Ukraine à la Coupe du monde de football en passant par le climat… retour sur les photos qui ont marqué l&#039;année écoulée.
+date : Tue, 10 Jan 2023 18:17:31 +0100
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/24-heures-photo-du-12-septembre-2022-20220912
+source : Le Figaro - Photos.xml
+title : 24 heures photo du 12 septembre 2022
+description : EN IMAGES - Retrouvez les photographies les plus marquantes de la semaine, sélectionnées par la rédaction du Figaro Magazine.
+date : Tue, 13 Sep 2022 18:35:38 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/24-heures-photo-du-22-aout-2022-20220823
+source : Le Figaro - Photos.xml
+title : 24 heures photo du 22 août 2022
+description : EN IMAGES - Retrouvez les photographies les plus marquantes de la semaine, sélectionnées par la rédaction du Figaro Magazine.
+date : Thu, 25 Aug 2022 18:26:40 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/24-heures-photo-du-16-aout-2022-20220816
+source : Le Figaro - Photos.xml
+title : 24 heures photo du 16 août 2022
+description : EN IMAGES - Retrouvez les photographies les plus marquantes de la semaine, sélectionnées par la rédaction du Figaro Magazine.
+date : Thu, 18 Aug 2022 19:12:51 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/apres-deux-semaines-d-incendies-les-paysages-devastes-de-la-france-20220726
+source : Le Figaro - Photos.xml
+title : Après deux semaines d'incendies, les paysages dévastés de la France
+description : EN IMAGES - En l&#039;espace de deux semaines, plusieurs feux se sont déclarés, notamment en Bretagne et en Gironde. Désormais maîtrisées dans ces zones, les flammes laissent place à un paysage gris et désertique.
+date : Wed, 27 Jul 2022 15:17:27 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/les-instantanes-d-un-photographe-sur-les-routes-du-tour-de-france-20220724
+source : Le Figaro - Photos.xml
+title : En images : les instants de vie captés par un photographe sur les routes du Tour de France
+description : Le photographe Jérémy Lempin a suivi de bout en bout l&#039;édition 2022, tournant son objectif vers le public et les à-côtés de la mythique course cycliste. Il raconte ses plus belles et surprenantes rencontres.
+date : Fri, 17 Mar 2023 16:06:30 +0100
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/24-heures-photo-du-4-juillet-2022-20220705
+source : Le Figaro - Photos.xml
+title : 24 heures photo du 4 juillet 2022
+description : EN IMAGES - Retrouvez les photographies les plus marquantes de la semaine, sélectionnées par la rédaction du Figaro Magazine.
+date : Sat, 09 Jul 2022 00:13:47 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/24-heures-photo-du-27-juin-2022-20220628
+source : Le Figaro - Photos.xml
+title : 24 heures photo du 27 juin 2022
+description : EN IMAGES - Retrouvez les photographies les plus marquantes de la semaine, sélectionnées par la rédaction du Figaro Magazine.
+date : Tue, 28 Jun 2022 18:54:54 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/24-heures-photo-du-13-juin-2022-20220614
+source : Le Figaro - Photos.xml
+title : 24 heures photo du 13 juin 2022
+description : EN IMAGES - Retrouvez les photographies les plus marquantes de la semaine, sélectionnées par la rédaction du Figaro Magazine.
+date : Thu, 16 Jun 2022 18:52:56 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/24-heures-photo-du-7-juin-2022-20220607
+source : Le Figaro - Photos.xml
+title : 24 heures photo du 7 juin 2022
+description : EN IMAGES - Retrouvez les photographies les plus marquantes de la semaine, sélectionnées par la rédaction du Figaro Magazine.
+date : Thu, 09 Jun 2022 19:10:57 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/24-heures-photo-du-30-mai-2022-20220531
+source : Le Figaro - Photos.xml
+title : 24 heures photo du 30 mai 2022
+description : EN IMAGES - Retrouvez les photographies les plus marquantes de la semaine, sélectionnées par la rédaction du Figaro Magazine.
+date : Thu, 02 Jun 2022 18:21:12 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/24-heures-photo-du-23-mai-2022-20220524
+source : Le Figaro - Photos.xml
+title : 24 heures photo du 23 mai 2022
+description : EN IMAGES - Retrouvez les photographies les plus marquantes de la semaine, sélectionnées par la rédaction du Figaro Magazine.
+date : Sat, 28 May 2022 14:40:56 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/24-heures-photo-du-16-mai-2022-20220516
+source : Le Figaro - Photos.xml
+title : 24 heures photo du 16 mai 2022
+description : EN IMAGES - Retrouvez les photographies les plus marquantes de la semaine, sélectionnées par la rédaction du Figaro Magazine.
+date : Thu, 19 May 2022 18:55:17 +0200
+categories : ['Photos']
+
+id : https://www.lefigaro.fr/photos/24-heures-photo-du-9-mai-2022-20220509
+source : Le Figaro - Photos.xml
+title : 24 heures photo du 9 mai 2022
+description : EN IMAGES - Retrouvez les photographies les plus marquantes de la semaine, sélectionnées par la rédaction du Figaro Magazine.
+date : Thu, 12 May 2022 09:42:47 +0200
+categories : ['Photos']
+

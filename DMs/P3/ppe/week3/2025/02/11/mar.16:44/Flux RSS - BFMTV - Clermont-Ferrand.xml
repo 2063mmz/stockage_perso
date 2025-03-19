@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Home Clermont-Ferrand - actualités</title>
+        <link>https://www.bfmtv.com/clermont-ferrand/</link>
+        <description>Suivez toute l'actualité politique, économique, météo, sportive et sociale de Clermont-Ferrand ses alentours en temps réel</description>
+        <lastBuildDate>Tue, 11 Feb 2025 15:44:56 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>BFMTV</generator>
+        <language>fr</language>
+        <image>
+            <title>Home Clermont-Ferrand - actualités</title>
+            <url>https://www.bfmtv.com/assets/v11/images/BFMTV_default_16x9.8715a163008e9f3fc3799c8e2c6ebafa.jpg</url>
+            <link>https://www.bfmtv.com/clermont-ferrand/</link>
+        </image>
+        <copyright>Copyright BFMTV</copyright>
+        <category>Home Clermont-Ferrand - actualités</category>
+        <atom:link href="https://www.bfmtv.com/clermont-ferrand/" rel="self" type="application/rss+xml"/>
+    </channel>
+</rss>

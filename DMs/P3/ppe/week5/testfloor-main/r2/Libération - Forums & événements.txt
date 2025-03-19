@@ -1,0 +1,7 @@
+id : https://www.liberation.fr/forums/quand-zola-partait-de-bon-matin-a-bicyclette-20250210_LQG232CQYJH5FBMQRROKROC77E/
+source : Libération - Forums & événements.xml
+title : Quand Zola partait de bon matin… à bicyclette
+description : Jean-Paul Vespini, journaliste et grand spécialiste du cyclisme en France, nous dévoile la passion de l’écrivain pour son vélo.
+date : Mon, 10 Feb 2025 12:33:00 +0000
+categories : []
+

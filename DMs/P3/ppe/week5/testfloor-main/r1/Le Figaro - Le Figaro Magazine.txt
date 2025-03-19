@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/vox/culture/macron-la-droite-et-l-histoire-entretien-avec-le-phenomene-philippe-de-villiers-ce-vicomte-qui-parle-au-peuple-20250207
+source : Le Figaro - Le Figaro Magazine.xml
+title : Macron, la droite et l’Histoire... Enquête sur le phénomène Philippe de Villiers, ce vicomte qui parle au peuple
+description : Avec Mémoricide, il caracole en tête des ventes de livres. À 75 ans, le vicomte qui pensait terminer sa vie en paria se trouve adoubé par une partie de la France. Nous sommes allés le voir dans sa Vendée natale.
+date : Fri, 07 Feb 2025 11:34:51 +0100
+categories : ['Vox Culture']
+
+id : https://www.lefigaro.fr/lefigaromagazine/l-editorial-du-figaro-magazine-nous-sommes-face-a-un-marche-de-dupes-20250207
+source : Le Figaro - Le Figaro Magazine.xml
+title : L’éditorial du Figaro Magazine: « Nous sommes face à un marché de dupes »
+description : Le gouvernement explique doctement que tout le monde doit prendre sa part de l’effort pour enrayer le dérapage des finances publiques. Comme si les entreprises et l’administration avaient une responsabilité équivalente dans cette banqueroute.
+date : Fri, 07 Feb 2025 08:00:00 +0100
+categories : ['Le Figaro Magazine']
+
+id : https://www.lefigaro.fr/politique/francois-bayrou-est-le-plus-grand-rentier-de-la-vie-politique-les-indiscretions-du-figaro-magazine-20250206
+source : Le Figaro - Le Figaro Magazine.xml
+title : «François Bayrou est le plus grand rentier de la vie politique»: les indiscrétions du Figaro Magazine
+description : CHRONIQUE - Petites phrases et coulisses de la semaine politique.
+date : Thu, 06 Feb 2025 09:57:07 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/conjoncture/immobilier-la-crise-politique-fait-grimper-le-cout-du-credit-20250209
+source : Le Figaro - Le Figaro Magazine.xml
+title : Immobilier: la crise politique fait grimper le coût du crédit
+description : DÉCRYPTAGE - Les banques ont remonté leurs barèmes en février, une première depuis plus d’un an. En cause, l’instabilité gouvernementale qui se répercute sur les taux.
+date : Sun, 09 Feb 2025 11:37:25 +0100
+categories : ['Conjoncture']
+
+id : https://www.lefigaro.fr/lefigaromagazine/grace-a-l-ia-creez-le-livre-de-votre-vie-20250209
+source : Le Figaro - Le Figaro Magazine.xml
+title : Grâce à l’IA, créez le livre de votre vie
+description : Il suffit de répondre oralement aux questions d’une application mobile nourrie à l’IA, pour retrouver son histoire mise en page sur papier.
+date : Mon, 10 Feb 2025 10:05:18 +0100
+categories : ['Le Figaro Magazine']
+
+id : https://www.lefigaro.fr/international/ils-etaient-les-plus-cruels-et-les-plus-extremistes-sur-la-piste-des-djihadistes-francais-en-syrie-20250207
+source : Le Figaro - Le Figaro Magazine.xml
+title : «Ils étaient les plus cruels et les plus extrémistes»: sur la piste des djihadistes français en Syrie
+description : REPORTAGE - Lors de l’incursion menée par les troupes HTS (Hayat Tahrir al-Sham) en Syrie contre le régime el-Assad, des vidéos ont rappelé la présence de Français parmi les groupes islamistes armés. Nous nous sommes rendus sur place pour tenter de les rencontrer.
+date : Sat, 08 Feb 2025 21:12:46 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/lefigaromagazine/rdc-emmanuel-de-merode-directeur-du-parc-national-des-virunga-menace-par-la-guerre-20250205
+source : Le Figaro - Le Figaro Magazine.xml
+title : RDC: Emmanuel de Merode, directeur du parc national des Virunga menacé par la guerre
+description : Dans l’est de la République démocratique du Congo, les rebelles du M23, poursuivent une tentative d’annexion qui ne dit pas son nom. Acteur sécuritaire et économique dans cette région, le Parc national des Virunga se retrouve en première ligne.
+date : Wed, 05 Feb 2025 09:38:13 +0100
+categories : ['Le Figaro Magazine']
+
+id : https://www.lefigaro.fr/international/disciple-de-donald-trump-marco-rubio-et-la-diplomatie-du-pistolet-sur-la-tempe-20250205
+source : Le Figaro - Le Figaro Magazine.xml
+title : Marco Rubio, disciple de Donald Trump et adepte de la diplomatie du pistolet sur la tempe
+description : Dès ses premiers pas en Amérique centrale, le nouveau secrétaire d’État a fait usage des méthodes radicales du Président. Avec des résultats immédiats.
+date : Wed, 05 Feb 2025 11:00:00 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/vox/monde/avec-donald-trump-l-union-europeenne-s-interroge-sur-sa-legislation-en-matiere-migratoire-20250206
+source : Le Figaro - Le Figaro Magazine.xml
+title : Avec Donald Trump, l’Union européenne s’interroge sur sa législation en matière migratoire
+description : CHRONIQUE - Quand le président américain renvoie 27.000 clandestins en Colombie, les Vingt-Sept s’interrogent sur sa législation en matière migratoire.
+date : Thu, 06 Feb 2025 10:03:22 +0100
+categories : ['Vox Monde']
+
+id : https://www.lefigaro.fr/lefigaromagazine/bertrand-de-saint-vincent-pour-etre-centenaire-il-convient-de-ne-jamais-s-arreter-de-vivre-20250207
+source : Le Figaro - Le Figaro Magazine.xml
+title : Bertrand de Saint Vincent : «Pour être centenaire, il convient de ne jamais s’arrêter de vivre»
+description : CHRONIQUE - Une petite fille sur deux qui naît aujourd’hui sera centenaire. Comment faire pour tenir si longtemps ?
+date : Fri, 07 Feb 2025 17:22:52 +0100
+categories : ['Le Figaro Magazine']
+
+id : https://www.lefigaro.fr/livres/frederic-beigbeder-j-ecris-l-iliade-de-pierre-michon-le-baroud-d-honneur-de-notre-plus-grand-ecrivain-20250207
+source : Le Figaro - Le Figaro Magazine.xml
+title : Frédéric Beigbeder: «J’écris l’Iliade de Pierre Michon, le baroud d’honneur de notre plus grand écrivain»
+description : CHRONIQUE - Le dernier livre du meilleur prosateur français alterne voyage érotique chez Homère et souvenirs de clochard céleste.
+date : Fri, 07 Feb 2025 16:31:09 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/voyages/inspiration/voyage-en-angola-le-dernier-secret-d-afrique-20250207
+source : Le Figaro - Le Figaro Magazine.xml
+title : Voyage en Angola, le dernier secret d’Afrique
+description : GRAND REPORTAGE - C’est une destination qu’on pensait ne jamais pouvoir visiter. Heureuse surprise : l’Angola s’ouvre tout juste au tourisme ! L’occasion de découvrir un pays de brousse, de montagnes rocheuses et de chutes d’eau spectaculaires. La langue portugaise apporte une langueur presque brésilienne à ce territoire baigné par l’Atlantique, et durement marqué par l’esclavagisme.
+date : Fri, 07 Feb 2025 09:20:25 +0100
+categories : ['Inspiration']
+
+id : https://www.lefigaro.fr/livres/regis-debray-j-essaierai-d-ecrire-des-livres-qui-restent-sur-une-epoque-qui-passe-20250208
+source : Le Figaro - Le Figaro Magazine.xml
+title : Régis Debray: «J’essaierai d’écrire des livres qui restent sur une époque qui passe»
+description : UN HOMME, UNE VOIX - Si Julien Gracq l’avait à l’estomac, l’ancien révolutionnaire la porte au plus profond de lui, telle la blessure d’un amour auquel il aurait renoncé trop tôt au profit du monde et de ses illusions.
+date : Sat, 08 Feb 2025 16:00:00 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/vox/monde/michael-prazan-il-y-a-une-detestation-presque-instinctive-de-l-etat-juif-qui-s-est-enkystee-a-gauche-20250206
+source : Le Figaro - Le Figaro Magazine.xml
+title : Michaël Prazan : « Il y a une détestation presque instinctive de l’État juif qui s’est enkystée à gauche »
+description : ENTRETIEN - Dans La Vérité sur le Hamas et ses «idiots utiles», l’écrivain et documentariste remonte aux origines de l’organisation terroriste. Et dénonce la responsabilité des partis d’extrême gauche, de certains intellectuels et ONG, dans la propagation de l’islamisme et la résurgence de l’antisémitisme.
+date : Thu, 06 Feb 2025 12:00:00 +0100
+categories : ['Vox Monde']
+
+id : https://www.lefigaro.fr/vox/societe/alexandre-devecchio-les-gueux-face-aux-zones-a-forte-exclusion-20250206
+source : Le Figaro - Le Figaro Magazine.xml
+title : Alexandre Devecchio : « Les gueux face aux Zones à Forte Exclusion »
+description : LA BATAILLE DES IDÉES - Une vague de colère, relayée par les réseaux sociaux et les élus locaux, commence à naître contre les zones à faibles émissions. L’écrivain Alexandre Jardin prédit une révolte des gueux.
+date : Thu, 06 Feb 2025 07:00:00 +0100
+categories : ['Vox Société']
+
+id : https://www.lefigaro.fr/vox/de-quoi-la-profanation-de-la-tombe-de-jean-marie-le-pen-est-elle-le-nom-20250205
+source : Le Figaro - Le Figaro Magazine.xml
+title : De quoi la profanation de la tombe de Jean-Marie Le Pen est-elle le nom?
+description : LA MINUTE PHILO - On ne peut rien comprendre à la profanation des morts si l’on ne comprend qu’elle résulte directement d’une vie humaine préalablement aliénée, mutilée, dégradée
+date : Thu, 06 Feb 2025 09:06:22 +0100
+categories : ['Vox']
+
+id : https://www.lefigaro.fr/cinema/strip-tease-integral-l-emission-culte-de-la-tele-belge-revient-au-cinema-20250208
+source : Le Figaro - Le Figaro Magazine.xml
+title : Strip-tease intégral, l’émission culte de la télé belge revient au cinéma
+description : LA CHRONIQUE DE JEAN-CHRISTOPHE BUISSON - L’émission culte de la télé belge «Strip-Tease» fait son retour au cinéma le 12 février. C’est évidemment une réussite.
+date : Sat, 08 Feb 2025 21:14:58 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/international/a-oimiakon-en-russie-la-ville-ou-le-froid-ne-meurt-jamais-20250207
+source : Le Figaro - Le Figaro Magazine.xml
+title : À Oïmiakon, en Russie, la ville où le froid ne meurt jamais
+description : REPORTAGE - Dans cette localité reculée de Sibérie, l’hiver dure neuf mois et on y a enregistré la température record de – 71 °C !  Aujourd’hui, une poignée d’habitants se sont adaptés à ces conditions extrêmes, dans un paysage polaire permanent.
+date : Sun, 09 Feb 2025 15:36:59 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/comment-l-armee-francaise-prepare-la-guerre-de-demain-20250131
+source : Le Figaro - Le Figaro Magazine.xml
+title : Comment l’armée française prépare la guerre de demain
+description : REPORTAGE EXCLUSIF - Riche des enseignements que lui révèlent les conflits en Ukraine et au Proche-Orient, l’état-major français accélère et réorganise sa capacité d’innovation.
+date : Tue, 04 Feb 2025 12:45:29 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/apres-des-annees-de-conflit-a-distance-l-armee-francaise-au-defi-de-la-haute-intensite-20250201
+source : Le Figaro - Le Figaro Magazine.xml
+title : Après des années de conflit à distance, l’armée française au défi de la haute intensité
+description : DÉCRYPTAGE - Nos forces armées doivent se préparer à des confrontations majeures si un conflit intervient.
+date : Sat, 01 Feb 2025 07:00:00 +0100
+categories : ['International']
+

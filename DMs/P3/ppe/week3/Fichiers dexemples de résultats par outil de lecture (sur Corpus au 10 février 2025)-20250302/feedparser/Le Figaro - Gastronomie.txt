@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/gastronomie/top-chef-et-le-guide-michelin-la-tambouille-ephemere-20250207
+source : Le Figaro - Gastronomie.xml
+title : «Top Chef» et Michelin, la tambouille éphémère
+description : Le Guide Michelin a signé un partenariat avec «Top Chef», l’émission de M6. Le vainqueur du télécrochet pourrait se voir immédiatement «prêter» une étoile : un concept bien dans son époque.
+date : Fri, 07 Feb 2025 18:37:23 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/brasserie-roseaux-a-lyon-l-ode-a-la-cuisine-classique-du-couple-mey-20250207
+source : Le Figaro - Gastronomie.xml
+title : Brasserie Roseaux à Lyon: l’ode à la cuisine classique du couple Mey
+description : Après le gastronomique Ombellule, Tabata et Ludovic Mey ont inauguré leur seconde table dans le 6earrondissement de la capitale des Gaules.
+date : Fri, 07 Feb 2025 15:08:56 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/meilleur-cacao-du-monde-et-cuisine-novoandine-bogota-la-nouvelle-etape-gourmande-d-amerique-du-sud-20250207
+source : Le Figaro - Gastronomie.xml
+title : Meilleur cacao du monde et cuisine «novoandine»: Bogota, la nouvelle destination gourmande d’Amérique du Sud
+description : REPORTAGE - Mixant à merveille les produits de la forêt amazonienne et ceux des littoraux pacifiques et caribéens, la cuisine de la capitale colombienne mérite le voyage. Notre sélection des meilleures adresses.
+date : Fri, 07 Feb 2025 16:14:34 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/le-chef-trois-etoiles-alexandre-mazzia-prend-la-tete-des-tables-du-mucem-20250207
+source : Le Figaro - Gastronomie.xml
+title : Le chef trois étoiles Alexandre Mazzia prend la tête des tables du Mucem
+description : La toque du restaurant AM remplace Gérald Passedat dans le musée marseillais. Il pilotera trois espaces de restauration dans le bâtiment J4 dès le printemps 2025.
+date : Fri, 07 Feb 2025 13:43:10 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/bistrot-darsy-ode-a-la-nostalgie-a-menilmontant-20250207
+source : Le Figaro - Gastronomie.xml
+title : Bistrot Darsy, ode à la nostalgie à Ménilmontant
+description : CRITIQUE GASTRONOMIQUE - Dans le 20e arrondissement parisien, décor rétro et classiques bistrotiers bien troussés au programme.
+date : Fri, 07 Feb 2025 11:30:00 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/chez-margaux-recettes-de-gendre-ideal-et-service-a-la-francaise-20250207
+source : Le Figaro - Gastronomie.xml
+title : Chez Margaux, recettes de gendre idéal et service à la française
+description : CRITIQUE GASTRONOMIQUE - Dans le 16e arrondissement parisien, face à la tour Eiffel, cette adresse dans la plus pure tradition cocardière.
+date : Fri, 07 Feb 2025 11:00:00 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/papalito-cuisine-sud-americaine-a-montparnasse-20250207
+source : Le Figaro - Gastronomie.xml
+title : Papalito, cuisine sud-américaine à Montparnasse
+description : CRITIQUE GASTRONOMIQUE - Le restaurant de l’Hôtel Les Artistes, dans le 14e arrondissement parisien, se perd un peu entre spécialités mexicaines, péruviennes et autres passe-plats de brasserie.
+date : Fri, 07 Feb 2025 10:30:00 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/le-celebre-restaurant-maxims-rouvre-sa-doublure-voisine-le-bistrot-minim-s-20250207
+source : Le Figaro - Gastronomie.xml
+title : Le célèbre restaurant Maxims’ rouvre sa doublure voisine, le bistrot Minim’s
+description : CRITIQUE GASTRONOMIQUE - Après avoir relancé l’institution festive de la rue Royale, le groupe Paris Society double la mise en mettant à l’honneur les classiques français.
+date : Fri, 07 Feb 2025 08:00:00 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/alliance-le-raffinement-est-dans-l-assiette-20250207
+source : Le Figaro - Gastronomie.xml
+title : Alliance, le raffinement est dans l’assiette
+description : Dans le 5e arrondissement de Paris, près des quais et de Notre-Dame, ce restaurant, reflet de deux personnalités, a peu d’égal dans la capitale.
+date : Fri, 07 Feb 2025 07:00:12 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/le-dejeuner-du-dimanche-de-matthieu-carlin-20250207
+source : Le Figaro - Gastronomie.xml
+title : Le déjeuner du dimanche de… Matthieu Carlin,
+description : «Je fais un gratin dauphinois comme celui de ma mère. C’est un plat familial qui me rappelle mes origines grenobloises», affirme le chef pâtissier de l’hôtel de Crillon.
+date : Fri, 07 Feb 2025 06:00:10 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/bordeaux-cinq-restaurants-pour-se-rechauffer-cet-hiver-20250206
+source : Le Figaro - Gastronomie.xml
+title : Bordeaux: nos cinq restaurants pour se réchauffer cet hiver
+description : LA SÉLECTION DU FIGARO - Nouvelles cantines méditerranéennes et restaurants montagnards: nos bonnes tables pour braver le froid dans la capitale girondine et alentour.
+date : Thu, 06 Feb 2025 21:32:19 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/a-paris-les-costes-relancent-l-aventure-avec-yannick-alleno-20250206
+source : Le Figaro - Gastronomie.xml
+title : À Paris, Gilbert et Thierry Costes relancent L’Aventure
+description : CRITIQUE GASTRONOMIQUE - Près de l’Étoile, le groupe Beaumarly fait renaître cette adresse noctambule en la dotant d’un hôtel (bientôt), d’un club et d’un restaurant mondain dont la carte est signée Yannick Alléno.
+date : Fri, 07 Feb 2025 10:03:28 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/notre-selection-de-8-restaurants-a-paris-pour-se-regaler-de-souffles-sales-et-sucres-20250206
+source : Le Figaro - Gastronomie.xml
+title : 8 restaurants à Paris pour se régaler de soufflés salés et sucrés
+description : LA SÉLECTION DU FIGARO - Fromage, Grand Marnier, chocolat: nos meilleures adresses pour déguster ce plat totem de la gastronomie française.
+date : Fri, 07 Feb 2025 10:18:05 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/lieu-secret-mise-en-scene-spectaculaire-decouvrez-en-avant-premiere-220-bpm-une-table-aux-menus-decoiffants-dans-la-foret-lyonnaise-20250201
+source : Le Figaro - Gastronomie.xml
+title : Lieu secret, mise en scène spectaculaire… Découvrez en avant-première 220 BPM, un restaurant aux menus décoiffants en pleine forêt
+description : RÉCIT - Le chef Jérémy Galvan ouvre son nouveau restaurant le 5 février dans un lieu mystérieux proche de la capitale des Gaules. Le Figaro a testé en avant-première cette expérience ambitieuse et singulière.
+date : Sat, 01 Feb 2025 23:20:37 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/p-tit-bon-un-bistrot-gourmand-a-decouvrir-d-urgence-a-paris-20250131
+source : Le Figaro - Gastronomie.xml
+title : P’tit Bon, un bistrot gourmand à découvrir d’urgence à Paris
+description : CRITIQUE GASTRONOMIQUE - Cette adresse sans prétention du 9e arrondissement, au service adorable, revisite les classiques avec une finesse digne d’un étoilé.
+date : Fri, 31 Jan 2025 11:50:18 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/un-nouveau-chef-un-cadre-insolite-le-restaurant-m-au-musee-du-vin-vaut-il-le-detour-20250131
+source : Le Figaro - Gastronomie.xml
+title : Un nouveau chef, un cadre insolite : le restaurant M au Musée du Vin vaut-il le détour ?
+description : CRITIQUE GASTRONOMIQUE - Le musée de poche parisien aux caves voûtées historiques et à la solide carte des vins s’offre les services de l’ex-«Top Chef» Valentin Néraudeau.
+date : Fri, 31 Jan 2025 11:28:36 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/hando-temple-du-handroll-parisien-ouvre-une-troisieme-adresse-dans-le-marais-20250131
+source : Le Figaro - Gastronomie.xml
+title : Hando, temple du handroll parisien, ouvre une troisième adresse dans le Marais
+description : CRITIQUE GASTRONOMIQUE - Après Sèvres et Vendôme, Adrien Albou consacre un troisième restaurant «Marine Vénus» bleuté aux rouleaux de riz et poisson cru japonais, ainsi qu’aux sushi.
+date : Fri, 31 Jan 2025 11:58:59 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/chandeleur-2025-les-meilleures-creperies-de-paris-pour-deguster-galettes-et-crepes-20250131
+source : Le Figaro - Gastronomie.xml
+title : Chandeleur 2025: les meilleures crêperies de Paris pour déguster galettes et crêpes
+description : LA SÉLECTION DU FIGARO - À l’occasion de la Chandeleur, ce dimanche, pleins feux sur nos adresses parisiennes, nouveautés comme valeurs sûres, pour déguster galettes kraz et crêpes moelleuses.
+date : Fri, 31 Jan 2025 12:43:19 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/c-est-tout-bon-n0112-et-que-ca-saute-20250131
+source : Le Figaro - Gastronomie.xml
+title : « C’est tout bon » n°112 : Et que ça saute !
+description : LETTRE EXCLUSIVE ABONNÉ(E)S  -  Dans deux jours, c’est la Chandeleur. On pense à préparer sa pâte à crêpes... Et si la poêle vous tombe des mains, voici plusieurs options pour se régaler en famille.
+date : Fri, 31 Jan 2025 09:30:20 +0100
+categories : ['Gastronomie']
+
+id : https://www.lefigaro.fr/gastronomie/aura-quand-le-sucre-se-mesure-au-sale-20250131
+source : Le Figaro - Gastronomie.xml
+title : Aura, quand le sucré se mesure au salé
+description : À l’étage du restaurant étoilé Hémicyle, la chef pâtissière Aurora Storari cuisine un excellent menu de «desserts».
+date : Fri, 31 Jan 2025 07:00:13 +0100
+categories : ['Gastronomie']
+

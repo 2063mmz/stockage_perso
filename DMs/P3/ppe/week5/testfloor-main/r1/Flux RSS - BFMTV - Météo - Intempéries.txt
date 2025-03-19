@@ -1,0 +1,210 @@
+id : https://www.bfmtv.com/meteo/intemperies/on-est-dans-l-attente-des-experts-a-saint-nicolas-de-redon-l-heure-est-au-nettoyage-apres-les-crues-historiques_AV-202502070300.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA["On est dans l'attente des experts": à Saint-Nicolas-de-Redon, l'heure est au nettoyage après les crues historiques]]>
+description : <![CDATA[La Bretagne, notamment l'Ille-et-Vilaine ainsi que certaines communes de la Loire-Atlantique, ont été touchées par des inondations historiques à la fin du mois de janvier. Alors que la décrue continue, les sinistrés constatent les dégâts. <br /><br /><img src="https://images.bfmtv.com/GsUEWl9mfkna8kyMT9ghcoW7h2o=/0x0:768x432/800x0/images/Vue-aerienne-de-Redon-le-31-janvier-2025-2024984.jpg" />]]>
+date : Fri, 07 Feb 2025 08:54:02 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/meteo-une-france-coupee-en-deux-avec-des-nuages-au-nord-et-du-soleil-au-sud-ce-mercredi_VN-202502050060.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Météo: une France coupée en deux avec des nuages au nord et du soleil au sud ce mercredi]]>
+description : <![CDATA[Météo contrastée en France ce mercredi: le nord sous les nuages, le sud ensoleillé. Attention aux chutes de neige attendues ce week-end, notamment sur le Massif Central.<br /><br /><img src="https://images.bfmtv.com/o5nO6cQ7PZC2-MXiKEa15Eeb05A=/0x0:1280x720/800x0/images/Meteo-une-France-coupee-en-deux-avec-des-nuages-au-nord-et-du-soleil-au-sud-ce-mercredi-2027435.jpg" />]]>
+date : Wed, 05 Feb 2025 05:19:40 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/inondations-la-somme-dernier-departement-maintenu-en-vigilance-orange_AN-202502030348.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Inondations: la Somme dernier département maintenu en vigilance orange]]>
+description : <![CDATA[Météo-France annonce ce lundi 3 février le maintien en vigilance orange d'un unique département, la Somme. Cinq autres départements étaient concernés dans le précédent bulletin. Une amélioration entraînée par des conditions météo favorables.<br /><br /><img src="https://images.bfmtv.com/GdRJWdhFb9-Ho-7ObwsnoI3OENM=/0x0:2048x1152/800x0/images/Cette-photographie-aerienne-montre-des-secouristes-a-bord-d-un-aeroglisseur-passant-devant-des-entrepots-submerges-par-les-eaux-de-crue-a-Redon-dans-l-ouest-de-la-France-le-31-janvier-2025-2024966.jpg" />]]>
+date : Mon, 03 Feb 2025 09:50:00 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/inondations-lente-decrue-dans-l-ouest-six-departements-en-vigilance-orange-crues_AD-202502020063.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Inondations: "lente" décrue dans l'Ouest, six départements en vigilance orange crues]]>
+description : <![CDATA[Météo-France maintient en vigilance orange crues l'Ille-et-Vilaine, le Morbihan, la Loire-Atlantique, l'Eure, le Val-d'Oise et la Somme. Dans les communes de l'Ouest touchées par les inondations, la décrue se poursuit lentement.<br /><br /><img src="https://images.bfmtv.com/TXsMYiWJ-Y9GMp0pmLbms2LIIVk=/0x77:1024x653/800x0/images/Des-secouristes-transportent-des-pompes-pour-accelerer-la-baisse-du-niveau-de-l-eau-dans-une-rue-inondee-de-Saint-Nicolas-de-Redon-en-Ille-et-Vilaine-le-1er-fevrier-2025-2025603.jpg" />]]>
+date : Sun, 02 Feb 2025 06:15:25 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/inondations-la-vigilance-rouge-levee-huit-departements-en-vigilance-orange-crues_AD-202502010058.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Inondations: la vigilance rouge levée, huit départements en vigilance orange crues]]>
+description : <![CDATA[Grâce à des conditions météo plus favorables, la tendance générale est à la décrue dans l'Ouest, même si les niveaux des cours d'eau en vigilance orange resteront élevés pendant plusieurs jours. <br /><br /><img src="https://images.bfmtv.com/ulkEwgG9ST18Bod0TIJKNg492Fg=/8x4:1016x571/800x0/images/Photo-aerienne-de-batiments-inondes-a-Redon-en-Ille-et-Vilaine-le-31-janvier-2025-2025228.jpg" />]]>
+date : Sat, 01 Feb 2025 05:56:21 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/inondations-en-bretagne-les-habitants-sinistres-de-redon-redoutent-des-pillages_AV-202501310242.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Inondations en Bretagne: les habitants sinistrés de Redon redoutent des pillages]]>
+description : <![CDATA[150 gendarmes sont mobilisés dans le secteur afin de limiter les risques de pillages. Les militaires effectuent des rondes dans les rues inondées et viennent en aide aux personnes qui n'ont pas été évacuées. <br /><br /><img src="https://images.bfmtv.com/PbDOYP2r9fF_umtb6LGCWokq_R8=/8x4:1096x616/800x0/images/Apres-les-inondations-les-habitants-sinistres-de-Redon-redoutent-les-pillages-2024629.jpg" />]]>
+date : Fri, 31 Jan 2025 06:54:48 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/direct-inondations-redon-se-prepare-a-une-crue-record-trois-departements-en-vigilance-rouge_LN-202501300274.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Inondations: Redon se prépare à une crue record, trois départements en vigilance rouge]]>
+description : <![CDATA[L'Ille-et-Vilaine, le Morbihan et la Loire-Atlantique sont toujours en vigilance rouge crues ce jeudi 30 janvier. Le secteur de Redon, particulièrement vulnérable, se prépare à un pic historique de la Vilaine. <br /><br /><img src="https://images.bfmtv.com/J5Vr_tHANm-fsUBnmJ_E-_A1dlQ=/8x4:1016x571/800x0/images/Photo-aerienne-de-maisons-inondees-a-Guipry-Messac-en-Ille-et-Vilaine-apres-le-passage-de-la-tempete-Herminia-le-28-janvier-2025-2023881.jpg" />]]>
+date : Thu, 30 Jan 2025 17:37:59 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/inondations-en-bretagne-cette-image-satellite-montre-l-ampleur-des-crues-autour-de-redon_AN-202501300487.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Inondations en Bretagne: cette image satellite montre l'ampleur des crues autour de Redon]]>
+description : <![CDATA[Météo-France a partagé ce jeudi un avant/après, avec des images datées du 16 et du 28 janvier, montrant l'ampleur des crues autour de Redon, en Ille-et-Vilaine, qui attend toujours leur pic.<br /><br /><img src="https://images.bfmtv.com/2uT-3FrSb-OzCXHg0PHyaA-sDk0=/0x0:1280x720/800x0/images/Une-image-satellite-partagee-par-Meteo-France-le-30-janvier-2025-montrant-l-ampleur-des-crues-dans-le-secteur-de-Redon-le-28-janvier-2025-2024073.jpg" />]]>
+date : Thu, 30 Jan 2025 11:48:58 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/indondations-le-pic-historique-des-crues-attendu-ce-jeudi-trois-departements-toujours-en-vigilance-rouge_AD-202501300166.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Inondations: le pic historique des crues attendu ce jeudi, trois départements toujours en vigilance rouge]]>
+description : <![CDATA[Le pic de la crue de la Vilaine n'est pas encore défini avec certitude mais pourrait arriver dans les prochaines heures, alors que l'eau a encore monté de plusieurs centimètres la nuit passée. Des records historiques pourraient être battus. <br /><br /><img src="https://images.bfmtv.com/iYBbpStMxeg9XZLkLX82viqXdKE=/0x40:768x472/800x0/images/Un-homme-prend-une-photo-des-inondations-de-la-Vilaine-a-Redon-en-Ille-et-Vilaine-le-29-janvier-2025-2023647.jpg" />]]>
+date : Thu, 30 Jan 2025 06:28:16 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/direct-crues-trois-departements-toujours-en-vigilance-rouge-le-pic-attendu-d-ici-jeudi-matin_LN-202501290107.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Inondations: Trois départements en vigilance rouge pour crues, six en orange]]>
+description : <![CDATA[À la faveur du passage de la dépression Ivo sur l'Ouest du pays, le niveau de l'eau continue de monter dans les départements concernés par la vigilance de Météo France, en particulier l'Ille-et-Vilaine. Mardi, François-Noël Buffet, ministre auprès du ministre de l'Intérieur a annoncé enclencher la procédure accélérée de reconnaissance de l'état de catastrophe naturelle. <br /><br /><img src="https://images.bfmtv.com/jOcQWpQ4mGds0slNl3kTQs3aZh4=/0x212:2048x1364/800x0/images/Un-homme-dans-les-eaux-de-crue-transporte-un-parpaing-apres-le-debordement-de-la-Vilaine-a-Pont-Rean-le-27-janvier-2025-2022466.jpg" />]]>
+date : Wed, 29 Jan 2025 23:10:44 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/eowyn-herminia-ivo-comment-expliquer-la-succession-de-perturbations-qui-touchent-la-france_AV-202501290861.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Éowyn, Herminia, Ivo... Comment expliquer la succession de perturbations qui touchent la France]]>
+description : <![CDATA[Depuis près d'une semaine, la pluie et le vent balaient une partie de l'Hexagone, notamment le nord-ouest, touché par d'importantes inondations.<br /><br /><img src="https://images.bfmtv.com/Y-SxYegtPT7g98vXibjidHn6ETw=/0x96:2048x1248/800x0/images/Des-vagues-sur-les-rochers-du-Port-vieux-alors-que-la-tempete-Herminia-frappe-la-region-a-Biarritz-dans-le-sud-ouest-de-la-France-le-27-janvier-2025-2023480.jpg" />]]>
+date : Wed, 29 Jan 2025 18:20:49 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/crues-le-pic-toujours-pas-atteint-la-vigilance-rouge-maintenue-pour-3-departements_AV-202501290053.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Crues: 3 départements en vigilance rouge, 6 en alerte orange]]>
+description : <![CDATA[Le niveau des cours d'eau pourrait continuer à monter dans l'ouest de la France dans les heures à venir avec le passage de la dépression Ivo.<br /><br /><img src="https://images.bfmtv.com/gOyYXbqeX0iKlV7XoG_kColZkWs=/310x4:1014x400/800x0/images/Cette-photo-aerienne-montre-des-policiers-intervenant-vers-des-maisons-entourees-d-eau-a-Guipry-Messac-Ille-et-Vilaine-le-28-janvier-2025-2022978.jpg" />]]>
+date : Wed, 29 Jan 2025 15:03:47 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/crues-historiques-en-bretagne-pourquoi-la-ville-de-redon-est-aussi-exposee-aux-inondations_AV-202501290194.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Crues historiques en Bretagne: pourquoi la ville de Redon est aussi exposée aux inondations]]>
+description : <![CDATA[Situé à la confluence de deux cours d'eau, cette ville est habituée aux inondations. Dans les heures à venir, le record de 1936 de 5,46 mètres pourraît être dépassé. <br /><br /><img src="https://images.bfmtv.com/0PRUNxRu3tBCrFUeVfRkpLZClFs=/0x0:1920x1080/800x0/images/Des-images-aeriennes-du-secteur-de-Redon-sous-les-eaux-dans-l-Ille-et-Vilaine-ce-mardi-28-janvier-2025-apres-des-crues-historiques-2023087.jpg" />]]>
+date : Wed, 29 Jan 2025 06:54:54 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/direct-crues-la-vigilance-rouge-desormais-etendue-a-3-departements-4-autres-en-alerte-orange_LN-202501280147.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Vigilance rouge aux crues: plus de 1.000 personnes évacuées depuis dimanche]]>
+description : <![CDATA[Trois départements sont désormais placés en vigilance rouge par Météo-France. En ce qui concerne l'Ille-et-Vilaine, le département breton est traversé par deux rivières, l'Ille et la Vilaine, et subit des crues inédites depuis plus de 40 ans. Aucune victime n'est toutefois à déplorer pour l'heure. <br /><br /><img src="https://images.bfmtv.com/vKi0UYBXsfuaIvMfoCqpa8GR4bs=/0x67:1024x643/800x0/images/Les-pompiers-evacuent-les-riverains-d-une-zone-inondee-apres-le-debordement-de-la-Vilaine-a-Guipry-Messac-le-27-janvier-2025-suite-a-de-fortes-pluies-2022278.jpg" />]]>
+date : Tue, 28 Jan 2025 23:08:27 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/crues-en-ille-et-vilaine-600-personnes-ont-ete-evacuees-depuis-dimanche_AD-202501280386.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Crues en Ille-et-Vilaine: 600 personnes ont été évacuées depuis dimanche]]>
+description : <![CDATA[Le département breton est placé en vigilance rouge pour crues après le passage de la dépression Herminia. La Seiche et la Vilaine sont sorties de leur lit, inondant des villes et des villages.<br /><br /><img src="https://images.bfmtv.com/qsSxyKtZQiKYnmJSSY51fZqRsdw=/0x106:2048x1258/800x0/images/Un-homme-dans-les-eaux-de-crue-transporte-un-parpaing-apres-le-debordement-de-la-Vilaine-a-Pont-Rean-le-27-janvier-2025-2022466.jpg" />]]>
+date : Tue, 28 Jan 2025 10:34:13 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/on-a-tout-perdu-les-sinistres-face-a-l-etendue-des-degats-des-crues-en-ille-et-vilaine_AV-202501280362.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA["On a tout perdu": les sinistrés face à l'étendue des dégâts des crues en Ille-et-Vilaine]]>
+description : <![CDATA[Le département breton est placé en vigilance rouge pour crues après le passage de la dépression Herminia. La Seiche et la Vilaine sont sorties de leur lit, inondant des villes et des villages.<br /><br /><img src="https://images.bfmtv.com/rX1Wf2Gb-BE9F4QyqxsGipikrOE=/0x19:2048x1171/800x0/images/Un-homme-porte-une-personne-sur-son-dos-alors-qu-ils-traversent-une-route-inondee-suite-au-debordement-de-la-Vilaine-a-Pont-Rean-le-27-janvier-2025-2022385.jpg" />]]>
+date : Tue, 28 Jan 2025 10:14:04 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/crues-3-departements-desormais-en-vigilance-rouge-4-autres-en-alerte-orange_AN-202501280035.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Crues: 3 départements désormais en vigilance rouge, 4 autres en alerte orange]]>
+description : <![CDATA[Le Morbihan et la Loire-Atlantique rejoignent ce mardi matin l'Ille-et-Vilaine, qui a déjà été placée en vigilance rouge aux inondations lundi par Météo-France. <br /><br /><img src="https://images.bfmtv.com/t9Rn9SkOQ7rmQas4ysT0krGQgMs=/0x91:1024x667/800x0/images/Cette-photo-aerienne-montre-des-maisons-en-zone-inondee-apres-le-debordement-de-la-Vilaine-a-Guipry-Messac-le-27-janvier-2025-suite-a-de-fortes-pluies-2022215.jpg" />]]>
+date : Tue, 28 Jan 2025 05:39:32 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/crues-meteo-france-place-l-ille-et-vilaine-en-vigilance-rouge-8-autres-departements-en-alerte-orange_AV-202501270058.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Météo France place l'Ille-et-Vilaine en vigilance rouge crues, 14 autres départements en alerte orange]]>
+description : <![CDATA[Cette vigilance rouge concerne deux cours d'eau du sud du département breton: la Vilaine médiane et la Seiche.<br /><br /><img src="https://images.bfmtv.com/K5gp4Vk1ngUUiaOJefSweWDlXwc=/6x68:918x581/800x0/images/1266469.jpg" />]]>
+date : Mon, 27 Jan 2025 23:10:19 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/crues-les-images-vue-du-ciel-des-inondations-en-ille-et-vilaine_AV-202501271000.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Crues: les images vues du ciel des inondations en Ille-et-Vilaine]]>
+description : <![CDATA[Le département breton a été placé en vigilance rouge crues ce lundi 27 janvier en raison des débordements de la Seiche et de la Vilaine. Des villes et des zones rurales ont été inondées. Selon le préfet, il a une "forte probabilité que le pic se situe mercredi".<br /><br /><img src="https://images.bfmtv.com/sPqOzsZhtWWs6fEu6_JdIaYiwnc=/0x0:1920x1080/800x0/images/Les-images-aeriennes-de-la-commune-de-Guichen-Pont-Rean-en-Ille-et-Vilaine-le-27-janvier-2025-2022086.jpg" />]]>
+date : Mon, 27 Jan 2025 21:22:12 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/crues-dans-l-ouest-de-la-france-jusqu-a-quand-l-eau-va-t-elle-monter_AV-202501270856.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Crues dans l'ouest de la France: jusqu'à quand l'eau va-t-elle monter?]]>
+description : <![CDATA[Après les importantes précipitations de la dépression Herminia qui ont provoqué des inondations sans précédent depuis 40 ans à Rennes et ses alentours, la situation ne s'améliore toujours pas. Les autorités restent prudentes alors que de nouvelles pluies sont prévues mercredi.<br /><br /><img src="https://images.bfmtv.com/0MurVkAoVGOLLk85coDIu-I7WU0=/0x106:2048x1258/800x0/images/Cette-photo-aerienne-montre-des-maisons-dans-une-zone-inondee-suite-au-debordement-de-la-Vilaine-a-Guipry-Messac-le-27-janvier-2025-2022000.jpg" />]]>
+date : Mon, 27 Jan 2025 18:21:10 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/apres-le-passage-de-deux-tempetes-une-semaine-encore-instable-avant-le-retour-du-soleil-ce-week-end_AN-202501270594.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Après le passage de deux tempêtes, une semaine encore instable avant le retour du soleil ce week-end]]>
+description : <![CDATA[Après Eowyn ce vendredi, l'ouest de la France est désormais touché par la tempête Herminia,. La succession de pluies a causé d'importantes crues dans plusieurs départements.<br /><br /><img src="https://images.bfmtv.com/1NJQxPbyCEu8MRB9m3LkqCgGxco=/0x102:2048x1254/800x0/images/La-ville-de-Paris-sous-la-pluie-Photo-d-illustration-1853018.jpg" />]]>
+date : Mon, 27 Jan 2025 14:01:17 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/l-eau-continue-de-monter-les-images-des-crues-historiques-a-rennes-et-en-l-ille-et-vilaine_AV-202501270170.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA["L'eau continue de monter": les images des crues historiques à Rennes et en Ille-et-Vilaine]]>
+description : <![CDATA[Dimanche, 400 Rennais ont dû être évacués de leurs logements, menacés par la montée rapide des eaux. Ils ont pu trouver refuge dans les trois gymnases mis à disposition par la ville. <br /><br /><img src="https://images.bfmtv.com/d-jYFa_IttHI2rtAAPtYZNg82Qo=/0x53:1024x629/800x0/images/En-2h-on-a-ete-completement-submerges-les-images-de-l-Ille-et-Vilaine-sous-les-eaux-2021476.jpg" />]]>
+date : Mon, 27 Jan 2025 06:34:20 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/tempete-herminia-a-rennes-des-crues-qu-on-n-a-pas-connues-depuis-une-quarantaine-d-annees_AN-202501260338.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Tempête Herminia: à Rennes, des crues "qu'on n'a pas connues depuis une quarantaine d'années"]]>
+description : <![CDATA[ Alors que plusieurs cours d'eau ont débordé ce week-end en Ille-et-Vilaine, "la situation ne va pas se résoudre immédiatement", ont prévenu dimanche les autorités de la région Bretagne.<br /><br /><img src="https://images.bfmtv.com/pU1ES7QWM-mBwVFuCrML_Q_msNA=/0x106:2048x1258/800x0/images/Rennes-2021259.jpg" />]]>
+date : Sun, 26 Jan 2025 17:11:56 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/crues-rennes-en-partie-inondee_VN-202501260257.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Crues: Rennes en partie inondée]]>
+description : <![CDATA[C'est l'une des conséquences de la tempête Herminia. Les cours d'eau débordent dans la ville de Rennes débordent et des habitants doivent évacuer.<br /><br /><img src="https://images.bfmtv.com/iYYs6mlzF4MfC6SrrmStxoEkJI8=/0x0:1280x720/800x0/images/Crues-Rennes-en-partie-inondee-2021209.jpg" />]]>
+date : Sun, 26 Jan 2025 13:46:14 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/a-rennes-les-habitants-tentent-de-sauver-quelques-affaires-face-a-la-montee-de-l-eau_VN-202501260239.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[À Rennes, les habitants tentent de sauver quelques affaires face à la montée de l'eau]]>
+description : <![CDATA[Les cours d'eau ont commencé à déborder dès samedi soir dans ces départements. À Rennes, c'est le canal d'Ille-et-Rance, au nord de la cité bretonne, qui est sorti de son lit. Plusieurs habitants ont vu leur véhicule ou leur domicile être pris au piège par les eaux, obligeant certains à évacuer la zone.<br /><br /><img src="https://images.bfmtv.com/qnGMoFAQGNsXlcT9J48Pza0A79w=/0x0:1280x720/800x0/images/A-Rennes-les-habitants-tentent-de-sauver-quelques-affaires-face-a-la-montee-de-l-eau-2021198.jpg" />]]>
+date : Sun, 26 Jan 2025 13:06:35 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/tempete-herminia-les-cours-d-eau-debordent-dans-l-ouest-de-la-france-des-habitants-evacues-a-rennes_AV-202501260122.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Tempête Herminia: les cours d'eau débordent dans l'ouest de la France, des habitants évacués à Rennes]]>
+description : <![CDATA[Quatre départements ont été placés en vigilance orange pour crues en marge du passage de la tempête Herminia sur la façade ouest du pays.<br /><br /><img src="https://images.bfmtv.com/_O9k3fVeeh_t1kAJ5W3b9GtxV2M=/0x101:2048x1253/800x0/images/Une-rue-inondee-a-Pace-en-Ille-et-Vilaine-le-25-janvier-2025-2021077.jpg" />]]>
+date : Sun, 26 Jan 2025 09:04:29 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/tempete-eowyn-trois-departements-places-en-vigilance-orange-pour-crues-et-pluie-inondation_AN-202501240679.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Tempête Eowyn: cinq départements placés en vigilance orange pour crues]]>
+description : <![CDATA[Cinq départements du nord-ouest de la France sont placés en vigilance orange en raison des pluies apportées par la tempête Eowyn qui balaie notamment les îles britanniques. Quatre autre départements seront placés en vigilance orange dimanche du fait d'une autre tempête, Herminia.<br /><br /><img src="https://images.bfmtv.com/tgG_jsivCiLSCTxZkaBW06HLZIA=/0x0:1280x720/800x0/images/Meteo-pluie-illustration-1138307.jpg" />]]>
+date : Sat, 25 Jan 2025 15:23:44 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/tempete-eowyn-l-ile-et-vilaine-et-le-calvados-departements-en-alerte-crues_VN-202501250057.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Tempête Eowyn: l'Ile-et-Vilaine et le Calvados départements en alerte crues]]>
+description : <![CDATA[Deux départements du nord-ouest de la France sont placés en vigilance en raison des pluies apportées par la tempête Eowyn qui balaie notamment les îles britanniques.<br /><br /><img src="https://images.bfmtv.com/ZZems9pz2Dk2rQ3XLza_COW2o30=/0x0:1280x720/800x0/images/Tempete-Eowyn-l-Ile-et-Vilaine-et-le-Calvados-departements-en-alerte-crues-2020652.jpg" />]]>
+date : Sat, 25 Jan 2025 05:11:30 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/pluie-inondation-meteo-france-place-les-deux-departements-corses-en-vigilance-orange-pour-samedi-soir_AD-202501180059.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Pluie-inondation: Météo France place les deux départements de Corse en vigilance orange samedi soir]]>
+description : <![CDATA[La Corse-du-Sud sera placée en vigilance orange pluies-inondations samedi à 20h, et la Haute-Corse à 22h.<br /><br /><img src="https://images.bfmtv.com/-nVFDapogPkcY8B0nj0k4GJ077A=/0x26:512x314/800x0/images/-136232.jpg" />]]>
+date : Sat, 18 Jan 2025 05:47:11 GMT
+categories : 
+
+id : https://www.bfmtv.com/meteo/intemperies/crues-meteo-france-place-deux-departements-en-vigilance-orange-ce-lundi_AV-202501130061.html
+source : Flux RSS - BFMTV - Météo - Intempéries.xml
+title : <![CDATA[Crues: Météo France place deux départements en vigilance orange ce lundi]]>
+description : <![CDATA[Cette vigilance orange concerne un tronçon de l'Oise moyenne, en particulier autour de la ville de Noyon.  <br /><br /><img src="https://images.bfmtv.com/K5gp4Vk1ngUUiaOJefSweWDlXwc=/6x68:918x581/800x0/images/1266469.jpg" />]]>
+date : Mon, 13 Jan 2025 05:30:39 GMT
+categories : 
+

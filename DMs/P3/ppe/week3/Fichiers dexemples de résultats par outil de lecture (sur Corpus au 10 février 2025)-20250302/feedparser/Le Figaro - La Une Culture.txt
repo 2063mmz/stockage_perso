@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/cinema/god-save-the-tuche-mon-gateau-prefere-5-septembre-les-films-a-voir-et-a-ne-pas-voir-cette-semaine-20250205
+source : Le Figaro - La Une Culture.xml
+title : God Save the Tuche, Mon gâteau préféré, 5 septembre... Les films à voir et à ne pas voir cette semaine
+description : Au cinéma cette semaine: une famille franchouillarde à la rencontre de la famille royale d’Angleterre, une ode aux femmes iranienne, la prise d’otage en direct d’athlètes israéliens lors des Jeux olympiques de Munich en 1972.
+date : Wed, 05 Feb 2025 10:50:09 +0100
+categories : ['Cinéma', 'Culture']
+
+id : https://www.lefigaro.fr/culture/sharon-stone-paris-hilton-beyonce-les-stars-se-mobilisent-pour-venir-en-aide-aux-victimes-des-incendies-a-los-angeles-20250113
+source : Le Figaro - La Une Culture.xml
+title : Sharon Stone, Beyoncé, Taylor Swift... Les stars se mobilisent pour venir en aide aux victimes des incendies à Los Angeles
+description : De nombreuses célébrités affichent leurs soutiens aux personnes ayant perdu leur maison, via des donations financières ou matérielles comme des vêtements et des chaussures. Un concert caritatif est également prévu le 30 janvier avec en tête d’affiche Lady Gaga, Katy Perry ou encore Billie Eilish.
+date : Fri, 17 Jan 2025 16:03:41 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/musique/un-concert-improvise-d-ed-sheeran-organise-en-pleine-rue-en-inde-interrompu-par-la-police-20250210
+source : Le Figaro - La Une Culture.xml
+title : Un concert improvisé d’Ed Sheeran organisé en pleine rue en Inde interrompu par la police
+description : « Pas d’autorisation, pas de concert », a répliqué sur les réseaux sociaux un représentant du BJP, le parti nationaliste hindou, alors que le chanteur affirme avoir obtenu l’autorisation de se produire dans le quartier de Church Street.
+date : Mon, 10 Feb 2025 13:11:16 +0100
+categories : ['Culture', 'Musique']
+
+id : https://www.lefigaro.fr/culture/des-fans-d-oasis-voient-leurs-billets-de-concert-annule-en-raison-des-fraudes-pour-le-marche-noir-20250210
+source : Le Figaro - La Une Culture.xml
+title : Des fans d’Oasis voient leurs billets de concert annulé en raison des fraudes pour le marché noir
+description : Pour la seconde fois en six mois, le géant de la billetterie TicketMaster explique avoir purgé des billets achetés par des escrocs. Mais plusieurs particuliers assurent avoir acheté leurs places annulées sur le site officiel.
+date : Mon, 10 Feb 2025 13:05:40 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/cinema/tourne-le-biopic-de-pharrell-williams-par-michel-gondry-ne-verra-finalement-jamais-le-jour-20250210
+source : Le Figaro - La Une Culture.xml
+title : Tourné, le biopic de Pharrell Williams par Michel Gondry ne verra finalement jamais le jour
+description : Golden, le film qui retrace l’enfance de la star de la musique américaine devait être dévoilé en mai aux États-Unis. Malgré un budget de 20 millions de dollars et casting 5 étoiles, le long-métrage ne serait pas à la hauteur des ambitions affichées par son équipe.
+date : Mon, 10 Feb 2025 12:17:34 +0100
+categories : ['Cinéma', 'Culture']
+
+id : https://www.lefigaro.fr/culture/machina-sapiens-ou-les-artistes-a-l-heure-de-l-ia-a-la-conciergerie-20250207
+source : Le Figaro - La Une Culture.xml
+title : «Machina Sapiens» ou les artistes à l’heure de l’IA à la Conciergerie
+description : REPORTAGE - Cette exposition réunit une vingtaine d’artistes contemporains qui emploient l’IA pour créer. Ils devraient parler à la Génération Z, née entre 1997 et 2012, et, demain, à la Génération Alpha, née depuis 2010.
+date : Mon, 10 Feb 2025 10:35:37 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/musique/nous-ne-sommes-pas-contre-l-ia-mais-pour-l-humain-sur-les-plateformes-de-streaming-les-abonnes-dans-le-flou-20250207
+source : Le Figaro - La Une Culture.xml
+title : «Nous ne sommes pas contre l’IA mais pour l’humain»: sur les plateformes de streaming, les abonnés dans le flou
+description : Face à la montée des musiques générées par l’IA, les entreprises ne veulent pas se poser en arbitre.
+date : Sat, 08 Feb 2025 13:16:11 +0100
+categories : ['Culture', 'Musique']
+
+id : https://www.lefigaro.fr/cinema/quand-la-voix-contrefaite-de-sylvester-stallone-devient-le-symbole-de-la-lutte-des-comediens-contre-l-ia-20250208
+source : Le Figaro - La Une Culture.xml
+title : Quand la voix contrefaite de Sylvester Stallone devient le symbole de la lutte des comédiens contre l’IA
+description : ENQUÊTE - Le secteur du doublage, qui emploie 15 000 personnes dont 5000 comédiens, se mobilise contre la généralisation de l’intelligence artificielle en l’absence de législation qui protégerait « l’exception culturelle française ».
+date : Sat, 08 Feb 2025 13:00:00 +0100
+categories : ['Cinéma', 'Culture']
+
+id : https://www.lefigaro.fr/culture/le-monde-de-la-culture-gronde-avant-le-sommet-sur-l-ia-des-decideurs-et-des-entreprises-20250207
+source : Le Figaro - La Une Culture.xml
+title : Le monde de la culture gronde avant le sommet sur l’IA « des décideurs et des entreprises »
+description : Comédiens, écrivains, musiciens, cinéastes... Les acteurs de tous les champs culturels demandent des garanties et des règles avant d’accélérer dans le développement de l’intelligence artificielle.
+date : Fri, 07 Feb 2025 17:53:49 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/culture/ia-et-musique-un-accord-encore-loin-d-etre-parfait-20250207
+source : Le Figaro - La Une Culture.xml
+title : IA et musique, un accord encore loin d’être parfait
+description : DÉCRYPTAGE - Des plateformes de streaming aux musiques générées à la demande, l’intelligence artificielle joue déjà sa partition dans notre quotidien avec ses potentielles dérives.
+date : Fri, 07 Feb 2025 17:43:48 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/culture/pascal-dusapin-il-faut-remettre-l-oeuvre-au-coeur-de-nos-societes-20250207
+source : Le Figaro - La Une Culture.xml
+title : Pascal Dusapin: «Il faut remettre l’œuvre musicale au cœur de nos sociétés»
+description : ENTRETIEN - Le compositeur avait travaillé avec l’IA en 2019 pour Lullaby Experience. Il évoque pour Le Figaro le bouleversement que celle-ci représente dans l’art.
+date : Fri, 07 Feb 2025 15:53:32 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/culture/l-ia-va-permettre-de-repousser-les-limites-de-la-creativite-humaine-selon-brad-smith-vice-chairman-de-microsoft-20250207
+source : Le Figaro - La Une Culture.xml
+title : « L’IA va permettre de repousser les limites de la créativité humaine », selon Brad Smith, vice-chairman de Microsoft
+description : ENTRETIEN - Reconstitution du Débarquement ou visite virtuelle au Vatican, le groupe informatique emploie l’intelligence artificielle dans des projets à vocation culturelle. Des innovations aussi importantes que l’invention de l’électricité, explique Brad Smith.
+date : Fri, 07 Feb 2025 13:08:59 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/culture/les-artistes-pionniers-militent-pour-une-ia-personnalisee-20250207
+source : Le Figaro - La Une Culture.xml
+title : Musique: des artistes pionniers militent pour une IA personnalisée
+description : Les musiciens Benoît Carré ou Cécile DeLaurentis revendiquent une utilisation intelligente et adaptée des outils. À condition de les maîtriser. Propos recueillis.
+date : Fri, 07 Feb 2025 17:43:18 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/culture/le-monde-est-en-train-de-guerir-donald-trump-jubile-apres-les-huees-envers-taylor-swift-lors-du-super-bowl-20250210
+source : Le Figaro - La Une Culture.xml
+title : Super Bowl : « Le monde est en train de guérir », jubile Donald Trump après les huées envers Taylor Swift
+description : La pop star, en couple avec un des joueurs vedettes de Kansas City, a été sifflée par le public lorsqu’elle est apparue sur l’écran géant du stade. Un symbole pour le 47e président des États-Unis.
+date : Mon, 10 Feb 2025 10:26:40 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/culture/kendrick-lamar-au-super-bowl-le-quart-d-heure-de-gloire-de-la-culture-hip-hop-americaine-20250210
+source : Le Figaro - La Une Culture.xml
+title : Super Bowl : entre classiques du rap et attaques contre Drake, Kendric Lamar interprète une ode au hip-hop américain
+description : Lors de son show à la mi-temps de la finale du championnat de football américain, le rappeur de 37 ans n’a pas manqué d’interpréter son morceau rempli de haine pour son rival Drake.
+date : Mon, 10 Feb 2025 10:53:42 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/cinema/notre-critique-de-god-save-the-tuche-on-tuche-le-fond-20250203
+source : Le Figaro - La Une Culture.xml
+title : Notre critique de God Save the Tuche : on Tuche le fond !
+description : Après l’Amérique, Monaco et l’Élysée, Jeff et sa famille sont à Londres pour un cinquième volet consternant.
+date : Tue, 04 Feb 2025 11:43:41 +0100
+categories : ['Cinéma', 'Culture']
+
+id : https://www.lefigaro.fr/cinema/notre-critique-de-5-septembre-la-mort-sur-un-plateau-20250204
+source : Le Figaro - La Une Culture.xml
+title : Notre critique de 5 Septembre: la mort sur un plateau
+description : CRITIQUE - Tim Fehlbaum raconte avec réalisme la prise d’otages aux JO de Munich, en 1972, d’athlètes israéliens. Filmé comme un documentaire, son long-métrage brille par son efficacité.
+date : Tue, 04 Feb 2025 15:08:03 +0100
+categories : ['Cinéma', 'Culture']
+
+id : https://www.lefigaro.fr/culture/notre-critique-de-paddington-au-perou-les-aventuriers-de-l-ourson-perdu-20250204
+source : Le Figaro - La Une Culture.xml
+title : Notre critique de Paddington au Pérou, les aventuriers de l’ourson perdu
+description : CRITIQUE - Pour sa troisième transposition sur grand écran, le flegmatique petit plantigrade britannique part à la recherche de ses origines péruviennes. Une très belle réussite «so british» pour petits et grands.
+date : Thu, 06 Feb 2025 09:52:11 +0100
+categories : ['Cinéma', 'Culture']
+
+id : https://www.lefigaro.fr/cinema/notre-critique-de-maria-angelina-jolie-une-callas-honorable-20250204
+source : Le Figaro - La Une Culture.xml
+title : Notre critique de Maria : Angelina Jolie, une Callas honorable
+description : CRITIQUE - Le film de Pablo Larrain avec Angelina Jolie dans le rôle de la cantatrice se regarde sans ennui. Mais sans passion non plus.
+date : Tue, 04 Feb 2025 14:13:22 +0100
+categories : ['Cinéma', 'Culture']
+
+id : https://www.lefigaro.fr/culture/notre-critique-de-presence-un-remake-depressif-du-beetlejuice-de-burton-20250204
+source : Le Figaro - La Une Culture.xml
+title : Notre critique de Presence : un remake dépressif du Beetlejuice de Burton
+description : Très présent sur les plateformes ces dernières années, le réalisateur américain expérimente quand il revient au cinéma en salle. Sans convaincre.
+date : Tue, 04 Feb 2025 14:28:51 +0100
+categories : ['Culture']
+

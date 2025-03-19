@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/sports/jeux-olympiques/spectaculaire-proche-de-l-alpinisme-et-de-la-nature-pourquoi-l-escalade-sur-glace-reve-des-jo-2030-dans-les-alpes-20250207
+source : Le Figaro - Jeux Olympiques.xml
+title : «Spectaculaire», «proche de l’alpinisme et de la nature»... Pourquoi l’escalade sur glace rêve des JO 2030 dans les Alpes
+description : REPORTAGE - Discipline encore méconnue du grand public, l’escalade sur glace, dont une étape de Coupe du monde s’est déroulée en Savoie, pousse pour intégrer le programme des Jeux olympiques d’hiver dans cinq ans.
+date : Fri, 07 Feb 2025 10:34:54 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/sports/jeux-olympiques/paris-2024-la-tenue-de-la-cavaliere-d-argent-des-jo-de-paris-sera-exposee-a-paris-20250206
+source : Le Figaro - Jeux Olympiques.xml
+title : Paris 2024 : la tenue de la cavalière d'argent des JO de Paris sera exposée à Paris
+description : La tenue de la cavalière d’argent qui avait fait sensation en chevauchant le cheval métallique de la cérémonie d’ouverture sera exposée à partir de samedi au Palais Galliera, musée de la mode parisien.
+date : Thu, 06 Feb 2025 15:12:20 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/sports/jeux-olympiques/jeux-2026-marie-bochet-et-fabien-saguez-chefs-de-mission-a-milan-cortina-20250206
+source : Le Figaro - Jeux Olympiques.xml
+title : Jeux 2026 : Marie Bochet et Fabien Saguez, chefs de mission à Milan-Cortina
+description : La légende du ski paralympique et le président de la fédération française de ski accompagneront les athlètes tricolores lors des Jeux d’hiver 2026.
+date : Thu, 06 Feb 2025 13:17:17 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/flash-sport/jo-d-hiver-2026-milan-et-cortina-a-pile-un-an-de-leur-ceremonie-d-ouverture-20250206
+source : Le Figaro - Jeux Olympiques.xml
+title : JO d’hiver 2026 : à pile un an de la cérémonie d’ouverture, «l’Italie est prête» selon Thomas Bach
+description : Ce jeudi marque le «J-365 jours» avant la XXVe édition des Jeux d’hiver. Les troisièmes de l’histoire qui se dérouleront en Italie.
+date : Thu, 06 Feb 2025 10:49:45 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/sports/jeux-olympiques/philippe-candeloro-au-figaro-sur-le-retrait-de-fourcade-des-jo-2030-a-ce-poste-tu-dois-apprendre-a-fermer-ta-gueule-20250204
+source : Le Figaro - Jeux Olympiques.xml
+title : Philippe Candeloro, au Figaro, sur le retrait de Fourcade des JO 2030 : «À ce poste, tu dois apprendre à fermer ta gueule»
+description : ENTRETIEN - Le double médaillé olympique de patinage artistique regrette le retrait de Martin Fourcade du projet français dans un contexte où «tout le monde se fout des JO».
+date : Tue, 04 Feb 2025 22:56:31 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/sports/jeux-olympiques/jo-2030-un-concours-d-ego-fillon-maillet-fustige-les-guerres-politiques-pour-la-presidence-du-cojo-20250204
+source : Le Figaro - Jeux Olympiques.xml
+title : JO d’hiver 2030 : «Un concours d’ego»... Quentin Fillon Maillet fustige les «guerres politiques» pour la présidence du Cojo
+description : Le biathlète n’a pas caché son agacement mardi, au lendemain de l’annonce du retrait de Martin Fourcade en vue de la présidence du comité d’organisation.
+date : Wed, 05 Feb 2025 14:35:25 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/sports/jeux-olympiques/jo-2030-l-ex-championne-de-patinage-nathalie-pechalat-est-catastrophee-par-le-retrait-de-fourcade-20250204
+source : Le Figaro - Jeux Olympiques.xml
+title : JO d’hiver 2030 : l'ex-championne de patinage Nathalie Péchalat est «catastrophée» par le retrait de Fourcade
+description : L’ancienne présidente de la Fédération des sports de glace s’est dite «catastrophée» par le retrait du biathlète du projet JO 2030, au cours d’une table ronde sur le sport santé au comité olympique français.
+date : Wed, 05 Feb 2025 14:36:29 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/sports/jeux-olympiques/jay-martinod-grospiron-barnier-estanguet-killy-apres-l-annonce-choc-de-fourcade-qui-pour-diriger-les-jo-2030-20250204
+source : Le Figaro - Jeux Olympiques.xml
+title : Jay, Martinod, Grospiron, Barnier, Estanguet, Killy... Après l’annonce choc de Fourcade, qui pour diriger les JO 2030 ?
+description : DIAPORAMA - La France doit annoncer le 18 février le nom du président du Comité d’organisation des JO d’hiver dans les Alpes. Revue d’effectif des personnalités qui ont le profil pour ce poste.
+date : Tue, 04 Feb 2025 12:31:38 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/sports/jeux-olympiques/jo-d-hiver-2030-dans-les-alpes-le-cio-attend-avec-impatience-de-connaitre-la-future-direction-20250204
+source : Le Figaro - Jeux Olympiques.xml
+title : JO d’hiver 2030 :  le CIO attend «avec impatience» de connaître la future direction
+description : Le CIO attend «avec impatience» la désignation de la future direction du comité d’organisation des JO 2030 (Cojo) dans les Alpes françaises, que l’ancien biathlète Martin Fourcade a renoncé lundi à présider, a déclaré mardi un porte-parole à l’AFP.
+date : Tue, 04 Feb 2025 11:43:36 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/sports/jeux-olympiques/jo-d-hiver-2030-bien-sur-qu-on-voulait-martin-fourcade-assure-wauquiez-20250204
+source : Le Figaro - Jeux Olympiques.xml
+title : JO d'hiver 2030 : «bien sûr qu'on voulait Martin Fourcade», assure Wauquiez
+description : «Bien sûr qu’on voulait Martin Fourcade», a assuré mardi Laurent Wauquiez, en estimant qu’il y avait «une part d’aspect personnel» dans le choix de l’ancien biathlète de renoncer à la présidence du comité d’organisation des JO-2030.
+date : Tue, 04 Feb 2025 11:31:28 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/sports/jeux-olympiques/jo-2030-le-retrait-de-martin-fourcade-sonne-t-il-comme-le-premier-echec-des-jeux-20250203
+source : Le Figaro - Jeux Olympiques.xml
+title : JO 2030: le retrait de Martin Fourcade sonne-t-il comme le premier échec des Jeux ?
+description : None
+date : Mon, 03 Feb 2025 17:52:03 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/sports/jeux-olympiques/bol-d-oxygene-un-solitaire-ce-garcon-nous-promene-muselier-regle-ses-comptes-avec-fourcade-apres-son-refus-de-diriger-le-cojo-2030-20250203
+source : Le Figaro - Jeux Olympiques.xml
+title : «Bol d'oxygène», «un solitaire», «ce garçon nous promène» : Muselier règle ses comptes avec Fourcade après son refus de diriger le COJO des Jeux 2030
+description : Interrogé par l’AFP, le président de la Région Paca n’a pas mâché ses mots à l’encontre de l’ancien biathlète, qui a renoncé ce lundi à la présidence du comité d’organisation des JO 2030 d’hiver.
+date : Tue, 04 Feb 2025 10:20:46 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/sports/jeux-olympiques/jo-2030-martin-fourcade-renonce-a-etre-le-president-du-comite-d-organisation-20250203
+source : Le Figaro - Jeux Olympiques.xml
+title : JO d’hiver 2030 : pourquoi Martin Fourcade renonce à être le président du Comité d’organisation
+description : La légende du biathlon, usée par les vives tensions en coulisse, a renoncé à incarner le projet olympique. Son refus laissera un grand vide.
+date : Wed, 05 Feb 2025 14:37:09 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/sports/jeux-olympiques/jo-2026-et-si-le-bobsleigh-et-la-luge-avaient-lieu-aux-etats-unis-plutot-qu-en-italie-20250203
+source : Le Figaro - Jeux Olympiques.xml
+title : JO 2026 : et si le bobsleigh et la luge avaient lieu... aux États-Unis, plutôt qu’en Italie ?
+description : Cortina d’Ampezzo ou... Lake Placid : à un an de l’échéance, les organisateurs ne savent toujours pas si leurs épreuves auront lieu sur une piste décriée, encore en construction, ou à 6.000 kilomètres des Dolomites.
+date : Mon, 03 Feb 2025 11:47:37 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/flash-actu/jeux-d-hiver-2030-le-flou-persiste-autour-de-la-creation-du-comite-d-organisation-20250131
+source : Le Figaro - Jeux Olympiques.xml
+title : Jeux d’hiver 2030 : la création du comité d'organisation fixée au 18 février
+description : Initialement prévue à Lyon début février, une nouvelle fois repoussée, la création du comité d’organisation est désormais fixée au 18 février.
+date : Fri, 31 Jan 2025 16:40:01 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/sports/jeux-olympiques/jeux-olympiques-la-vasque-olympique-va-faire-son-retour-aux-tuileries-tous-les-etes-jusqu-en-2028-20250131
+source : Le Figaro - Jeux Olympiques.xml
+title : Jeux olympiques : la vasque de Paris 2024 va faire son retour aux Tuileries tous les étés jusqu’en 2028
+description : La vasque olympique va faire son retour à Paris. Elle sera réinstallée tous les étés au Jardin des Tuileries jusqu’aux Jeux Olympiques de Los Angeles en 2028.
+date : Fri, 31 Jan 2025 17:44:45 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/sports/jeux-olympiques/presidence-du-cio-eliasch-le-novice-qui-joue-la-carte-environnementale-et-assure-etre-l-homme-qu-il-faut-20250131
+source : Le Figaro - Jeux Olympiques.xml
+title : Présidence du CIO: Eliasch, le novice qui joue la carte environnementale et assure être «l’homme qu’il faut»
+description : Issu du monde des affaires, le Suédo-Britannique Johan Eliasch, lancé dans la course à la présidence de l’instance avance avec ambition.
+date : Fri, 31 Jan 2025 10:24:53 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/sports/jeux-olympiques/c-est-avant-tout-une-question-de-leadership-david-lappartient-a-l-epreuve-de-l-oral-pour-diriger-le-cio-20250130
+source : Le Figaro - Jeux Olympiques.xml
+title : «C’est avant tout une question de leadership» : David Lappartient à l’épreuve de l’oral pour diriger le CIO
+description : Un grand oral pour marquer sa différence et convaincre : les sept candidats à la présidence du Comité international olympique, dont David Lappartient, ont passé jeudi matin un test crucial face aux membres de l’instance suprême du sport mondial, pour succéder en mars à l’Allemand Thomas Bach.
+date : Thu, 30 Jan 2025 14:48:28 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/flash-actu/cio-kirsty-coventry-espere-briser-le-plafond-de-verre-20250129
+source : Le Figaro - Jeux Olympiques.xml
+title : Jeux olympiques : Kirsty Coventry espère briser le plafond de verre du CIO
+description : La nageuse zimbabwéenne espère devenir la première femme et la première Africaine à être élue à la présidence du Comité international olympique. Elle passe, comme les 6 autres candidats, le grand oral, ce jeudi
+date : Wed, 29 Jan 2025 16:13:36 +0100
+categories : ['Jeux olympiques']
+
+id : https://www.lefigaro.fr/sports/jeux-olympiques/jeux-d-hiver-2030-barnier-en-visite-a-nice-20250128
+source : Le Figaro - Jeux Olympiques.xml
+title : Jeux d’hiver 2030 : Barnier en visite à Nice
+description : L’ancien Premier ministre doit, à Nice, plonger dans le dossier des Jeux d’hiver 2030.
+date : Tue, 28 Jan 2025 13:03:07 +0100
+categories : ['Jeux olympiques']
+

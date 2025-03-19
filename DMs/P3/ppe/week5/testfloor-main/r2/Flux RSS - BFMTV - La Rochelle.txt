@@ -1,0 +1,14 @@
+id : https://www.bfmtv.com/la-rochelle/megabassines-la-mobilisation-debute-un-convoi-de-tracteurs-present-sur-le-port-de-la-pallice-a-la-rochelle_AV-202407200152.html
+source : Flux RSS - BFMTV - La Rochelle.xml
+title : Mégabassines: des manifestants repoussés par des gendarmes dans le port de La Rochelle
+description : Une grande manifestation était annoncée dès 10 heures, ce samedi 20 juillet, à La Rochelle par des militants "anti-bassines". Plus tôt dans la matinée, des tracteurs sont arrivés pour bloquer une entreprise de silos située sur le port.<br /><br /><img src="https://images.bfmtv.com/mhp2wfPxewWwsaZEJsAEcfSodXU=/0x0:1920x1080/800x0/images/Les-tendarmes-ont-evacue-quelque-200-manifestants-qui-bloquaient-un-batiment-a-La-Rochelle-1907085.jpg" />
+date : Sat, 20 Jul 2024 08:17:48 GMT
+categories : []
+
+id : https://www.bfmtv.com/la-rochelle/la-rochelle-important-incendie-en-cours-dans-des-silos-de-cereales-au-port-de-commerce_AN-202308100305.html
+source : Flux RSS - BFMTV - La Rochelle.xml
+title : La Rochelle: important incendie en cours dans des silos de céréales au port de commerce
+description : Un important dispositif d'intervention et de sécurisation des populations est en cours dans la zone de l'incendie.<br /><br /><img src="https://images.bfmtv.com/Sip1HUvxUbufEZWigmgvS4n8fAw=/0x0:1920x1080/800x0/images/incendie-La-Rochelle-1687399.jpg" />
+date : Thu, 10 Aug 2023 12:39:12 GMT
+categories : []
+

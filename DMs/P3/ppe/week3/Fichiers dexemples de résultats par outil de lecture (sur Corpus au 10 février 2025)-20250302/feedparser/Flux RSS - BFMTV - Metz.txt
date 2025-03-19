@@ -1,0 +1,28 @@
+id : https://www.bfmtv.com/metz/metz-un-adolescent-se-tue-en-manipulant-un-mortier-d-artifice_AD-202301030610.html
+source : Flux RSS - BFMTV - Metz.xml
+title : Metz: un adolescent se tue en manipulant un mortier d'artifice
+description : Âgé de 17 ans, l'adolescent a été blessé mortellement par l'explosion d'un mortier d'artifice. Une enquête pour rechercher les causes de la mort a été ouverte.
+date : Tue, 03 Jan 2023 19:11:47 GMT
+categories : ['Home Metz - actualités']
+
+id : https://www.bfmtv.com/metz/moselle-plus-de-400-personnes-forcent-les-portes-d-un-centre-nautique_AN-202206200012.html
+source : Flux RSS - BFMTV - Metz.xml
+title : Moselle: plus de 400 personnes forcent les portes d'un centre nautique
+description : L'entrée "illégale" de centaines de personnes dans un centre nautique en Moselle ce samedi a provoqué la panique, raconte la presse régionale.
+date : Mon, 20 Jun 2022 00:50:58 GMT
+categories : ['Home Metz - actualités']
+
+id : https://www.bfmtv.com/metz/metz-4-mois-de-prison-ferme-pour-un-homme-interpelle-dans-la-cathedrale-avec-un-couteau_AD-202205120467.html
+source : Flux RSS - BFMTV - Metz.xml
+title : Metz: 4 mois de prison ferme pour un homme interpellé dans la cathédrale avec un couteau
+description : L'homme avait été arrêté dimanche dans le lieu de culte, alcoolisé et portant une arme blanche. L'apologie du terrorisme n'a pas été retenue.
+date : Thu, 12 May 2022 14:42:05 GMT
+categories : ['Home Metz - actualités']
+
+id : https://www.bfmtv.com/metz/un-rassemblement-organise-a-metz-ou-une-mosquee-a-ete-visee-par-des-cocktails-molotov_AD-202205070127.html
+source : Flux RSS - BFMTV - Metz.xml
+title : Metz: une mosquée visée par des cocktails Molotov
+description : Deux cocktails Molotov ont été projetés contre la façade du lieu de culte. Une enquête a été confiée à la sûreté départementale et un rassemblement est organisé ce samedi.
+date : Sat, 07 May 2022 10:32:49 GMT
+categories : ['Home Metz - actualités']
+

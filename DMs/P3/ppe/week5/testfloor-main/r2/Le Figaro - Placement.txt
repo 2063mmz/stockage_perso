@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/placement/scpi-apres-la-tempete-nos-conseils-pour-bien-investir-et-faire-prosperer-son-epargne-20250208
+source : Le Figaro - Placement.xml
+title : SCPI : après la tempête, nos conseils pour bien investir et faire prospérer son épargne
+description : Chahutée ces deux dernières années, la pierre papier devrait retrouver des couleurs cette année. La méthode pour tirer profit d’une offre pléthorique et très hétérogène.
+date : Sat, 08 Feb 2025 08:00:00 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/placement/les-stations-de-ski-ou-investir-dans-un-chalet-ou-un-appartement-pres-des-pistes-20250206
+source : Le Figaro - Placement.xml
+title : Les stations de ski où investir dans un chalet ou un appartement près des pistes
+description : CLASSEMENT EXCLUSIF - Parmi 106 communes françaises accueillant une station de ski sur leur territoire, découvrez où la rentabilité annuelle d’un appartement ou d’un chalet loué à des vacanciers est la plus intéressante en 2025.
+date : Thu, 06 Feb 2025 07:00:00 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/placement/immobilier-ou-investir-dans-une-petite-surface-en-2025-pour-un-rendement-optimal-20250204
+source : Le Figaro - Placement.xml
+title : Immobilier : où investir dans une petite surface en 2025 pour un rendement optimal ?
+description : SIMULATEUR – Rendement locatif, prix, fiscalité, tension du marché… Le Figaro a passé au crible près de 2000 communes pour vous aider à faire les bons choix. Découvrez notre simulateur exclusif et identifiez les villes les plus rentables pour votre investissement locatif.
+date : Tue, 04 Feb 2025 13:00:00 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/placement/on-peut-dans-certaines-villes-trouver-un-rendement-de-7-net-comment-bien-investir-dans-l-immobilier-commercial-20250127
+source : Le Figaro - Placement.xml
+title : «On peut, dans certaines villes trouver un rendement de 7% net» : comment bien investir dans l’immobilier commercial
+description : NOS CONSEILS - La crise du Covid et l’e-commerce n’ont pas sonné le glas de tous les centres-villes et investir dans des murs abritant des commerces peut se révéler une intéressante, et lucrative, diversification de patrimoine. À condition d’être prudent. Voici comment être gagnant.
+date : Mon, 27 Jan 2025 10:05:19 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/placement/le-livret-a-et-le-ldds-ont-rapporte-des-interets-records-en-2024-20250122
+source : Le Figaro - Placement.xml
+title : Le livret A et le LDDS ont rapporté des intérêts records en 2024
+description : Grâce à un encours au plus haut et une rémunération élevée, le livret A et le livret de développement durable et solidaire (LDDS) ont généré 16,8&#160;milliards d’euros d’intérêts l’an dernier.
+date : Wed, 22 Jan 2025 20:00:07 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/placement/assurance-vie-les-conseillers-pas-toujours-a-l-aise-avec-l-investissement-durable-20250119
+source : Le Figaro - Placement.xml
+title : Assurance-vie: les conseillers pas toujours à l’aise avec l’investissement durable
+description : Taxinomie, indicateurs PAI, classification SFDR, votre banquier sait-il comment verdir votre assurance-vie?
+date : Sun, 19 Jan 2025 10:14:55 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/finances-perso/investissement-responsable-un-tiers-des-fonds-pourraient-perdre-leur-labellisation-20250118
+source : Le Figaro - Placement.xml
+title : Investissement responsable: un tiers des fonds pourraient perdre leur labellisation
+description : Depuis le 1er janvier 2025, les exigences permettant de décrocher la certification ISR ont été renforcées.
+date : Sat, 18 Jan 2025 09:36:06 +0100
+categories : ['Finances perso']
+
+id : https://www.lefigaro.fr/decideurs/comment-faire-le-tri-dans-ses-produits-financiers-20250117
+source : Le Figaro - Placement.xml
+title : Comment faire le tri dans ses produits financiers
+description : NOS CONSEILS - Vos placements sont éparpillés dans différents établissements&#160;? C’est le moment d’opérer un grand tri et de vérifier si vous avez intérêt à les clôturer pour réinvestir votre épargne ailleurs ou à les conserver.
+date : Fri, 17 Jan 2025 21:00:03 +0100
+categories : ['Décideurs']
+
+id : https://www.lefigaro.fr/placement/finance-responsable-bien-choisir-votre-label-avant-d-investir-20250117
+source : Le Figaro - Placement.xml
+title : Finance responsable : bien choisir votre label avant d’investir
+description : NOS CONSEILS - ISR, ESG, Greenfin… Les certifications se sont multipliées depuis une dizaine d’années mais toutes ne se valent pas. Voici tout ce qu’il faut savoir pour mettre du vert dans vos placements.
+date : Fri, 17 Jan 2025 21:19:52 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/conjoncture/combien-rapportera-l-assurance-vie-en-2024-ce-placement-phare-des-francais-20250115
+source : Le Figaro - Placement.xml
+title : Combien rapportera l’assurance-vie en 2024, ce placement phare des Français?
+description : ANALYSE - Les assureurs ont moins de pression sur leurs épaules qu’en 2023 pour booster la rémunération de leurs fonds en euros.
+date : Thu, 16 Jan 2025 10:22:18 +0100
+categories : ['Conjoncture']
+
+id : https://www.lefigaro.fr/placement/ou-placer-votre-epargne-pour-tirer-le-meilleur-profit-de-2025-selon-les-professionnels-20250111
+source : Le Figaro - Placement.xml
+title : Épargne: les placements préférés des gestionnaires de patrimoine en 2025
+description : NOS CONSEILS - Baisse du taux du livret A, anticipation de l’impact de la politique fiscale de Donald Trump sur les marchés, évolution de l’inflation en Europe... les professionnels vous expliquent comment répartir vos économies pour rester gagnant cette année.
+date : Mon, 13 Jan 2025 11:10:45 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/finances-perso/mieux-que-le-livret-a-quel-placement-choisir-pour-epargner-malin-pour-ses-enfants-20250103
+source : Le Figaro - Placement.xml
+title : Mieux que le Livret A: quel placement choisir pour épargner malin pour ses enfants
+description : NOS CONSEILS - SCPI, livrets jeunes, assurance-vie... Les placements financiers accessibles aux mineurs ne manquent pas, mais certains ont plus d’atouts que d’autres.
+date : Fri, 03 Jan 2025 06:00:00 +0100
+categories : ['Finances perso']
+
+id : https://www.lefigaro.fr/placement/l-assurance-vie-luxembourgeoise-eldorado-pour-riches-clients-mise-a-l-epreuve-20241213
+source : Le Figaro - Placement.xml
+title : L’assurance-vie luxembourgeoise, eldorado pour riches clients, mise à l’épreuve
+description : DÉCRYPTAGE - La défaillance de FWU Life Insurance menace les économies de 34.000 clients français et interroge sur les garanties de ces contrats censés être très protecteurs.
+date : Fri, 13 Dec 2024 17:00:17 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/economie/lingots-pieces-ou-etf-comment-profiter-au-mieux-de-la-flambee-de-l-or-20241213
+source : Le Figaro - Placement.xml
+title : Lingots, pièces ou ETF: comment profiter au mieux de la flambée de l’or
+description : NOS CONSEILS - L’envolée du précieux métal fait briller les yeux des épargnants qui disposent désormais d’une large gamme de produits où investir. Voici comment bien choisir.
+date : Mon, 16 Dec 2024 20:26:50 +0100
+categories : ['Économie']
+
+id : https://www.lefigaro.fr/placement/immobilier-a-paris-ces-quartiers-refuge-ou-les-prix-ne-connaissent-pas-la-crise-20241212
+source : Le Figaro - Placement.xml
+title : Immobilier à Paris : ces quartiers «refuges» où les prix ne connaissent pas la crise
+description : PALMARÈS EXCLUSIF - Nous avons passé au crible l’évolution des prix de l’immobilier dans 80 quartiers de Paris intramuros, sur les 3 dernières années. Découvrez où la valeur du patrimoine des propriétaires ne flanche pas.
+date : Thu, 12 Dec 2024 12:10:03 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/placement/ces-cryptomonnaies-dont-le-cours-a-explose-depuis-l-election-de-trump-20241205
+source : Le Figaro - Placement.xml
+title : Bitcoin à 100.000 dollars : ces autres cryptomonnaies dont le cours explose depuis l’élection de Trump
+description : PALMARÈS EXCLUSIF - Le cours du bitcoin est propulsé à des sommets historiques depuis début novembre. Mais d’autres jetons – moins connus – font encore mieux... Et l’élection américaine n’est pas la seule raison de cet engouement.
+date : Thu, 05 Dec 2024 17:30:30 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/placement/comment-les-independants-peuvent-faire-coup-double-pour-leur-epargne-retraite-20241203
+source : Le Figaro - Placement.xml
+title : Comment les indépendants peuvent faire coup double pour leur épargne-retraite
+description : En tant que chef d’entreprise, le PER individuel comme le PER collectif vous sont accessibles.
+date : Tue, 03 Dec 2024 12:00:12 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/placement/les-atouts-meconnus-du-plan-epargne-retraite-20241202
+source : Le Figaro - Placement.xml
+title : Les atouts méconnus du Plan épargne retraite
+description : Avantage fiscal mutualisé, transmission facilitée… le PER n’est pas qu’un outil d’épargne retraite.
+date : Mon, 02 Dec 2024 11:00:12 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/economie/comment-emprunter-grace-a-son-epargne-logement-20241201
+source : Le Figaro - Placement.xml
+title : Comment emprunter grâce à son épargne-logement ?
+description : NOS CONSEILS - Si vous avez ouvert ce placement réglementé il y a quelques années, vous pouvez utiliser votre épargne pour décrocher un crédit à un taux inférieur à celui du marché.
+date : Sun, 01 Dec 2024 16:28:57 +0100
+categories : ['Économie']
+
+id : https://www.lefigaro.fr/placement/les-nouveaux-sommets-du-bitcoin-font-revenir-20241130
+source : Le Figaro - Placement.xml
+title : Les nouveaux sommets du bitcoin font revenir les petits porteurs
+description : La reine des cryptomonnaies n’en finit pas de grimper depuis l’élection de Donald Trump.
+date : Thu, 05 Dec 2024 07:05:35 +0100
+categories : ['Placement']
+

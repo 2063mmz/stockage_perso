@@ -1,0 +1,140 @@
+id : https://www.liberation.fr/international/afrique/cest-une-histoire-despoir-brise-au-senegal-comment-le-groupe-minier-francais-eramet-croque-la-grande-cote-20250210_WV4LIDWMKNE6RAPEULAHKLXA5E/
+source : Libération - A la une.xml
+title : «C’est une histoire d’espoir brisé» : au Sénégal, comment le groupe minier français Eramet croque la Grande Côte
+description : Pour l’extraction de son précieux sable minéralisé, la multinationale déplace depuis 2014 des villages entiers et avale des terres agricoles, laissant derrière elle des communautés amères et inquiètes.
+date : Mon, 10 Feb 2025 10:00:00 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/economie/economie-numerique/sommet-pour-laction-sur-lintelligence-artificielle-la-france-se-pose-en-tech-pensante-20250209_BXFH3TG6BZDYDLTJJXW4WE774A/
+source : Libération - A la une.xml
+title : Sommet sur l’IA : avec les 109 milliards d’investissements voulus par Macron, la France se pose en tech pensante
+description : Chefs d’Etats et de gouvernement, institutions, entrepreneurs et société civile se réunissent ce lundi 10 et mardi 11 février dans le cadre du grand raout parisien. L’objectif : dessiner les contours d’une voie capable de peser face aux mastodontes américains et chinois.
+date : Sun, 09 Feb 2025 20:39:27 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/economie/economie-numerique/lia-durable-entre-voeu-pieux-et-opportunite-de-marche-20250210_RRW3GZT5KFDSRCH4MIAYXKFKYE/
+source : Libération - A la une.xml
+title : L’IA durable, entre vœu pieux et opportunité de marché
+description : Avec l’avènement de l’intelligence artificielle, se pose la question de l’impact environnemental des centres de données, mais aussi les conséquences sur la consommation et la répartition électrique globale. Le ministère français de la Transition écologique, lui, y voit l’occasion d’être compétitif.
+date : Mon, 10 Feb 2025 05:48:00 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/politique/gerald-darmanin-veut-accelerer-les-procedures-dexpulsion-en-supprimant-une-commission-de-magistrats-20250210_SG5ECHPKHVHL7DDB3GFLIHVWFA/
+source : Libération - A la une.xml
+title : Gérald Darmanin veut accélérer les procédures d’expulsion en supprimant une commission de magistrats
+description : Dans une interview accordée à BFMTV le dimanche 9 février, le ministre de la Justice a suggéré de supprimer la commission chargée d’étudier les demandes d’expulsion émises par le gouvernement, et ce afin d’en faciliter la mise en œuvre.
+date : Mon, 10 Feb 2025 08:59:36 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/politique/le-maire-rn-de-frejus-david-rachline-convoque-par-la-justice-pour-prise-illegale-dinterets-20250210_MTG32GGBZBCNZKHU4HJ5VTSMNE/
+source : Libération - A la une.xml
+title : Le maire RN de Fréjus, David Rachline, convoqué par la justice pour «prise illégale d’intérêts»
+description : L’élu lepéniste est poursuivi pour les conditions dans lesquelles il a été rémunéré à la tête de deux sociétés d’économie mixte de sa ville.
+date : Mon, 10 Feb 2025 10:58:32 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/sports/superbowl-donald-trump-taylor-swift-kendrick-lamar-drapeaux-palestinien-et-soudanais-brandis-les-moments-forts-dune-soiree-hors-normes-20250210_FM7T2KBSLVEXPNHGWVGS3NZHIY/
+source : Libération - A la une.xml
+title : Super Bowl : Donald Trump, Taylor Swift, Kendrick Lamar, drapeaux palestinien et soudanais brandis… les moments forts d’une soirée hors normes
+description : L’annuelle cérémonie du football américain a vu se réunir dimanche 9 février au sein du même stade des ennemis jurés - Taylor Swift et Donald Trump -, le sacre des Eagles de Philadelphie et un grain de sable dans le show de Kendrick Lamar.
+date : Mon, 10 Feb 2025 08:08:58 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/international/europe/legislatives-au-kosovo-nouveau-triomphe-pour-albin-kurti-tribun-de-lautodetermination-20250210_VVLOD5MVKZHIFANJE7QRMH5R2E/
+source : Libération - A la une.xml
+title : Législatives au Kosovo : nouveau succès pour Albin Kurti, tribun de l’autodétermination
+description : Arrivé en tête avec 41% des suffrages, le Premier ministre de gauche est en bonne position pour poursuivre sa politique de fermeté face à une Serbie qui ne reconnaît toujours pas l’indépendance de son pays.
+date : Mon, 10 Feb 2025 08:40:11 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/idees-et-debats/tribunes/deputes-socialistes-censurons-le-gouvernement-bayrou-ce-lundi-sur-le-plfss-par-eric-coquerel-20250210_2WM7YFC7SFF23A7GTZJIVY7V6A/
+source : Libération - A la une.xml
+title : Députés socialistes, censurons le gouvernement Bayrou ce lundi sur le PLFSS ! par Eric Coquerel
+description : Pour le président LFI de la commission des finances de l’Assemblée, le projet de loi de finances sur la Sécurité sociale est, pour les socialistes qui ont refusé de censurer le gouvernement Bayrou sur le budget, la dernière chance de le faire tomber. Car une fois les deux lois de finances adoptées, il pactisera avec l’extrême droite.
+date : Sun, 09 Feb 2025 16:34:00 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/culture/arts/le-top-5-des-expos-a-voir-en-ce-moment-sandra-knecht-romeo-mivekannin-james-welling-20250210_XS6FMR5SGNEPNEYHXJMBSZJTCY/
+source : Libération - A la une.xml
+title : Le top 5 des expos à voir en ce moment : Sandra Knecht, Roméo Mivekannin, James Welling…
+description : Peinture, art contemporain, photographie… «Libé» vous guide dans les expositions à voir, à Paris, Bâle, Lens ou Marseille. Avec aussi : une exposition sur le cirque et un cabinet de curiosité.
+date : Mon, 10 Feb 2025 05:33:00 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/politique/sur-le-droit-du-sol-le-rn-revendique-une-nouvelle-victoire-ideologique-grace-au-gouvernement-20250210_7YTI7EMD6NBPLLPRKEMQ2ZZO6A/
+source : Libération - A la une.xml
+title : Sur le droit du sol, le RN revendique une nouvelle «victoire idéologique» grâce au gouvernement
+description : Indiscrétions piquantes, maladresses vaches ou douces confessions : chaque jour, retrouvez les brèves qui auscultent le monde politique.
+date : Mon, 10 Feb 2025 11:04:11 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/international/amerique/en-equateur-le-conservateur-daniel-noboa-en-route-pour-la-reelection-20250208_6QLPVOG5G5EWVFEDDMF7DB637M/
+source : Libération - A la une.xml
+title : En Equateur, le président sortant finalement talonné par sa rivale de gauche
+description : A l’issue du premier tour de la présidentielle dans ce pays miné par le narcotrafic, le dirigeant conservateur devance d’une très courte tête sa rivale de gauche Luisa Gonzalez, au score élevé inattendu. Un deuxième tour pourrait se dérouler le 13 avril.
+date : Mon, 10 Feb 2025 11:41:22 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/international/europe/allemagne-offensif-en-debat-scholz-nest-pas-parvenu-pas-a-faire-devisser-merz-20250210_H7EKI3VVCZCXTDJKL55T6DCGQM/
+source : Libération - A la une.xml
+title : Législatives en Allemagne : offensif lors du débat télévisé, Scholz ne parvient pas à faire dévisser Merz
+description : Le chancelier allemand, candidat à sa réélection, a tout tenté pour déstabiliser son concurrent et favori des sondages dimanche 9 février lors de leur premier débat télévisé. Il l’a notamment attaqué sur sa compromission avec l’extrême droite.
+date : Mon, 10 Feb 2025 07:12:01 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/economie/medias/chatgpt-a-lest-republicain-eric-barbier-un-delegue-syndical-a-loffensive-20250210_HZJOWL7QRBBKZAKV2BWL34RVTQ/
+source : Libération - A la une.xml
+title : ChatGPT à «l’Est républicain» : Eric Barbier, un délégué syndical à l’offensive contre l’IA dans les médias
+description : Témoin d’une expérimentation de l’intelligence artificielle générative au sein de sa rédaction, le journaliste est devenu l’une des principales voix critiques de son utilisation dans les médias. Au point d’être à l’initiative d’un contre-sommet de l’IA lundi 10 février à Paris.
+date : Mon, 10 Feb 2025 05:20:00 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/politique/le-bon-sens-de-darmanin-ne-resiste-pas-a-lexamen-du-conseil-constitutionnel-20250210_6KNBVKYTVNCW7FLDQ2TK32QI7I/
+source : Libération - A la une.xml
+title : Le «bon sens» de Darmanin ne résiste pas à l’examen du Conseil constitutionnel
+description : Le ministre de la Justice est très favorable à une mesure selon lui «de bon sens»… mais contraire à la DDHC et à la Constitution, comme l’ont déjà rappelé les Sages.
+date : Mon, 10 Feb 2025 10:10:49 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/portraits/marie-barsacq-sang-melee-20250209_IO5XIOK4ENDTDGT6MMJE4N3LE4/
+source : Libération - A la une.xml
+title : Marie Barsacq, sang mêlée
+description : La ministre des Sports, de la Jeunesse et de la Vie associative , originaire du Sud-Ouest et fan de rugby, s’est épanouie au sein du comité d’organisation des JO de Paris 2024.
+date : Sun, 09 Feb 2025 16:08:51 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/politique/debattre-sur-lidentite-une-vaine-lubie-francaise-20250209_GVBYYF4L2NGTJNEMGAIHIQJ46A/
+source : Libération - A la une.xml
+title : Débattre sur «l’identité», une vaine lubie française
+description : Plutôt que de débattre de la société qu’elle veut, de l’Europe qu’il faut construire, du monde qui l’entoure, la France va se regarder le nombril pour savoir qui elle est et qui elle ne veut pas accueillir.
+date : Sun, 09 Feb 2025 15:53:03 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/culture/livres/deux-livres-de-poesie-pour-enfants-pour-les-changer-de-la-recitation-20250210_6GWVXWTIOZAKJJSMMY2N6LASZ4/
+source : Libération - A la une.xml
+title : Deux livres de poésie pour enfants pour les changer de la récitation
+description : Les recueils «Poèmes joue ! Joue !» et «Bonjour poésies» démontrent que les meilleurs des auteurs contemporains savent aussi s’adresser aux plus jeunes.
+date : Mon, 10 Feb 2025 09:22:00 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/environnement/animaux/au-large-de-tenerife-des-scientifiques-filment-pour-la-premiere-fois-une-baudroie-des-abysses-remontant-a-la-surface-20250209_MFUBZ6BQ6FC35O2YVFYFEOOF7I/
+source : Libération - A la une.xml
+title : Au large de Tenerife, des scientifiques filment pour la première fois une baudroie des abysses remontant à la surface
+description : Le 26 janvier, plusieurs scientifiques d’une ONG espagnole sont tombés sur un poisson qui ne quitte d’ordinaire jamais les abysses au large de Tenerife. Le spécimen, mort peu après, «se trouvait là à cause d’un prédateur, d’une maladie ou d’un courant ascendant», estiment les scientifiques.
+date : Sun, 09 Feb 2025 16:22:21 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/lifestyle/intimites/mon-premier-amour-je-decouvre-pour-la-premiere-fois-une-relation-ou-les-deux-personnes-veulent-vraiment-construire-quelque-chose-20250210_DMCP3X2E3VDO3F2NNJOFOGGOT4/
+source : Libération - A la une.xml
+title : Mon premier amour : «Je découvre pour la première fois une relation où les deux personnes veulent vraiment construire quelque chose»
+description : Pour célébrer l’amour comme il se doit, revenons au jour où nous l’avons découvert dans les bras d’une personne qui nous aimait en retour. Pour «Libé», ils ou elles se livrent sur cette histoire, aussi singulière qu’universelle. Dans notre premier épisode, Luce, 24 ans, nous raconte son idylle avec un bel espagnol rencontré en Erasmus.
+date : Mon, 10 Feb 2025 06:59:26 +0000
+categories : ['No category']
+
+id : https://www.liberation.fr/culture/musique/bonnie-prince-billy-un-jour-on-connecte-avec-une-chanson-et-cest-comme-si-on-trouvait-de-lor-au-fond-dune-riviere-20250209_IHBDRLEMEFFT5DRQ4JRCR6EIIQ/
+source : Libération - A la une.xml
+title : Bonnie Prince Billy : «Un jour, on connecte avec une chanson et c’est comme si on trouvait de l’or au fond d’une rivière»
+description : Rencontre avec le songwriter américain Will Oldham, de retour avec «The Purple Bird», formidable album enregistré à Nashville et fruit de collaborations rares à la production, l’écriture et la composition.
+date : Sun, 09 Feb 2025 14:37:00 +0000
+categories : ['No category']
+

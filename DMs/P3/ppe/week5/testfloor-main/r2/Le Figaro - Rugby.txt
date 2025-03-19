@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/sports/rugby/top-14/top-14-julien-dumora-castres-mettra-un-terme-a-sa-carriere-a-l-issue-de-la-saison-20250210
+source : Le Figaro - Rugby.xml
+title : Top 14 : Julien Dumora (Castres) mettra un terme à sa carrière à l’issue de la saison
+description : L’arrière du Castres Olympique mettra un terme à sa carrière à l’issue de la saison et intégrer le staff du club.
+date : Mon, 10 Feb 2025 13:25:08 +0100
+categories : ['Top 14']
+
+id : https://www.lefigaro.fr/sports/rugby/top-14/top-14-pourquoi-la-rencontre-entre-montpellier-et-toulon-sera-delocalisee-a-beziers-20250209
+source : Le Figaro - Rugby.xml
+title : Top 14 : pourquoi la rencontre entre Montpellier et Toulon sera délocalisée à Béziers
+description : Ce dimanche dans un communiqué, le club de Montpellier a expliqué pourquoi la rencontre contre Toulon prévue le 15 février prochain sera délocalisée.
+date : Sun, 09 Feb 2025 22:03:56 +0100
+categories : ['Top 14']
+
+id : https://www.lefigaro.fr/sports/rugby/6-nations/six-nations-townsend-donne-des-nouvelles-de-russell-et-graham-sortis-apres-un-choc-impressionnant-20250209
+source : Le Figaro - Rugby.xml
+title : Six Nations : Townsend donne des nouvelles de Russell et Graham, sortis après un choc impressionnant
+description : Le sélectionneur écossais a donné des nouvelles, au micro de BBC Sport, de Finn Russell et Darcy Graham, sortis après un choc impressionnant ce dimanche face à l’Irlande.
+date : Sun, 09 Feb 2025 22:05:59 +0100
+categories : ['6 nations']
+
+id : https://www.lefigaro.fr/sports/rugby/6-nations/six-nations-en-video-la-large-victoire-de-l-irlande-en-ecosse-20250209
+source : Le Figaro - Rugby.xml
+title : Six Nations : en vidéo, la large victoire de l’Irlande en Écosse
+description : Ce dimanche après-midi, l’Irlande a largement battu l’Écosse (18-32) pour le compte de la 2e journée du Tournoi des six nations.
+date : Sun, 09 Feb 2025 22:07:59 +0100
+categories : ['6 nations']
+
+id : https://www.lefigaro.fr/sports/rugby/6-nations/ecosse-irlande-prendergast-repond-a-ses-detracteurs-le-chardon-toujours-maudit-face-au-trefle-les-tops-et-les-flops-20250209
+source : Le Figaro - Rugby.xml
+title : Écosse-Irlande : Prendergast répond à ses détracteurs, le Chardon toujours maudit face au Trèfle... les tops et les flops
+description : Pour le dernier match de cette deuxième journée du Tournoi, l’Irlande, qui a dominé l’Écosse avec le bonus offensif à Murrayfield (18-32), est désormais la seule nation encore en lice pour faire le Grand Chelem.
+date : Sun, 09 Feb 2025 19:03:21 +0100
+categories : ['6 nations']
+
+id : https://www.lefigaro.fr/sports/rugby/6-nations/xv-de-france-jalibert-parmi-les-19-joueurs-proteges-avant-le-deplacement-en-italie-auradou-libere-20250209
+source : Le Figaro - Rugby.xml
+title : XV de France : Jalibert parmi les 19 joueurs protégés avant le déplacement en Italie, Auradou libéré
+description : L’ouvreur de l’UBB ne disputera pas la prochaine du Top 14 tandis que Romain Ntamack devrait purger son deuxième match de suspension.
+date : Sun, 09 Feb 2025 19:19:43 +0100
+categories : ['6 nations']
+
+id : https://www.lefigaro.fr/sports/six-nations-xv-de-france-comment-expliquer-l-inexplicable-20250209
+source : Le Figaro - Rugby.xml
+title : Six Nations : XV de France, comment expliquer l’inexplicable face à l’Angleterre
+description : DÉCRYPTAGE - Les Bleus, coupables de fautes grossières et d’autres ratés, ont chuté sur le fil en Angleterre et laissé filer le Grand Chelem.
+date : Mon, 10 Feb 2025 09:39:45 +0100
+categories : ['6 nations']
+
+id : https://www.lefigaro.fr/sports/rugby/6-nations/six-nations-thomas-ramos-un-cadre-de-travers-20250209
+source : Le Figaro - Rugby.xml
+title : Six Nations : Thomas Ramos, un cadre de travers
+description : L’arrière des Bleus, comme d’autres leaders de l’équipe de France, a connu un jour sans à Twickenham. Inhabituel pour un joueur qui brille régulièrement.
+date : Sun, 09 Feb 2025 22:05:21 +0100
+categories : ['6 nations']
+
+id : https://www.lefigaro.fr/sports/rugby/6-nations/six-nations-l-irlande-deroule-en-ecosse-et-poursuit-son-chemin-20250209
+source : Le Figaro - Rugby.xml
+title : Six Nations : l’Irlande déroule en Écosse et poursuit son chemin
+description : Ce dimanche en Écosse, le XV du Trèfle s’est imposé, avec le bonus offensif (18-32), pour le compte de la 2e journée du Tournoi des six nations.
+date : Sun, 09 Feb 2025 19:13:07 +0100
+categories : ['6 nations']
+
+id : https://www.lefigaro.fr/sports/rugby/rugby-la-georgie-et-l-espagne-se-qualifient-pour-la-coupe-du-monde-2027-20250209
+source : Le Figaro - Rugby.xml
+title : Rugby : quatre équipes se qualifient pour la Coupe du monde 2027
+description : Ce dimanche, la Géorgie, le Portugal, la Roumanie et l’Espagne ont déroché leurs places pour la Coupe du monde 2027 après leurs victoires respectives sur les Pays-Bas et la Suisse.
+date : Sun, 09 Feb 2025 22:06:44 +0100
+categories : ['Rugby']
+
+id : https://www.lefigaro.fr/sports/rugby/6-nations/six-nations-apres-un-choc-tete-contre-tete-les-ecossais-finn-russell-et-darcy-graham-sortis-sur-commotion-contre-l-irlande-20250209
+source : Le Figaro - Rugby.xml
+title : Six Nations : les Écossais Finn Russell et Darcy Graham sortis sur commotion après un choc impressionnant
+description : Les deux joueurs écossais ont dû quitter le terrain dès la 22e minute du match contre le XV du Trèfle.
+date : Sun, 09 Feb 2025 17:30:34 +0100
+categories : ['6 nations']
+
+id : https://www.lefigaro.fr/sports/rugby/live/six-nations/2025/941794/ecosse-irlande
+source : Le Figaro - Rugby.xml
+title : Écosse-Irlande : revivez la victoire bonifiée du XV du Trèfle à Murrayfield
+description : Avec sa victoire à quatre essais face à l’Écosse (18-32), l’Irlande est la dernière nation en lice pour le Grand Chelem.
+date : Sun, 09 Feb 2025 18:09:52 +0100
+categories : ['6 nations']
+
+id : https://www.lefigaro.fr/sports/rugby/6-nations/6-nations-avec-plus-de-8-millions-de-telespectateurs-les-bleus-s-offrent-un-carton-d-audience-20250209
+source : Le Figaro - Rugby.xml
+title : Six Nations : avec plus de 8 millions de téléspectateurs, les Bleus s’offrent un carton d’audience
+description : Malgré la défaite des Bleus face à l’Angleterre samedi (26-25), le XV de France a tout de même rassemblé 8,1 millions de téléspectateurs en moyenne lors du Crunch.
+date : Sun, 09 Feb 2025 17:28:34 +0100
+categories : ['6 nations']
+
+id : https://www.lefigaro.fr/sports/rugby/xv-de-france/xv-de-france-romain-ntamack-saura-lundi-s-il-peut-affronter-l-italie-20250209
+source : Le Figaro - Rugby.xml
+title : XV de France : Romain Ntamack saura lundi s’il peut affronter l’Italie
+description : Selon nos confrères de L’Equipe, Romain Ntamack a passé le « Head Contact Process » qui devrait lui permettre de voir sa suspension, suite à son carton rouge reçu face au pays de Galles, réduite pour pouvoir affronter l’Italie le 23 février prochain.
+date : Sun, 09 Feb 2025 14:53:26 +0100
+categories : ['XV de France']
+
+id : https://www.lefigaro.fr/sports/rugby/6-nations/xv-de-france-apparemment-ca-lui-arrive-une-fois-par-match-plaisante-ramos-apres-les-vomissements-de-bielle-biarrey-20250209
+source : Le Figaro - Rugby.xml
+title : XV de France : «Apparemment, ça lui arrive une fois par match», plaisante Ramos après les vomissements de Bielle-Biarrey
+description : L’ailier de l’UBB a été victime de crises de vomissement avant la deuxième mi-temps face aux Anglais. Un trop-plein d’émotions à gérer.
+date : Sun, 09 Feb 2025 14:24:02 +0100
+categories : ['6 nations']
+
+id : https://www.lefigaro.fr/sports/rugby/6-nations/des-bleus-negligents-ridicules-arrogants-la-presse-anglaise-se-paye-le-xv-de-france-20250209
+source : Le Figaro - Rugby.xml
+title : Des Bleus «négligents», «ridicules», «arrogants» : la presse anglaise se paye le XV de France
+description : Au lendemain du Crunch perdu de façon improbable par la France à Twickenham, les médias d’outre-Manche jubilent et font assaut de vacheries envers la troupe de Fabien Galthié.
+date : Sun, 09 Feb 2025 15:14:00 +0100
+categories : ['6 nations']
+
+id : https://www.lefigaro.fr/sports/rugby/6-nations/xv-de-france-le-lancer-de-touche-genial-de-mauvaka-qui-a-mystifie-les-anglais-20250209
+source : Le Figaro - Rugby.xml
+title : XV de France : le lancer en touche génial de Mauvaka qui a mystifié les Anglais
+description : Le Toulousain a signé un geste rare sur un lancer en touche qui a totalement surpris la défense anglaise.
+date : Sun, 09 Feb 2025 10:18:35 +0100
+categories : ['6 nations']
+
+id : https://www.lefigaro.fr/sports/rugby/6-nations/angleterre-france-les-coups-de-coeur-et-coups-de-griffe-de-notre-envoye-special-20250209
+source : Le Figaro - Rugby.xml
+title : Angleterre-France : les coups de cœur et coups de griffe de notre envoyé spécial
+description : Après la défaite sur le fil des Bleus face aux Anglais (26-25), découvrez ce qui a retenu l’attention de notre journaliste présent à Twickenham.
+date : Sun, 09 Feb 2025 10:16:29 +0100
+categories : ['6 nations']
+
+id : https://www.lefigaro.fr/sports/rugby/6-nations/six-nations-inspire-par-shane-williams-quadruple-en-coupe-du-monde-5-choses-a-savoir-sur-darcy-graham-l-explosif-ailier-du-xv-du-chardon-20250209
+source : Le Figaro - Rugby.xml
+title : Six Nations : inspiré par Shane Williams, quadruplé en Coupe du monde... 5 choses à savoir sur Darcy Graham, l’explosif ailier du XV du Chardon
+description : Étincelant contre l’Italie samedi dernier, l’ailier d’Édimbourg est devenu, au fil du temps, un des facteurs X de cette équipe d’Écosse. Face à l’Irlande, il aura fort à faire pour permettre aux siens de décrocher un succès de prestige.
+date : Sun, 09 Feb 2025 07:07:00 +0100
+categories : ['6 nations']
+
+id : https://www.lefigaro.fr/sports/rugby/6-nations/frustration-maladresses-tournoi-pas-termine-le-decryptage-de-philippe-sella-apres-angleterre-france-20250208
+source : Le Figaro - Rugby.xml
+title : «Frustration», maladresses, Tournoi «pas terminé»... Le décryptage de Philippe Sella après Angleterre-France
+description : Philippe Sella, ancien trois-quarts centre vedette du XV de France (111 sélections), décrypte pour Le Figaro la défaite d’un point du XV de France en Angleterre (26-25) dans le Tournoi des six nations.
+date : Sun, 09 Feb 2025 09:08:07 +0100
+categories : ['6 nations']
+

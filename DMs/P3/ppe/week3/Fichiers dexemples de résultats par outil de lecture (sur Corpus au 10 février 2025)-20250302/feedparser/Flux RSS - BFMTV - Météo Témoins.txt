@@ -1,0 +1,210 @@
+id : https://www.bfmtv.com/temoins/meteo/un-violent-orage-sur-rivery-dans-la-somme-temoins-bfmtv_VN-202210240234.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Un violent orage sur Rivery dans la Somme - Témoins BFMTV
+description : Un violent orage sur Rivery dans la Somme, une vidéo des Témoins BFMTV. Ce 23 octobre, un violent orage accompagné de gros grêlons frappe la commune de Rivery dans la Somme. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-613981
+date : Mon, 24 Oct 2022 07:52:46 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/les-images-de-la-violente-pluie-de-grele-qui-a-touche-amiens-ce-dimanche-temoins-bfmtv_VN-202210240232.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Les images de la violente pluie de grêle qui a touché Amiens ce dimanche - Témoins BFMTV
+description : Les images de la violente pluie de grêle qui a touché Amiens ce dimanche, une vidéo des Témoins BFMTV. Ce dimanche 23 octobre, une violente pluie de grêle s'est abattue sur Amiens. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-613978
+date : Mon, 24 Oct 2022 07:51:00 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/il-grele-a-lyon-temoins-bfmtv_VN-202209250015.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Il grêle à Lyon - Témoins BFMTV
+description : Il grêle à Lyon, une vidéo des Témoins BFMTV. Ce 24 septembre vers 19 heures, un orage accompagné de grêle s'abat sur Lyon. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-613465
+date : Sun, 25 Sep 2022 02:57:12 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/il-grele-fortement-dans-le-gard-temoins-bfmtv_VN-202209020723.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Il grêle fortement dans le Gard - Témoins BFMTV
+description : Il grêle fortement dans le Gard, une vidéo des Témoins BFMTV. Ce 02 septembre, un gros orage de grêle s'abat dans le Gard dans la commune de Langlade. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-612485
+date : Fri, 02 Sep 2022 18:42:13 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/un-episode-orageux-s-abat-dans-le-var-temoins-bfmtv_VN-202209020722.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Un épisode orageux s'abat dans le Var - Témoins BFMTV
+description : Un épisode orageux s'abat dans le Var, une vidéo des Témoins BFMTV. Ce 02 septembre, un gros orage s'abat sur la commune de Saint-Raphaël dans le Var. Le ciel s'est noirci au-dessus de la Méditerranée, puis la cellule orageuse s'est déplacée sur les hauteurs de Saint-Raphaël vers 12 heures 30. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-612478
+date : Fri, 02 Sep 2022 18:41:50 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/un-violent-orage-frappe-la-gironde-temoins-bfmtv_VN-202206230586.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Un violent orage frappe la Gironde - Témoins BFMTV
+description : Un violent orage frappe la Gironde, une vidéo des Témoins BFMTV. Ce 23 juin, vers 15 heures, un violent orage de grêle et de pluie s'est abattu sur le Sud de la Gironde. En témoigne cette vidéo filmée à Floudès proche La Réole. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-609785
+date : Thu, 23 Jun 2022 16:44:54 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/il-pleut-fortement-a-agen-temoins-bfmtv_VN-202206230584.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Il pleut fortement à Agen - Témoins BFMTV
+description : Il pleut fortement à Agen, une vidéo des Témoins BFMTV. Ce 23 juin, la ville d'Agen est sous les eaux après les fortes pluies. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-609782
+date : Thu, 23 Jun 2022 16:44:34 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/orage-a-montpeyroux-dans-le-departement-de-la-dordogne-temoins-bfmtv_VN-202206230583.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Orage à Montpeyroux dans le département de la Dordogne - Témoins BFMTV
+description : Orage à Montpeyroux dans le département de la Dordogne, une vidéo des Témoins BFMTV. Un orage s'est abattu sur Montpeyroux, dans le département de la Dordogne, ce 23 juin 2022. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-609780
+date : Thu, 23 Jun 2022 16:44:13 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/un-violent-orage-frappe-le-rhone-temoins-bfmtv_VN-202206200756.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Un violent orage frappe le Rhône - Témoins BFMTV
+description : Un violent orage frappe le Rhône, une vidéo des Témoins BFMTV. Ce 04 juin, un violent orage accompagné de grêlons s'abat dans le Rhône. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-608921
+date : Mon, 20 Jun 2022 22:25:04 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/un-orage-de-grele-frappe-dans-l-indre-et-loire-temoins-bfmtv_VN-202206200755.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Un orage de grêle frappe dans l'Indre-et-Loire - Témoins BFMTV
+description : Un orage de grêle frappe dans l'Indre-et-Loire, une vidéo des Témoins BFMTV. Ce 04 juin, un violent orage accompagné de grêlons s'abat sur Cinq-Mars-la-Pile dans l'Indre-et-Loire. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-609185
+date : Mon, 20 Jun 2022 22:24:39 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/une-tempete-de-grele-s-abat-dans-le-sud-ouest-temoins-bfmtv_VN-202206200740.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Une tempête de grêle s'abat dans le Sud Ouest - Témoins BFMTV
+description : Une tempête de grêle s'abat dans le Sud Ouest, une vidéo des Témoins BFMTV. Ce 20 juin, une tempête de grêle frappe violemment le Sud Ouest. Du jamais-vu ! Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-609518
+date : Mon, 20 Jun 2022 21:35:36 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/il-grele-sur-bordeaux-temoins-bfmtv_VN-202206200739.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Il grêle sur Bordeaux - Témoins BFMTV
+description : Il grêle sur Bordeaux, une vidéo des Témoins BFMTV. Ce 20 juin, la ville de Bordeaux est frappée par un violent orage de grêle. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-609516
+date : Mon, 20 Jun 2022 21:34:26 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/il-grele-a-saint-medard-en-jalles-dans-la-gironde-temoins-bfmtv_VN-202206200738.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Il grêle à Saint-Médard-en-Jalles dans la Gironde - Témoins BFMTV
+description : Il grêle à Saint-Médard-en-Jalles dans la Gironde, une vidéo des Témoins BFMTV. Ce 20 juin, à Saint-Médard-en-Jalles dans la Gironde, des grêlons de toutes tailles se sont abattus pendant plus de 20 minutes, occasionnant des dégâts sur les véhicules, les toitures et les volets.  Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-609513
+date : Mon, 20 Jun 2022 21:33:45 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/un-violent-orage-s-abat-sur-bordeaux-temoins-bfmtv_VN-202206200737.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Un violent orage s'abat sur Bordeaux - Témoins BFMTV
+description : Un violent orage s'abat sur Bordeaux, une vidéo des Témoins BFMTV. Ce 20 juin, un méga orage accompagné de grêles et de rafales de vent violent s'abat sur Bordeaux. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-609511
+date : Mon, 20 Jun 2022 21:32:06 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/vitry-sur-seine-sous-les-eaux-temoins-bfmtv_VN-202106220519.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Vitry-sur-Seine sous les eaux - Témoins BFMTV
+description : Vitry-sur-Seine sous les eaux, une vidéo des Témoins BFMTV. La ville de Vitry-sur-Seine se retrouve sous les eaux ce 22 juin 2021. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-604219
+date : Tue, 22 Jun 2021 21:25:10 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/ciel-d-orage-tres-menacant-a-beauvais-temoins-bfmtv_VN-202106220518.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Ciel d'orage très menaçant à Beauvais - Témoins BFMTV
+description : Ciel d'orage très menaçant à Beauvais, une vidéo des Témoins BFMTV. Un orage supercellulaire traverse la ville de Beauvais ce lundi 21 juin 2021. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-604218
+date : Tue, 22 Jun 2021 21:24:48 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/un-tuba-dans-le-ciel-de-creney-pres-troyes-temoins-bfmtv_VN-202106220517.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Un tuba dans le ciel de Creney-près-Troyes - Témoins BFMTV
+description : Un tuba dans le ciel de Creney-près-Troyes, une vidéo des Témoins BFMTV. Un tuba a été repéré au-dessus de Creney-près-Troyes ce mardi 22 juin 2021. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-604217
+date : Tue, 22 Jun 2021 21:24:26 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/une-mini-tornade-s-est-abattue-a-dremil-lafage-haute-garonne-temoins-bfmtv_VN-202106170547.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Une mini tornade s'est abattue à Drémil-Lafage (Haute-Garonne) - Témoins BFMTV
+description : Une mini tornade s'est abattue à Drémil-Lafage (Haute-Garonne), une vidéo des Témoins BFMTV. Ce 17 juin dans la commune de Drémil-Lafage, les voisins s'unissent après le passage d'une mini-tornade. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-603840
+date : Thu, 17 Jun 2021 19:12:04 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/yvelines-la-neige-est-de-retour-a-rambouillet-temoins-bfmtv_VN-202104060367.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Yvelines : la neige est de retour à Rambouillet - Témoins BFMTV
+description : Yvelines : la neige est de retour à Rambouillet, une vidéo des Témoins BFMTV. Mardi 06 avril, les flocons ont fait leur grand retour à Rambouillet, dans les Yvelines. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-602710
+date : Tue, 06 Apr 2021 15:50:36 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/calvados-averses-de-gresil-a-lisieux-temoins-bfmtv_VN-202104060366.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Calvados : averses de grésil à Lisieux - Témoins BFMTV
+description : Calvados : averses de grésil à Lisieux, une vidéo des Témoins BFMTV. À Lisieux (Calvados), ce mardi 06 avril, l'ambiance est hivernale avec quelques grains de grésil. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-602702
+date : Tue, 06 Apr 2021 15:50:16 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/haute-marne-neige-a-saint-dizier-temoins-bfmtv_VN-202104060365.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Haute-Marne : neige à Saint-Dizier - Témoins BFMTV
+description : Haute-Marne : neige à Saint-Dizier, une vidéo des Témoins BFMTV. Mardi 06 avril, l'hiver revient avec de la neige à Saint-Dizier, en Haute-Marne. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-602711
+date : Tue, 06 Apr 2021 15:50:10 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/eure-et-loir-neige-a-dreux-temoins-bfmtv_VN-202104060364.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Eure-et-Loir : neige à Dreux - Témoins BFMTV
+description : Eure-et-Loir : neige à Dreux, une vidéo des Témoins BFMTV. Mardi 06 avril vers 15h, des chutes de neige touchent la commune de Dreux, en Eure-et-Loir. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-602714
+date : Tue, 06 Apr 2021 15:50:03 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/neige-a-plouigneau-finistere-temoins-bfmtv_VN-202102090408.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Neige à Plouigneau (Finistère) - Témoins BFMTV
+description : Neige à Plouigneau (Finistère), une vidéo des Témoins BFMTV. Il neige à Plouigneau, dans le Finistère, ce mardi 09 février 2021. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-601710
+date : Tue, 09 Feb 2021 18:47:53 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/haute-savoie-pluie-de-sable-et-ciel-jaune-a-thonon-les-bains-temoins-bfmtv_VN-202102060131.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Haute-Savoie: pluie de sable et ciel jaune à Thonon-les-Bains - Témoins BFMTV
+description : Haute-Savoie: pluie de sable et ciel jaune à Thonon-les-Bains, une vidéo des Témoins BFMTV. Samedi 06 février, la commune de Thonon-les-Bains, en Haute-Savoie est touchée par une remontée du sable du Sahara. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-601654
+date : Sat, 06 Feb 2021 13:28:12 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/ciel-jaune-a-saint-maurice-sur-moselle-dans-les-vosges-temoins-bfmtv_VN-202102060105.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Ciel jaune à Saint-Maurice-sur-Moselle, dans les Vosges - Témoins BFMTV
+description : Ciel jaune à Saint-Maurice-sur-Moselle, dans les Vosges, une vidéo des Témoins BFMTV. Ciel jaune au-dessus de Saint-Maurice-sur-Moselle, dans les Vosges. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-601653
+date : Sat, 06 Feb 2021 12:01:18 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/ciel-orange-au-dessus-de-marboz-ain-temoins-bfmtv_VN-202102060101.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Ciel orangé au-dessus de Marboz (Ain) - Témoins BFMTV
+description : Ciel orangé au-dessus de Marboz (Ain), une vidéo des Témoins BFMTV. Ce samedi 06 février, Marboz s'est levée sous un ciel jaunâtre. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-601650
+date : Sat, 06 Feb 2021 11:52:53 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/intemperies-la-garonne-deborde-sur-les-quais-de-bordeaux-temoins-bfmtv_VN-202102010144.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Intempéries: la Garonne déborde sur les quais de Bordeaux - Témoins BFMTV
+description : Intempéries: la Garonne déborde sur les quais de Bordeaux, une vidéo des Témoins BFMTV. Lundi 1er février, suite aux intempéries, la Garonne déborde sur les quais de Bordeaux. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-601537
+date : Mon, 01 Feb 2021 09:19:48 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/haut-rhin-neige-a-wittenheim-temoins-bfmtv_VN-202101150273.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Haut-Rhin: neige à Wittenheim - Témoins BFMTV
+description : Haut-Rhin: neige à Wittenheim, une vidéo des Témoins BFMTV. Vendredi 15 janvier 2021, il neige à Wittenheim, en Haut-Rhin. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-600919
+date : Fri, 15 Jan 2021 15:39:25 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/haut-rhin-colmar-sous-la-neige-temoins-bfmtv_VN-202101150272.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Haut-Rhin: Colmar sous la neige - Témoins BFMTV
+description : Haut-Rhin: Colmar sous la neige, une vidéo des Témoins BFMTV. Il neige abondamment à Colmar, en Haut-Rhin, ce vendredi 15 janvier 2021. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-600922
+date : Fri, 15 Jan 2021 15:39:20 GMT
+categories : ['Home Méteo - actualités']
+
+id : https://www.bfmtv.com/temoins/meteo/haut-rhin-neige-a-lutterbach-temoins-bfmtv_VN-202101150271.html
+source : Flux RSS - BFMTV - Météo Témoins.xml
+title : Haut-Rhin: neige à Lutterbach - Témoins BFMTV
+description : Haut-Rhin: neige à Lutterbach, une vidéo des Témoins BFMTV. Vendredi 15 janvier 2021, la neige est tombée en abondance à Lutterbach, en Haut-Rhin. Faites comme ce témoin BFMTV et vous aussi venez déposer vos vidéos d'actualités sur http://temoins.bfmtv.com/. Réf : TMS-600910
+date : Fri, 15 Jan 2021 15:39:16 GMT
+categories : ['Home Méteo - actualités']
+

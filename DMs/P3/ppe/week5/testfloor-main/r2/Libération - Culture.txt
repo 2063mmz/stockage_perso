@@ -1,0 +1,168 @@
+id : https://www.liberation.fr/culture/livres/deux-livres-de-poesie-pour-enfants-pour-les-changer-de-la-recitation-20250210_6GWVXWTIOZAKJJSMMY2N6LASZ4/
+source : Libération - Culture.xml
+title : Deux livres de poésie pour enfants pour les changer de la récitation
+description : Les recueils «Poèmes joue ! Joue !» et «Bonjour poésies» démontrent que les meilleurs des auteurs contemporains savent aussi s’adresser aux plus jeunes.
+date : Mon, 10 Feb 2025 09:22:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/to-like-or-not-un-spectacle-interactif-ou-tout-peut-basculer-dun-insta-a-lautre-20250210_JQBP3HHJ7FCGBLRLSB5XGI2XUI/
+source : Libération - Culture.xml
+title : «To Like or Not», un spectacle interactif où tout peut basculer d’un Insta à l’autre
+description : Dans un spectacle où s’enchaînent contenus postés sur les réseaux sociaux, pièce de théâtre et expérience de réalité virtuelle, Emilie Anna Maillet explore les images et les masques que les adolescents se créent.
+date : Mon, 10 Feb 2025 06:13:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/arts/le-top-5-des-expos-a-voir-en-ce-moment-sandra-knecht-romeo-mivekannin-james-welling-20250210_XS6FMR5SGNEPNEYHXJMBSZJTCY/
+source : Libération - Culture.xml
+title : Le top 5 des expos à voir en ce moment : Sandra Knecht, Roméo Mivekannin, James Welling…
+description : Peinture, art contemporain, photographie… «Libé» vous guide dans les expositions à voir, à Paris, Bâle, Lens ou Marseille. Avec aussi : une exposition sur le cirque et un cabinet de curiosité.
+date : Mon, 10 Feb 2025 05:33:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/sommet-sur-lia-la-culture-defend-linnovation-mais-aussi-ses-droits-20250209_FZOWJOFZUBBP3FYBAEH7Y3CMSU/
+source : Libération - Culture.xml
+title : «On n’est pas chez les Trump, ici» : avant le sommet sur l’IA à Paris, la culture défend l’innovation mais aussi ses droits
+description : Pour la première fois intégré à un Sommet international sur l’IA, le secteur culturel débattait ce week-end des grands défis à venir.
+date : Sun, 09 Feb 2025 15:06:10 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/musique/bonnie-prince-billy-un-jour-on-connecte-avec-une-chanson-et-cest-comme-si-on-trouvait-de-lor-au-fond-dune-riviere-20250209_IHBDRLEMEFFT5DRQ4JRCR6EIIQ/
+source : Libération - Culture.xml
+title : Bonnie Prince Billy : «Un jour, on connecte avec une chanson et c’est comme si on trouvait de l’or au fond d’une rivière»
+description : Rencontre avec le songwriter américain Will Oldham, de retour avec «The Purple Bird», formidable album enregistré à Nashville et fruit de collaborations rares à la production, l’écriture et la composition.
+date : Sun, 09 Feb 2025 14:37:00 +0000
+categories : []
+
+id : https://www.liberation.fr/portraits/philippe-vilain-les-annees-ernaux-20250209_LRSL4FSL4VG3JLXDFKEX66Z76A/
+source : Libération - Culture.xml
+title : Philippe Vilain, les années Ernaux
+description : L’écrivain se réapproprie le récit de sa relation avec la Prix Nobel de littérature, quand il était étudiant et elle déjà célèbre.
+date : Sun, 09 Feb 2025 14:11:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/les-series-de-la-semaine-paradise-et-common-side-effects-20250209_SADJ74N2SFABPE76ESDJXGXDBY/
+source : Libération - Culture.xml
+title : Les séries de la semaine : «Paradise» et «Common Side Effects»
+description : «Libé» vous guide dans la jungle des sorties séries. Cette semaine, le créateur de «This Is Us» élabore une dystopie parano à double-fond tandis que Cartoon Network invoque le spectre de «The Big Lebowski» dans un thriller pharmaceutique sous champi.
+date : Sun, 09 Feb 2025 11:05:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/cinema/en-pleine-polemique-autour-de-son-actrice-karla-sofia-gascon-emilia-perez-remporte-le-goya-du-meilleur-film-europeen-20250209_TF5DTTNRNBHVFHQNAHXZFJUMNQ/
+source : Libération - Culture.xml
+title : En pleine polémique autour de son actrice Karla Sofía Gascón, «Emilia Pérez» remporte le goya du meilleur film européen
+description : Le film de Jacques Audiard a remporté samedi 8 février dans la soirée le prix du meilleur film européen aux oscars espagnols en l’absence de la comédienne, dont les anciens tweets racistes ont récemment ressurgi, et du cinéaste.
+date : Sun, 09 Feb 2025 10:56:54 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/thought-objects-james-welling-chantre-de-vision-20250209_KQOWUTNASRFQ7AZHF5NPQZ2QVU/
+source : Libération - Culture.xml
+title : «Thought Objects» : James Welling, chantre de vision
+description : Exposé à la galerie Marian Goodman, le photographe de 74 ans rend visible des curiosités optiques et interroge notre manière de voir les choses.
+date : Sun, 09 Feb 2025 10:53:23 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/musique/uzi-freyja-francois-the-atlas-mountains-rallye-aupinard-la-playlist-du-cahier-musique-de-liberation-20250209_MDF26IZJZNBALBHPVOZTYVFUOY/
+source : Libération - Culture.xml
+title : Uzi Freyja, Frànçois & The Atlas Mountains, Rallye, Aupinard... la playlist du cahier musique de «Libération»
+description : Chaque week-end, la web radio de «Tsugi» accompagne le cahier musique de «Libération»
+date : Sun, 09 Feb 2025 09:58:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/photographie/en-images-les-iles-du-desir-24-nauru-par-le-photographe-richard-pak-20250209_Q3FYVSM77NG4PPX33HUCPPJQ54/
+source : Libération - Culture.xml
+title : EN IMAGES - Les Iles du désir (2/4) : Nauru, par le photographe Richard Pak
+description : En 2016, l’artiste entame son cycle «les Iles du désir» composé de photographies, écrits et vidéos. Le second volet l’embarque fin 2022 pour Nauru, en Océanie, passé entre les années 70 et 90 de l’un des pays les plus riches du monde à l’extrême pauvreté.
+date : Sun, 09 Feb 2025 09:25:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/livres/chiens-des-ozarks-dechainement-de-haines-dans-larkansas-20250209_SCFRQOUEE5BDTEB5FUUABO74RI/
+source : Libération - Culture.xml
+title : «Chiens des Ozarks» : déchaînement de haines dans l’Arkansas
+description : Dans ce premier roman traduit en français, Eli Cranor nous parle de cette Amérique qui a voté Trump par ressentiment contre les élites.
+date : Sun, 09 Feb 2025 08:10:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/musique/dennis-morris-photographe-de-rock-en-noirs-et-blancs-20250209_IKO2CI3MOJGH5OOBMNGVNO2K64/
+source : Libération - Culture.xml
+title : Dennis Morris, photographe de rock en noirs et blancs
+description : This is England, un regard singulier sur l’Angleterre multiculturelle des années 1970 à la MEP.
+date : Sun, 09 Feb 2025 06:56:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/livres/minh-tran-huy-traverse-le-fleuve-du-temps-pour-raconter-la-vie-de-sa-grand-mere-vietnamienne-20250209_PDJNMGVUHZF3RG5O24FM63ICXE/
+source : Libération - Culture.xml
+title : Minh Tran Huy traverse «le fleuve du temps» pour raconter la vie de sa grand-mère vietnamienne
+description : L’écrivaine rend hommage à sa grand-mère vietnamienne, ombre dévouée sans laquelle elle ne serait jamais devenue écrivain.
+date : Sun, 09 Feb 2025 01:10:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/musique/beta-gamma-lordinateur-loriginal-par-henri-salvador-ou-la-reprise-par-voyou-20250209_JWOEDW75HFGOHFNYNUSAGJ46BI/
+source : Libération - Culture.xml
+title : «Beta Gamma l’ordinateur» : l’original par Henri Salvador ou la reprise par Voyou ? 
+description : None
+date : Sun, 09 Feb 2025 00:11:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/musique/delaurentis-retrouver-lambivalence-de-ma-musique-20250208_2HFBYZVEVFG6DE3NF7RIAIGCAM/
+source : Libération - Culture.xml
+title : DeLaurentis : «Retrouver l’ambivalence de ma musique»
+description : La Française DeLaurentis raconte avoir voulu, pour son second album, rapprocher sa synesthésie de celle des musicalistes, ces peintres des années 1930 qui affirmaient voir les couleurs comme des vibrations sonores. Résultat, une pochette qui sort du réel et s’écoute, pixel par pixel.
+date : Sat, 08 Feb 2025 21:52:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/bd/je-te-lavais-bien-dit-de-candela-sierra-meprise-prisee-20250208_7XHZUADXDBFCFNXLC6HD73RKIM/
+source : Libération - Culture.xml
+title : «Je te l’avais bien dit» de Candela Sierra, méprise prisée
+description : L’autrice espagnole signe un premier album drôle, où des petites histoires de malentendus s’enchaînent avec habileté.
+date : Sat, 08 Feb 2025 19:14:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/musique/virgil-vernier-youtube-cest-le-mieux-il-y-a-tout-meme-les-morceaux-les-plus-rares-20250208_FJDIOTTA2RCTLPCB3TENS4FDTA/
+source : Libération - Culture.xml
+title : Virgil Vernier : «YouTube, c’est le mieux. Il y a tout. Même les morceaux les plus rares»
+description : None
+date : Sat, 08 Feb 2025 16:59:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/georgia-makhlouf-chambre-noire-et-maison-fantome-20250208_XSIFINFOVVC4NFPUAA57AKZAVU/
+source : Libération - Culture.xml
+title : Georgia Makhlouf, chambre noire et maison fantôme 
+description : Dans son roman «Pays amer», l’écrivaine franco-libanaise part sur les traces de Marie El Khazem, photographe qui documenta la vie rurale au Liban dans les années 20.
+date : Sat, 08 Feb 2025 15:06:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/livres/dans-un-film-a-rolle-jeu-fete-et-match-avec-godard-20250208_RBGEHWZLGJCR3FRRW6SLQE56HE/
+source : Libération - Culture.xml
+title : Dans «Un film à Rolle», jeu, fête et match avec Godard
+description : L’ex-championne de tennis Catherine Tanvier raconte dans un livre le tournage de «Film Socialisme», en 2008, avec le pape de la Nouvelle Vague en tête chercheuse déroutante, mais aussi prévenant, solidaire, facétieux et joueur de balles jaunes.
+date : Sat, 08 Feb 2025 14:19:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/bd/terreur-graphique-a-lhotel-europa-le-con-le-bete-et-le-client-20250208_MIEA3ZIELBFXPCD4LHHTNYI5II/
+source : Libération - Culture.xml
+title : Terreur Graphique à l’hôtel Europa : le con, le bête et le client
+description : Le gratin européen se croise dans l’établissement à deux pas du Parlement pour une cuisine peu ragoûtante.
+date : Sat, 08 Feb 2025 14:19:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/livres/james-mcbride-lorphelin-de-chicken-hill-20250208_J5D7H4JQFZD2POKVSAP6EGREXA/
+source : Libération - Culture.xml
+title : James McBride, l’orphelin de Chicken Hill 
+description : Dans «l’Epicerie du paradis sur terre», juifs et noirs cohabitent, avec une profusion d’histoires et de sympathie pour les deux côtés. 
+date : Sat, 08 Feb 2025 13:05:00 +0000
+categories : []
+
+id : https://www.liberation.fr/idees-et-debats/tribunes/la-pampa-emilia-perez-pourquoi-les-heros-lgbt-doivent-ils-toujours-mourir-a-lecran-20250208_HUDDBLNWQVDBZK7OIRALLRFT54/
+source : Libération - Culture.xml
+title : «La Pampa», «Emilia Pérez» : pourquoi les héros LGBT doivent-ils toujours mourir à l’écran ?
+description : Le cinéaste Antoine Barraud a vu le premier film d’Antoine Chevrollier, couvert d’éloge depuis sa sortie, et s’interroge : pourquoi la mort est-elle le seul horizon cinématographique des personnages gays et trans ? Il faut arrêter d’associer ces êtres au tragique obligatoire.
+date : Sat, 08 Feb 2025 08:02:00 +0000
+categories : []
+
+id : https://www.liberation.fr/culture/livres/catherine-corsini-realisatrice-a-lu-nom-de-constance-debre-20230128_FX2JI3HIF5ED7BIS3S4G4THAQQ/
+source : Libération - Culture.xml
+title : Catherine Corsini, réalisatrice, a lu «Nom» de Constance Debré
+description : Chaque semaine, une lectrice ou un lecteur chronique un coup de cœur littéraire. Aujourd’hui un roman dans lequel «Nom» c’est non aux conventions et aux vies mortifères.
+date : Sat, 28 Jan 2023 10:07:00 +0000
+categories : []
+

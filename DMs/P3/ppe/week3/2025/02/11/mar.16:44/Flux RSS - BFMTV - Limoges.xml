@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Home Limoges - actualités</title>
+        <link>https://www.bfmtv.com/limoges/</link>
+        <description>Suivez toute l'actualité politique, économique, météo, sportive et sociale de Limoges et ses alentours en temps réel</description>
+        <lastBuildDate>Tue, 11 Feb 2025 15:44:57 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>BFMTV</generator>
+        <language>fr</language>
+        <image>
+            <title>Home Limoges - actualités</title>
+            <url>https://www.bfmtv.com/assets/v11/images/BFMTV_default_16x9.8715a163008e9f3fc3799c8e2c6ebafa.jpg</url>
+            <link>https://www.bfmtv.com/limoges/</link>
+        </image>
+        <copyright>Copyright BFMTV</copyright>
+        <category>Home Limoges - actualités</category>
+        <atom:link href="https://www.bfmtv.com/limoges/" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["Limoges perd son emblème": "l'homme en bleu", cycliste emblématique de la ville, meurt renversé par une voiture]]></title>
+            <link>https://www.bfmtv.com/limoges/limoges-perd-son-embleme-l-homme-en-bleu-cycliste-emblematique-de-la-ville-meurt-renverse-par-une-voiture_AD-202411110349.html</link>
+            <guid>https://www.bfmtv.com/limoges/limoges-perd-son-embleme-l-homme-en-bleu-cycliste-emblematique-de-la-ville-meurt-renverse-par-une-voiture_AD-202411110349.html</guid>
+            <pubDate>Mon, 11 Nov 2024 10:12:07 GMT</pubDate>
+            <description><![CDATA[Un cycliste septuagénaire, surnommé "l'homme en bleu", a été mortellement renversé par une voiture vendredi 8 novembre. Sa mort a suscité beaucoup d'émotion car se déplaçant toujours à vélo en bleu de travail, il était considéré comme une figure "emblématique". <br /><br /><img src="https://images.bfmtv.com/5ajaVyqYmKjpf447wWgydoLJObI=/339x0:1651x738/800x0/images/L-Homme-en-bleu-de-Limoges-mort-le-8-novembre-renverse-par-un-automobiliste-1974080.jpg" />]]></description>
+            <enclosure url="https://images.bfmtv.com/5ajaVyqYmKjpf447wWgydoLJObI=/339x0:1651x738/800x0/images/L-Homme-en-bleu-de-Limoges-mort-le-8-novembre-renverse-par-un-automobiliste-1974080.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tensions au conseil municipal de Limoges après une enquête pour harcèlement moral visant le maire]]></title>
+            <link>https://www.bfmtv.com/limoges/tensions-au-conseil-municipal-de-limoges-apres-une-enquete-pour-harcelement-moral-visant-le-maire_AD-202403201018.html</link>
+            <guid>https://www.bfmtv.com/limoges/tensions-au-conseil-municipal-de-limoges-apres-une-enquete-pour-harcelement-moral-visant-le-maire_AD-202403201018.html</guid>
+            <pubDate>Wed, 20 Mar 2024 23:04:28 GMT</pubDate>
+            <description><![CDATA[Emile-Roger Lombertie a retiré des débats une délibération portant sur sa protection fonctionnelle. Une décision qui a privé l'opposition de la possibilité de prendre la parole sur un sujet liée à l'enquête préliminaire ouverte après le dépôt d'une plainte pour harcèlement et visant le maire de Limoges.<br /><br /><img src="https://images.bfmtv.com/8Mr7zwak0VNnZC0Ma7dT8J29_eg=/0x285:1904x1356/800x0/images/Le-maire-de-Limoges-Emile-Roger-Lombertie-le-31-mars-2014-1817097.jpg" />]]></description>
+            <enclosure url="https://images.bfmtv.com/8Mr7zwak0VNnZC0Ma7dT8J29_eg=/0x285:1904x1356/800x0/images/Le-maire-de-Limoges-Emile-Roger-Lombertie-le-31-mars-2014-1817097.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Haute-Vienne: en route pour l'hôpital, une mère donne naissance sur un parking]]></title>
+            <link>https://www.bfmtv.com/limoges/en-route-pour-l-hopital-une-mere-donne-naissance-sur-un-parking_AN-202307010201.html</link>
+            <guid>https://www.bfmtv.com/limoges/en-route-pour-l-hopital-une-mere-donne-naissance-sur-un-parking_AN-202307010201.html</guid>
+            <pubDate>Sat, 01 Jul 2023 10:04:55 GMT</pubDate>
+            <description><![CDATA[La petite Lydia-Shirley est née sur une aire de covoiturage de Haute-Vienne. Ses parents se rendaient à l'hôpital de Limoges. <br /><br /><img src="https://images.bfmtv.com/D4gQTzyJ_ttYfXVpY0ga3nQUCFc=/0x54:768x486/800x0/images/Les-bebes-nes-en-2022-peuvent-esperer-statistiquement-vivre-93-ans-pour-les-filles-et-90-ans-pour-les-garcons-1518340.jpg" />]]></description>
+            <enclosure url="https://images.bfmtv.com/D4gQTzyJ_ttYfXVpY0ga3nQUCFc=/0x54:768x486/800x0/images/Les-bebes-nes-en-2022-peuvent-esperer-statistiquement-vivre-93-ans-pour-les-filles-et-90-ans-pour-les-garcons-1518340.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

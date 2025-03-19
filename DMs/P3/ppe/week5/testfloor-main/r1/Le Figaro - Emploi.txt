@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/decideurs/emploi/un-phenomene-en-pleine-expansion-ces-cadres-qui-font-du-sport-en-plein-milieu-de-leur-journee-de-travail-20250113
+source : Le Figaro - Emploi.xml
+title : «Ça ne choque plus mes collègues» : ces cadres qui font du sport en plein milieu de leur journée de travail
+description : TÉMOIGNAGES - Avec l’explosion du télétravail, et un management plus laxiste qu’avant le Covid, ils sont nombreux à s’octroyer une pause sportive en pleine journée, aux horaires traditionnels de bureau.
+date : Mon, 13 Jan 2025 14:42:39 +0100
+categories : ['Emploi']
+
+id : https://www.lefigaro.fr/decideurs/emploi/une-obsolescence-programmee-45-ans-est-ce-vraiment-le-debut-de-la-mort-professionnelle-20250106
+source : Le Figaro - Emploi.xml
+title : «Une obsolescence programmée» : 45 ans, est-ce vraiment le début de la mort professionnelle ?
+description : DÉCRYPTAGE - Perte de sens, burn-out, licenciement… Nombreuses sont les raisons qui poussent les salariés de cet âge à changer de vie et à engager une reconversion. Un projet qui peut s’avérer payant, sous certaines conditions.
+date : Mon, 06 Jan 2025 11:55:15 +0100
+categories : ['Emploi']
+
+id : https://www.lefigaro.fr/decideurs/emploi/j-ai-compris-que-mes-efforts-ne-seraient-pas-recompenses-ces-fausses-promotions-qui-tournent-a-la-desillusion-20241211
+source : Le Figaro - Emploi.xml
+title : «J’ai compris que mes efforts ne seraient pas récompensés» : ces fausses promotions qui tournent à la désillusion
+description : ENQUÊTE - Le «quiet hiring», ou l’art de remplacer en interne des salariés sur le départ, fait parfois des déçus. Car derrière cette démarche qui se veut vertueuse peuvent se cacher certains pièges.
+date : Wed, 11 Dec 2024 08:55:53 +0100
+categories : ['Emploi']
+
+id : https://www.lefigaro.fr/decideurs/emploi/je-n-etais-pas-vraiment-a-ma-place-ces-jeunes-diplomes-qui-coupent-court-a-leur-carriere-a-l-etranger-20241126
+source : Le Figaro - Emploi.xml
+title : «Je n’étais pas vraiment à ma place» : ces jeunes diplômés qui coupent court à leur carrière à l’étranger
+description : TÉMOIGNAGES - Passée l’euphorie des premières années, de nombreux jeunes expatriés se rendent à l’évidence : le mal du pays, la difficulté de se projeter à long terme et les obstacles culturels appellent bien souvent un retour au bercail.
+date : Wed, 27 Nov 2024 19:07:09 +0100
+categories : ['Emploi']
+
+id : https://www.lefigaro.fr/decideurs/emploi/je-le-trouvais-si-peu-sexy-ces-couples-qui-s-organisent-pour-ne-pas-teletravailler-en-meme-temps-20241122
+source : Le Figaro - Emploi.xml
+title : «Je le trouvais si peu sexy» : ces couples qui s’organisent pour ne pas télétravailler en même temps
+description : TÉMOIGNAGES - Pour éviter les conflits, voire carrément la rupture, ils ont décidé de prendre leurs dispositions pour ne jamais cohabiter dans le salon. Une décision plus saine qu’il n’y paraît.
+date : Fri, 22 Nov 2024 09:01:42 +0100
+categories : ['Emploi']
+
+id : https://www.lefigaro.fr/decideurs/emploi/c-etait-du-vol-comment-reagir-face-aux-pilleurs-d-idees-ces-collegues-qui-s-approprient-le-travail-des-autres-20241119
+source : Le Figaro - Emploi.xml
+title : «C’était du vol» : comment réagir face aux «pilleurs d’idées», ces collègues qui s’approprient le travail des autres ?
+description : NOS CONSEILS - Démoralisant, frustrant et surtout énervant… Le vol d’idées est malheureusement monnaie courante en entreprise. Mais pour éviter la récidive, il est important de savoir gérer cette situation très délicate.
+date : Tue, 19 Nov 2024 19:01:00 +0100
+categories : ['Emploi']
+
+id : https://www.lefigaro.fr/decideurs/les-entreprises-de-la-tech-et-du-conseil-sont-deja-interessees-dans-les-grandes-ecoles-l-essor-des-masteres-en-intelligence-artificielle-20241118
+source : Le Figaro - Emploi.xml
+title : «Les entreprises de la tech et du conseil sont déjà intéressées»: dans les grandes écoles, l’essor des mastères en intelligence artificielle
+description : DÉCRYPTAGE - Écoles de commerce et d’ingénieurs répondent à la demande grandissante de formation pour mieux comprendre cette nouveauté.
+date : Mon, 18 Nov 2024 11:00:00 +0100
+categories : ['Décideurs']
+
+id : https://www.lefigaro.fr/decideurs/un-label-pour-des-formations-courtes-20241118
+source : Le Figaro - Emploi.xml
+title : Le certificat de qualification et de compétences: un label pour des formations courtes
+description : DÉCRYPTAGE - Des certificats sanctionnent des enseignements d’une semaine à douze mois.
+date : Mon, 18 Nov 2024 10:00:00 +0100
+categories : ['Décideurs']
+
+id : https://www.lefigaro.fr/decideurs/la-durabilite-permet-aux-societes-de-se-developper-de-facon-plus-ethique-la-rse-arrive-au-programme-des-grandes-ecoles-20241117
+source : Le Figaro - Emploi.xml
+title : «La durabilité permet aux sociétés de se développer de façon plus éthique»: la RSE arrive au programme des grandes écoles
+description : DÉCRYPTAGE - La responsabilité sociétale des entreprises est l’objet de nouveaux diplômes dans le cadre de la formation continue.
+date : Sun, 17 Nov 2024 21:29:08 +0100
+categories : ['Décideurs']
+
+id : https://www.lefigaro.fr/decideurs/mastere-specialise-et-master-of-science-des-modalites-d-enseignement-modulables-20241117
+source : Le Figaro - Emploi.xml
+title : Mastère spécialisé et master of science : des modalités d’enseignement modulables
+description : Parmi les diverses possibilités offertes par les cursus, les programmes à distance commencent à faire leur chemin. L’avantage est double&amp;#160;: se former sans quitter son emploi et quel que soit le lieu de résidence.
+date : Sun, 17 Nov 2024 21:15:51 +0100
+categories : ['Décideurs']
+
+id : https://www.lefigaro.fr/decideurs/en-trois-ans-leur-salaire-a-augmente-de-15-a-25-des-masteres-pour-franchir-un-nouveau-cap-20241117
+source : Le Figaro - Emploi.xml
+title : «En trois ans, leur salaire a augmenté de 15% à 25%»: des mastères pour franchir un nouveau cap
+description : Mastères spécialisés (MS) et Master of Science (MSc) collent au plus près des besoins des entreprises.
+date : Sun, 17 Nov 2024 21:08:45 +0100
+categories : ['Décideurs']
+
+id : https://www.lefigaro.fr/decideurs/emploi/hors-de-paris-les-villes-ou-les-francais-gagnent-le-mieux-leur-vie-20241114
+source : Le Figaro - Emploi.xml
+title : Hors de Paris, les villes où les Français gagnent le mieux leur vie
+description : PALMARÈS EXCLUSIF -&amp;#160;Cadres, employés, ouvriers...&amp;#160;Nous avons comparé la rémunération moyenne des Français selon leur lieu de vie et leur catégorie socioprofessionnelle. Découvrez les données près de chez vous.
+date : Mon, 23 Dec 2024 10:23:52 +0100
+categories : ['Emploi']
+
+id : https://www.lefigaro.fr/decideurs/emploi/chaque-profession-m-a-apporte-quelque-chose-ces-salaries-qui-changent-plusieurs-fois-de-metier-au-cours-de-leur-vie-20241113
+source : Le Figaro - Emploi.xml
+title : «Chaque profession m’a apporté quelque chose» : ces salariés qui changent plusieurs fois de métier au cours de leur vie
+description : TÉMOIGNAGES - Pour nourrir leur curiosité, trouver un meilleur équilibre, mais aussi parfois par nécessité, de plus en plus d’employés et de cadres changent radicalement d’univers à plusieurs reprises au cours de leur carrière. Une tendance qui pourrait s’accentuer avec la montée en puissance de l’IA.
+date : Wed, 13 Nov 2024 07:00:00 +0100
+categories : ['Emploi']
+
+id : https://www.lefigaro.fr/decideurs/rse-les-mba-s-y-mettent-20241021
+source : Le Figaro - Emploi.xml
+title : RSE&#160;: les MBA s’y mettent
+description : DÉCRYPTAGE - Les écoles mettent en avant les enjeux de la crise climatique.
+date : Mon, 21 Oct 2024 12:40:19 +0200
+categories : ['Décideurs']
+
+id : https://www.lefigaro.fr/decideurs/avant-de-choisir-son-mba-ou-son-emba-le-coaching-est-une-etape-indispensable-20241021
+source : Le Figaro - Emploi.xml
+title : Avant de choisir son MBA ou son EMBA, le coaching est une étape indispensable
+description : DÉCRYPTAGE - Les deux cursus répondent à des attentes différentes. Le candidat doit clarifier ses objectifs.
+date : Mon, 21 Oct 2024 12:25:37 +0200
+categories : ['Décideurs']
+
+id : https://www.lefigaro.fr/decideurs/emploi/licenciee-une-britannique-reproche-a-son-ancien-employeur-de-ne-pas-lui-avoir-offert-de-carte-de-depart-20241012
+source : Le Figaro - Emploi.xml
+title : Licenciée, une Britannique reproche à son ancien employeur de ne pas lui avoir offert de carte de départ
+description : En Grande-Bretagne, une femme a considéré que ce manquement à la sociabilité montrait que son ex-entreprise ne la traitait pas comme ses ex-collègues.
+date : Sat, 12 Oct 2024 18:23:23 +0200
+categories : ['Emploi']
+
+id : https://www.lefigaro.fr/decideurs/emploi/syndrome-de-l-imposteur-les-conseils-de-ceux-qui-ont-reussi-a-se-debarrasser-de-ce-boulet-20240924
+source : Le Figaro - Emploi.xml
+title : Syndrome de l’imposteur : les conseils de ceux qui ont réussi à se débarrasser de ce «boulet»
+description : TÉMOIGNAGES - Persuadés de ne pas être à la hauteur, ou de ne pas mériter son poste… Le syndrome de l&#039;imposteur exerce une pression intense sur la santé mentale. Certains salariés arrivent pourtant à déjouer les pièges de ce phénomène psychologique.
+date : Tue, 24 Sep 2024 07:00:00 +0200
+categories : ['Emploi']
+
+id : https://www.lefigaro.fr/decideurs/emploi/ce-n-est-pas-tenable-sur-le-long-terme-quand-le-teletravail-depuis-la-province-tourne-a-la-desillusion-20240918
+source : Le Figaro - Emploi.xml
+title : «Ce n'est pas tenable sur le long terme»&#160;: quand le télétravail depuis la province tourne à la désillusion
+description : TÉMOIGNAGES - Ils ont quitté Paris pour une meilleure qualité de vie. Mais travailler à distance toute l’année n’a pas que des avantages. Entre les changements de politique des entreprises et les difficultés à trouver un autre poste sur place, le tableau est parfois loin d’être idyllique.
+date : Sun, 05 Jan 2025 08:25:00 +0100
+categories : ['Emploi']
+
+id : https://www.lefigaro.fr/decideurs/emploi/les-conseils-du-preparateur-mental-de-leon-marchand-pour-gerer-sa-carriere-comme-un-champion-20240915
+source : Le Figaro - Emploi.xml
+title : Les conseils du préparateur mental de Léon Marchand pour gérer votre carrière comme un champion
+description : Gestion de ses émotions, méthodes de travail… Les stars des JO ont beaucoup à nous apprendre. Thomas Sammut, qui accompagne la star des bassins depuis quatre ans, nous livre ses secrets.
+date : Mon, 16 Sep 2024 18:01:36 +0200
+categories : ['Emploi']
+
+id : https://www.lefigaro.fr/decideurs/emploi/c-est-une-veritable-revelation-ces-salaries-qui-boostent-leur-carriere-en-se-formant-a-l-ia-20240911
+source : Le Figaro - Emploi.xml
+title : «C’est une véritable révélation» : ces salariés qui boostent leur carrière en se formant à l’IA
+description : ENQUÊTE - Qu’il s’agisse de gagner du temps, de rester compétitif, ou d’ajouter une précieuse ligne à leur CV, ils sont nombreux à vouloir apprendre à tirer parti de l’intelligence artificielle.
+date : Wed, 11 Sep 2024 07:00:00 +0200
+categories : ['Emploi']
+

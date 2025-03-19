@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Home Ajaccio - actualités</title>
+        <link>https://www.bfmtv.com/ajaccio/</link>
+        <description>Corse - Ajaccio - Suivez toute l'actualité politique, économique, météo, sportive et sociale de votre ville et ses alentours en temps réel</description>
+        <lastBuildDate>Mon, 10 Feb 2025 12:39:39 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>BFMTV</generator>
+        <language>fr</language>
+        <image>
+            <title>Home Ajaccio - actualités</title>
+            <url>https://www.bfmtv.com/assets/v11/images/BFMTV_default_16x9.8715a163008e9f3fc3799c8e2c6ebafa.jpg</url>
+            <link>https://www.bfmtv.com/ajaccio/</link>
+        </image>
+        <copyright>Copyright BFMTV</copyright>
+        <category>Home Ajaccio - actualités</category>
+        <atom:link href="https://www.bfmtv.com/ajaccio/" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ajaccio: une inondation provoque un coupure de courant dans un hôpital]]></title>
+            <link>https://www.bfmtv.com/ajaccio/ajaccio-une-inondation-provoque-un-coupure-de-courant-dans-un-hopital_AN-202312050576.html</link>
+            <guid>https://www.bfmtv.com/ajaccio/ajaccio-une-inondation-provoque-un-coupure-de-courant-dans-un-hopital_AN-202312050576.html</guid>
+            <pubDate>Tue, 05 Dec 2023 14:08:10 GMT</pubDate>
+            <description><![CDATA[Les sous-sols de l'hôpital Eugénie d'Ajaccio ont été inondés cette nuit, ce qui a occasionné une coupure de courant. Aucun patient n'a été blessé.<br /><br /><img src="https://images.bfmtv.com/6Y7tRt_s-ytG_ljFbTo85OVOu8k=/50x0:1634x891/800x0/images/Hopital-Ajaccio-Eugenie-1761914.jpg" />]]></description>
+            <enclosure url="https://images.bfmtv.com/6Y7tRt_s-ytG_ljFbTo85OVOu8k=/50x0:1634x891/800x0/images/Hopital-Ajaccio-Eugenie-1761914.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

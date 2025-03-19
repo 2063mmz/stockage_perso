@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/flash-sport/affaire-du-baiser-force-l-absence-de-jenni-hermoso-apres-le-scandale-n-etait-pas-une-punition-assure-la-selectionneuse-20250210
+source : Le Figaro - Flash Actu.xml
+title : Affaire du baiser forcé : l'absence de Jenni Hermoso après le scandale n'était «pas une punition», assure la sélectionneuse
+description : Témoignant lors du procès de l’ex-patron de la Fédération espagnole, Montserrat Tomé a nié ne pas avoir sélectionné la joueuse pour la sanctionner.
+date : Mon, 10 Feb 2025 13:33:56 +0100
+categories : ['Flash Sport']
+
+id : https://www.lefigaro.fr/international/syrie-des-milliers-de-personnes-rejoignent-la-nouvelle-armee-affirme-le-president-20250210
+source : Le Figaro - Flash Actu.xml
+title : Syrie : des milliers de personnes rejoignent «la nouvelle armée», affirme le président
+description : «Je n’ai pas imposé la conscription obligatoire en Syrie. J’ai plutôt opté pour l’enrôlement volontaire, et aujourd’hui des milliers de personnes rejoignent la nouvelle armée syrienne», s’est félicité le président dans le podcast «The Rest is Politics».
+date : Mon, 10 Feb 2025 13:33:39 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/flash-actu/indonesie-60-millions-de-personnes-beneficiaires-d-un-bilan-de-sante-gratuit-20250210
+source : Le Figaro - Flash Actu.xml
+title : Indonésie : 60 millions de personnes bénéficiaires d’un bilan de santé gratuit
+description : 
+date : Mon, 10 Feb 2025 13:31:14 +0100
+categories : ['Flash Actu']
+
+id : https://www.lefigaro.fr/flash-actu/1300-arrestations-au-bangladesh-dans-le-cadre-d-une-vaste-operation-de-repression-20250210
+source : Le Figaro - Flash Actu.xml
+title : 1300 arrestations au Bangladesh, dans le cadre d'une vaste opération de répression
+description : 
+date : Mon, 10 Feb 2025 13:27:49 +0100
+categories : ['Flash Actu']
+
+id : https://www.lefigaro.fr/lyon/lyon-un-policier-blesse-par-balle-par-un-de-ses-collegues-lors-de-l-arrestation-d-un-homme-arme-20250210
+source : Le Figaro - Flash Actu.xml
+title : Lyon : un policier blessé par balle par un de ses collègues lors de l’arrestation d’un homme armé
+description : Un homme armé a été repéré par la vidéosurveillance ce lundi matin dans le centre-ville. Lors de l’opération lancée pour l’interpeller, un policier a été blessé par balle.
+date : Mon, 10 Feb 2025 13:19:11 +0100
+categories : ['Lyon']
+
+id : https://www.lefigaro.fr/international/chine-en-2024-le-nombre-de-mariages-a-chute-de-20-20250210
+source : Le Figaro - Flash Actu.xml
+title : Chine: en 2024, le nombre de mariages a chuté de 20%
+description : Cette diminution intervient malgré diverses campagnes incitatives des autorités, qui accordent des subventions et encouragent les couples à avoir davantage d’enfants.
+date : Mon, 10 Feb 2025 13:16:40 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/conference-sur-la-securite-de-munich-volodymyr-zelensky-participera-a-l-evenement-20250210
+source : Le Figaro - Flash Actu.xml
+title : Conférence sur la sécurité de Munich : Volodymyr Zelensky participera à l’évènement
+description : Le président ukrainien a récemment déclaré être prêt à des négociations directes avec son homologue russe Vladimir Poutine et d’autres dirigeants pour mettre fin à la guerre que livre Moscou depuis bientôt trois ans.
+date : Mon, 10 Feb 2025 13:11:38 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/faits-divers/proces-de-l-attentat-de-la-basilique-de-nice-l-accuse-plaide-l-amnesie-et-provoque-la-colere-des-parties-civiles-20250210
+source : Le Figaro - Flash Actu.xml
+title : Procès de l’attentat de la basilique de Nice : l’accusé plaide l’amnésie et provoque la colère des parties civiles
+description : Une brève échauffourée a éclaté lorsque Brahim Aouissaoui a maintenu ne pas se souvenir d’avoir exécuté trois personnes le 29 octobre 2020. Une partie civile ayant vigoureusement réagi a été exclue de la salle.
+date : Mon, 10 Feb 2025 13:02:31 +0100
+categories : ['Faits divers']
+
+id : https://www.lefigaro.fr/nantes/nantes-3-millions-d-euros-de-cigarettes-voles-dans-un-entrepot-20250210
+source : Le Figaro - Flash Actu.xml
+title : Nantes : 3 millions d’euros de cigarettes volés dans un entrepôt
+description : Des malfaiteurs se sont introduits dans un site logistique et ont vidé deux remorques entières avant de fuir, dans la nuit du 8 au 9 février. Les forces de police n’ont pu intervenir à temps. L’enquête a été confiée à la division de la criminalité organisée.
+date : Mon, 10 Feb 2025 13:02:13 +0100
+categories : ['Nantes']
+
+id : https://www.lefigaro.fr/international/essouffle-le-pape-francois-ne-parvient-pas-a-achever-la-lecture-de-son-homelie-20250210
+source : Le Figaro - Flash Actu.xml
+title : Essoufflé, le pape François ne parvient pas à achever la lecture de son homélie
+description : VIDÉO - Lors de la sainte messe du jubilé des armées, dimanche, le chef de l’Église catholique a demandé au maître cérémoniaire d’assurer la fin de son homélie pour cause d’essoufflement.
+date : Mon, 10 Feb 2025 13:23:44 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/nice/la-commission-d-enquete-rend-un-avis-favorable-a-l-extension-contestee-de-l-aeroport-de-nice-20250210
+source : Le Figaro - Flash Actu.xml
+title : La commission d’enquête rend un avis favorable à l’extension contestée de l’aéroport de Nice
+description : Des opposants au projet ont manifesté samedi alors que la commission d’enquête ne s’est pas opposée au projet d’extension du terminal 2, déjà bien avancé.
+date : Mon, 10 Feb 2025 12:33:53 +0100
+categories : ['Nice']
+
+id : https://www.lefigaro.fr/sports/boxe/boxe-la-federation-internationale-porte-plainte-contre-le-cio-au-sujet-d-imane-khelif-et-de-lin-yu-ting-20250210
+source : Le Figaro - Flash Actu.xml
+title : Boxe : la Fédération internationale porte plainte contre le CIO au sujet d’Imane Khelif et de Lin Yu-Ting
+description : Exclue du mouvement olympique, l’IBA continue de contester le droit octroyé aux deux boxeuses à concourir chez les femmes lors des JO 2024.
+date : Mon, 10 Feb 2025 13:15:32 +0100
+categories : ['Boxe']
+
+id : https://www.lefigaro.fr/bordeaux/bordeaux-trois-individus-deja-condamnes-pour-violences-aggravees-vises-par-une-information-judiciaire-pour-meurtre-20250210
+source : Le Figaro - Flash Actu.xml
+title : Près de Bordeaux : un quinquagénaire tué à l’arme blanche, trois suspects visés par une information judiciaire pour meurtre
+description : Un homme est mort par arme blanche à Pessac, près de Bordeaux, dans la nuit du 5 au 6 février. Les trois suspects évoquent une rixe sur fond d’alcool dont le mobile est encore flou.
+date : Mon, 10 Feb 2025 12:06:00 +0100
+categories : ['Bordeaux']
+
+id : https://www.lefigaro.fr/faits-divers/paris-le-suspect-de-l-attaque-devant-la-prefecture-de-police-mis-en-examen-20250210
+source : Le Figaro - Flash Actu.xml
+title : Paris : le suspect de l’attaque devant la préfecture de police mis en examen
+description : L’homme est notamment poursuivi pour tentative de meurtre sur personne dépositaire de l’autorité publique et a été placé samedi en détention provisoire.
+date : Mon, 10 Feb 2025 12:51:26 +0100
+categories : ['Faits divers']
+
+id : https://www.lefigaro.fr/flash-actu/le-ps-souhaite-defendre-une-france-metissee-richard-ferrand-pressenti-au-conseil-constitutionnel-taylor-swift-huee-au-super-bowl-les-3-infos-a-retenir-a-la-mi-journee-20250210
+source : Le Figaro - Flash Actu.xml
+title : Le PS souhaite défendre une France «métissée», Richard Ferrand pressenti au Conseil constitutionnel, Taylor Swift huée au Super Bowl... Les 3 infos à retenir à la mi-journée
+description : LE POINT DE MIDI - Retrouvez l’essentiel de l’actualité parue ce lundi 10 février au matin sur notre site.
+date : Mon, 10 Feb 2025 12:00:28 +0100
+categories : ['Flash Actu']
+
+id : https://www.lefigaro.fr/flash-actu/face-a-la-montee-des-eaux-l-australie-envisage-d-evacuer-les-iles-cocos-20250210
+source : Le Figaro - Flash Actu.xml
+title : Face à la montée des eaux, l’Australie envisage d'évacuer les îles Cocos
+description : 
+date : Mon, 10 Feb 2025 11:55:13 +0100
+categories : ['Flash Actu']
+
+id : https://www.lefigaro.fr/bordeaux/a-bordeaux-un-homme-interpelle-avec-14-ovules-de-cocaine-dans-le-corps-a-la-sortie-du-train-20250210
+source : Le Figaro - Flash Actu.xml
+title : À Bordeaux, un homme interpellé avec 14 ovules de cocaïne dans le corps à la sortie du train
+description : Vendredi, un homme de 44 ans a été interpellé en fin de journée à la gare Saint-Jean de Bordeaux. Il transportait 260 grammes de cocaïne.
+date : Mon, 10 Feb 2025 12:29:01 +0100
+categories : ['Bordeaux']
+
+id : https://www.lefigaro.fr/decideurs/nokia-annonce-le-depart-de-son-pdg-pekka-lundmark-justin-hotard-nomme-successeur-20250210
+source : Le Figaro - Flash Actu.xml
+title : Nokia annonce le départ de son PDG Pekka Lundmark, Justin Hotard nommé successeur
+description : L’équipementier a enregistré une hausse de 89% de son bénéfice net en 2024 à 1,28 milliard d’euros et fait état d’un net redressement de ses ventes de 10% au quatrième trimestre.
+date : Mon, 10 Feb 2025 11:46:54 +0100
+categories : ['Décideurs']
+
+id : https://www.lefigaro.fr/secteur/high-tech/intelligence-artificielle-le-patron-de-bpifrance-appelle-tout-le-monde-a-travailler-avec-mistral-20250210
+source : Le Figaro - Flash Actu.xml
+title : Intelligence artificielle : le patron de Bpifrance appelle «tout le monde à travailler avec Mistral»
+description : La banque publique d’investissement française a annoncé la semaine dernière vouloir investir 10 milliards d’euros dans l’IA d’ici 2029.
+date : Mon, 10 Feb 2025 11:49:38 +0100
+categories : ['Tech & Web']
+
+id : https://www.lefigaro.fr/marseille/municipales-a-marseille-le-lfi-sebastien-delogu-confirme-reflechir-a-une-candidature-20250210
+source : Le Figaro - Flash Actu.xml
+title : Municipales à Marseille : le LFI Sébastien Delogu confirme réfléchir à une candidature
+description : Dans une interview accordée à La Provence, Sébastien Delogu explique songer à briguer un mandat de maire de Marseille, avec LFI en tête de proue de l’union de la gauche, malgré des critiques acerbes envers le PS et la maire adjointe Samia Ghali.
+date : Mon, 10 Feb 2025 12:27:31 +0100
+categories : ['Marseille']
+

@@ -1,0 +1,182 @@
+id : https://www.francetvinfo.fr/politique/conseil-constitutionnel-pourquoi-la-nomination-de-trois-nouveaux-sages-est-particulierement-importante-dans-le-contexte-politique-actuel_7058780.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Conseil constitutionnel : pourquoi la nomination de trois nouveaux Sages est "particulièrement importante" dans le contexte politique actuel
+description : Trois nouveaux membres vont être désignés lundi pour intégrer l'institution, en remplacement de ceux qui ont terminé leur mandat de neuf ans, dont le président, Laurent Fabius.
+date : Mon, 10 Feb 25 12:40:04 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/internet/intelligence-artificielle/reportage-ca-fait-deux-mois-que-je-cherche-comme-une-folle-et-la-en-deux-secondes-ca-apparait-comment-l-ia-peut-aider-les-chomeurs-a-retrouver-du-travail_7062605.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : "Ça fait deux mois que je cherche et, là, en deux secondes, ça apparaît" : comment l'IA peut aider les chômeurs à retrouver du travail
+description : L'association Konexio propose à un public éloigné de l'emploi des ateliers pour se familiariser aux outils d'Intelligence artificielle et apprendre à s'en servir pour tenter de trouver du travail.
+date : Mon, 10 Feb 25 07:34:52 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/politique/direct-assemblee-nationale-francois-bayrou-fait-face-a-une-troisieme-motion-de-censure-en-moins-d-une-semaine_7066091.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Assemblée nationale : Olivier Faure n'a "pas de regrets" de ne pas avoir censuré le gouvernement de François Bayrou
+description : Invité de BFMTV, le premier secrétaire du PS est resté droit dans ses bottes, lundi matin. Il n'a en revanche pas dit ce que son groupe ferait dans l'après-midi, alors que François Bayrou fait face à une nouvelle motion de censure.
+date : Mon, 10 Feb 25 09:56:11 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/monde/proche-orient/guerre/guerre-au-proche-orient-la-situation-alimentaire-a-gaza-s-est-amelioree-grace-au-cessez-le-feu-selon-l-onu_7066304.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Guerre au Proche-Orient : la situation alimentaire à Gaza s'est améliorée mais redeviendrait vite critique si la trêve prenait fin, selon l'ONU
+description : Le chef des opérations humanitaires des Nations unies, qui vient de passer deux jours dans l’enclave palestinienne, prévient que la menace de famine pourrait "resurgir "rapidement" et que "les conditions sont toujours terribles".
+date : Mon, 10 Feb 25 11:15:23 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/environnement/crise-climatique/climat-pres-de-200-pays-n-ont-pas-remis-leur-nouvelle-feuille-de-route-climatique-a-l-onu_7066481.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Crise climatique : près de 200 pays n'ont pas remis leur nouvelle feuille de route à l'ONU
+description : Ils avaient jusqu'à lundi pour le faire. Seuls 10 signataires de l'accord de Paris ont soumis leur stratégie actualisée de réduction des gaz à effet de serre d'ici à 2035.
+date : Mon, 10 Feb 25 13:29:02 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/faits-divers/le-suspect-de-l-attaque-devant-la-prefecture-de-police-de-paris-a-ete-mis-en-examen_7066355.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Le suspect de l'attaque devant la préfecture de police de Paris a été mis en examen
+description : Cinq policiers avaient été légèrement blessés, mardi en début d'après-midi, par un homme rapidement maîtrisé et interpellé.
+date : Mon, 10 Feb 25 12:47:02 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/faits-divers/mort-de-louise-en-essonne-la-ville-de-longjumeau-met-en-place-un-dispositif-de-securite-sur-les-trajets-du-college_7066154.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Mort de Louise en Essonne : la ville de Longjumeau met en place un "dispositif de sécurité" sur les trajets du collège
+description : Le corps de l'adolescente de 11 ans a été retrouvé sans vie dans un bois en Essonne. Elle avait fini ses cours à 14 heures vendredi et n'est jamais rentrée du collège. Par précaution, les trajets vers les établissements scolaires des villes de Longjumeau et d'Épinay-sur-Orge seront sécurisés dès 8 heures du matin.
+date : Mon, 10 Feb 25 08:00:57 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/faits-divers/terrorisme/attentat-a-la-basilique-notre-dame-a-nice/proces-de-l-attentat-de-la-basilique-de-nice-cinq-choses-a-savoir-sur-le-parcours-de-l-accuse-brahim-aouissaoui-qui-assure-avoir-tout-oublie_7064792.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Procès de l'attentat de la basilique de Nice : cinq choses à savoir sur le parcours de l'accusé, Brahim Aouissaoui, qui assure avoir tout oublié
+description : Ce Tunisien de 25 ans est jugé à partir de lundi pour l'assassinat de trois personnes en octobre 2020. "Son amnésie ne résistera pas à l'oralité des débats", espère Philippe Soussi, avocat de l'Association française des victimes du terrorisme.
+date : Mon, 10 Feb 25 06:02:31 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/replay-radio/le-choix-franceinfo/reportage-c-est-une-loterie-au-c-ur-du-click-day-ou-comment-l-italie-de-giorgia-meloni-recrute-de-la-main-d-uvre-etrangere_7038281.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : "C'est une loterie !" : au cœur du "click day" ou comment l'Italie de Giorgia Meloni recrute de la main-d’œuvre étrangère
+description : Sur la période 2023-2025, quelque 450 000 permis de séjour sont accordés à des travailleurs extracommunautaires dans des secteurs où le manque de main-d’œuvre est particulièrement criant en Italie. Mais les conditions sont très strictes : dans chaque secteur, tout se joue en seulement quelques minutes.
+date : Mon, 10 Feb 25 08:17:44 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/monde/europe/fusillade-en-suede-la-justice-confirme-que-l-auteur-est-un-homme-de-35-ans-reclus-et-sans-emploi_7066412.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Tuerie en Suède : la justice confirme que l'auteur est un homme de 35 ans, reclus et sans emploi
+description : L'homme a vraisemblablement agi seul et s'est suicidé après son geste. Six jours après le massacre, son mobile n'est toujours pas connu.
+date : Mon, 10 Feb 25 12:47:34 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/economie/crise/blocus-des-agriculteurs/nouvelles-mobilisations-des-agriculteurs-dans-le-sud-ouest-de-la-france-contre-le-traite-du-mercosur_7066319.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Nouvelles mobilisations des agriculteurs dans le sud-ouest de la France contre le traité du Mercosur
+description : Le mouvement est revendiqué par les Ultras de l’A64, un mouvement asyndical mené par Jérôme Bayle, qui n'exclut pas de poursuivre la contestation à Bruxelles prochainement.
+date : Mon, 10 Feb 25 11:14:05 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/monde/usa/presidentielle/donald-trump/fbi-un-anti-trump-nomme-par-erreur_7066190.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Comment un anti-Trump s'est retrouvé nommé par erreur à la tête du FBI
+description : Alors que le nouveau pouvoir s’est engagé dans une purge sans précédent contre l'État fédéral et son administration, un homme s’est érigé comme un rempart. Il s’appelle Brian Driscoll et il est en train de devenir le héros de l’Amérique anti-Trump. Nommé patron du FBI par erreur, il est entré en résistance.
+date : Mon, 10 Feb 25 10:22:56 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/culture/musique/super-bowl-kendrick-lamar-et-le-hip-hop-a-l-honneur-taylor-swift-sifflee-et-trump-en-tribune_7066247.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Super Bowl : Kendrick Lamar et le hip-hop à l'honneur, Taylor Swift sifflée et Trump en tribune
+description : Le week-end dernier, Kendrick Lamar avait triomphé aux Grammys, avec son titre "Not Like Us" dans lequel il s'en prend au rappeur Drake.
+date : Mon, 10 Feb 25 10:18:50 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/france/provence-alpes-cote-d-azur/le-maire-rn-de-frejus-david-racheline-sera-juge-pour-prise-illegale-d-interets-en-septembre-prochain_7064852.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Le maire RN de Fréjus, David Racheline, sera jugé pour prise illégale d’intérêts en septembre prochain
+description : Suite à l'ouverture d'une enquête préliminaire en décembre 2023, David Rachline, le discret vice-président du Rassemblement National, devra se présenter devant la justice, le 30 septembre prochain à Draguignan, pour prises illégales d’intérêts.
+date : Sun, 09 Feb 25 16:15:05 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/internet/intelligence-artificielle/intelligence-artificielle-elle-est-au-service-de-votre-garde-robe_7065059.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : L'intelligence artificielle se met (aussi) au service de votre garde-robe
+description : Selon Emmanuel Macron, la France doit se positionner dans le domaine de l'IA, qui touche tous les secteurs. Par exemple, dans la vie quotidienne quand il s’agit de choisir nos vêtements.
+date : Mon, 10 Feb 25 10:23:05 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/environnement/les-suisses-rejettent-massivement-une-initiative-de-responsabilite-environnementale_7064831.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Référendum en Suisse : la population vote massivement contre l'idée d'"une économie responsable dans les limites de la planète"
+description : Le texte, initié par les écologistes et soutenu par la gauche, ancrait ses propositions dans le concept de "limites planétaires" comme moyen de lutte contre les crises environnementales.
+date : Sun, 09 Feb 25 15:51:55 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/monde/europe/allemagne/legislatives-en-allemagne-olaf-scholz-a-l-offensive-lors-d-un-premier-debat-televise-face-a-son-rival-friedrich-merz_7066148.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Législatives en Allemagne : Olaf Scholz à l'offensive lors d'un premier débat télévisé face à son rival Friedrich Merz
+description : A deux semaines du scrutin, le chancelier social-démocrate et le candidat de la CDU se sont affrontés sur l'immigration et l'extrême droite.
+date : Mon, 10 Feb 25 08:21:19 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/monde/afrique/republique-democratique-du-congo/reportage-c-etait-un-enfer-la-bas-en-pleine-guerre-en-rdc-des-survivants-de-l-incendie-mortel-de-la-prison-de-goma-temoignent_7066253.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : "C'était un enfer là-bas !" : en pleine guerre en RDC, des survivants de l'incendie mortel de la prison de Goma témoignent
+description : Fin janvier, en pleine guerre entre les forces congolaises et le groupe armé M23 et ses alliés rwandais, des prisonniers ont tenté de s'échapper en mettant le feu à leurs cellules. Le drame a fait 181 morts, dont une majorité de femmes.
+date : Mon, 10 Feb 25 11:43:22 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/culture/musique/deezer-vs-spotify-les-plateformes-de-streaming-musical-s-opposent-sur-l-utilisation-de-l-ia-et-la-remuneration-des-artistes_7060658.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Deezer vs Spotify, les plateformes de streaming musical s'opposent sur l'utilisation de l'IA et la rémunération des artistes
+description : Le sommet de l'IA a lieu, lundi et mardi, à Paris. De nombreux secteurs sont touchés par cette nouvelle technologie révolutionnaire, dont l'industrie musicale et les plateformes de streaming.
+date : Mon, 10 Feb 25 10:34:59 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/monde/usa/c-est-du-gaspillage-donald-trump-veut-arreter-la-production-du-penny-jugee-trop-couteuse_7066331.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : "C'est du gaspillage !" : Donald Trump veut arrêter la production du penny, jugée trop coûteuse
+description : Le président des Etats-Unis demande au secrétaire au Trésor de ne plus produire de nouvelles pièces d'un centime de dollar.
+date : Mon, 10 Feb 25 11:43:53 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/monde/europe/migrants/drames-dans-la-manche-les-morts-vont-continuer-tant-qu-on-aura-pas-des-routes-sures-selon-le-fondateur-d-utopia-56_7066370.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Drames dans la Manche : "Les morts vont continuer tant qu'on n'aura pas des routes sûres", selon le fondateur d'Utopia 56
+description : Yann Manzi appelle le Royaume-Uni à "s'impliquer plus". Érythréens, Soudanais, Afghans... Ce sont "des gens qui devraient pouvoir avoir le statut en Europe de réfugiés", insiste-t-il.
+date : Mon, 10 Feb 25 12:03:03 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/internet/intelligence-artificielle/sommet-sur-l-intelligence-artificielle-on-vous-presente-l-ia-frugale-qui-vise-a-limiter-son-impact-environnemental_7041422.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Sommet sur l'intelligence artificielle : on vous présente l'IA "frugale" qui vise à limiter son impact environnemental
+description : Face à une technologie très énergivore, la France entend se positionner en pionnière d'une IA raisonnée et attentive à l'utilisation des ressources et des émissions de gaz à effet de serre.
+date : Sat, 08 Feb 25 07:01:50 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/economie/impots/surtaxe-d-impot-sur-les-grandes-societes-un-mauvais-signal-envoye-aux-investisseurs-estime-xavier-niel_7066265.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Surtaxe d'impôt sur les grandes sociétés : un "mauvais signal" envoyé aux investisseurs, estime Xavier Niel
+description : Cette surtaxe c'est autant d'argent "qu'on ne va pas mettre dans de l'infrastructure en France", argumente le propriétaire du groupe Iliad.
+date : Mon, 10 Feb 25 10:08:56 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/sports/voile/vendee-globe/vendee-globe-2024-comment-violette-dorange-a-fait-souffler-une-bourrasque-d-air-frais-sur-la-com-de-la-course_7039715.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Vendée Globe 2024 : comment Violette Dorange a fait souffler une bourrasque d'air frais sur la com de la course
+description : La jeune navigatrice, qui termine le tour du monde à la voile en solitaire à une honorable 25e place, a le vent en poupe et a réussi à captiver un public de néophytes.
+date : Sun, 09 Feb 25 11:02:32 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/monde/europe/manifestations-en-ukraine/guerre-en-ukraine-donald-trump-dit-avoir-telephone-a-vladimir-poutine-pour-negocier-la-fin-de-l-invasion-russe_7064447.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Guerre en Ukraine : Donald Trump dit avoir téléphoné à Vladimir Poutine pour négocier la fin de l'invasion russe
+description : Le président américain a de nouveau affirmé avoir un plan pour "mettre fin rapidement" à l'invasion de l'Ukraine par la Russie, mais encore une fois sans donner de détail concret.
+date : Sun, 09 Feb 25 10:37:59 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/sports/nfl/super-bowl/en-images-super-bowl-du-show-en-dehors-et-sur-la-pelouse-avec-serena-williams-en-danseuse-donald-trump-en-spectateur-revivez-la-folle-soiree-de-football-americain_7061009.html#xtor=RSS-3-[lestitres]
+source : France Info - Les titres.xml
+title : Super Bowl : du show en dehors et sur la pelouse avec Serena Williams en danseuse, Donald Trump en spectateur... Revivez la folle soirée de football américain
+description : Sous les yeux de Donald Trump, les Eagles de Philadelphie ont remporté le Super Bowl, dimanche, à La Nouvelle-Orléans.
+date : Mon, 10 Feb 25 10:09:15 +0100
+categories : ['No category']
+

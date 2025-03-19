@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/impots/biens-immobiliers-ce-fiasco-retentissant-qui-a-coute-plus-d-un-milliard-a-l-etat-20250123
+source : Le Figaro - Impots.xml
+title : Biens immobiliers : ce fiasco retentissant qui a coûté plus d’un milliard à l’État
+description : La Cour des comptes publie, ce jeudi, un rapport au vitriol sur cet outil de déclaration fiscale pour les propriétaires fustigeant une campagne «chaotique».
+date : Thu, 23 Jan 2025 10:28:44 +0100
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/les-astuces-pour-epargner-en-reduisant-ses-impots-20241130
+source : Le Figaro - Impots.xml
+title : Les astuces pour épargner en réduisant ses impôts
+description : Outre le plan épargne retraite (PER), plusieurs produits financiers permettent de mettre de l’argent de côté en allégeant sa fiscalité sur vos revenus perçus en 2024.
+date : Sat, 30 Nov 2024 11:00:10 +0100
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/immobilier-comment-proteger-un-investissement-fait-en-couple-20241128
+source : Le Figaro - Impots.xml
+title : Immobilier: comment protéger un investissement fait en couple
+description : NOS CONSEILS - Pinel, Denormandie, Malraux, monuments historiques… les recommandations des experts pour préserver son investissement en cas de séparation.
+date : Thu, 28 Nov 2024 17:10:27 +0100
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/services-a-la-personne-maitrisez-vous-le-credit-d-impot-20241127
+source : Le Figaro - Impots.xml
+title : Services à la personne: maîtrisez-vous le crédit d’impôt?
+description : Avance instantanée, majoration jusqu’à 18.000 euros, rectification avant le 12 décembre... Le mécanisme est complexe. Nos experts vous expliquent tout.
+date : Wed, 27 Nov 2024 11:00:12 +0100
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/les-placements-qui-allegent-encore-l-impot-des-contribuables-a-hauts-revenus-20241124
+source : Le Figaro - Impots.xml
+title : Les placements qui allègent encore l’impôt des contribuables à hauts revenus
+description : NOS CONSEILS - Certains investissements devraient pouvoir atténuer l’impact de la contribution spéciale sur la fortune que le gouvernement souhaite inscrire dans le budget.
+date : Sun, 24 Nov 2024 10:00:09 +0100
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/comment-profiter-au-mieux-du-plafonnement-des-niches-fiscales-20241123
+source : Le Figaro - Impots.xml
+title : Comment profiter au mieux du plafonnement des niches fiscales
+description : NOS CONSEILS - L’avantage lié à des placements défiscalisant est plafonné. Voici ce qu’il faut savoir pour en bénéficier au maximum.
+date : Sat, 23 Nov 2024 14:39:52 +0100
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/per-ces-astuces-pour-alleger-vos-impots-a-moindres-frais-20241122
+source : Le Figaro - Impots.xml
+title : PER: ces astuces pour alléger vos impôts à moindres frais
+description : NOS CONSEILS - Il ne reste que quelques semaines pour défiscaliser vos revenus à travers un plan d’épargne retraite. Voici nos conseils pour économiser plus d’impôts sans douleur.
+date : Tue, 26 Nov 2024 12:38:26 +0100
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/ces-trois-astuces-pour-payer-moins-de-frais-de-notaire-en-toute-legalite-20241120
+source : Le Figaro - Impots.xml
+title : Ces trois astuces pour payer moins de frais de notaire en toute légalité
+description : NOS CONSEILS - Après l’envolée de la taxe foncière, la hausse des frais de notaire annoncée par Michel Barnier, fait enrager les futurs propriétaires. Il est pourtant possible d’alléger quelque peu la facture. Découvrez aussi si votre département est ultra-dépendant aux frais de notaire.
+date : Wed, 20 Nov 2024 12:23:10 +0100
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/si-la-taxe-d-habitation-fait-son-retour-une-autre-mauvaise-nouvelle-attend-aussi-les-futurs-proprietaires-20241024
+source : Le Figaro - Impots.xml
+title : Si la taxe d'habitation fait son retour, une autre mauvaise nouvelle attend aussi les futurs propriétaires
+description : DÉCRYPTAGE - Si le souhait exprimé par LFI et Jean-François Copé est exaucé, les emprunteurs immobiliers vont grincer des dents. Explications.
+date : Thu, 24 Oct 2024 10:37:26 +0200
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/taxe-d-habitation-cette-proposition-de-lfi-qui-fait-hurler-les-proprietaires-immobiliers-20241020
+source : Le Figaro - Impots.xml
+title : Taxe d’habitation: cette proposition de LFI qui fait hurler les propriétaires immobiliers
+description : Les députés ont adopté, en commission, un amendement des Insoumis qui vise à durcir l’imposition des résidences secondaires.
+date : Sun, 20 Oct 2024 17:02:03 +0200
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/impots-locaux-pourquoi-il-faut-verifier-que-les-extensions-ont-ete-declarees-avant-d-acheter-20241013
+source : Le Figaro - Impots.xml
+title : Impôts locaux: pourquoi il faut vérifier que les extensions ont été déclarées avant d’acheter
+description : Le fisc traque les piscines ou agrandissements inconnus de ses services. Avec des redressements à la clé et de mauvaises surprises pour les acquéreurs qui découvrent les irrégularités de leurs prédécesseurs.
+date : Sun, 13 Oct 2024 08:00:16 +0200
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/si-mes-impots-augmentent-je-quitte-la-france-furieux-ces-proprietaires-envisagent-une-expatriation-en-italie-20240927
+source : Le Figaro - Impots.xml
+title : «Je suis prêt à quitter la France» : furieux d’une possible hausse d'impôts, des propriétaires envisagent l'expatriation en Italie
+description : DÉCRYPTAGE - L’idée d’une hausse d’impôts pour les plus aisés refait surface et risque de donner des envies d’ailleurs à certains Français. L’Italie est une des destinations privilégiées selon des fiscalistes, qui conseillent leurs clients sur les bonnes étapes à suivre.
+date : Fri, 10 Jan 2025 14:29:11 +0100
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/quels-avantages-fiscaux-pour-investir-dans-l-immobilier-ancien-20240629
+source : Le Figaro - Impots.xml
+title : Quels avantages fiscaux pour investir dans l’immobilier ancien ?
+description : NOS CONSEILS - Désormais, seul un investissement dans l’ancien permet de bénéficier d’une réduction d’impôt efficace tout en se constituant un patrimoine immobilier. Trois dispositifs coexistent…
+date : Sat, 29 Jun 2024 14:00:00 +0200
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/legislatives-le-spectre-de-la-double-imposition-en-2024-20240627
+source : Le Figaro - Impots.xml
+title : Législatives : le spectre d’une double imposition en 2024
+description : DÉCRYPTAGE - Certaines hausses d’impôts prévues dans le programme du Nouveau front populaire pourraient être rétroactives et s’appliquer à tous les revenus encaissés depuis le début de l’année 2024. Avec pour conséquence, une seconde taxation du contribuable.
+date : Thu, 27 Jun 2024 18:59:19 +0200
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/les-contours-de-la-suppression-des-frais-de-notaire-pour-les-jeunes-enfin-precises-20240618
+source : Le Figaro - Impots.xml
+title : Les contours de la suppression des frais de notaire pour les jeunes enfin précisés
+description : INFO LE FIGARO - Prévue dans le programme de la majorité en vue des élections législatives, cette mesure, en faveur du pouvoir d’achat, va coûter cher.
+date : Thu, 20 Jun 2024 09:54:25 +0200
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/supprimer-les-frais-de-notaire-pour-les-jeunes-l-idee-seduisante-mais-couteuse-de-gabriel-attal-20240618
+source : Le Figaro - Impots.xml
+title : Supprimer les frais de notaire pour les jeunes, l’idée séduisante mais coûteuse de Gabriel Attal
+description : DÉCRYPTAGE - Le premier ministre veut exonérer de droits de mutation tous les achats de logements de moins de 250.000 euros pour les «jeunes des classes moyennes et populaires». Une solution efficace pour relancer le marché immobilier ?
+date : Tue, 18 Jun 2024 15:25:57 +0200
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/note-de-la-france-degradee-faut-il-craindre-une-hausse-des-impots-20240601
+source : Le Figaro - Impots.xml
+title : Note dégradée : quelles conséquences pour la France et les Français ?
+description : DÉCRYPTAGE - Faut-il redouter une hausse des impôts et une explosion de la dette de la France ? Quelle réaction des marchés financiers ? La dégradation de la note de la dette française inquiète. Le Figaro fait le point.
+date : Sun, 02 Jun 2024 21:20:32 +0200
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/ce-nouveau-pret-qui-doit-aider-les-coproprietes-a-financer-leurs-travaux-20240601
+source : Le Figaro - Impots.xml
+title : Ce nouveau prêt qui doit aider les copropriétés à financer leurs travaux
+description : NOS CONSEILS - Collectif, attaché au lot et non à son propriétaire qui peut changer, cet outil vise à améliorer l’entretien du parc immobilier.
+date : Sat, 01 Jun 2024 08:00:08 +0200
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/comment-soutenir-une-association-en-partageant-les-fruits-de-son-epargne-20240527
+source : Le Figaro - Impots.xml
+title : Comment soutenir une association en partageant les fruits de son épargne
+description : NOS CONSEILS - Toutes les banques proposent aujourd’hui des produits qui permettent aux épargnants d’offrir tout ou partie de leurs gains.
+date : Mon, 27 May 2024 08:00:07 +0200
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/impots/le-don-a-une-fondation-l-astuce-qui-permet-de-gratifier-un-ami-en-reduisant-les-ponctions-fiscales-20240526
+source : Le Figaro - Impots.xml
+title : Le don à une fondation, l’astuce qui permet de gratifier un ami en réduisant les ponctions fiscales
+description : NOS CONSEILS - En utilisant un organisme à but non lucratif comme intermédiaire pour votre don, tout le monde, même la fondation, est gagnant. Voici comment procéder.
+date : Sun, 26 May 2024 08:00:12 +0200
+categories : ['Impôts']
+

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- D'abord, listez tous les éléments sous de PLAY. 
+D'après la Sommaire dans Affichier la vue, 
+nous pouvons connaître l'ordre et la fréquence de chaque élément sous Play,
+à l'exception d'ACT, chaque sous-élément n'apparaît qu'une seule fois,
+donc ACT est suivi de '+' qui indique une occurrence une ou plusieurs fois -->
+<!ELEMENT PLAY (TITLE, FM, PERSONAE, SCNDESCR, PLAYSUBT, ACT+)>
+
+<!-- TITLE,ne contenant pas de sous-répertoires, donc défini directement -->
+<!ELEMENT TITLE (#PCDATA)>
+<!-- D'après voir le tableau du sommaire, on peut voir que FM contient plusieurs sous-éléments P, donc les énumérer -->
+<!ELEMENT FM (P+) >
+<!ELEMENT P (#PCDATA)>
+
+<!-- PERSONAE contient TITLE; puisque l'ordre de PGROUP et PERSONA n'est pas fixe, on utilise '|' pour signifier 'ou' -->
+<!ELEMENT PERSONAE (TITLE, (PGROUP|PERSONA)+)>
+<!-- Ensuite, on énumère les sous-éléments contenus dans PERSONAE -->
+<!-- PGROUP est constitué de plusieurs PERSONA et d'un GRPDESCR, donc ajouter '+' après PERSONA -->
+<!ELEMENT PGROUP (PERSONA+, GRPDESCR)>
+<!ELEMENT PERSONA (#PCDATA)>
+<!ELEMENT GRPDESCR (#PCDATA)>
+
+<!-- SCNDESCR et PLAYSUBT sont du texte -->
+<!ELEMENT SCNDESCR (#PCDATA)>
+<!ELEMENT PLAYSUBT (#PCDATA)>
+<!-- ACT, qui contient de nombreuses balises; on commence par voir la sommaire, trouver des relations, puis on les définit -->
+<!ELEMENT ACT (TITLE, SCENE+)>
+<!-- D'après la sommaire, on peut également voir que l'ordre de STAGEDIR et SPEECH dans SCENE n'est pas fixe, donc on utilise '|',
+lorsque SPEAKER est doctor, LINE contient un STAGEDIR, donc il faut ajouter '|', 
+et ajouter '*' pour indiquer que STAGEDIR peut se présenter 0 ou plusieurs fois -->
+<!ELEMENT SCENE (TITLE, (STAGEDIR|SPEECH)+)>
+<!ELEMENT SPEECH (SPEAKER+, (LINE|STAGEDIR)+)>
+<!ELEMENT SPEAKER (#PCDATA)>
+<!ELEMENT LINE (#PCDATA|STAGEDIR)*>
+<!ELEMENT STAGEDIR (#PCDATA)>

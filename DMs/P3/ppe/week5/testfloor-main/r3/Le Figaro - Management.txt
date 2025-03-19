@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/decideurs/jo-paris-2024-travailler-ou-teletravailler-sans-perdre-une-miette-de-l-athletisme-c-est-possible-20240805
+source : Le Figaro - Management.xml
+title : JO Paris 2024: travailler - ou télétravailler - sans perdre une miette de l'athlétisme, c'est possible
+description : Les courses, les sauts et les lancers sont les disciplines reines des Jeux olympiques. Difficile de les manquer. À condition pour les entreprises de savoir gérer l’emploi du temps de leurs collaborateurs.
+date : Mon, 05 Aug 2024 07:00:00 +0200
+categories : ['Décideurs']
+
+id : https://www.lefigaro.fr/decideurs/management/l-epoque-ou-les-chefs-se-reservaient-les-plus-beaux-et-les-plus-grands-espaces-est-revolue-assure-ce-dirigeant-20240707
+source : Le Figaro - Management.xml
+title : L’époque où les chefs se réservaient les plus beaux et les plus grands espaces est révolue, assure ce dirigeant
+description : UNE HEURE DANS LE BUREAU - Chaque lundi, un dirigeant ouvre sa porte au Figaro. C’est au tour de Vincent Lecomte, patron de BNP Paribas Wealth Management.
+date : Mon, 08 Jul 2024 09:55:53 +0200
+categories : ['Management']
+
+id : https://www.lefigaro.fr/decideurs/management/mon-plus-grand-stress-ne-pas-etre-au-rendez-vous-visite-intime-chez-pierre-gagnaire-cote-coulisses-20240421
+source : Le Figaro - Management.xml
+title : «Mon plus grand stress? Ne pas être au rendez-vous»: visite intime chez Pierre Gagnaire
+description : UNE HEURE DANS LE BUREAU - Chaque semaine, un dirigeant ouvre sa porte au Figaro. C’est au tour du chef triplement étoilé.
+date : Sun, 21 Apr 2024 18:00:00 +0200
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/visite-guidee-du-bureau-labo-du-philippe-pouletty-medecin-et-chasseur-de-brevets-20240324
+source : Le Figaro - Management.xml
+title : Visite guidée du bureau-labo du Dr Pouletty, chercheur-entrepreneur et chasseur de brevets
+description : UNE HEURE DANS LE BUREAU - Chaque lundi, un dirigeant ouvre sa porte au Figaro. C’est le tour du chercheur-entrepreneur, cofondateur de Truffle Capital.
+date : Sun, 24 Mar 2024 17:41:03 +0100
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/vie-bureau/olivier-kretz-une-colocation-familiale-et-professionnelle-20240310
+source : Le Figaro - Management.xml
+title : Visite guidée dans la «colocation familiale et professionnelle» de la famille Kretz, à Boulogne
+description : UNE HEURE DANS LE BUREAU - Chaque semaine, un dirigeant ouvre sa porte au Figaro. Cette semaine, Olivier Kretz, fondateur de L’Agence.
+date : Mon, 11 Mar 2024 15:19:41 +0100
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/vie-bureau/pourquoi-miser-sur-un-premier-poste-a-londres-reste-une-bonne-idee-pour-les-jeunes-diplomes-francais-20240228
+source : Le Figaro - Management.xml
+title : Pourquoi miser sur un premier poste à Londres reste une bonne idée pour les jeunes diplômés français
+description : TÉMOIGNAGES – Si les difficultés économiques s’amoncellent depuis le Brexit, nombre de jeunes professionnels restent attirés par le Royaume-Uni et ses carrières professionnelles prometteuses.
+date : Sun, 03 Mar 2024 23:38:41 +0100
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/vie-bureau/alain-crevet-une-ambiance-musee-et-rock-20240225
+source : Le Figaro - Management.xml
+title : Alain Crevet: «Mon bureau est mon temple depuis 2006 avec son ambiance musée et rock»
+description : UNE HEURE DANS LE BUREAU - Chaque semaine, un dirigeant ouvre sa porte au Figaro. C’est au tour du président du directoire de ST Dupont.
+date : Tue, 27 Feb 2024 16:29:06 +0100
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/vie-bureau/jean-charles-de-castelbajac-l-archipel-de-mes-emotions-20240211
+source : Le Figaro - Management.xml
+title : Jean-Charles de Castelbajac: «Chez moi, mon bureau est l’archipel de mes émotions»
+description : UNE HEURE DANS LE BUREAU - Chaque semaine, un dirigeant ouvre sa porte au Figaro. C’est au tour de l’artiste et créateur de mode de présenter son appartement atelier parisien.
+date : Mon, 12 Feb 2024 14:48:34 +0100
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/vie-bureau/le-monde-perd-ses-couleurs-au-royaume-du-conformisme-l-inclusion-est-elle-une-tyrannie-deguisee-20240205
+source : Le Figaro - Management.xml
+title : Pourquoi le diktat de l’inclusion et de la bienveillance au travail pourrait être une tyrannie déguisée
+description : Posons la question. Le mouvement de l’inclusivité auquel s’adonne à l’envi le monde du travail cacherait-il des coulisses plus sombres ? La simplification et l’uniformisation ont leurs travers. Explications.
+date : Sun, 11 Feb 2024 18:07:22 +0100
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/vie-bureau/c-est-la-grande-recreation-quand-la-flexibilite-au-travail-degenere-en-conflits-et-abus-de-confiance-20240204
+source : Le Figaro - Management.xml
+title : «C’est la grande récréation» : quand la flexibilité au travail dégénère en conflits et abus de confiance
+description : Cette nouvelle liberté au travail, la sacro-sainte «flexibilité», peut parfois se retourner contre elle-même et mener au chaos. Certaines tensions sont l’occasion de remettre l’église au centre du village. Explications.
+date : Mon, 05 Feb 2024 11:38:22 +0100
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/vie-bureau/guillaume-chesneau-ce-lieu-incarne-les-innovations-de-notre-epoque-20240128
+source : Le Figaro - Management.xml
+title : Guillaume Chesneau: «Ce lieu incarne les innovations de notre époque»
+description : UNE HEURE DANS LE BUREAU - Chaque semaine, un dirigeant ouvre sa porte au Figaro. C’est au tour du directeur général de Nespresso France.
+date : Sun, 28 Jan 2024 16:32:00 +0100
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/vie-bureau/frederic-nouel-notre-ecrin-reinvente-le-metier-d-avocat-20240121
+source : Le Figaro - Management.xml
+title : Frédéric Nouel: «Nos bureaux ont été créés pour réinventer le métier d’avocat»
+description : UNE HEURE DANS LE BUREAU - L’associé du cabinet d’avocats Gide Loyrette Nouel ouvre sa porte au Figaro.
+date : Mon, 22 Jan 2024 14:38:25 +0100
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/vie-bureau/chers-collegues-l-enfer-c-est-les-autres-surtout-lorsqu-on-ne-les-choisit-pas-20240120
+source : Le Figaro - Management.xml
+title : «Chers collègues»: l’enfer c’est les autres... surtout lorsqu’on ne les choisit pas
+description : CRITIQUE - Quentin Périnel, jeune homme jovial officiant au Figaro, a recensé une soixantaine de types de collègues dans un ouvrage très drôle.
+date : Sat, 20 Jan 2024 07:00:20 +0100
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/vie-bureau/emmanuelle-malecaze-doublet-dg-du-pmu-ma-porte-ne-ferme-plus-20240114
+source : Le Figaro - Management.xml
+title : Emmanuelle Malecaze-Doublet, DG du PMU: «La localisation de notre siège est la plus «juste» pour tous les salariés»
+description : UNE HEURE DANS LE BUREAU - Chaque lundi, un dirigeant ouvre sa porte au Figaro. La jeune directice générale de 35 ans revient sur son parcours et le déménagement des locaux du groupe.
+date : Mon, 15 Jan 2024 09:51:29 +0100
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/vie-bureau/corine-de-bilbao-ici-aucun-espace-de-travail-n-est-sacre-20240107
+source : Le Figaro - Management.xml
+title : Corine de Bilbao, CEO de Microsoft France: «Il faut réparer les erreurs de la crise sanitaire»
+description : UNE HEURE DANS LE BUREAU - Chaque lundi, un dirigeant ouvre sa porte au Figaro. La patronne de Microsoft en France revient sur les erreurs qui ont été commises par les entreprises pendant la crise de la Covid-19.
+date : Mon, 08 Jan 2024 09:57:36 +0100
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/vie-bureau/faire-semblant-de-rigoler-pendant-deux-jours-c-est-absurde-comment-les-entreprises-se-trompent-sur-les-effets-du-team-building-20231220
+source : Le Figaro - Management.xml
+title : «Faire semblant de rigoler pendant deux jours, c'est absurde!» : comment les entreprises se trompent sur les effets du team building
+description : DÉCRYPTAGE - Des salariés mal à l’aise, des chefs qui vous poussent à boire, l’obligation de faire semblant de s’amuser quitte à se moquer des autres... Une étude menée par deux chercheurs révèle à quel point ces moments censés souder les équipes dégoûtent les jeunes diplômés.
+date : Wed, 20 Dec 2023 10:12:29 +0100
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/vie-bureau/c-etait-mon-ami-et-il-m-a-vire-ce-que-vous-risquez-a-faire-venir-un-proche-dans-votre-entreprise-20231214
+source : Le Figaro - Management.xml
+title : «C’était mon ami et il m’a viré !» : Ce que vous risquez à faire venir un proche dans votre entreprise
+description : NOS CONSEILS - Les salariés qui aident une de leurs connaissances à se faire embaucher tombent parfois de haut.
+date : Thu, 14 Dec 2023 14:40:48 +0100
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/vie-bureau/jean-philippe-dogneton-un-coup-de-foudre-professionnel-20231126
+source : Le Figaro - Management.xml
+title : Jean-Philippe Dogneton: «Mon bureau raconte mon coup de foudre professionnel»
+description : UNE HEURE DANS LE BUREAU - Le directeur général de la Macif ouvre sa porte au Figaro .
+date : Mon, 27 Nov 2023 16:49:17 +0100
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/vie-bureau/nina-caput-un-petit-monde-ou-tout-le-monde-se-connait-20231119
+source : Le Figaro - Management.xml
+title : Nina Caput: «Mon bureau, c’est l’univers des chevaux»
+description : UNE HEURE DANS LE BUREAU - La cofondatrice d’Eqwin ouvre sa porte au Figaro.
+date : Mon, 20 Nov 2023 09:08:04 +0100
+categories : ['Vie de bureau']
+
+id : https://www.lefigaro.fr/decideurs/vie-bureau/olivier-girard-en-1997-j-etais-deja-en-flex-office-20231029
+source : Le Figaro - Management.xml
+title : Olivier Girard: «En 1997, j’étais déjà en flex office»
+description : UNE HEURE DANS LE BUREAU - Chaque semaine, un dirigeant ouvre sa porte au Figaro.
+date : Sun, 29 Oct 2023 17:45:12 +0100
+categories : ['Vie de bureau']
+

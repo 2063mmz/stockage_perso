@@ -1,0 +1,140 @@
+id : https://www.francetvinfo.fr/replay-radio/question-de-societe/vacances-de-fevrier-pourquoi-pas-une-semaine-fixe-et-une-autre-que-l-on-peut-prendre-quand-on-veut-questionne-le-sociologue-jean-viard_7035059.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Vacances de février : pourquoi pas une semaine fixe et une autre que l'on peut "prendre quand on veut" ?, questionne le sociologue Jean Viard
+description : Le mois de février correspond à la période où les stations de ski réalisent l'essentiel de leur saison. C'est aussi le mois où les locations à la montagne sont les plus chères. Pour le sociologue Jean Viard, si les questions d'aménagement sont inéluctables avec le réchauffement climatique, il convient aussi de réfléchir à l'organisation des vacances d'hiver.
+date : Sat, 08 Feb 2025 10:00:02 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/decouverte/alsace-des-plaines-a-la-petite-ville-d-obernai-une-terre-de-traditions_7061222.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Alsace : des plaines à la petite ville d'Obernai, une terre de traditions
+description : Vendredi 7 février, "Le 13 Heures en week-end" vous emmène en plaine d'Alsace à la découverte de l'abbaye Sainte-Odile et des merveilles culinaires et du patrimoine de la petite ville d'Obernai.
+date : Fri, 07 Feb 2025 17:44:05 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/economie/transports/eboulement-sur-la-rn90-en-savoie-les-vacanciers-peuvent-ils-faire-jouer-leur-assurance_7053017.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Éboulement sur la RN90 en Savoie : les vacanciers peuvent-ils faire jouer leur assurance ?
+description : L’accès aux stations savoyardes de la Tarentaise est très compliqué après l’éboulement qui a coupé la RN90 entre Albertville et Moûtiers. Mais les vacanciers touchés peuvent-ils être indemniser ?
+date : Wed, 05 Feb 2025 06:43:07 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/alpes-de-haute-provence/alpes-de-haute-provence-excursion-dans-le-ciel-en-montgolfiere_7052981.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Alpes-de-Haute-Provence : excursion dans le ciel en montgolfière
+description : Lundi 3 février, le 13H découverte vous emmène dans le Parc naturel du Verdon, dans les Alpes-de-Haute-Provence. Pour cela, le parc va être survolé en montgolfière afin d’admirer la région.
+date : Mon, 03 Feb 2025 16:22:59 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/replay-radio/ca-dit-quoi/gojira-remporte-un-grammy-raccourcir-les-vacances-et-le-proces-de-luis-rubiales-ca-dit-quoi-ce-03-fevrier_7040654.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : PODCAST. Gojira remporte un Grammy, raccourcir les vacances et le procès de Luis Rubiales : ça dit quoi ce 03 février ?
+description : Ce lundi 3 février, le groupe de métal français Gojira a remporté un Grammy Awards pour sa performance aux JO, Emmanuel Macron veut raccourcir les vacances scolaires et le procès de Luis Rubiales s'ouvre dans l'affaire du baiser forcé avec la joueuse de football Jenni Hermoso.
+date : Mon, 03 Feb 2025 08:45:14 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/decouverte/artisanat-le-savoir-faire-des-artisans-du-comminges-se-revele-au-fil-du-chemin_7051202.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Artisanat : le savoir-faire des artisans du Comminges se révèle au fil du chemin
+description : Dans la région au sud de Toulouse et de la Haute-Garonne, il est possible de découvrir le pays de Comminges. Rien de tel qu'une promenade à vélo pour contempler ce territoire où nous avons prévu plusieurs étapes pour vous.
+date : Sun, 02 Feb 2025 15:11:59 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/monde/norvege/norvege-a-la-decouverte-des-fjords_7047947.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Norvège : à la découverte des fjords
+description : Le 13h découverte vous emmène, vendredi 31 janvier, en Norvège avec ses centaines de fjords le long du littoral et ses lumières splendides. Et ce, malgré des journées très courtes.
+date : Fri, 31 Jan 2025 18:07:46 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/france/auvergne-rhone-alpes/isere/vercors-a-la-decouverte-des-somptueux-decors-du-massif_7047902.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Vercors : à la découverte des somptueux décors du massif
+description : Le 13h week-end vous emmène, vendredi 31 janvier, dans le massif du Vercors. C’est un territoire riche de son patrimoine et de son histoire aux airs de petit Canada en hiver. Il est aussi connu pour son fromage à pâte persillée : le bleu du Vercors.
+date : Fri, 31 Jan 2025 17:17:42 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/replay-radio/le-billet-vert/les-observatoires-du-monde-entier-gardent-un-il-sur-yr4-cet-asteroide-qui-se-dirige-vers-la-terre_7016549.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Les observatoires du monde entier gardent un œil sur YR4, cet astéroïde qui se dirige vers la Terre
+description : Si la menace d'impact semble relativement faible, et que des stratégies de déviation pourraient être mises en œuvre par les agences spatiales internationales, la communauté scientifique et les autorités internationales restent sur leur garde, en attendant des calculs plus poussés.
+date : Thu, 30 Jan 2025 07:53:01 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/decouverte/norvege-une-randonnee-grandeur-nature-au-c-ur-d-une-nature-majestueuse-dans-le-pays-du-soleil-de-minuit_7041560.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Norvège : une randonnée au cœur d'une nature majestueuse dans le pays du soleil de minuit
+description : La Norvège, avec ses paysages arctiques, permet de réaliser des randonnées grandeur nature dans un décor de bout du monde, loin de l’agitation : une expérience exceptionnelle pour les amoureux de grands espaces.
+date : Tue, 28 Jan 2025 17:28:54 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/monde/italie/italie-les-lacs-de-fusine-une-region-italienne-a-la-croisee-des-chemins-entre-trois-cultures_7039667.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Italie : les lacs de Fusine, une région italienne à la croisée des chemins entre trois cultures
+description : Nichés entre l'Italie, la Slovénie et l'Autriche, les lacs de Fusine émerveillent les visiteurs. En cette période hivernale, les chemins de randonnée se dépeuplent et sont investis par les habitués, toujours émerveillés devant la nature enchanteresse de ces paysages.
+date : Mon, 27 Jan 2025 16:58:31 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/bouches-du-rhone/decouverte-a-saint-remy-de-provence-se-cotoient-patrimoine-et-savoir-faire_7037924.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Découverte : à Saint-Rémy-de-Provence, se côtoient patrimoine et savoir-faire
+description : Dimanche 26 janvier, le 13 Heures se rend en Provence. Moins fréquentée l'hiver, elle n'en est pas moins attirante : entre son patrimoine, sa gastronomie et son savoir-faire, c'est l'une des destinations à garder en tête. Et la promenade commence à Saint-Rémy-de-Provence.
+date : Sun, 26 Jan 2025 15:27:08 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/france/grand-est/vosges/alsace-au-c-ur-des-vosges-le-ballon-d-alsace-offre-une-randonnee-polaire_7032638.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Alsace : au cœur des Vosges, le Ballon d'Alsace offre une randonnée polaire
+description : Jeudi 23 janvier, le 13 Heures vous emmène explorer un territoire surnommé "le petit Canada". Magnifique et peu connu, il est situé au cœur du massif des Vosges.
+date : Thu, 23 Jan 2025 17:28:07 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/decouverte/ariege-a-montsegur-un-boulanger-petrit-un-pain-de-tradition_7032617.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Ariège : à Montségur, un boulanger pétrit un pain de tradition
+description : Le petit village de Montségur est réputé pour sa citadelle mais aussi pour son artisan boulanger hors du commun, Cyril Delmasse. Il perpétue une tradition de plusieurs siècles : un pain 100 % pur levain naturel.
+date : Thu, 23 Jan 2025 17:19:59 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/decouverte/alsace-les-secrets-du-paradis-aquatique-du-grand-ried_7028183.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Alsace : les secrets du paradis aquatique du Grand Ried
+description : Ce mardi 21 janvier, le “13 Heures” vous emmène à la découverte du réservoir naturel du Grand Ried, un royaume enchanteur situé entre Strasbourg et Colmar. C’est aussi le pays de la matelote, un très vieux plat alsacien typique.
+date : Tue, 21 Jan 2025 17:36:52 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/economie/transports/sncf/la-sncf-ouvre-a-la-vente-ses-billets-pour-les-vacances-de-printemps-a-partir-de-mercredi_7027985.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : SNCF : la vente de billets pour les vacances de printemps ouvre à partir de mercredi
+description : "Les billets TGV Inoui et Intercités seront disponibles à la vente pour des circulations allant du 31 mars au 11 mai inclus", annonce la compagnie.
+date : Tue, 21 Jan 2025 16:16:28 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/environnement/evenements-meteorologiques-extremes/cyclones-et-ouragans/cyclone-chido-a-mayotte/mayotte-la-rentree-scolaire-se-prepare_7025813.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Mayotte : la rentrée scolaire se prépare
+description : Après les cyclones Chido et Dikeledi, 40 % des bâtiments des écoles de Mayotte sont endommagés, et des réparations sont nécessaires avant la rentrée. Les syndicats enseignants appellent à une grève illimitée, estimant que les établissements ne sont pas encore assez sécurisés.
+date : Mon, 20 Jan 2025 12:12:57 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/decouverte/finistere-les-tresors-du-departement-du-bout-du-monde_7020446.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Finistère : les trésors du département du bout du monde
+description : Durant la basse saison, il est possible de découvrir le Finistère en profitant de ses immenses plages pour faire du char à voile ou en s'adonnant à la randonnée.
+date : Fri, 17 Jan 2025 17:01:52 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/replay-radio/dans-la-peau-de-l-info/un-chercheur-d-or-amateur-decouvre-unne-broche-datant-de-2000-ans_6989180.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Un chercheur d'or amateur découvre une broche datant de 2000 ans
+description : Christian Mazières, instituteur à la retraite en Dordogne, est passionné d’orpaillage en rivière. Cette activité peu rémunératrice ne l'a pas empêché de tomber sur un trésor, datant du Ier siècle avant J.-C.
+date : Thu, 16 Jan 2025 12:09:26 +0100
+categories : []
+
+id : https://www.francetvinfo.fr/replay-radio/aujourd-hui-c-est-demain/des-chercheurs-de-l-universite-de-l-oregon-ouvrent-la-voie-a-l-hibernation-pour-les-humains_6983696.html#xtor=RSS-3-[general]
+source : France Info - Découvertes.xml
+title : Des chercheurs de l’université de l’Oregon ouvrent la voie à l'hibernation pour les humains
+description : Leurs travaux ont été publiés, début janvier, dans la revue "Current Biology".  L'objectif est d'éviter les séquelles en cas de crise cardiaque ou d’AVC.
+date : Mon, 13 Jan 2025 09:30:52 +0100
+categories : []
+

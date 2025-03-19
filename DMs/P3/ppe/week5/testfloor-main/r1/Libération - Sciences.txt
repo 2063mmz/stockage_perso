@@ -1,0 +1,28 @@
+id : https://www.liberation.fr/culture/sommet-sur-lia-la-culture-defend-linnovation-mais-aussi-ses-droits-20250209_FZOWJOFZUBBP3FYBAEH7Y3CMSU/
+source : Libération - Sciences.xml
+title : <![CDATA[«On n’est pas chez les Trump, ici» : avant le sommet sur l’IA à Paris, la culture défend l’innovation mais aussi ses droits]]>
+description : <![CDATA[Pour la première fois intégré à un Sommet international sur l’IA, le secteur culturel débattait ce week-end des grands défis à venir.]]>
+date : Sun, 09 Feb 2025 15:06:10 +0000
+categories : 
+
+id : https://www.liberation.fr/sciences/technologie-innovation/sommet-ia-le-fonds-canadien-brookfield-va-investir-20-milliards-deuros-dans-des-data-centers-en-france-dici-a-2030-20250209_YO5K4XVQ25HDDCUKAQC2RMUQMI/
+source : Libération - Sciences.xml
+title : <![CDATA[Sommet IA : le fonds canadien Brookfield va investir 20 milliards d’euros dans des data centers en France d’ici à 2030]]>
+description : <![CDATA[Les annonces d’investissements en France se multiplient à la veille de l’ouverture du Sommet pour l’action sur l’intelligence artificielle ce lundi 10 février à Paris.]]>
+date : Sun, 09 Feb 2025 07:26:35 +0000
+categories : 
+
+id : https://www.liberation.fr/environnement/biodiversite/a-travers-locean-lenvoutant-et-mysterieux-spectacle-de-la-ponte-des-coraux-synchronisee-sur-des-milliers-de-kilometres-20250208_YUUXG6K63JAUTC7TLY26J57OUU/
+source : Libération - Sciences.xml
+title : <![CDATA[A travers l’océan, l’envoûtant et mystérieux spectacle de la ponte des coraux, synchronisée sur des milliers de kilomètres]]>
+description : <![CDATA[De la Polynésie française à la Tanzanie, la reproduction du corail «Porites rus», calée sur le cycle lunaire, a été observée en janvier pour la première fois le même jour, sur plus de 18 000 km. Ces nouvelles données, recueillies dans le cadre d’un projet de sciences participatives, montrent que cette espèce de corail synchronise sa ponte sur plusieurs océans.]]>
+date : Sat, 08 Feb 2025 17:26:49 +0000
+categories : 
+
+id : https://www.liberation.fr/idees-et-debats/france-algerie-au-nom-des-enfants-ayons-laudace-de-la-verite-20250205_KHDMSJXFMJHWLI72WK2OKRNEVQ/
+source : Libération - Sciences.xml
+title : <![CDATA[France-Algérie : au nom des enfants, ayons l’audace de la vérité]]>
+description : <![CDATA[Plutôt que de s’enfermer dans des querelles mémorielles, la France doit admettre sa responsabilité pleine et entière de son passé colonialiste et sceller enfin une alliance constructive entre les deux pays, prônent l’ex-commissaire à l’égalité et à la diversité, Yazid Sabeg, et l’avocat Jean-Pierre Mignard.]]>
+date : Wed, 05 Feb 2025 16:54:43 +0000
+categories : 
+

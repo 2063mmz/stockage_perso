@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/elections/legislatives/gabriel-attal-un-gout-d-inacheve-et-une-ambition-intacte-20240905
+source : Le Figaro - Elections.xml
+title : Gabriel Attal, un goût d’inachevé et une ambition intacte
+description : RÉCIT - Moins de huit mois après avoir été nommé premier ministre, Gabriel Attal quitte Matignon. Un premier accroc après sept ans d’ascension fulgurante. Son départ s’accompagne d’une rupture politique avec le chef de l’État.
+date : Fri, 06 Sep 2024 07:40:30 +0200
+categories : ['Législatives']
+
+id : https://www.lefigaro.fr/politique/toutes-les-portes-nous-sont-fermees-la-difficile-reconversion-des-macronistes-defaits-aux-legislatives-20240820
+source : Le Figaro - Elections.xml
+title : «Toutes les portes nous sont fermées»: la difficile reconversion des macronistes défaits aux législatives
+description : RÉCIT - Après le revers des législatives, le parti présidentiel a perdu près de 70&#160;députés. Nombre d’entre eux peinent encore à retrouver un emploi.
+date : Wed, 21 Aug 2024 10:49:12 +0200
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/assemblee-nationale-plus-de-150-propositions-de-loi-victimes-de-la-dissolution-en-attente-d-examen-20240820
+source : Le Figaro - Elections.xml
+title : Assemblée nationale: plus de 150 propositions de loi, victimes de la dissolution, en attente d’examen
+description : La dissolution a stoppé net l’ensemble des travaux parlementaires, qui devraient reprendre au compte-goutte après la nomination d’un nouveau gouvernement.
+date : Tue, 20 Aug 2024 19:39:11 +0200
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/tout-le-monde-est-dans-le-flou-face-au-blocage-politique-le-grand-desarroi-des-deputes-20240820
+source : Le Figaro - Elections.xml
+title : «Tout le monde est dans le flou» : face au blocage politique, le grand désarroi des députés
+description : RÉCIT - Près d’un mois et demi après leur élection, les députés attendent toujours les choix de l’exécutif et une date de rentrée pour attaquer l’examen du budget.
+date : Wed, 21 Aug 2024 10:49:25 +0200
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/avec-un-nombre-de-groupes-record-l-assemblee-nationale-menacee-de-paralysie-20240820
+source : Le Figaro - Elections.xml
+title : Avec un nombre de groupes record, l’Assemblée nationale menacée de paralysie
+description : En l’espace de sept ans, le nombre de groupes parlementaires a doublé dans l’Hémicycle, passant de 6 à 11 entre 2012 et 2024.
+date : Wed, 21 Aug 2024 10:25:17 +0200
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/elections/legislatives/les-republicains-accueillent-froidement-le-pacte-d-action-des-macronistes-20240806
+source : Le Figaro - Elections.xml
+title : Les Républicains accueillent froidement le «pacte d’action» des macronistes
+description : DÉCRYPTAGE - Si quelques points de convergence existent entre les projets présentés par Laurent Wauquiez puis par Gabriel Attal, il reste encore du chemin avant une éventuelle alliance entre la droite et le bloc central.
+date : Wed, 21 Aug 2024 10:15:16 +0200
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/elections/legislatives/emmenee-par-le-rn-et-lfi-la-generation-2000-a-fait-son-entree-a-l-assemblee-20240801
+source : Le Figaro - Elections.xml
+title : Emmenée par le RN et LFI, «la génération 2000 a fait son entrée à l’Assemblée»
+description : RÉCIT - Tous âgés de moins de 25&#160;ans, six députés de la génération Z sont venus grossir les rangs de la représentation nationale après les législatives anticipées.
+date : Thu, 01 Aug 2024 08:00:00 +0200
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/a-droite-les-nouveaux-visages-en-ordre-disperse-20240731
+source : Le Figaro - Elections.xml
+title : À droite, les nouveaux visages en ordre dispersé après les législatives
+description : RÉCIT - Sur les douze nouveaux députés soutenus par LR aux législatives, certains ont choisi un autre groupe en attendant de voir comment évolue la recomposition politique.
+date : Wed, 31 Jul 2024 20:05:25 +0200
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/vox/politique/legislatives-2024-les-republicains-ont-disparu-dans-de-nombreuses-villes-moyennes-20240730
+source : Le Figaro - Elections.xml
+title : Législatives 2024 : «Les Républicains ont disparu dans de nombreuses villes moyennes»
+description : ENTRETIEN - Le géographe Achille Warnant vient de copublier une note pour la Fondation Jean-Jaurès sur les résultats du premier tour des élections législatives 2024 dans 139 villes moyennes.
+date : Tue, 30 Jul 2024 17:28:42 +0200
+categories : ['Vox Politique']
+
+id : https://www.lefigaro.fr/politique/en-premiere-ligne-cet-ete-les-maires-refusent-d-etre-les-grands-oublies-de-la-rentree-20240729
+source : Le Figaro - Elections.xml
+title : En première ligne cet été, les maires refusent d’être les grands oubliés de la rentrée
+description : RÉCIT - Dans un pays sans gouvernement et entièrement tourné vers les JO, les édiles ont le sentiment d’être une nouvelle fois laissés pour compte par Paris.
+date : Tue, 30 Jul 2024 10:31:24 +0200
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/elections/legislatives/on-passe-pour-des-fous-les-socialistes-se-divisent-deja-sur-leur-rapport-au-nouveau-front-populaire-20240726
+source : Le Figaro - Elections.xml
+title : «On passe pour des fous» : les socialistes se divisent déjà sur leur rapport au Nouveau Front populaire
+description : Les opposants d’Olivier Faure estiment que le PS devrait ouvrir les discussions avec d’autres forces politiques non-issues du NFP pour consolider une majorité plus large.
+date : Fri, 26 Jul 2024 19:15:07 +0200
+categories : ['Législatives']
+
+id : https://www.lefigaro.fr/politique/macron-donne-rendez-vous-apres-les-jo-pour-la-nomination-d-un-premier-ministre-20240723
+source : Le Figaro - Elections.xml
+title : Emmanuel Macron donne rendez-vous après les JO pour la nomination d'un premier ministre
+description : RÉCIT - Sur France 2 et Radio France mardi, le chef de l'État a de nouveau défendu la dissolution et estimé que le Nouveau Front populaire n'avait «pas de majorité, quelle qu'elle soit».
+date : Wed, 24 Jul 2024 10:05:48 +0200
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/elections/legislatives/matignon-avec-lucie-castets-le-nouveau-front-populaire-choisit-une-haute-fonctionnaire-comme-premiere-ministrable-20240723
+source : Le Figaro - Elections.xml
+title : Matignon : avec Lucie Castets, le Nouveau Front populaire choisit une haute fonctionnaire comme « première-ministrable »
+description : La proposition des quatre principaux partis de gauche dans un communiqué est intervenue une heure avant un entretien du président de la République.
+date : Wed, 24 Jul 2024 12:13:45 +0200
+categories : ['Législatives']
+
+id : https://www.lefigaro.fr/politique/matignon-apres-le-retrait-de-laurence-tubiana-le-difficile-recours-a-la-societe-civile-20240722
+source : Le Figaro - Elections.xml
+title : Matignon : après le retrait de Laurence Tubiana, le difficile recours à la société civile
+description : RÉCIT - Alors que les discussions patinent à gauche depuis deux semaines, les socialistes poussent pour un consensus autour d’une personnalité issue de la société civile.
+date : Mon, 22 Jul 2024 20:01:00 +0200
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/elections/legislatives/on-nie-la-pensee-de-11-millions-de-francais-la-colere-des-electeurs-du-rn-invisibilises-a-l-assemblee-nationale-20240722
+source : Le Figaro - Elections.xml
+title : «On nie la pensée de 11 millions de Français» : la colère des électeurs du RN, «invisibilisés» à l’Assemblée nationale
+description : RÉCIT - Les députés du Rassemblement national n’ont obtenu aucun poste-clé au Palais Bourbon. Il s’agit pourtant du parti politique le plus représenté dans l’hémicycle. Un «déni de démocratie», fustigent de nombreux sympathisants du parti à la flamme.
+date : Mon, 22 Jul 2024 18:09:26 +0200
+categories : ['Législatives']
+
+id : https://www.lefigaro.fr/elections/legislatives/assemblee-nationale-quatre-postes-cles-pour-le-groupe-de-laurent-wauquiez-20240721
+source : Le Figaro - Elections.xml
+title : Assemblée nationale: quatre postes clés pour le groupe de Laurent Wauquiez
+description : DÉCRYPTAGE - La négociation conduite par le président de la Droite républicaine est saluée par les élus de son groupe mais fustigée par les oppositions.
+date : Sun, 21 Jul 2024 19:13:51 +0200
+categories : ['Législatives']
+
+id : https://www.lefigaro.fr/elections/legislatives/on-ne-partage-plus-les-memes-valeurs-en-famille-ou-entre-amis-ces-fractures-tenaces-depuis-les-legislatives-20240720
+source : Le Figaro - Elections.xml
+title : «On ne partage plus les mêmes valeurs» : en famille ou entre amis, ces fractures tenaces depuis les législatives
+description : Après une campagne aussi expresse qu’explosive, les Français savent-ils encore se parler ? En famille ou entre amis, certains tentent de surmonter ces conflits, quand d'autres déplorent des divergences «irréconciliables».
+date : Sat, 20 Jul 2024 09:23:04 +0200
+categories : ['Législatives']
+
+id : https://www.lefigaro.fr/elections/legislatives/legislatives-plus-de-70-recours-deposes-aupres-du-conseil-constitutionnel-20240719
+source : Le Figaro - Elections.xml
+title : Législatives : plus de 70 recours déposés auprès du Conseil constitutionnel
+description : DÉCRYPTAGE - Le calendrier serré de ces élections législatives anticipées a ralenti les recours, moins nombreux qu’en 2022. Les contestations concernent des scrutins très serrés… mais aussi quelques cas particuliers d’inéligibilité.
+date : Fri, 19 Jul 2024 20:14:22 +0200
+categories : ['Législatives']
+
+id : https://www.lefigaro.fr/politique/pour-nommer-un-premier-ministre-emmanuel-macron-donne-rendez-vous-apres-les-jeux-olympiques-20240719
+source : Le Figaro - Elections.xml
+title : Pour nommer un premier ministre, Emmanuel Macron donne rendez-vous après les Jeux olympiques
+description : RÉCIT - Le chef de l’État voit une fenêtre de tir dans la deuxième quinzaine d’août, le temps que les discussions sur une coalition prospèrent. Gabriel Attal compte les faire avancer en dégainant rapidement des propositions.
+date : Sat, 20 Jul 2024 12:23:43 +0200
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/elections/legislatives/de-la-grande-union-au-risque-de-grand-gachis-la-desillusion-des-electeurs-du-nouveau-front-populaire-face-au-blocage-des-negociations-20240719
+source : Le Figaro - Elections.xml
+title : «De la grande union au risque de grand gâchis» : la désillusion des électeurs du Nouveau Front populaire face au blocage des négociations
+description : RÉCIT - Dix jours ont passé depuis la victoire surprise de l’alliance de gauche aux élections législatives. Face à l’incapacité des partis à nommer un candidat pour Matignon, les électeurs de gauche s’impatientent, au risque de ne plus y croire.
+date : Fri, 19 Jul 2024 11:34:51 +0200
+categories : ['Législatives']
+

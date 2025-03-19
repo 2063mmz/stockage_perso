@@ -1,0 +1,35 @@
+id : https://www.bfmtv.com/montpellier/montpellier-les-commercants-excedes-par-l-installion-de-vendeurs-a-la-sauvette-a-cote-du-marche_AV-202412260496.html
+source : Flux RSS - BFMTV - Montpellier.xml
+title : Montpellier: les commerçants excédés par l'installion de vendeurs à la sauvette à côté du marché
+description : La situation est devenue explosive au marché de La Paillade à Montpellier. Tous les week-ends, plus de 70 vendeurs à la sauvette s'installent en toute illégalité. Les commerçants sont excédés et demandent à l'Etat d’agir pour faire face à cette concurrence déloyale.
+date : Thu, 26 Dec 2024 20:29:54 GMT
+categories : ['Home Montpellier - actualités']
+
+id : https://www.bfmtv.com/montpellier/montpellier-un-homme-tue-une-personne-qu-il-attendait-a-la-sortie-du-tribunal-avant-de-retourner-l-arme-contre-lui_AN-202402200534.html
+source : Flux RSS - BFMTV - Montpellier.xml
+title : Montpellier: un homme tue son ex-femme qu'il attendait à la sortie du tribunal, avant de retourner l'arme contre lui
+description : Un homme a attendu son ex-femme sur le parvis du tribunal judiciaire de Montpellier et l'a tuée par balles, ce mardi 20 février. Il a ensuite retourné l'arme contre lui.
+date : Tue, 20 Feb 2024 16:08:53 GMT
+categories : ['Home Montpellier - actualités']
+
+id : https://www.bfmtv.com/montpellier/montpellier-un-adolescent-de-16-ans-poignarde-pres-d-un-lycee-son-pronostic-vital-engage_AN-202402060943.html
+source : Flux RSS - BFMTV - Montpellier.xml
+title : Montpellier: un adolescent de 16 ans poignardé près d'un lycée, son pronostic vital engagé
+description : En fin d'après-midi ce mardi 6 février, un adolescent de 16 ans a été poignardé au thorax à Montpellier. Transporté à l'hôpital, son pronostic vital est engagé.
+date : Tue, 06 Feb 2024 22:05:40 GMT
+categories : ['Home Montpellier - actualités']
+
+id : https://www.bfmtv.com/montpellier/tu-vas-mourir-une-mere-de-famille-agresse-deux-personnels-d-une-ecole-a-montpellier_AN-202304240933.html
+source : Flux RSS - BFMTV - Montpellier.xml
+title : "Tu vas mourir": une mère de famille agresse deux personnels d'une école à Montpellier
+description : Une responsable technique et le responsable périscolaire d'un groupe scolaire montpelliérain ont violemment été attaqués par un couple après un signalement effectué par l'ancienne directrice de l'école.
+date : Mon, 24 Apr 2023 20:29:55 GMT
+categories : ['Home Montpellier - actualités']
+
+id : https://www.bfmtv.com/montpellier/montpellier-pour-une-histoire-de-place-dans-le-tram-une-passagere-se-fait-rouer-de-coups_AN-202304240398.html
+source : Flux RSS - BFMTV - Montpellier.xml
+title : Montpellier: pour une histoire de place dans le tram, une passagère se fait rouer de coups
+description : La trentenaire, traumatisée, a été attaquée par surprise par une autre passagère qui lui reprochait de la gêner. Elle a ensuite été frappée à de multiples reprises avant d'être hospitalisée. L'agresseuse a pris la fuite.
+date : Mon, 24 Apr 2023 09:54:41 GMT
+categories : ['Home Montpellier - actualités']
+

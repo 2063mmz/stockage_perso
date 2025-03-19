@@ -1,0 +1,202 @@
+/* Paramètres généraux */
+/* Le niveau de zoom doit être ajusté à 100% lors de l'ouverture du fichier xml dans le navigateur. */
+PLAY {
+    /* Centre la page et limite la largeur */
+    /* Utilise flexbox pour la mise en page */
+    display: flex;
+    /* 'column' pour une disposition verticale */
+    flex-direction: column;
+    /* Largeur et marge */
+    width: 60%;         
+    margin: 2em auto;
+    /* le base de la police */
+    font-family: "font-family: Times New Roman", serif;  
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #5b4925;  
+    /* Fond en dégradé, en utilisant le sélecteur de couleur */
+    background-image: radial-gradient(#efe0b5, #f2e1b5, #f1e2b9, #f2ddae );
+    background-size: cover; 
+    background-repeat: no-repeat;
+}
+/* '*' est pour tous les sous-éléments de PLAY 
+ * limite leur largeur, centre et aligne le texte à gauche */
+PLAY > * {
+    max-width: 50%;
+    margin: auto; 
+    text-align: left;
+}
+/* Dans la page de référence, FM et PLAY > TITLE ne s'affichent pas, donc utilise 'none' */
+FM > P {
+    display: none; 
+}
+PLAY > TITLE {
+    display: none;
+}
+
+/* PLAYSUBT est le grand titre */
+PLAYSUBT {
+    order: -1; /* ordre peut être défini l'ordre，'-1' place PLAYSUBT en premier */
+    display: block; /* Converti en bloc */
+    text-align: center; /* Centre le texte */
+    font-size: 2em;
+    letter-spacing: 0.2em; /* Ajuste l'espacement des lettres */
+    margin-top: 250px; /* avoir l'espace en haut */
+}
+
+/* Titre de la distribution */
+PERSONAE > TITLE {
+    display: block; /* En bloc */
+    text-align: center;
+    font-size: 2em;
+    margin: 0.2em 0 0.5em; /* Ajuste les marges verticales */
+    width: 100%;
+    column-span: all;  /* Permet au titre de traverser toutes les colonnes en mise en page multi-colonnes */
+    font: 20px Georgia;
+    font-variant: small-caps; /* 'small-caps' pour les majuscules */
+    font-style: italic;
+}
+
+/* Ajoute une ligne au-dessus du titre */
+PERSONAE > TITLE::before {
+    content: ""; /* Contenu vide */
+    display: block;
+    width: 20%;  /* Longueur de la ligne */
+    height: 1px;  /* Épaisseur */
+    background: #5b4925;  /* couleur */
+    margin: 0 auto 1.3em;  /* Centre la ligne et ajoute une marge inférieure */
+}
+
+/* Liste des personnages */
+PERSONAE {
+    display: block;
+    column-count: 2; /* Disposition en 2 colonnes */
+    column-gap: 3em; /* Espace entre les colonnes */
+    column-rule: 1px solid #5b4925; 
+    font: 15px Georgia; /* Police personnalisée */
+    line-height: 1.3; 
+    /* Pour une mise en page compacte, donc en utilisant marges et padding */
+    margin: 0.5em auto; 
+    padding: 0.5em;  
+}
+
+/* Noms des personnages  */
+PERSONA {
+    display: block;
+    margin-bottom: 0.5em; 
+}
+
+/* Groupes de personnages */
+PGROUP {
+    position: relative; /* Position relative pour le positionnement interne */
+    display: block;
+    margin-bottom: 1.2em;
+    padding-right: 8em;
+}
+
+/* Description du groupe */
+PGROUP > PERSONA {
+    display: block;
+    margin-bottom: 0.3em; /*  Marge inférieure */
+}
+
+PGROUP > PERSONA:last-of-type {
+    display: inline; /* Le dernier PERSONA dans PGROUP est en ligne pour une transition naturelle */
+}
+
+
+/* Description de groupe avec accolade */
+GRPDESCR {
+    position: absolute; /* Position absolue pour placer le texte dans PGROUP */
+    top: 50%; /* Centré verticalement */
+    left: 6em; /* Décalage à gauche */
+    transform: translateY(-50%); /* Translation verticale pour centrer */
+    font-family: 'Brush Script MT', cursive; /* Police personnalisée */
+    font-style: italic;
+    width: 8em; /* Largeur fixe */
+    white-space: normal; /* Permet le retour à la ligne */
+}
+
+/* Ajoute une accolade avant le texte de description */
+GRPDESCR::before {
+    content: "} "; /* Contenu avec accolade */
+    font-size: 2em; 
+    font-style: normal;  /* Parce qu'il était en italique dans GRPDESCR, il a été remis en style normal */
+}
+
+/* SCNDESCR */
+SCNDESCR {
+    max-width: 40%; /* Largeur maximale */
+    margin: 0em auto 1em auto; /* Marges verticales et centrage horizontal */
+    text-align: left;  /* Texte aligné à gauche */
+    font-size: 15px; 
+}
+
+/* ACT */
+ACT > TITLE {
+    display: block; /* En bloc */
+    text-align: center;  /* Centre */
+    font-size: 2em;
+    margin: 0.2em 0 0.5em; 
+    font: 20px Georgia; /* Police personnalisée */
+}
+
+/* Ajoute une ligne décorative au-dessus du titre, comme pour PERSONAE > TITLE */
+ACT > TITLE::before {
+    content: "";
+    display: block;
+    width: 20%; 
+    height: 1px;  
+    background: #5b4925;  
+    margin: 0 auto 1.3em;  
+}
+
+/* SCENE */
+SCENE > TITLE {
+    display: block;
+    text-align: center; 
+    margin: 1em 0;
+    font: 20px Georgia;
+    font-variant: small-caps; /* 'small-caps' pour les majuscules */
+}
+
+/* STAGEDIR */
+STAGEDIR {
+    display: block; 
+    text-align: center;
+    /* Quand italic et transform sont utilisés ensemble,
+       la police change et l'espacement se réduit pour un meilleur effet
+     * donc utiliser les deux ensemble */            
+    font-style: italic; 
+    margin: 0.5em 0;
+    font-size: 0.95em;
+    /* 'transform' permet de faire pivoter les éléments, de les mettre à l'échelle, de les incliner, etc，
+     * skewX est une inclinaison le long de l'axe des x，
+     * les valeurs négatives correspondent vers la gauche，positives vers la droite. */
+    transform: skewX(-8deg);  
+}
+
+/* SPEECH */
+SPEECH {
+  display: block;
+}
+
+/* SPEAKER */
+SPEAKER {
+    /* 'cursive' donne une police un peu plus vintage, mettant en valeur le SPEAKER. */
+    font-family: cursive; 
+    font-size: 18.5px;
+    font-style: italic; 
+    text-indent: 1.5em;
+    margin-bottom: 0.2em;
+    display: inline-block; /* Affichage inline-block pour aligner sur la même ligne，mise en place de l'indentation du texte */
+    margin-right: 1.5em;
+    line-height: 1.5; /* Hauteur de ligne */
+    transform: skewX(-8deg);
+}
+
+/* LINE */
+LINE {
+    display: inline;
+    font-family: "Lucida Sans Unicode"; 
+    font-size: 17px;

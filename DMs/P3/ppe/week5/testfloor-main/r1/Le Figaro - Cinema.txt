@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/cinema/tourne-le-biopic-de-pharrell-williams-par-michel-gondry-ne-verra-finalement-jamais-le-jour-20250210
+source : Le Figaro - Cinema.xml
+title : Tourné, le biopic de Pharrell Williams par Michel Gondry ne verra finalement jamais le jour
+description : Golden, le film qui retrace l’enfance de la star de la musique américaine devait être dévoilé en mai aux États-Unis. Malgré un budget de 20 millions de dollars et casting 5 étoiles, le long-métrage ne serait pas à la hauteur des ambitions affichées par son équipe.
+date : Mon, 10 Feb 2025 12:17:34 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/cinema/joan-baez-a-adore-la-performance-de-monica-barbaro-dans-un-parfait-inconnu-20250210
+source : Le Figaro - Cinema.xml
+title : Joan Baez a adoré la performance de Monica Barbaro dans Un parfait inconnu
+description : La reine du folk a largement salué l’actrice qui l’incarne dans le biopic consacré à Bob Dylan.
+date : Mon, 10 Feb 2025 12:08:46 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/cinema/david-lynch-est-decede-d-un-arret-cardiaque-20250210
+source : Le Figaro - Cinema.xml
+title : David Lynch est décédé d’un arrêt cardiaque
+description : Les raisons de la disparition, le 16 janvier, du cinéaste palme d’or à Cannes en 1990 pour Sailor et Lula ont été dévoilées.
+date : Mon, 10 Feb 2025 11:11:19 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/cinema/en-lice-pour-les-oscars-adrian-brody-du-pianiste-au-buraliste-20250209
+source : Le Figaro - Cinema.xml
+title : En lice pour les Oscars: Adrian Brody, du pianiste au brutaliste
+description : Après le Golden Globe du meilleur acteur dramatique, le comédien new-yorkais pourrait décrocher l’Oscar pour sa performance éblouissante dans The Brutalist de Brady Corbet. Une success-story qui en rappelle une précédente avec Le Pianiste de Roman Polanski.
+date : Mon, 10 Feb 2025 12:47:32 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/cinema/strip-tease-integral-l-emission-culte-de-la-tele-belge-revient-au-cinema-20250208
+source : Le Figaro - Cinema.xml
+title : Strip-tease intégral, l’émission culte de la télé belge revient au cinéma
+description : LA CHRONIQUE DE JEAN-CHRISTOPHE BUISSON - L’émission culte de la télé belge «Strip-Tease» fait son retour au cinéma le 12 février. C’est évidemment une réussite.
+date : Sat, 08 Feb 2025 21:14:58 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/cinema/quand-la-voix-contrefaite-de-sylvester-stallone-devient-le-symbole-de-la-lutte-des-comediens-contre-l-ia-20250208
+source : Le Figaro - Cinema.xml
+title : Quand la voix contrefaite de Sylvester Stallone devient le symbole de la lutte des comédiens contre l’IA
+description : ENQUÊTE - Le secteur du doublage, qui emploie 15 000 personnes dont 5000 comédiens, se mobilise contre la généralisation de l’intelligence artificielle en l’absence de législation qui protégerait « l’exception culturelle française ».
+date : Sat, 08 Feb 2025 13:00:00 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/cinema/les-tuche-5-les-aventures-britanniques-de-la-famille-de-bouzolles-ecrasent-la-concurrence-20250207
+source : Le Figaro - Cinema.xml
+title : Les Tuche 5 : les aventures britanniques de la famille de Bouzolles écrasent la concurrence
+description : La comédie signée pour la première fois par Jean-Paul Rouve réalise le deuxième meilleur démarrage de la saga familiale.
+date : Fri, 07 Feb 2025 09:28:28 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/cinema/ceremonie-cesar/dans-leur-course-mouvementee-aux-oscars-jacques-audiard-coupe-les-ponts-avec-karla-sofia-gascon-20250206
+source : Le Figaro - Cinema.xml
+title : Dans leur course mouvementée aux Oscars, Jacques Audiard coupe les ponts avec Karla Sofía Gascón
+description : Le réalisateur français explique ne plus vouloir parler avec l’actrice principale d’Emilia Pérez, qu’il juge « dans une démarche d’autodestruction ».
+date : Thu, 06 Feb 2025 17:35:59 +0100
+categories : ['Cérémonie des César']
+
+id : https://www.lefigaro.fr/culture/paris-marseille-montpellier-le-nouvel-hollywood-francais-a-vu-trop-grand-20250206
+source : Le Figaro - Cinema.xml
+title : Paris, Marseille, Montpellier... Le nouvel «Hollywood français» a vu trop grand
+description : DÉCRYPTAGE - Si des studios de cinéma sortent de terre dans plusieurs villes, le plan d’Emmanuel Macron pour le secteur patine. Deux de ses lauréats ont jeté l’éponge et l’avenir de quatre projets reste incertain.
+date : Fri, 07 Feb 2025 12:29:44 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/cinema/60-ans-apres-luchino-visconti-francois-ozon-s-attaque-a-une-nouvelle-adaptation-de-l-etranger-d-albert-camus-20250206
+source : Le Figaro - Cinema.xml
+title : 60 ans après Luchino Visconti, François Ozon s’attaque à une nouvelle adaptation de L’Étranger d’Albert Camus
+description : Il s’agira de la deuxième adaptation cinématographique inspirée par le premier roman de l’écrivain, qui figure parmi les livres français les plus lus au monde.
+date : Thu, 06 Feb 2025 16:35:30 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/cinema/god-save-the-tuche-un-cinquieme-volet-de-trop-ou-le-meilleur-de-la-franchise-20250206
+source : Le Figaro - Cinema.xml
+title : God Save The Tuche : un cinquième volet de trop ou le meilleur de la franchise ?
+description : REVUE DE PRESSE - La saga s’essouffle avec cet épisode réalisé par Jean-Paul Rouve. Faut-il y voir la fin de l’univers lancé en 2011, qui a conquis des millions de Français ?
+date : Thu, 06 Feb 2025 09:36:46 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/cinema/dans-jurassic-world-renaissance-scarlett-johansson-prend-la-releve-de-chris-pratt-20250205
+source : Le Figaro - Cinema.xml
+title : Dans Jurassic World - Renaissance, Scarlett Johansson prend la relève de Chris Pratt
+description : L’actrice délaisse pour un temps le monde des super-héros Marvel, passant du costume de la Veuve noire à celui d’une Lara Croft passionnée de dinosaures.
+date : Thu, 06 Feb 2025 07:45:53 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/culture/gaetan-bruel-le-directeur-de-cabinet-de-rachida-dati-est-nomme-directeur-du-centre-national-du-cinema-20250205
+source : Le Figaro - Cinema.xml
+title : Gaëtan Bruel, le directeur de cabinet de Rachida Dati, est nommé à la tête du Centre national du cinéma
+description : PORTRAIT - À 36 ans, et après une année Rue de Valois, le protégé de Philippe Belaval et de Jean-Yves Le Drian est propulsé à la tête de la caisse de soutien et de promotion du cinéma et de l’audiovisuel.
+date : Wed, 05 Feb 2025 18:18:05 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/cinema/c-est-deja-tres-bien-artus-reagit-a-l-unique-nomination-de-son-film-un-p-tit-truc-en-plus-aux-cesar-2025-20250205
+source : Le Figaro - Cinema.xml
+title : « C’est déjà très bien » : Artus réagit à l’unique nomination de son film Un p’tit truc en plus aux César 2025
+description : Le succès cinématographique de l’année 2024 n’a été nommé que dans la catégorie du Meilleur premier film par l’Académie des César, loin derrière les 14 nominations du Comte de Monte-Cristo.
+date : Wed, 05 Feb 2025 10:56:24 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/cinema/apres-god-save-the-tuche-jean-paul-rouve-imagine-deja-donner-suite-a-la-saga-20250205
+source : Le Figaro - Cinema.xml
+title : Après God Save the Tuche, Jean-Paul Rouve imagine déjà donner une suite à la saga
+description : Le comédien et réalisateur de God Save the Tuche suggère que les fans pourraient déterminer où se déroulerait le prochain film via un « référendum Tuche ».
+date : Wed, 05 Feb 2025 10:57:13 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/cinema/god-save-the-tuche-mon-gateau-prefere-5-septembre-les-films-a-voir-et-a-ne-pas-voir-cette-semaine-20250205
+source : Le Figaro - Cinema.xml
+title : God Save the Tuche, Mon gâteau préféré, 5 septembre... Les films à voir et à ne pas voir cette semaine
+description : Au cinéma cette semaine: une famille franchouillarde à la rencontre de la famille royale d’Angleterre, une ode aux femmes iranienne, la prise d’otage en direct d’athlètes israéliens lors des Jeux olympiques de Munich en 1972.
+date : Wed, 05 Feb 2025 10:50:09 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/cinema/notre-critique-de-5-septembre-la-mort-sur-un-plateau-20250204
+source : Le Figaro - Cinema.xml
+title : Notre critique de 5 Septembre: la mort sur un plateau
+description : CRITIQUE - Tim Fehlbaum raconte avec réalisme la prise d’otages aux JO de Munich, en 1972, d’athlètes israéliens. Filmé comme un documentaire, son long-métrage brille par son efficacité.
+date : Tue, 04 Feb 2025 15:08:03 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/culture/notre-critique-de-paddington-au-perou-les-aventuriers-de-l-ourson-perdu-20250204
+source : Le Figaro - Cinema.xml
+title : Notre critique de Paddington au Pérou, les aventuriers de l’ourson perdu
+description : CRITIQUE - Pour sa troisième transposition sur grand écran, le flegmatique petit plantigrade britannique part à la recherche de ses origines péruviennes. Une très belle réussite «so british» pour petits et grands.
+date : Thu, 06 Feb 2025 09:52:11 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/cinema/notre-critique-de-mon-gateau-prefere-la-creme-du-cinema-iranien-20250204
+source : Le Figaro - Cinema.xml
+title : Notre critique de Mon gâteau préféré : la crème du cinéma iranien
+description : CRITIQUE - À Téhéran, une veuve de 70 ans cherche l’amour. Une histoire osée dans la République islamique qui dresse un portrait de la femme iranienne comme on ne la connaît pas.
+date : Tue, 04 Feb 2025 14:54:05 +0100
+categories : ['Cinéma']
+
+id : https://www.lefigaro.fr/culture/notre-critique-de-la-mer-au-loin-le-rai-la-petite-musique-de-l-exil-20250204
+source : Le Figaro - Cinema.xml
+title : Notre critique de La Mer au loin : le raï, la petite musique de l’exil
+description : Le Franco-Marocain Saïd Hamich Benlarbi filme le destin d’un jeune immigré dans la Marseille des années 1990 à la façon d’un mélo qui fait mouche.
+date : Tue, 04 Feb 2025 14:38:59 +0100
+categories : ['Culture']
+

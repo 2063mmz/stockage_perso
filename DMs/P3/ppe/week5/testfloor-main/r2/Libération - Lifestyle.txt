@@ -1,0 +1,42 @@
+id : https://www.liberation.fr/lifestyle/intimites/mon-premier-amour-je-decouvre-pour-la-premiere-fois-une-relation-ou-les-deux-personnes-veulent-vraiment-construire-quelque-chose-20250210_DMCP3X2E3VDO3F2NNJOFOGGOT4/
+source : Libération - Lifestyle.xml
+title : Mon premier amour : «Je découvre pour la première fois une relation où les deux personnes veulent vraiment construire quelque chose»
+description : Pour célébrer l’amour comme il se doit, revenons au jour où nous l’avons découvert dans les bras d’une personne qui nous aimait en retour. Pour «Libé», ils ou elles se livrent sur cette histoire, aussi singulière qu’universelle. Dans notre premier épisode, Luce, 24 ans, nous raconte son idylle avec un bel espagnol rencontré en Erasmus. 
+date : Mon, 10 Feb 2025 06:59:26 +0000
+categories : []
+
+id : https://www.liberation.fr/lifestyle/consommation/etats-unis-quand-super-bowl-rime-avec-guacamole-20250209_UBOJT7EHXBBXXCUFEHMFQKAT6I/
+source : Libération - Lifestyle.xml
+title : Etats-Unis : quand Super Bowl rime avec guacamole
+description : L’événement sportif, qui réunira dimanche plus de 100 millions d’Américains devant leur télé, s’accompagne d’une consommation record de purée d’avocats importés du Mexique. Mais les menaces tarifaires de Trump et l’infiltration des cartels de la drogue pourraient entraver le commerce de «l’or vert».
+date : Sun, 09 Feb 2025 12:35:00 +0000
+categories : []
+
+id : https://www.liberation.fr/economie/conso/decathlon-la-fausse-promesse-du-sport-accessible-pour-tous-et-responsable-20250208_ERVROYMGCJAZZGTQFBL4QMY2VI/
+source : Libération - Lifestyle.xml
+title : Decathlon : la fausse promesse du sport «accessible pour tous» et responsable
+description : Petits prix, innovation et engagement… La recette du succès de l’enseigne d’équipement et de vêtement sportif repose sur des pratiques dignes des grandes enseignes low-cost, selon une enquête réalisée par plusieurs médias.
+date : Sat, 08 Feb 2025 09:44:00 +0000
+categories : []
+
+id : https://www.liberation.fr/lifestyle/intimites/dirty-diana-du-podcast-avec-demi-moore-aux-livres-itineraire-dun-phenomene-du-mommy-porn-20250208_XYAI446KDBAEDHHNIGECGKH5BM/
+source : Libération - Lifestyle.xml
+title : «Dirty Diana» : du podcast avec Demi Moore aux livres, itinéraire d’un phénomène du «mommy porn»
+description : «Pour échapper à son mariage moribond, Diana gère en secret un site érotique où les femmes révèlent leurs fantasmes sexuels intimes.» Tel est le pitch de «Dirty Diana», un podcast au succès viral, auquel Demi Moore prête sa voix. Il a été adapté en romans, dont le tome 2 vient de paraître en France.
+date : Sat, 08 Feb 2025 09:16:00 +0000
+categories : []
+
+id : https://www.liberation.fr/lifestyle/design/karl-fournier-et-olivier-marty-de-studio-ko-notre-architecture-est-terrienne-a-une-epoque-ou-on-ne-fait-que-du-hors-sol-20250208_JHKSOAHPIRDVJFBC3NJQH27F54/
+source : Libération - Lifestyle.xml
+title : Karl Fournier et Olivier Marty, de Studio KO : «Notre architecture est terrienne à une époque où on ne fait que du hors-sol»
+description : Le couple d’architectes et designers du Studio KO, que les fortunés s’arrachent, dresse le bilan de vingt-cinq ans de réalisations de la Corse à Paris, de Marrakech au Portugal, en utilisant des matériaux bruts respectueux de traditions locales.
+date : Sat, 08 Feb 2025 09:08:00 +0000
+categories : []
+
+id : https://www.liberation.fr/lifestyle/gastronomie/vins-sans-alcool-un-business-juteux-au-gout-bancal-20250201_ACBMFKG32NA3NMMEUWLDYACOPQ/
+source : Libération - Lifestyle.xml
+title : «Vins sans alcool», un business juteux au goût bancal
+description : Les bouteilles de vin désalcoolisé occupent désormais une grande part du marché des boissons dites «no/low». Pourtant, ce produit fortement transformé est souvent fade, peu écologique et cher.
+date : Sat, 01 Feb 2025 07:00:00 +0000
+categories : []
+

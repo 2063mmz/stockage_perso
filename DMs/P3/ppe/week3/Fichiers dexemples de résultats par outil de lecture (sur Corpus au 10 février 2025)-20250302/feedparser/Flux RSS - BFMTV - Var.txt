@@ -1,0 +1,210 @@
+id : https://www.bfmtv.com/var/toulon-la-police-met-fin-a-la-vente-de-tabac-de-contrebande-dans-une-epicerie_AV-202502100476.html
+source : Flux RSS - BFMTV - Var.xml
+title : Toulon: la police met fin à la vente de tabac de contrebande dans une épicerie
+description : Alors que les opérations de contrôle se multiplient ces dernières semaines à Toulon, la police a démantelé un tabac de contrebande dans une épicerie du quartier Saint-Jean-du-Var.
+date : Mon, 10 Feb 2025 12:05:43 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/bonjour-var/le-fleau-des-nids-de-poule-sur-la-d97-a-sollies-pont_VN-202502100355.html
+source : Flux RSS - BFMTV - Var.xml
+title : Le fléau des nids-de-poule sur la D97 à Solliès-Pont
+description : Un mois et demi après son enrobé à froid, un nid-de-poule de 10 cm refait son apparition sur la D97 à Solliès-Pont. Une problématique pour cette voie, qui fait partie des 3.000km de routes départementales gérées par le Var et empruntées par 9.000 véhicules par jour.
+date : Mon, 10 Feb 2025 10:01:21 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/bonjour-var/toulon-un-tabac-de-contrebande-demantele-dans-le-quartier-saint-jean-du-var_VN-202502100349.html
+source : Flux RSS - BFMTV - Var.xml
+title : Toulon: un tabac de contrebande démantelé dans le quartier Saint-Jean-du-Var
+description : Dans le quartier Saint-Jean-du-Var à Toulon, une opération de police a permis de démanteler un tabac de contrebande dans une épicerie. Vendu habituellement à 13 euros le paquet dans un bureau de tabac légal, les cigarettes étaient ici proposées à 8 euros le paquet.
+date : Mon, 10 Feb 2025 09:58:46 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/bonjour-var/riboux-la-messe-de-nouveau-celebree-dans-le-ville-apres-15-ans-d-arret_VN-202502100347.html
+source : Flux RSS - BFMTV - Var.xml
+title : Riboux: la messe de nouveau célébrée dans le ville, après 15 ans d'arrêt
+description : Après 15 ans d'arrêt, la messe est de nouveau célébrée dans le petit village de Riboux, qui compte une cinquantaine d'habitants. Ce retour a été rendu possible grâce à l'arrivée du père Gabriel Ghislain Kom Noumbissi en août dernier dans la paroisse de Belgentier.
+date : Mon, 10 Feb 2025 09:57:28 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/bonjour-var/var-a-la-decouverte-des-130km-de-la-route-du-mimosa_VN-202502100337.html
+source : Flux RSS - BFMTV - Var.xml
+title : Var: à la découverte des 130km de la Route du Mimosa
+description : À la découverte des 130 km de la Route du Mimosa, un itinéraire en cinq étapes dans le Var, s'élançant de Bormes-les-Mimosas jusqu'à Saint-Raphaël, avant de terminer sa course à Grasse, dans les Alpes-Maritimes.
+date : Mon, 10 Feb 2025 09:47:16 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/jt-du-sud/jt-du-sud-du-dimanche-9-fevrier_VN-202502090453.html
+source : Flux RSS - BFMTV - Var.xml
+title : JT du Sud du dimanche 9 février
+description : Retrouvez votre JT du Sud du dimanche 9 février sur BFM Var.
+date : Sun, 09 Feb 2025 22:02:43 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/mont-faron-a-toulon-une-elue-denonce-les-conditions-de-detention-des-animaux-le-parc-se-defend_AV-202502090343.html
+source : Flux RSS - BFMTV - Var.xml
+title : Mont Faron à Toulon: une élue dénonce les conditions de détention des animaux, le parc se défend
+description : Les enclos y sont jugés trop petits, et les animaux malheureux. Le parc animalier affirme que de nombreux changements ont été faits ces dernières années pour le bien-être animal.
+date : Sun, 09 Feb 2025 16:12:09 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/jt-du-sud/jt-du-sud-du-samedi-8-fevrier_VN-202502080390.html
+source : Flux RSS - BFMTV - Var.xml
+title : JT du Sud du samedi 8 février
+description : Retrouvez votre JT du Sud du samedi 8 février 2025 sur BFM Var.
+date : Sat, 08 Feb 2025 20:43:11 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/var-plus-de-300-litres-de-gasoil-deverses-dans-le-reseau-d-eau-pluviale-a-belgentier_AN-202502080279.html
+source : Flux RSS - BFMTV - Var.xml
+title : Var: plus de 300 litres de gasoil déversés dans le réseau d'eau pluviale à Belgentier
+description : Le pompiers interviennent au niveau du fleuve côtier du Gapeau depuis 7 heures, ce samedi 8 février. Un boudin antipollution a été posé sur le cours d'eau.
+date : Sat, 08 Feb 2025 13:28:48 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/passions-provence/passions-provence-du-samedi-8-fevrier-2025-decouverte-du-paintball-a-pelissanne_VN-202502080115.html
+source : Flux RSS - BFMTV - Var.xml
+title : Passions Provence du samedi 8 février 2025 - Découverte du paintball, à Pélissanne
+description : Chaque week-end, retrouvez votre rendez-vous Passions Provence du samedi 8 février 2025 : Découverte du paintball, à Pélissanne.
+date : Sat, 08 Feb 2025 07:27:43 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/info-bfm-toulon-var-toulon-trois-policiers-blesses-lors-d-une-intervention-pour-violence-conjugale_AN-202502070937.html
+source : Flux RSS - BFMTV - Var.xml
+title : INFO BFM TOULON VAR. Toulon: trois policiers blessés lors d'une intervention pour violence conjugale
+description : Info BFM Toulon Var. Trois policiers ont été blessés à Toulon dans la nuit de mercredi 5 à jeudi 6 février alors qu'ils intervenaient pour des faits de violences conjugales.
+date : Fri, 07 Feb 2025 21:57:45 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/jt-du-sud/jt-du-sud-du-vendredi-7-fevrier_VN-202502070856.html
+source : Flux RSS - BFMTV - Var.xml
+title : JT du Sud du vendredi 7 février
+description : Retrouvez votre JT du Sud du vendredi 7 février sur BFM Var.
+date : Fri, 07 Feb 2025 18:58:41 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/pays-de-fayence-l-eau-du-robinet-a-nouveau-consommable-apres-un-episode-de-turbidite_AN-202502070829.html
+source : Flux RSS - BFMTV - Var.xml
+title : Pays de Fayence: l'eau du robinet à nouveau consommable après un épisode de turbidité
+description : L'eau du robinet est de nouveau consommable sur l'ensemble du territoire de la communauté de communes du Pays de Fayence depuis ce vendredi 7 février. Les distributions de bouteilles d'eau prennent donc fin.
+date : Fri, 07 Feb 2025 18:25:34 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/top-sorties/top-sorties-du-vendredi-7-fevrier-sanary-vacances-spectacles-et-contes-pour-enfants_VN-202502070816.html
+source : Flux RSS - BFMTV - Var.xml
+title : Top sorties du vendredi 7 février - Sanary/Vacances : spectacles et contes pour enfants
+description : Retrouvez les choix de la rédaction pour sortir et toutes les idées pour passer un week-end agréable dans Top Sorties Var du vendredi 7 février 2025 : Sanary/Vacances : spectacles et contes pour enfants.
+date : Fri, 07 Feb 2025 18:02:31 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/toulon-plus-de-350-articles-de-mode-de-contrefacon-saisis-dans-une-boutique_AN-202502070805.html
+source : Flux RSS - BFMTV - Var.xml
+title : Toulon: plus de 350 articles de mode de contrefaçon saisis dans une boutique
+description : Plus de 350 articles de contrefaçon de marques de mode ont été saisis dans une boutique de la ville de Toulon ce jeudi 6 février. Le gérant du magasin a été placé en garde à vue.
+date : Fri, 07 Feb 2025 18:00:01 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/bonsoir-var/election-a-la-chambre-d-agriculture-du-var-la-liste-fdsea-ja-l-emporte_VN-202502070800.html
+source : Flux RSS - BFMTV - Var.xml
+title : Élection à la chambre d'agriculture du Var: la liste FDSEA/JA l'emporte
+description : André Lanza, président de la FDSEA 83, était l'invité de BFM Toulon Var.
+date : Fri, 07 Feb 2025 17:54:04 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/bonsoir-var/toulon-2-700-eleves-seront-bientot-accueillis-sur-le-nouveau-campus-sante_VN-202502070793.html
+source : Flux RSS - BFMTV - Var.xml
+title : Toulon: 2.700 élèves seront bientôt accueillis sur le nouveau campus santé
+description : Le campus santé de Toulon a été inauguré ce 7 février 2025.
+date : Fri, 07 Feb 2025 17:47:26 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/bonsoir-var/parc-du-mont-faron-a-toulon-une-elue-denonce-les-conditions-de-detention-des-animaux_VN-202502070769.html
+source : Flux RSS - BFMTV - Var.xml
+title : Parc du mont Faron à Toulon: une élue dénonce les conditions de détention des animaux
+description : Une élue d'opposition dénonce les conditions de détention des animaux du parc animalier toulonnais.
+date : Fri, 07 Feb 2025 17:29:48 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/bonsoir-var/toulon-les-salaries-de-lidl-en-greve_VN-202502070760.html
+source : Flux RSS - BFMTV - Var.xml
+title : Toulon: les salariés de Lidl en grève
+description : Plusieurs salariés des magasins Lidl du Var étaient en grève ce vendredi.
+date : Fri, 07 Feb 2025 17:21:27 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/bonsoir-var/emile-comment-vont-se-derouler-les-obseques_VN-202502070757.html
+source : Flux RSS - BFMTV - Var.xml
+title : Émile: comment vont se dérouler les obsèques?
+description : Les obsèques d'Émile se dérouleront samedi 8 février à Saint-Maximin.
+date : Fri, 07 Feb 2025 17:19:45 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/bonsoir-var/obseques-d-emile-la-basilique-de-saint-maximin-accueille-la-ceremonie_VN-202502070674.html
+source : Flux RSS - BFMTV - Var.xml
+title : Obsèques d'Émile: la basilique de Saint-Maximin accueille la cérémonie
+description : La basilique Sainte-Marie-Madeleine de Saint-Maximin-la-Sainte-Baume, plus vaste édifice gothique de Provence accueille ce samedi 8 février les obsèques du petit Émile.
+date : Fri, 07 Feb 2025 16:22:04 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/var-des-habitants-de-trans-en-provence-s-opposent-a-un-projet-immobilier_AV-202502070666.html
+source : Flux RSS - BFMTV - Var.xml
+title : Var: des habitants de Trans-en-Provence s'opposent à un projet immobilier
+description : 49 logements doivent voir le jour sur le chemin de Peybert, à Trans-en-Provence. Un projet immobilier dont les habitants se passeraient bien. Certains dénoncent notamment le manque de sécurité sur la route qui pourrait être accentué par le projet.
+date : Fri, 07 Feb 2025 16:18:36 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/le-12-17/toulon-des-ateliers-sur-le-cafe-et-le-nougat_VN-202502070477.html
+source : Flux RSS - BFMTV - Var.xml
+title : Toulon: des ateliers sur le café et le nougat
+description : Les cafés Maurice lancent des ateliers sur le café, le chocolat, le nougat et la pâte de fruits à Toulon.
+date : Fri, 07 Feb 2025 12:03:41 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/le-12-17/var-les-riverains-opposes-a-un-projet-immobilier-a-trans-en-provence_VN-202502070472.html
+source : Flux RSS - BFMTV - Var.xml
+title : Var: les riverains opposés à un projet immobilier à Trans-en-Provence
+description : Dans le Var, des riverains s'opposent à un projet immobilier à Trans-en-Provence. Ils pointent du doigt l'insécurité autour de cet ensemble de 49 logements.
+date : Fri, 07 Feb 2025 12:00:36 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/bonjour-var/var-le-championnat-national-de-rugby-des-apprentis-se-poursuit_VN-202502070204.html
+source : Flux RSS - BFMTV - Var.xml
+title : Var: le championnat national de rugby des apprentis se poursuit
+description : Le championnat national de rugby des apprentis a lieu dans le Var pour sortir les élèves du quotidien de l'apprentissage.
+date : Fri, 07 Feb 2025 07:19:58 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/bonjour-var/chantier-sur-l-a57-les-arbres-sont-replantes_VN-202502070199.html
+source : Flux RSS - BFMTV - Var.xml
+title : Chantier sur l'A57: les arbres sont replantés
+description : Les arbres arrachés pour les besoins de travaux sur l'A57 ont été replantés ce vendredi 7 février.
+date : Fri, 07 Feb 2025 07:14:33 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/bonjour-var/trans-en-provence-un-projet-immobilier-fait-polemique_VN-202502070192.html
+source : Flux RSS - BFMTV - Var.xml
+title : Trans-en-Provence: un projet immobilier fait polémique
+description : Un ensemble de 49 logements est prévu dans la commune de Trans-en-Provence. Un projet immobilier dont les riverains se passeraient bien.
+date : Fri, 07 Feb 2025 07:10:22 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/bonjour-var/mort-d-emile-un-proche-de-la-famille-temoigne_VN-202502070179.html
+source : Flux RSS - BFMTV - Var.xml
+title : Mort d'Émile: un proche de la famille témoigne
+description : Jean-Marcel, un ami proche de la grand-mère du petit Émile, témoigne auprès de BFM Nice Côte d'Azur.
+date : Fri, 07 Feb 2025 07:04:44 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/replay-emissions/bonjour-var/meteo-var-du-soleil-tout-au-long-de-la-journee-jusqu-a-13-c-a-toulon_VN-202502070102.html
+source : Flux RSS - BFMTV - Var.xml
+title : Météo Var: du soleil tout au long de la journée, jusqu'à 13°C à Toulon
+description : Découvrez en images les prévisions météo complètes du 7 février 2025 pour Toulon et sa région sur la chaîne BFM Toulon Var.
+date : Fri, 07 Feb 2025 05:50:54 GMT
+categories : ['Home Var - actualités']
+
+id : https://www.bfmtv.com/var/c-est-une-benediction-la-plage-de-la-cavaliere-au-lavandou-reapparait-grace-au-retrait-de-la-mer_AV-202502061014.html
+source : Flux RSS - BFMTV - Var.xml
+title : "Une bénédiction": la plage de Cavalière refait surface en une nuit au Lavandou
+description : Disparue depuis plusieurs mois sous l'effet des intempéries, la plage de Cavalière au Lavandou (Var) a refait surface en une nuit grâce au retrait de la mer. La mairie prévoit d'ajouter du sable.
+date : Thu, 06 Feb 2025 21:47:19 GMT
+categories : ['Home Var - actualités']
+

@@ -1,0 +1,210 @@
+id : https://www.bfmtv.com/tech/nouveautes-produits/sennheiser-hd-505-le-casque-filaire-pour-audiophiles-qui-se-veut-plus-abordable_AV-202502100267.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Sennheiser HD 505: le casque filaire pour audiophiles qui se veut plus abordable
+description : Sennheiser enrichit sa gamme de casques filaires destinés aux amateurs de bon son en ajoutant un modèle plus abordable, le HD 505, sans compromis sur la qualité audio ni le design.
+date : Mon, 10 Feb 2025 08:00:14 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/les-ecouteurs-wifi-arrivent-ce-que-cela-va-changer-pour-vous_AV-202501230743.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Les écouteurs Wifi arrivent: ce que cela va changer pour vous
+description : Depuis près de deux ans, Qualcomm travaille sur une technologie permettant de se passer du Bluetooth sur les accessoires audio.
+date : Thu, 23 Jan 2025 16:49:58 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/samsung-annonce-un-galaxy-s25-edge-ultra-fin_AV-202501220913.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Samsung annonce un Galaxy S25 "Edge" ultra-fin
+description : Le géant coréen des smartphones n'avait pas que sa gamme classique de Galaxy S25 lors de sa conférence et réservait une annonce surprise.
+date : Wed, 22 Jan 2025 19:32:47 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/nuance-audio-on-a-teste-les-lunettes-qui-permettent-de-mieux-entendre_AV-202501100383.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Nuance Audio: on a testé les lunettes qui permettent... de mieux entendre
+description : Sur le CES de Las Vegas, le lunetier EssilorLuxottica présente des montures très particulières. Les Nuance Audio permettent de mieux voir… et mieux entendre.
+date : Fri, 10 Jan 2025 09:49:03 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/un-lave-personne-une-entreprise-japonaise-devoile-une-capsule-pour-etre-nettoye-automatiquement_AV-202411250687.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Un "lave-personne": une entreprise japonaise dévoile une capsule pour être nettoyé automatiquement
+description : Lors de la prochaine exposition universelle d'Osaka Kansai, un prototype de "lave-personne" sera présenté au grand public.
+date : Mon, 25 Nov 2024 14:53:08 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/des-airpods-pour-remplacer-les-aides-auditives-on-a-essaye-la-nouvelle-promesse-d-apple_AV-202409120534.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Des Airpods pour remplacer les aides auditives? On a essayé la nouvelle promesse d'Apple
+description : Avec le déploiement de la beta d’iOS 18.3, Apple transforme vos Airpods Pro 2 en appareil capable de vérifier, surveiller et épauler votre santé auditive. On a testé les promesses de révolution.
+date : Thu, 21 Nov 2024 15:59:28 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/nothing-lance-ses-ear-open-des-ecouteurs-ouverts-tailles-pour-le-sport_AV-202409240625.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Nothing lance ses Ear (open): des écouteurs ouverts taillés pour le sport
+description : Nothing continue de s'installer doucement sur le marché des nouvelles technologies et propose de nouveaux écouteurs résolument tournés pour les sportifs.
+date : Tue, 24 Sep 2024 14:10:35 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/huawei-revient-avec-une-nouvelle-serie-de-montres-pour-la-sante-et-le-sport-de-haut-niveau_AV-202409190631.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Huawei revient avec une nouvelle série de montres pour la santé et le sport de haut niveau
+description : Disponible à partir de 249,99 euros et se déclinant en version Standard et Pro, les nouvelles montres  GT 5 disposent du tout nouveau système TruSense, une technologie intégrée de suivi de la santé et de l’activité physique.
+date : Thu, 19 Sep 2024 14:37:41 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/huawei-sort-une-montre-pour-surveiller-son-hypertension_AV-202409190607.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Huawei sort une montre pour surveiller son hypertension
+description : À l’heure où les montres connectées regorgent de capteurs pour tout surveiller, Huawei s’intéresse à une maladie qui touche de plus en plus de personnes: l’hypertension. La Watch D2 va permettre d’avoir un tensiomètre au poignet.
+date : Thu, 19 Sep 2024 14:02:43 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/dyson-le-roi-de-l-aspirateur-devoile-un-casque-audio-pour-rivaliser-avec-bose-ou-apple_AN-202407180002.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Dyson: le roi de l'aspirateur lance un casque audio à 500 euros
+description : Un an après avoir lancé le Dyson Zone, un casque audio avec purificateur d'air, l'entreprise britannique tente à nouveau l'aventure sonore. Mais le Dyson Ontrac mise cette fois sur sa simple qualité sonore.
+date : Thu, 18 Jul 2024 07:30:00 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/z-fold-6-et-z-flip-6-samsung-devoile-ses-nouveaux-smartphones-pliants_AV-202407100537.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Samsung dévoile ses nouveaux smartphones pliants
+description : Ce mercredi 10 juillet, comme prévu, Samsung a dévoilé ses nouveautés en matière de smartphones pliants.
+date : Tue, 16 Jul 2024 10:25:08 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/ultimate-ears-lance-une-nouvelle-enceinte-portable-prete-pour-les-vacances_AN-202406260357.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Ultimate Ears lance une nouvelle enceinte portable prête pour les vacances
+description : Avec les vacances d'été qui approchent et le retour du soleil, c'est le moment parfait choisi par Ultimate Ears pour lancer Everboom. Une enceinte prête pour les virées en extérieur, dans toutes les conditions.
+date : Wed, 26 Jun 2024 07:01:00 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/backbone-lance-une-manette-de-jeu-mobile-avec-le-chanteur-post-malone_AV-202406180699.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Backbone lance une manette de jeu mobile avec le chanteur Post Malone
+description : Après ses versions Lightning, USB-C ou encore Playstation, la Backbone One s’offre une édition limitée avec le chanteur Post Malone, grand fan de jeu mobile.
+date : Tue, 18 Jun 2024 16:00:00 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/amazfit-lance-sa-bague-connectee-avant-la-galaxy-ring-de-samsung_AV-202406170621.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Amazfit lance sa bague connectée avant la Galaxy Ring de Samsung
+description : A quelques semaines du lancement supposé de la Galaxy Ring de Samsung, Amazfit lance son Helio Ring.
+date : Mon, 17 Jun 2024 13:31:42 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/samsung-devoile-la-galaxy-watch-fe-sa-premiere-montre-connectee-d-entree-de-gamme_AV-202406130656.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Samsung dévoile la Galaxy Watch FE, sa première montre connectée d’entrée de gamme
+description : Disponible dès cet été, la Galaxy Watch FE se déclinera en deux modèles: une version Bluetooth et une version 4G LTE.
+date : Thu, 13 Jun 2024 14:24:01 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/xiaomi-devoile-son-nouveau-bestseller-a-moins-de-200-euros_AV-202406050394.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Xiaomi dévoile son nouveau bestseller à moins de 200 euros
+description : Commercialisé à partir de 199 euros, le Redmi 13 est présenté comme un smartphone proposant une meilleure expérience photographique grâce à un capteur amélioré.
+date : Wed, 05 Jun 2024 09:29:24 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/reveiller-la-langue-cette-cuillere-promet-de-rendre-vos-plats-plus-appetissants_AV-202405230681.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : "Réveiller la langue": cette cuillère promet de rendre vos plats plus goûtus
+description : Une entreprise japonaise a imaginé une cuillière qui a la possibilité de rendre des plats meilleurs sans devoir trop les saler.
+date : Thu, 23 May 2024 14:29:46 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/rapides-et-puissants-les-poco-f6-debarquent-a-moins-de-500-euros_AV-202405230506.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Rapides et puissants, les Poco F6 débarquent à moins de 500 euros
+description : Xiaomi dévoile sa nouvelle gamme de smartphones pensés pour être aussi rapides que puissants, et équipés des nouvelles puces Snapdragon de Qualcomm.
+date : Thu, 23 May 2024 12:15:55 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/xiaomi-devoile-la-redmi-pad-pro-pour-concurrencer-l-i-pad_AV-202405210473.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Xiaomi dévoile la Redmi Pad Pro pour concurrencer l'iPad
+description : Quelques jours après l'annonce des nouveaux iPad chez Apple, Xiaomi lève le voile sur sa nouvelle gamme de tablettes tactiles.
+date : Tue, 21 May 2024 10:22:32 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/swatch-lance-son-service-de-paiement-sans-contact-en-france_AV-202405140614.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Swatch lance son service de paiement sans contact en France
+description : A partir du 16 mai, les Français pourront acheter des montres Swatch avec lesquelles ils pourront effectuer des paiements sans contact.
+date : Tue, 14 May 2024 12:36:10 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/le-chinois-dji-se-lance-dans-la-livraison-par-drones_AV-202405090327.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Le chinois DJI se lance dans la livraison par drones
+description : Incontournable dans le secteur des drones pour les particuliers, DJI se lance dans le secteur très concurrentiel des drones de livraisons.
+date : Thu, 09 May 2024 09:25:33 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/huawei-lance-la-watch-fit-3-sa-montre-connectee-inspiree-de-l-apple-watch_AV-202405070783.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Huawei lance la Watch Fit 3, sa montre connectée inspirée de l’Apple Watch
+description : Huawei a dévoilé de nouveaux produits, dont la troisième version de sa gamme de montres Watch Fit, lors de son événement Innovative Product Launch.
+date : Tue, 07 May 2024 16:00:58 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/fairphone-annonce-les-fairbuds-des-ecouteurs-sans-fil-reparables-et-durables_AV-202404090473.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Fairphone annonce les Fairbuds, des écouteurs sans fil réparables et durables
+description : Le spécialiste des produits durables Fairphone vient d'annoncer une nouvelle gamme d'écouteurs reprenant sa philosophie en matière de réparabilité.
+date : Tue, 09 Apr 2024 10:39:51 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/logitech-g-sort-un-nouveau-clavier-pour-les-esportifs_AV-202404090335.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Logitech G sort un nouveau clavier pour les esportifs
+description : Pour répondre aux besoins des joueurs PC, professionnels ou non, Logitech ajoute une nouvelle référence à son catalogue de claviers spécialisés avec le Pro X60. Un modèle compact, coloré et réactif, conçu pour et avec les esportifs.
+date : Tue, 09 Apr 2024 08:17:04 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/moins-de-300-euros-i-robot-devoile-son-nouveau-robot-aspirateur-essential_AV-202404040662.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Moins de 300 euros: iRobot dévoile son nouveau robot aspirateur "Essential"
+description : Avec le Roomba Combo Essential, iRobot veut proposer un appareil plus accessible à tous.
+date : Thu, 04 Apr 2024 14:30:46 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/nothing-phone-2a-faut-il-etre-seduit-par-ce-smartphone-futuriste-a-350-euros_AV-202403100026.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Nothing Phone (2a): faut-il être séduit par ce smartphone futuriste à 350 euros?
+description : Le fabricant Nothing a présenté son dernier smartphone baptisé (2a), un appareil de milieu de gamme, continuant de miser sur l’originalité avec son design.
+date : Sun, 10 Mar 2024 06:30:00 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/honor-mise-sur-la-finesse-de-sa-nouvelle-tablette-pour-rivaliser-avec-l-i-pad_AV-202402220790.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : Honor mise sur la finesse de sa nouvelle tablette pour rivaliser avec l’iPad
+description : Annoncée en amont du Mobile World Congress de Barcelone et à moins de 400 euros, la Pad 9 d'Honor veut venir se faire une place sur un marché outrageusement dominé par Apple.
+date : Thu, 22 Feb 2024 17:27:57 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/direct-ces-2024-sommeil-handicap-les-innovations-tech-ciblent-le-bien-etre-et-la-sante_LN-202401110095.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : CES 2024: jumelles identifiant les oiseaux, IA avec un visage... Tous les produits présentés
+description : Le CES 2024 entame sa troisième journée. Le salon de Las Vegas continue de dévoiler les innovations qui feront le quotidien de demain, notamment dans le domaine de la santé, du bien-être et de l'aide à la personne.
+date : Thu, 11 Jan 2024 21:10:34 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/55-000-euros-au-ces-2024-on-a-teste-une-machine-a-hologramme-geant_AV-202401110341.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : CES 2024: cette machine à hologramme géant donne un avant-goût de Star Wars
+description : Holoconnects a dévoilé sa solution Holobox pour créer un hologramme en 3D à partir d'une simple vidéo, en temps réel.
+date : Thu, 11 Jan 2024 13:22:58 GMT
+categories : ['Home Nouveautés Produits - actualités']
+
+id : https://www.bfmtv.com/tech/nouveautes-produits/direct-ces-2024-rog-phone-msi-claw-les-innovations-gaming-se-devoilent_LN-202401090074.html
+source : Flux RSS - BFM Tech - Nouveautés Produits.xml
+title : CES 2024: une bague connectée, une console portable... toutes les nouveautés du salon
+description : Après une mise en bouche avec le CES Unveiled, le salon de Las Vegas ouvre officiellement ses portes ce mardi 9 janvier. La grand-messe de la tech prend un tournant gaming, mais toujours saupoudré d'IA.
+date : Tue, 09 Jan 2024 21:46:25 GMT
+categories : ['Home Nouveautés Produits - actualités']
+

@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/flash-eco/l-ia-va-accroitre-les-inegalites-entre-hommes-et-femmes-dans-le-travail-previent-le-directeur-de-l-oit-20250210
+source : Le Figaro - Le Flash Eco.xml
+title : L'IA va accroître les inégalités entre hommes et femmes dans le travail, prévient le directeur de l'OIT
+description : None
+date : Mon, 10 Feb 2025 13:16:27 +0100
+categories : ['Flash Eco']
+
+id : https://www.lefigaro.fr/nice/la-commission-d-enquete-rend-un-avis-favorable-a-l-extension-contestee-de-l-aeroport-de-nice-20250210
+source : Le Figaro - Le Flash Eco.xml
+title : La commission d’enquête rend un avis favorable à l’extension contestée de l’aéroport de Nice
+description : Des opposants au projet ont manifesté samedi alors que la commission d’enquête ne s’est pas opposée au projet d’extension du terminal 2, déjà bien avancé.
+date : Mon, 10 Feb 2025 12:33:53 +0100
+categories : ['Nice']
+
+id : https://www.lefigaro.fr/societes/ia-helsing-et-mistral-veulent-lancer-une-offre-commune-pour-la-defense-europeenne-20250210
+source : Le Figaro - Le Flash Eco.xml
+title : IA : Helsing et Mistral veulent lancer une offre commune pour la défense européenne
+description : None
+date : Mon, 10 Feb 2025 12:14:07 +0100
+categories : ['Flash Eco']
+
+id : https://www.lefigaro.fr/flash-actu/le-ps-souhaite-defendre-une-france-metissee-richard-ferrand-pressenti-au-conseil-constitutionnel-taylor-swift-huee-au-super-bowl-les-3-infos-a-retenir-a-la-mi-journee-20250210
+source : Le Figaro - Le Flash Eco.xml
+title : Le PS souhaite défendre une France «métissée», Richard Ferrand pressenti au Conseil constitutionnel, Taylor Swift huée au Super Bowl... Les 3 infos à retenir à la mi-journée
+description : LE POINT DE MIDI - Retrouvez l’essentiel de l’actualité parue ce lundi 10 février au matin sur notre site.
+date : Mon, 10 Feb 2025 12:00:28 +0100
+categories : ['Flash Actu']
+
+id : https://www.lefigaro.fr/decideurs/nokia-annonce-le-depart-de-son-pdg-pekka-lundmark-justin-hotard-nomme-successeur-20250210
+source : Le Figaro - Le Flash Eco.xml
+title : Nokia annonce le départ de son PDG Pekka Lundmark, Justin Hotard nommé successeur
+description : L’équipementier a enregistré une hausse de 89% de son bénéfice net en 2024 à 1,28 milliard d’euros et fait état d’un net redressement de ses ventes de 10% au quatrième trimestre.
+date : Mon, 10 Feb 2025 11:46:54 +0100
+categories : ['Décideurs']
+
+id : https://www.lefigaro.fr/secteur/high-tech/intelligence-artificielle-le-patron-de-bpifrance-appelle-tout-le-monde-a-travailler-avec-mistral-20250210
+source : Le Figaro - Le Flash Eco.xml
+title : Intelligence artificielle : le patron de Bpifrance appelle «tout le monde à travailler avec Mistral»
+description : La banque publique d’investissement française a annoncé la semaine dernière vouloir investir 10 milliards d’euros dans l’IA d’ici 2029.
+date : Mon, 10 Feb 2025 11:49:38 +0100
+categories : ['Tech & Web']
+
+id : https://www.lefigaro.fr/flash-eco/soupcon-de-corruption-entre-ibm-et-la-sncf-anticor-demande-au-juge-d-instruction-de-poursuivre-les-investigations-20250210
+source : Le Figaro - Le Flash Eco.xml
+title : Soupçon de corruption entre IBM et la SNCF : Anticor demande au juge d'instruction de poursuivre les investigations
+description : None
+date : Mon, 10 Feb 2025 11:25:40 +0100
+categories : ['Flash Eco']
+
+id : https://www.lefigaro.fr/flash-eco/la-bourse-de-paris-en-legere-hausse-attentive-a-la-guerre-commerciale-20250210
+source : Le Figaro - Le Flash Eco.xml
+title : La Bourse de Paris en légère hausse, attentive à la guerre commerciale
+description : None
+date : Mon, 10 Feb 2025 10:58:57 +0100
+categories : ['Flash Eco']
+
+id : https://www.lefigaro.fr/flash-eco/bp-s-envole-a-londres-sur-des-informations-d-entree-au-capital-du-fonds-elliott-20250210
+source : Le Figaro - Le Flash Eco.xml
+title : BP s'envole à Londres sur des informations d'entrée au capital du fonds Elliott
+description : None
+date : Mon, 10 Feb 2025 10:56:48 +0100
+categories : ['Flash Eco']
+
+id : https://www.lefigaro.fr/conjoncture/l-union-europeenne-n-a-recu-aucune-notification-de-nouveaux-droits-de-douane-americains-20250210
+source : Le Figaro - Le Flash Eco.xml
+title : L'Union européenne n'a reçu «aucune notification» de nouveaux droits de douane américains
+description : Dans un communiqué, la commission annonce qu’elle réagira pour protéger les intérêts des entreprises européennes en cas de «mesures injustifiées».
+date : Mon, 10 Feb 2025 09:32:39 +0100
+categories : ['Conjoncture']
+
+id : https://www.lefigaro.fr/societes/le-td46-premier-drone-hybride-electrique-militaire-francais-devoile-ce-lundi-20250210
+source : Le Figaro - Le Flash Eco.xml
+title : Le DT46, premier drone hybride-électrique militaire français, dévoilé ce lundi
+description : Fruit d’une coopération entre le premier fabricant de drones français Delair et la start-up Ascendance, l’appareil va être testé, cette année, par la Direction générale de l’armement.
+date : Mon, 10 Feb 2025 12:57:39 +0100
+categories : ['Entreprises']
+
+id : https://www.lefigaro.fr/flash-eco/nippon-steel-prepare-une-proposition-audacieuse-pour-u-s-steel-apres-l-annonce-d-un-gros-investissement-20250210
+source : Le Figaro - Le Flash Eco.xml
+title : Nippon Steel prépare une «proposition audacieuse» pour U.S. Steel, après l'annonce d'un «gros» investissement
+description : None
+date : Mon, 10 Feb 2025 08:52:01 +0100
+categories : ['Flash Eco']
+
+id : https://www.lefigaro.fr/conjoncture/acier-aluminium-l-union-europeenne-repliquera-a-tout-nouveau-droit-de-douane-americain-annonce-jean-noel-barrot-20250210
+source : Le Figaro - Le Flash Eco.xml
+title : Acier, aluminium : l’Union européenne «répliquera» à tout nouveau droit de douane américain annonce Jean Noel Barrot
+description : «Nous répliquerons à nouveau», comme l’Union européenne l’avait déjà fait en 2018 lors d’une décision similaire de Donald Trump prise lors de son premier mandat, assure le ministre des Affaires étrangères sur TF1
+date : Mon, 10 Feb 2025 09:33:30 +0100
+categories : ['Conjoncture']
+
+id : https://www.lefigaro.fr/conjoncture/c-est-trop-facile-d-etre-planque-dans-son-bureau-macron-appelle-les-patrons-a-defendre-sa-politique-de-l-offre-20250210
+source : Le Figaro - Le Flash Eco.xml
+title : «C’est trop facile d’être planqué dans son bureau» : Macron appelle les patrons à défendre sa politique de l’offre
+description : «Soyez patriotes vous-mêmes», a lancé le chef de l’État aux dirigeants de grandes entreprises, lors d’un entretien, dimanche soir.
+date : Mon, 10 Feb 2025 11:02:04 +0100
+categories : ['Conjoncture']
+
+id : https://www.lefigaro.fr/conjoncture/eliminons-le-gaspillage-trump-demande-d-arreter-la-production-du-penny-jugee-trop-couteuse-20250210
+source : Le Figaro - Le Flash Eco.xml
+title : «Éliminons le gaspillage» : Trump demande d'arrêter la production du penny, jugée trop coûteuse
+description : «Pendant bien trop longtemps, les États-Unis ont frappé des pièces d’un cent qui nous coûtent littéralement plus de 2 cents (à produire). C’est du gaspillage!», juge le président américain.
+date : Mon, 10 Feb 2025 09:33:00 +0100
+categories : ['Conjoncture']
+
+id : https://www.lefigaro.fr/international/hong-kong-veut-bannir-la-cigarette-electronique-des-lieux-publics-d-ici-la-mi-2026-20250210
+source : Le Figaro - Le Flash Eco.xml
+title : Hong Kong veut bannir la cigarette électronique des lieux publics d'ici la mi-2026
+description : Trente-cinq pays dans le monde ont interdit la vente des cigarettes électroniques, avait indiqué l’an dernier l’Organisation mondiale de la Santé.
+date : Mon, 10 Feb 2025 07:31:48 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/trump-annonce-des-droits-de-douane-de-25-sur-l-aluminium-et-l-acier-importes-aux-usa-a-partir-de-lundi-20250209
+source : Le Figaro - Le Flash Eco.xml
+title : Trump annonce des droits de douane de 25% sur l’aluminium et l’acier importés aux USA à partir de lundi
+description : Le président américain a aussi indiqué qu’il annoncerait «mardi ou mercredi» des «droits de douane réciproques», afin d’aligner la taxation des produits entrant aux États-Unis sur la manière dont sont taxés les produits américains à l’étranger.
+date : Sun, 09 Feb 2025 23:49:45 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/secteur/high-tech/ia-mistral-va-construire-son-premier-centre-de-donnees-en-france-annonce-son-patron-20250209
+source : Le Figaro - Le Flash Eco.xml
+title : IA: Mistral va construire son premier centre de données en France
+description : Arthur Mensch, le jeune patron de 32 ans de la start-up française, a annoncé la construction d’un centre de données en Essonne qui représente «plusieurs milliards d’euros» d’investissements.
+date : Mon, 10 Feb 2025 09:59:47 +0100
+categories : ['Tech & Web']
+
+id : https://www.lefigaro.fr/secteur/high-tech/la-france-s-associe-a-huit-pays-pour-lancer-un-partenariat-soutenant-une-ia-d-interet-general-20250209
+source : Le Figaro - Le Flash Eco.xml
+title : La France s’associe à huit pays pour lancer un partenariat soutenant une «IA d'intérêt général»
+description : Baptisé «Current AI», ce partenariat, soutenu par 11 patrons de la tech comme Arthur Mensch de la start-up française Mistral AI ou Fidji Simo à la tête de la plateforme américaine de livraison de courses Instacart, est doté d’un investissement initial de 400 millions de dollars.
+date : Mon, 10 Feb 2025 09:58:37 +0100
+categories : ['Tech & Web']
+
+id : https://www.lefigaro.fr/international/trump-est-sur-que-musk-va-debusquer-des-centaines-de-milliards-de-dollars-de-fraude-20250209
+source : Le Figaro - Le Flash Eco.xml
+title : Trump est sûr que Musk va débusquer des «centaines de milliards de dollars de fraude»
+description : Le président des États-Unis recommande à Elon Musk, qu’il a chargé de tailler dans les dépenses fédérales, «d’aller consulter le ministère de l’Éducation et ensuite l’armée».
+date : Mon, 10 Feb 2025 10:13:35 +0100
+categories : ['International']
+

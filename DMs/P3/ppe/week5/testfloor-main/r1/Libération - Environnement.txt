@@ -1,0 +1,42 @@
+id : https://www.liberation.fr/economie/economie-numerique/lia-durable-entre-voeu-pieux-et-opportunite-de-marche-20250210_RRW3GZT5KFDSRCH4MIAYXKFKYE/
+source : Libération - Environnement.xml
+title : <![CDATA[L’IA durable, entre vœu pieux et opportunité de marché]]>
+description : <![CDATA[Avec l’avènement de l’intelligence artificielle, se pose la question de l’impact environnemental des centres de données, mais aussi les conséquences sur la consommation et la répartition électrique globale. Le ministère français de la Transition écologique, lui, y voit l’occasion d’être compétitif.]]>
+date : Mon, 10 Feb 2025 05:48:00 +0000
+categories : 
+
+id : https://www.liberation.fr/international/europe/les-suisses-rejettent-massivement-une-initiative-de-responsabilite-environnementale-20250209_33YGBJTDMNCC5N36APBKWCSIJI/
+source : Libération - Environnement.xml
+title : <![CDATA[Les Suisses rejettent massivement une initiative de responsabilité environnementale]]>
+description : <![CDATA[Un référendum porté par les Jeunes Ecologistes suisses visant à inscrire dans la Constitution le respect des limites naturelles de la planète a été massivement rejeté ce dimanche 9 février. Près de 70 % des votants s’y sont opposés estimant que le projet demandait trop de changements dans la vie des gens.]]>
+date : Sun, 09 Feb 2025 18:02:59 +0000
+categories : 
+
+id : https://www.liberation.fr/environnement/animaux/au-large-de-tenerife-des-scientifiques-filment-pour-la-premiere-fois-une-baudroie-des-abysses-remontant-a-la-surface-20250209_MFUBZ6BQ6FC35O2YVFYFEOOF7I/
+source : Libération - Environnement.xml
+title : <![CDATA[Au large de Tenerife, des scientifiques filment pour la première fois une baudroie des abysses remontant à la surface]]>
+description : <![CDATA[Le 26 janvier, plusieurs scientifiques d’une ONG espagnole sont tombés sur un poisson qui ne quitte d’ordinaire jamais les abysses au large de Tenerife. Le spécimen, mort peu après, «se trouvait là à cause d’un prédateur, d’une maladie ou d’un courant ascendant», estiment les scientifiques.]]>
+date : Sun, 09 Feb 2025 16:22:21 +0000
+categories : 
+
+id : https://www.liberation.fr/environnement/biodiversite/a-travers-locean-lenvoutant-et-mysterieux-spectacle-de-la-ponte-des-coraux-synchronisee-sur-des-milliers-de-kilometres-20250208_YUUXG6K63JAUTC7TLY26J57OUU/
+source : Libération - Environnement.xml
+title : <![CDATA[A travers l’océan, l’envoûtant et mystérieux spectacle de la ponte des coraux, synchronisée sur des milliers de kilomètres]]>
+description : <![CDATA[De la Polynésie française à la Tanzanie, la reproduction du corail «Porites rus», calée sur le cycle lunaire, a été observée en janvier pour la première fois le même jour, sur plus de 18 000 km. Ces nouvelles données, recueillies dans le cadre d’un projet de sciences participatives, montrent que cette espèce de corail synchronise sa ponte sur plusieurs océans.]]>
+date : Sat, 08 Feb 2025 17:26:49 +0000
+categories : 
+
+id : https://www.liberation.fr/societe/sante/quand-la-grisaille-et-le-manque-de-soleil-influent-sur-la-sante-physique-et-mentale-20250207_EXXWQEPJH5HQDJSWDZRVECKPRA/
+source : Libération - Environnement.xml
+title : <![CDATA[Quand la grisaille et le manque de soleil influent sur la santé physique et mentale]]>
+description : <![CDATA[Avec l’arrivée d’une «goutte froide» dans le nord de la France, ce vendredi 7 février, l’absence de lumière se fait vivement ressentir. Manque d’entrain, morosité et répercussions sur le sommeil, «Libération» fait le point.]]>
+date : Fri, 07 Feb 2025 14:29:21 +0000
+categories : 
+
+id : https://www.liberation.fr/environnement/agriculture/elections-agricoles-les-gens-ont-besoin-de-nouvelles-tetes-20250206_RYFBR2M4TBCHJBBRBU5IQOU36U/
+source : Libération - Environnement.xml
+title : <![CDATA[Elections agricoles : la FNSEA vire en tête, la Coordination gagne du terrain]]>
+description : <![CDATA[Le syndicat majoritaire a perdu plusieurs départements lors des élections professionnelles agricoles, d’après les premiers résultats publiés ce jeudi 6 février. Sur le fil, la Coordination rurale a créé la surprise dans le Cher, et la Confédération paysanne en Ardèche.]]>
+date : Thu, 06 Feb 2025 21:38:06 +0000
+categories : 
+

@@ -1,0 +1,140 @@
+id : https://golf.lefigaro.fr/actualite/monde/golf-l-open-d-australie-abandonne-le-format-mixte-apres-le-tolle-general-20250210
+source : Le Figaro - Golf.xml
+title : Golf - L’Open d’Australie abandonne le format mixte après un tollé général
+description : Suite aux reproches de Cameron Smith et d’Hannah Green, entre autres, Golf Australia a annoncé le retour à deux événements autonomes, masculin et féminin.
+date : Mon, 10 Feb 2025 11:17:19 +0100
+categories : ['Monde']
+
+id : https://golf.lefigaro.fr/actualite/monde/liv-adrian-meronk-brille-en-ouverture-de-la-saison-20250210
+source : Le Figaro - Golf.xml
+title : LIV : Adrian Meronk brille en ouverture de la saison
+description : Le Polonais a remporté le premier tournoi de l’année 2025 à Ryad de la Ligue professionnelle dissidente.
+date : Mon, 10 Feb 2025 10:33:42 +0100
+categories : ['Monde']
+
+id : https://golf.lefigaro.fr/flash-golf/golf-tiger-woods-va-faire-son-retour-a-la-competition-la-semaine-prochaine-20250207
+source : Le Figaro - Golf.xml
+title : Golf : Tiger Woods va faire son retour à la compétition la semaine prochaine
+description : Tiger Woods participera la semaine prochaine à son premier tournoi professionnel depuis sept mois lors du Genesis Invitational, qui compte pour le circuit PGA, qui aura lieu à Torrey Pines au nord de San Diego en raison des incendies à Los Angeles.
+date : Fri, 07 Feb 2025 22:01:22 +0100
+categories : ['Flash Golf']
+
+id : https://golf.lefigaro.fr/actualite/tours-americains/le-pga-tour-demande-au-president-trump-une-mediation-avec-les-saoudiens-pour-la-fusion-des-deux-circuit-20250207
+source : Le Figaro - Golf.xml
+title : Golf : le PGA Tour demande au président Trump une médiation pour la fusion des deux circuits
+description : Le circuit professionnel américain sollicite de l’aide pour négocier un accord avec le fonds d’investissement public d’Arabie saoudite qui pourrait déboucher sur l’alliance attendue entre les parties.
+date : Mon, 10 Feb 2025 10:13:07 +0100
+categories : ['Tour américain']
+
+id : https://golf.lefigaro.fr/actualite/monde/golf-la-qutrieme-saison-du-liv-a-demarre-ce-jeudi-a-ryad-20250206
+source : Le Figaro - Golf.xml
+title : Golf: la quatrième saison du LIV a démarré ce jeudi à Ryad
+description : Un nouveau patron mais toujours pas de fusion avec les concurrents du PGA: le circuit LIV de golf entame jeudi à Ryad sa 4e saison, le rapprochement avec le circuit phare du golf mondial annoncé en juin 2023 ne s’étant toujours pas concrétisé.
+date : Thu, 06 Feb 2025 17:31:26 +0100
+categories : ['Monde']
+
+id : https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-rory-mcilroy-en-feu-signe-un-66-pour-s-adjuger-l-at-t-a-pebble-beach-20250203
+source : Le Figaro - Golf.xml
+title : PGA Tour : Rory McIlroy en feu s’adjuge l’AT&T à Pebble Beach
+description : Le Nord Irlandais a survolé la concurrence pour remporter le AT&amp;T Pebble Beach Pro-Am avec un score de -21. Il signe sa 27e victoire sur le PGA Tour. Matthieu Pavon termine 73e .
+date : Mon, 03 Feb 2025 10:40:20 +0100
+categories : ['Tour américain']
+
+id : https://golf.lefigaro.fr/golf-rory-mcilroy-annonce-qu-il-participera-a-moins-de-tournois-cette-annee-20250129
+source : Le Figaro - Golf.xml
+title : Golf : Rory McIlroy annonce qu’il participera à moins de tournois cette année
+description : Le golfeur Rory McIlroy va réduire son nombre de tournois cette année. Le Nord-Irlandais aura pour principaux objectifs le British Open et la Ryder Cup.
+date : Wed, 29 Jan 2025 09:37:44 +0100
+categories : ['Actu Golf']
+
+id : https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-l-americain-english-s-impose-a-torrey-pines-antoine-rozner-48e-20250126
+source : Le Figaro - Golf.xml
+title : PGA Tour : l'Américain English s’impose à Torrey Pines, Antoine Rozner 48e
+description : Malgré un dernier tour délicat, l’Américain Harris English, ms’est imposé samedi sur le tournoi PGA de Torrey Pines (Californie, Etats-Unis), où le Français Antoine Rozner a pris la 48e place.
+date : Sun, 26 Jan 2025 11:09:38 +0100
+categories : ['Tour américain']
+
+id : https://golf.lefigaro.fr/actualite/tours-americains/golf-matthieu-pavon-tenant-du-titre-s-effondre-a-torrey-pines-20250124
+source : Le Figaro - Golf.xml
+title : PGA Tour : Matthieu Pavon, tenant du titre, ne passe pas le cut à Torrey Pines
+description : Le Bordelais ne va pas franchir le cut en Californie, à l’issue d’une deuxième journée perturbée par le vent.
+date : Fri, 24 Jan 2025 10:29:51 +0100
+categories : ['Tour américain']
+
+id : https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-pavon-defend-son-titre-a-torrey-pines-20250122
+source : Le Figaro - Golf.xml
+title : PGA Tour :  Matthieu Pavon défend son titre à Torrey Pines
+description : Le leader du golf français défend de mercredi à samedi sur le parcours de Torrey Pines à La Jolla (Californie, Etats-Unis) son titre acquis l’an passé, le premier d’un Français sur le prestigieux circuit américain.
+date : Thu, 23 Jan 2025 10:43:07 +0100
+categories : ['Tour américain']
+
+id : https://golf.lefigaro.fr/parcours-tourisme/destinations-golf/le-carnet-de-bord-de-la-croisiere-du-figaro-golf-pro-am-2025-dans-le-golfe-persique-20250121
+source : Le Figaro - Golf.xml
+title : Le carnet de bord de la croisière du Figaro «Golf & Pro Am 2025 dans le Golfe persique»
+description : VIDÉO - Du 9 au 16 janvier, nos golfeuses et golfeurs ont embarqué sur Le Bougainville afin de découvrir et jouer des parcours exceptionnels dans les Émirats.
+date : Thu, 23 Jan 2025 15:02:06 +0100
+categories : ['Parcours et Tourisme']
+
+id : https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-sepp-straka-triomphe-a-l-american-express-20250120
+source : Le Figaro - Golf.xml
+title : PGA Tour : Sepp Straka triomphe à l’American Express
+description : L’Autrichien Sepp Straka a remporté dimanche le troisième tournoi de sa carrière sur le circuit américain.&#160;
+date : Mon, 20 Jan 2025 08:52:58 +0100
+categories : ['Tour américain']
+
+id : https://golf.lefigaro.fr/actualite/tours-europeens/dp-world-tour-le-joueur-du-liv-tyrrell-hatton-s-adjuge-le-dubai-desert-classic-20250120
+source : Le Figaro - Golf.xml
+title : DP world tour : le joueur du LIV Tyrrell Hatton s’adjuge le Dubaï Desert Classic
+description : L’Anglais a dominé le Néo-Zélandais Daniel Hillier pour remporter le Dubaï Desert Classic du DP World Tour par un seul coup, dimanche à l’Emirates Golf Club.
+date : Mon, 20 Jan 2025 08:27:06 +0100
+categories : ['Tour européen']
+
+id : https://golf.lefigaro.fr/golf-jouer-les-bordes-au-moins-une-fois-dans-sa-vie-20250113
+source : Le Figaro - Golf.xml
+title : Golf: jouer Les Bordes au moins une fois dans sa vie
+description : Ce golf mythique, planté sur les anciennes terres de chasse du baron Bich, en Sologne, fait rêver les fins connaisseurs. Totalement privé depuis cinq ans, le club propose cette année une offre découverte.
+date : Mon, 13 Jan 2025 12:41:44 +0100
+categories : ['Actu Golf']
+
+id : https://golf.lefigaro.fr/actualite/tours-europeens/dp-world-tour-la-grande-bretagne-et-l-irlande-remportent-la-2025-team-cup-20250113
+source : Le Figaro - Golf.xml
+title : DP World tour : La Grande-Bretagne et l’Irlande remportent la Team Cup
+description : La Grande-Bretagne et l’Irlande ont remporté la Team Cup 2025 en battant l’Europe continentale 17-8 à l’Abu Dhabi Golf Resort.
+date : Mon, 13 Jan 2025 11:30:16 +0100
+categories : ['Tour européen']
+
+id : https://golf.lefigaro.fr/actualite/tours-americains/pga-tour-nick-gaylor-s-adjuge-le-playoff-du-sony-open-20250113
+source : Le Figaro - Golf.xml
+title : PGA Tour : Nick Gaylor s’adjuge le playoff du Sony Open
+description : L’Américain empoche sa cinquième victoire sur le circuit américain. Les trois dernières avaient été déjà remportées à l’issue de play-offs.
+date : Mon, 13 Jan 2025 10:50:43 +0100
+categories : ['Tour américain']
+
+id : https://golf.lefigaro.fr/parcours-tourisme/destinations-golf/au-constance-lemuria-des-seychelles-du-vin-et-du-golf-a-deguster-presque-sans-moderation-20250110
+source : Le Figaro - Golf.xml
+title : Au Constance Lemuria Praslin Seychelles, du vin et du golf à déguster (presque) sans modération
+description : Juste avant les fêtes de fin d’année du 15 au 22 décembre, le golf et le vin ont été à l’honneur à l’autre bout du monde dans un cadre paradisiaque.
+date : Fri, 10 Jan 2025 17:56:06 +0100
+categories : ['Parcours et Tourisme']
+
+id : https://golf.lefigaro.fr/actualite/ryder-cup/ryder-cup-bradley-nomme-kisner-troisieme-vice-capitaine-de-l-equipe-americaine-20250108
+source : Le Figaro - Golf.xml
+title : Ryder Cup : Bradley nomme Kisner troisième vice-capitaine de l’équipe américaine
+description : Kisner, quatre fois vainqueur sur le PGA Tour, sera l’un des vice-capitaines de Keegan Bradley au sein de l’équipe américaine qui tentera de reprendre le trophée à l’Europe cette année au Bethpage Black à New York.
+date : Wed, 08 Jan 2025 17:55:26 +0100
+categories : ['Ryder Cup']
+
+id : https://golf.lefigaro.fr/actualite/vie-des-clubs/10e-edition-du-golf-gourmet-trophy-a-l-ile-maurice-en-2025-20250108
+source : Le Figaro - Golf.xml
+title : 10e édition du Golf & Gourmet Trophy à l’Île Maurice en 2025
+description : Un voyage d’exception alliant golf, convivialité et gastronomie dans un cadre paradisiaque, sur des parcours réputés, le tout parrainé par les Chefs Vigato, Chabanel, Amalen et Mauree.
+date : Wed, 08 Jan 2025 15:51:46 +0100
+categories : ['Vie des clubs']
+
+id : https://golf.lefigaro.fr/parcours-tourisme/destinations-golf/golf-le-els-club-teluk-datai-montre-l-exemple-ecologique-en-malaisie-20250108
+source : Le Figaro - Golf.xml
+title : Golf : le Els Club Teluk Datai montre l’exemple écologique en Malaisie
+description : Situé dans le cadre paradisiaque de l’île de Langkawi, ce parcours en pleine forêt primaire est le premier du pays à obtenir une certification durable pour ses actions en matière de protection de l’environnement.
+date : Wed, 08 Jan 2025 14:22:06 +0100
+categories : ['Parcours et Tourisme']
+

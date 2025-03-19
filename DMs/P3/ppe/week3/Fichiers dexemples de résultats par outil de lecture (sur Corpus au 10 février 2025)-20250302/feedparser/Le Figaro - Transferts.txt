@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/sports/football/transferts/psg-trois-titis-remplient-au-psg-officiel-20250207
+source : Le Figaro - Transferts.xml
+title : PSG : Luis Enrique, Hakimi, Vitinha… Pluie de prolongations à Paris
+description : Le Paris Saint-Germain a officialisé plusieurs prolongations ce vendredi, au Parc des Princes, avant le choc de la 21e journée de L1 contre Monaco, dont celle de son entraîneur.
+date : Sat, 08 Feb 2025 16:36:15 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/foot-pas-d-arabie-saoudite-ou-de-qatar-l-etonnant-rebond-de-sergio-ramos-20250207
+source : Le Figaro - Transferts.xml
+title : Foot: pas d’Arabie saoudite ou de Qatar... L’étonnant rebond de Sergio Ramos
+description : L’ancienne star du Real Madrid, ou encore joueur du Paris SG, s’est engagé avec les Rayados de Monterrey.
+date : Fri, 07 Feb 2025 09:55:47 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/mercato-kvara-bennacer-biereth-les-10-recrues-hivernales-pretes-a-enflammer-la-ligue-1-20250207
+source : Le Figaro - Transferts.xml
+title : Mercato : «Kvara», Bennacer, Biereth... Les 10 recrues hivernales prêtes à enflammer la Ligue 1
+description : Les clubs de Ligue 1 ont été actifs sur le marché des transferts hivernal, attirant de belles recrues.
+date : Fri, 07 Feb 2025 16:53:15 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/psg-pas-victime-de-chantage-mais-presque-le-directeur-sportif-de-naples-revient-sur-le-depart-de-kvaratskhelia-20250205
+source : Le Figaro - Transferts.xml
+title : PSG : «Pas victimes de chantage, mais presque», le directeur sportif de Naples revient sur le départ de Kvaratskhelia
+description : Directeur sportif du Napoli, Giovanni Manna s’est exprimé au sujet du transfert de Khvicha Kvaratskhelia au PSG durant le mercato du mois de janvier.
+date : Wed, 05 Feb 2025 15:17:32 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/mercato-dans-les-petits-papiers-du-real-madrid-alphonso-davies-prolonge-finalement-au-bayern-20250204
+source : Le Figaro - Transferts.xml
+title : Mercato : dans les petits papiers du Real Madrid, Alphonso Davies prolonge finalement au Bayern
+description : Le latéral gauche canadien est désormais lié au club bavarois jusqu’en juin 2030.
+date : Tue, 04 Feb 2025 19:49:42 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/om-one-two-three-viva-l-algerie-en-video-la-recrue-ismael-bennacer-accueillie-par-une-foule-de-supporters-a-l-aeroport-20250204
+source : Le Figaro - Transferts.xml
+title : OM : «One, two, three, viva l’Algérie !», en vidéo, la recrue Ismaël Bennacer accueillie par une foule de supporters à l’aéroport
+description : De très nombreux supporters marseillais, notamment issus de la communauté algérienne, ont fait le déplacement ce mardi pour accueillir l’ancien joueur de l’AC Milan dans la cité phocéenne.
+date : Tue, 04 Feb 2025 18:48:48 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/mercato-la-pepite-de-l-asse-amougou-officiellement-transferee-a-chelsea-20250204
+source : Le Figaro - Transferts.xml
+title : Mercato : la pépite de l’ASSE Amougou officiellement transférée à Chelsea
+description : Le milieu de terrain français, 19 ans, rejoint les Blues contre un chèque annoncé à 15 millions d’euros.
+date : Tue, 04 Feb 2025 18:03:58 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/angleterre/premier-league-le-mercato-d-hiver-n-etait-pas-ideal-reconnait-l-entraineur-de-newcastle-20250204
+source : Le Figaro - Transferts.xml
+title : Premier League : le mercato d’hiver n’était «pas idéal», reconnaît l’entraîneur de Newcastle
+description : Eddie Howe, entraîneur de Newcastle qui lutte en Premier League pour une future place en Ligue des champions, a tenté de positiver à la sortie d’un mercato hivernal difficile.
+date : Tue, 04 Feb 2025 17:34:19 +0100
+categories : ['Angleterre', 'Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/les-plus-depensiers-les-plus-discrets-les-transferts-marquants-5-questions-sur-le-mercato-hivernal-20250204
+source : Le Figaro - Transferts.xml
+title : Les clubs les plus dépensiers/discrets, les transferts marquants, les stars (encore) retoquées... 5 questions sur le mercato hivernal
+description : Plus d’un milliard d’euros ont été dépensés par des clubs de football cet hiver. Qui a le plus recruté en France ? Quelles stars sont restées à quai ? Décryptage des points essentiels.
+date : Tue, 04 Feb 2025 12:49:21 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/kvara-au-psg-manchester-city-casse-sa-tirelire-folies-de-l-arabie-saoudite-les-dix-plus-gros-transferts-du-mercato-hivernal-20250204
+source : Le Figaro - Transferts.xml
+title : «Kvara» au PSG, Manchester City casse sa tirelire, folies de l’Arabie saoudite... En images, les dix plus gros transferts du mercato
+description : DIAPORAMA - Le marché hivernal des transferts s’est refermé ce lundi soir dans les principaux championnats européens. Kvaratskhelia, Marmoush, Duran... Découvrez les dix plus importantes transactions réalisées depuis le 1er janvier.
+date : Tue, 04 Feb 2025 10:20:25 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/mercato-l-om-arrache-bennacer-a-l-ac-milan-sur-le-gong-20250204
+source : Le Figaro - Transferts.xml
+title : Mercato : l'OM arrache Bennacer à l’AC Milan sur le gong
+description : L’Olympique de Marseille a officialisé l’arrivée du milieu international algérien, sa quatrième recrue de l’hiver, une fois la «deadline» du mercato dépassée.
+date : Tue, 04 Feb 2025 00:09:48 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/l-om-s-offre-bennacer-le-psg-degraisse-rennes-hyperactif-le-bilan-d-une-folle-derniere-journee-de-mercato-hivernal-20250203
+source : Le Figaro - Transferts.xml
+title : L’OM s’offre Bennacer, le PSG dégraisse, Rennes hyperactif... Le bilan d’une folle dernière journée de mercato hivernal
+description : Le marché hivernal des transferts s’est achevé ce lundi soir en France et dans les principaux championnats européens. Retour sur les informations clés des dernières 24 heures.
+date : Tue, 04 Feb 2025 10:23:17 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/mercato-paul-pogba-a-l-om-le-president-pablo-longoria-enterre-la-rumeur-20250203
+source : Le Figaro - Transferts.xml
+title : Mercato : Paul Pogba à l’OM ? Le président Pablo Longoria enterre la rumeur
+description : Invité de l’After Foot sur RMC en ce dernier jour de mercato hivernal, le président de l’Olympique de Marseille a dévoilé les raisons qui poussent le club à ne pas engager le champion du monde 2018.
+date : Tue, 04 Feb 2025 00:12:35 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/mercato-l-om-enrole-un-prometteur-lateral-bosnien-20250203
+source : Le Figaro - Transferts.xml
+title : Mercato : l’OM enrôle un prometteur latéral bosnien
+description : L’Olympique de Marseille a officialisé ce lundi la signature d’Amar Dedic en provenance du RB Salzbourg. Sa troisième recrue de l’hiver.
+date : Mon, 03 Feb 2025 22:28:11 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/mercato-le-psg-cede-marco-asensio-prete-a-aston-villa-20250203
+source : Le Figaro - Transferts.xml
+title : Mercato : le PSG cède Marco Asensio, prêté à Aston Villa
+description : Barré par la concurrence en attaque, l’Espagnol est le troisième joueur prêté par le club de la capitale cet hiver.
+date : Mon, 03 Feb 2025 20:33:50 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/mercato-cher-ndour-quitte-definitivement-le-psg-direction-la-fiorentina-20250203
+source : Le Figaro - Transferts.xml
+title : Mercato : Cher Ndour quitte définitivement le PSG, direction la Fiorentina
+description : Prêté à Besiktas depuis le début de saison, le milieu de terrain italo-sénégalais s’engage avec la Viola, sans repasser par Paris.
+date : Mon, 03 Feb 2025 18:48:51 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/mercato-l-om-prete-son-defenseur-bamo-meite-a-montpellier-20250203
+source : Le Figaro - Transferts.xml
+title : Mercato : l’OM prête son défenseur Bamo Meïté à Montpellier
+description : Placardé par Marseille et son entraîneur Roberto De Zerbi, le Franco-ivoirien part renforcer la défense du MHSC.
+date : Mon, 03 Feb 2025 21:19:42 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/mercato-l-om-le-club-parfait-pour-moi-avec-un-projet-tres-ambitieux-assure-amine-gouiri-20250203
+source : Le Figaro - Transferts.xml
+title : Mercato : l'OM, «le club parfait pour moi» avec «un projet très ambitieux», assure Amine Gouiri
+description : Le nouvel attaquant algérien de l’Olympique de Marseille s’est exprimé ce lundi devant la presse, au lendemain de ses débuts réussis au Vélodrome contre l’OL (3-2).
+date : Mon, 03 Feb 2025 17:11:41 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/mercato-l-ailier-international-jordanien-mousa-al-tamari-signe-a-rennes-20250203
+source : Le Figaro - Transferts.xml
+title : Mercato : l'ailier international jordanien Mousa Al-Tamari signe à Rennes
+description : L’attaquant de Montpellier rejoint l’effectif breton, où il devra compenser les départs d’Amine Gouiri et de Jota.
+date : Mon, 03 Feb 2025 15:00:08 +0100
+categories : ['Transferts']
+
+id : https://www.lefigaro.fr/sports/football/transferts/psg-le-mercato-ferme-a-23-heures-d-ici-la-on-a-encore-le-temps-glisse-luis-enrique-20250203
+source : Le Figaro - Transferts.xml
+title : PSG : «Le mercato ferme à 23 heures, d’ici là on a encore le temps», glisse Luis Enrique, «très satisfait» de son groupe
+description : Interrogé sur le marché d’hiver du club de la capitale, le coach espagnol a salué la qualité de son effectif.
+date : Mon, 03 Feb 2025 14:13:33 +0100
+categories : ['Transferts']
+

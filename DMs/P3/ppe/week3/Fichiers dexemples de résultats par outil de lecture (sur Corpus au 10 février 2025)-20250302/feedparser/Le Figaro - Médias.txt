@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/medias/les-medias-americains-deviennent-la-cible-opportune-des-coupes-budgetaires-du-doge-d-elon-musk-20250207
+source : Le Figaro - Médias.xml
+title : Les médias américains deviennent la cible opportune des coupes budgétaires du Doge d’Elon Musk
+description : La Maison-Blanche a annoncé que les abonnements des agences fédérales au média Politico, faussement assimilés à de la corruption, seront supprimés. Ceux souscrits auprès de Reuters, Associated Press ou encore du New York Times sont eux aussi sur la sellette.
+date : Fri, 07 Feb 2025 19:03:49 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/medias/apres-une-sequence-inappropriee-sur-les-atouts-touristiques-de-gaza-franceinfo-s-excuse-et-supprime-l-extrait-20250207
+source : Le Figaro - Médias.xml
+title : Après une séquence «inappropriée» sur les «atouts» touristiques de Gaza, Franceinfo s’excuse et supprime l’extrait
+description : La chaîne du service public a fait intervenir sur son antenne, mercredi soir, un «professionnel du tourisme» afin de débattre sur la proposition de Donald Trump de transformer Gaza en «Riviera du Moyen-Orient».
+date : Fri, 07 Feb 2025 21:53:24 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/medias/bien-que-retire-de-la-vente-le-magazine-marianne-a-recu-une-nouvelle-offre-de-reprise-20250207
+source : Le Figaro - Médias.xml
+title : Bien que retiré de la vente, le magazine Marianne a reçu une nouvelle offre de reprise
+description : Jean-Claude Delgènes et d’autres dirigeants issus de l’économie sociale et solidaire souhaitent racheter le magazine détenu par Daniel Kretinsky pour le transformer en coopérative d’intérêt collectif.
+date : Sat, 08 Feb 2025 16:44:57 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/medias/nous-devons-defier-la-kleptocratie-du-contenu-les-industries-culturelles-et-mediatiques-bataillent-face-aux-geants-de-l-ia-20250206
+source : Le Figaro - Médias.xml
+title : «Nous devons défier la “kleptocratie” du contenu»: les industries culturelles et médiatiques bataillent face aux géants de l’IA
+description : ENQUÊTE - Auteurs, acteurs, romanciers et chanteurs se mobilisent pour que le droit d’auteur cesse d’être bafoué.
+date : Fri, 07 Feb 2025 17:51:03 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/medias/ai-overviews-recherches-visuelles-comment-l-ia-permet-a-google-de-resister-a-la-vague-chatgpt-20250205
+source : Le Figaro - Médias.xml
+title : AI Overviews, recherches visuelles… Comment l’IA permet à Google de résister à la vague ChatGPT
+description : DÉCRYPTAGE - L’usage et les revenus du moteur de recherche ont continué de croître en 2024. Le groupe voit ses nouvelles fonctionnalités de recherche connaître un succès croissant.
+date : Thu, 06 Feb 2025 10:19:49 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/medias/federation-le-producteur-du-bureau-des-legendes-ouvre-son-capital-pour-faire-partie-des-studios-d-envergure-mondiale-de-demain-20250205
+source : Le Figaro - Médias.xml
+title : Federation, le producteur du Bureau des légendes, ouvre son capital pour «faire partie des studios mondiaux de demain»
+description : DÉCRYPTAGE - Le groupe français de production audiovisuelle souhaite lever 250 millions d’euros pour financer ses ambitions.
+date : Wed, 05 Feb 2025 18:00:00 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/medias/plus-de-quinze-ans-apres-sa-creation-le-leader-du-streaming-musical-spotify-est-enfin-rentable-20250204
+source : Le Figaro - Médias.xml
+title : Plus de quinze ans après sa création, le leader du streaming musical Spotify est enfin rentable
+description : DÉCRYPTAGE - C’est la première fois que le groupe suédois est bénéficiaire sur un exercice complet. Une forte hausse du nombre d’abonnés couplée à une cure d’austérité drastique et une augmentation des prix ont permis au géant de conjurer la malédiction.
+date : Tue, 04 Feb 2025 17:26:57 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/medias/en-perte-d-influence-et-distancee-par-fox-news-cnn-accelere-sa-mue-numerique-20250203
+source : Le Figaro - Médias.xml
+title : En perte d’influence et distancée par Fox News, CNN accélère sa mue numérique
+description : DÉCRYPTAGE - La chaîne, propriété du groupe Warner Bros. Discovery, s’apprête à licencier 200 salariés et à investir 70 millions pour se renforcer sur le web.
+date : Mon, 03 Feb 2025 17:02:49 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/medias/pourquoi-le-financement-du-cinema-francais-par-disney-n-est-pas-une-si-bonne-nouvelle-20250131
+source : Le Figaro - Médias.xml
+title : Pourquoi le financement du cinéma français par Disney n’est pas une si bonne nouvelle
+description : ANALYSE - Canal+, grand argentier historique du cinéma tricolore, menace déjà de réduire ses investissements. Un scénario qui a comme un air de déjà-vu dans le football français, séduit en son temps par Mediapro puis Amazon…
+date : Mon, 03 Feb 2025 11:03:37 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/economie/intelligence-artificielle-incite-par-la-concurrence-meta-compte-sur-sa-puissance-financiere-pour-s-imposer-20250130
+source : Le Figaro - Médias.xml
+title : Intelligence artificielle: incité par la concurrence, Meta compte sur sa puissance financière pour s’imposer
+description : DÉCRYPTAGE - Le géant américain annonce plusieurs centaines de milliards de dollars d’investissement.
+date : Fri, 31 Jan 2025 11:36:56 +0100
+categories : ['Médias', 'Économie']
+
+id : https://www.lefigaro.fr/medias/influenceurs-et-podcasteurs-obtiennent-leur-accreditation-a-la-maison-blanche-20250129
+source : Le Figaro - Médias.xml
+title : Influenceurs et podcasteurs obtiennent leur accréditation à la Maison-Blanche
+description : Ils pourront désormais participer, aux côtés des médias traditionnels, aux conférences de presse sur l’actualité de l’Administration Trump.
+date : Wed, 29 Jan 2025 19:30:22 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/medias/moins-de-ventes-moins-de-marges-a-la-veille-du-festival-d-angouleme-le-pessimisme-s-empare-du-secteur-de-la-bande-dessinee-20250129
+source : Le Figaro - Médias.xml
+title : Moins de ventes, moins de marges… À la veille du Festival d’Angoulême, le pessimisme s’empare du secteur de la bande dessinée
+description : DÉCRYPTAGE - Les ventes de BD et de manga ont reculé de 9% en volume en 2024. Sans nier la vitalité du marché, les professionnels s’inquiètent de voir les marges s’éroder et le nombre de publications exploser.
+date : Wed, 29 Jan 2025 18:26:33 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/medias/discussions-avec-m6-negociations-avec-canal-le-paf-s-agite-sur-l-avenir-de-cyril-hanouna-20250124
+source : Le Figaro - Médias.xml
+title : Discussions avec M6, négociations avec Canal+… Le PAF s’agite sur l’avenir de Cyril Hanouna
+description : RÉCIT - L’animateur star de TPMP est donné partant pour le groupe M6. Karine Le Marchand met son départ dans la balance, alors que le producteur négocie sur plusieurs fronts.
+date : Sat, 25 Jan 2025 07:51:31 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/medias/communiste-gaulliste-centriste-revolutionnaire-jean-francois-kahn-pourfendeur-de-la-pensee-unique-20250123
+source : Le Figaro - Médias.xml
+title : Communiste, gaulliste, «centriste révolutionnaire»... Jean-François Kahn, pourfendeur de la pensée unique
+description : PORTRAIT - Le journaliste, fondateur de «L’Événement du jeudi» et de «Marianne», débatteur infatigable à la radio comme à la télévision, était engagé contre tous les extrémismes.
+date : Thu, 23 Jan 2025 19:54:08 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/medias/pour-l-union-des-marques-les-grands-annonceurs-ne-desinvestissent-pas-les-medias-traditionnels-malgre-la-concurrence-des-gafam-20250122
+source : Le Figaro - Médias.xml
+title : Pour l’Union des marques, «les grands annonceurs ne désinvestissent pas les médias traditionnels» malgré la concurrence des Gafam
+description : ENTRETIEN - Hervé Navellou et Jean-Luc Chetrit, à la tête de l’organisation, livrent leur analyse sur les bouleversements dans le paysage publicitaire et les grands dossiers de ce début d’année : éviction de C8 et NRJ12 de la TNT, fin du fact-checking chez Meta, mesure des audiences « cross-media »…
+date : Wed, 22 Jan 2025 18:31:36 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/medias/pierre-branco-directeur-general-de-studio-tf1-newen-devient-studio-tf1-et-se-renforce-dans-le-cinema-20250121
+source : Le Figaro - Médias.xml
+title : Pierre Branco (directeur général de Studio TF1) : «Newen Studios devient Studio TF1 et se renforce dans le cinéma»
+description : Nouveau nom, évolution de l’activité, relations avec France Télévisions… Le directeur général de la société de production de Plus belle la vie fait le point sur la stratégie du groupe.
+date : Tue, 21 Jan 2025 17:30:00 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/musique/le-rappeur-sch-donne-son-dernier-disque-d-or-pour-soutenir-stream-for-humanity-20250121
+source : Le Figaro - Médias.xml
+title : Le rappeur SCH donne son dernier disque d’or pour soutenir «Stream for Humanity»
+description : La vente à l’encan de la récompense du rappeur, organisée lors du marathon caritatif en ligne, servira à « venir en aide aux familles victimes des conflits armés », notamment en «Palestine, au Congo, au Soudan et au Liban », affirment ses promoteurs.
+date : Tue, 21 Jan 2025 12:06:05 +0100
+categories : ['Musique', 'Médias']
+
+id : https://www.lefigaro.fr/medias/agressions-sexuelles-la-si-lourde-inertie-des-grands-medias-japonais-20250117
+source : Le Figaro - Médias.xml
+title : Agressions sexuelles : la si lourde inertie des grands médias japonais
+description : RÉCIT - Masahiro Nakai, un des plus célèbres animateurs télé du pays, est accusé d’avoir agressé une présentatrice de FujiTV en 2023. Les médias sont restés silencieux avant qu’un actionnaire de la chaîne ne s’offusque du non-traitement de l’affaire.
+date : Fri, 17 Jan 2025 21:19:55 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/medias/cela-va-devenir-un-casse-tete-commercial-le-virage-a-1800-de-meta-sur-la-moderation-plonge-les-annonceurs-dans-l-incertitude-20250117
+source : Le Figaro - Médias.xml
+title : «Cela va devenir un casse-tête commercial»: le virage à 180° de Meta sur la modération plonge les annonceurs dans l’incertitude
+description : DÉCRYPTAGE - Le secteur redoute de voir ses réseaux devenir aussi risqués que X, mais ne pourra pas se passer de leur puissance.
+date : Fri, 17 Jan 2025 18:56:07 +0100
+categories : ['Médias', 'Médias & Publicité']
+
+id : https://www.lefigaro.fr/medias/apres-son-echec-devant-la-cour-supreme-l-avenir-americain-de-tiktok-est-desormais-entre-les-mains-de-donald-trump-20250117
+source : Le Figaro - Médias.xml
+title : L’avenir américain de TikTok est désormais entre les mains de Donald Trump
+description : DÉCRYPTAGE - Le réseau social chinois s’est rendu inaccessible samedi aux États-Unis, au lendemain de la décision de la Cour suprême confirmant l’entrée en vigueur de la loi d’interdiction.
+date : Sun, 19 Jan 2025 17:10:08 +0100
+categories : ['Médias', 'Médias & Publicité']
+

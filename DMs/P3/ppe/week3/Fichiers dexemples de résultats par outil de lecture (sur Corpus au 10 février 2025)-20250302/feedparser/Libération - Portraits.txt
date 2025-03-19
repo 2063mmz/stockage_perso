@@ -1,0 +1,21 @@
+id : https://www.liberation.fr/portraits/marie-barsacq-sang-melee-20250209_IO5XIOK4ENDTDGT6MMJE4N3LE4/
+source : Libération - Portraits.xml
+title : Marie Barsacq, sang mêlée
+description : La ministre des Sports, de la Jeunesse et de la Vie associative , originaire du Sud-Ouest et fan de rugby, s’est épanouie au sein du comité d’organisation des JO de Paris 2024.
+date : Sun, 09 Feb 2025 16:08:51 +0000
+categories : []
+
+id : https://www.liberation.fr/portraits/philippe-vilain-les-annees-ernaux-20250209_LRSL4FSL4VG3JLXDFKEX66Z76A/
+source : Libération - Portraits.xml
+title : Philippe Vilain, les années Ernaux
+description : L’écrivain se réapproprie le récit de sa relation avec la Prix Nobel de littérature, quand il était étudiant et elle déjà célèbre.
+date : Sun, 09 Feb 2025 14:11:00 +0000
+categories : []
+
+id : https://www.liberation.fr/portraits/violette-dorange-la-bleue-20241018_PLNTW5NJZFEVNNRQIN6HMI7POU/
+source : Libération - Portraits.xml
+title : Violette Dorange, la bleue
+description : La navigatrice de 23 ans est la benjamine du Vendée Globe qu’elle dispute sur l’ancien bateau de Jean Le Cam, le doyen de l’épreuve.
+date : Sun, 09 Feb 2025 11:49:36 +0000
+categories : []
+

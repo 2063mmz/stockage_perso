@@ -1,0 +1,133 @@
+id : https://madame.lefigaro.fr/beaute/direction-la-provence-pour-la-deuxieme-echappee-feel-good-de-madame-figaro-20250102
+source : Le Figaro - Voyages.xml
+title : Idée Saint Valentin : une retraite bien-être 5* en Provence signée Madame Figaro
+description : La Rédaction pose ses valises au sein de l’emblématique Couvent des Minimes pour une parenthèse de trois jours avec la complicité de L’Occitane en Provence.
+date : Mon, 10 Feb 2025 12:44:03 +0100
+categories : ['Beauté']
+
+id : https://www.lefigaro.fr/voyages/guides/ou-et-quand-voir-des-aurores-boreales-20221120
+source : Le Figaro - Voyages.xml
+title : Islande, Norvège, Canada... Dans quels pays et quand observer les aurores boréales ?
+description : La magie de l’hiver apporte son lot de féerie et avec elle, le sublime spectacle des aurores boréales dans plusieurs pays nordiques. Quels sont les meilleures destinations pour les voir, et à quelle période de l’année ?
+date : Tue, 04 Feb 2025 18:09:24 +0100
+categories : ['Guides']
+
+id : https://www.lefigaro.fr/voyages/conseils/jours-feries-2024-quelles-sont-les-prochaines-dates-calendrier-pour-savoir-quand-faire-le-pont-20220817
+source : Le Figaro - Voyages.xml
+title : Jours fériés 2025 : quel est le prochain jour férié ? Les dates pour savoir quand faire le pont ou profiter d’un week-end prolongé
+description : Quel est le prochain jour férié ? À quelles dates tombent le lundi de Pâques, l’Ascension ou le lundi de Pentecôte cette année ? Consultez le calendrier des jours fériés 2025 en France.
+date : Fri, 31 Jan 2025 17:26:10 +0100
+categories : ['Conseils']
+
+id : https://www.lefigaro.fr/voyages/guides/japon-notre-guide-complet-pour-preparer-son-premier-voyage-20231008
+source : Le Figaro - Voyages.xml
+title : Japon : notre guide complet pour préparer son premier voyage
+description : GUIDE PAYS - Tokyo, la capitale, et Kyoto, l'ex-cité impériale du Kansai, sont les deux piliers d'un premier voyage au pays du Soleil Levant. Il faudra toutefois s'éloigner des villes pour découvrir toute la richesse du patrimoine naturel et culturel japonais.
+date : Mon, 09 Oct 2023 10:21:01 +0200
+categories : ['Guides']
+
+id : https://www.lefigaro.fr/voyages/on-les-envoie-a-la-mort-l-avenir-plus-qu-incertain-des-animaux-du-marineland-20250209
+source : Le Figaro - Voyages.xml
+title : «On les envoie à la mort» : l’avenir bien sombre de Wikie et Keijo, les orques du Marineland
+description : Le parc aquatique d’Antibes a fermé ses portes le 5 janvier. Mais que faire des cétacés habitués à la main de l’homme ? La piste d’un transfert dans un delphinarium en Espagne inquiète les associations.
+date : Mon, 10 Feb 2025 11:08:05 +0100
+categories : ['Voyage']
+
+id : https://www.lefigaro.fr/voyages/conseils/train-air-evolue-plus-vous-prenez-l-avion-moins-vous-paierez-le-train-20250210
+source : Le Figaro - Voyages.xml
+title : Train + Air évolue : plus vous prenez l’avion, moins vous paierez... le train
+description : Le service qui permet de réaliser des trajets ferroviaires et aériens avec un seul billet fête ses 30 ans. Pour l’occasion, les voyageurs profiteront de plusieurs nouveaux avantages.
+date : Mon, 10 Feb 2025 11:29:25 +0100
+categories : ['Conseils']
+
+id : https://www.lefigaro.fr/voyages/conseils/que-vaut-la-nouvelle-carte-de-fidelite-de-corsair-20250210
+source : Le Figaro - Voyages.xml
+title : Que vaut la nouvelle carte de fidélité de Corsair ?
+description : Corsair, la compagnie aérienne française, a dévoilé une refonte de son programme de fidélité, le Club Corsair, avec une promesse alléchante : récompenser davantage ses clients les plus fidèles. Mais que vaut réellement cette nouvelle carte de fidélité ?
+date : Mon, 10 Feb 2025 11:36:26 +0100
+categories : ['Conseils']
+
+id : https://www.lefigaro.fr/voyages/guides/ailleurs-le-podcast-du-figaro-qui-vous-fait-voyager-autrement-destination-le-quebec-20241127
+source : Le Figaro - Voyages.xml
+title : «Ailleurs», le podcast du Figaro qui vous fait voyager autrement : destination le Québec
+description : Faire un voyage qui s’écoute. Pour cette deuxième saison du podcast Ailleurs, des insiders, spécialistes de leur domaine, emmènent les auditeurs découvrir et explorer le Québec avec une passion et une énergie communicatives. Tendez l’oreille, vous êtes «Ailleurs».
+date : Wed, 04 Dec 2024 10:19:29 +0100
+categories : ['Guides']
+
+id : https://www.lefigaro.fr/voyages/guides/partir-au-soleil-en-hiver-10-destinations-et-plages-de-reve-ou-se-baigner-20230919
+source : Le Figaro - Voyages.xml
+title : Partir au soleil en hiver : 10 destinations et plages de rêve où se baigner
+description : Des plages inondées de soleil où l’on pose sa serviette sous l'ombre clairsemée des palmiers et cocotiers. Ne rangez pas les maillots de bain trop vite. Si l'hiver approche dans nos contrées, c'est que pointe l'été austral dans l'hémisphère sud. Voici 10 idées de destinations où rester dans le bain de l'été en plein hiver.
+date : Tue, 19 Sep 2023 19:00:00 +0200
+categories : ['Guides']
+
+id : https://www.lefigaro.fr/voyages/guides/safari-les-six-parcs-et-reserves-incontournables-du-kenya-20220313
+source : Le Figaro - Voyages.xml
+title : Safari au Kenya : les six parcs et réserves incontournables
+description : C'est la saison ! Grand comme la France et peuplé de 53 millions d'âmes, le Kenya est le pays du safari par excellence. Les plus beaux parcs nationaux à découvrir.
+date : Tue, 12 Apr 2022 10:43:43 +0200
+categories : ['Guides']
+
+id : https://www.lefigaro.fr/voyages/guides/carnaval-de-venise-2025-dates-programme-theme-au-temps-de-casanova-ce-qu-il-faut-savoir-20250202
+source : Le Figaro - Voyages.xml
+title : Carnaval de Venise 2025 : dates, programme, thème «Au temps de Casanova»... ce qu’il faut savoir
+description : Costumes et masques égayeront les rues et canaux de la Sérénissime du 14 février au 4 mars. L’édition 2025 du Carnaval de Venise célèbre l’extraordinaire Giacomo Casanova.
+date : Sun, 02 Feb 2025 14:51:15 +0100
+categories : ['Guides']
+
+id : https://www.lefigaro.fr/voyages/hotels/2025-en-france-ces-25-hotels-vont-faire-sensation-20250104
+source : Le Figaro - Voyages.xml
+title : En France, ces 25 nouveaux hôtels vont faire sensation en 2025
+description : De Paris à la Provence, 2025 réserve des ouvertures d’hôtels d’exception. Parmi plus de 100 projets, nous avons sélectionné 25 adresses uniques qui incarnent le luxe, l’audace et le charme à la française. Découvrez les lieux qui feront parler d’eux.
+date : Wed, 08 Jan 2025 15:33:13 +0100
+categories : ['Hôtels']
+
+id : https://www.lefigaro.fr/voyages/guides/ou-partir-au-maroc-nos-7-idees-de-voyage-en-toutes-saisons-de-l-ocean-au-desert-20230201
+source : Le Figaro - Voyages.xml
+title : Où partir au Maroc en 2025 ? Nos idées de voyages en toutes saisons, de l'océan au désert
+description : GUIDE&#160;- Méditerranéen, océanique, montagnard, citadin ou saharien… Autant de facettes du royaume et de façons de voyager au Maroc, en mode culturel, festif ou sportif. Notre sélection pour (re)découvrir la douceur de vivre marocaine.
+date : Mon, 13 Jan 2025 16:51:11 +0100
+categories : ['Guides']
+
+id : https://www.lefigaro.fr/voyages/hotels/hotels-les-50-ouvertures-les-plus-attendues-dans-le-monde-en-2025-20250101
+source : Le Figaro - Voyages.xml
+title : Hôtels : les 50 ouvertures les plus attendues dans le monde en 2025
+description : De New York à Tokyo, de Carthagène au Caire, 2025 s’annonce spectaculaire avec des ouvertures hôtelières d’exception. Luxe, design et expériences uniques promettent de redéfinir le voyage. Les nouvelles adresses préférées du Figaro aux quatre coins du monde.
+date : Sat, 04 Jan 2025 12:04:11 +0100
+categories : ['Hôtels']
+
+id : https://www.lefigaro.fr/voyages/guides/ou-partir-en-italie-en-2025-5-destinations-inattendues-20250108
+source : Le Figaro - Voyages.xml
+title : Où partir en Italie en 2025 ? 5 destinations inattendues
+description : Oubliez Rome, accaparée par le jubilé, Venise et Florence ! Pour découvrir une autre Italie, voici une sélection de&#160;charmantes petites villes d’art authentiques et peu courues.
+date : Wed, 08 Jan 2025 18:00:00 +0100
+categories : ['Guides']
+
+id : https://www.lefigaro.fr/voyages/guides/ou-partir-en-voyage-en-2025-nos-15-destinations-incontournables-20250102
+source : Le Figaro - Voyages.xml
+title : Où partir en voyage en 2025 ? Nos 15 destinations incontournables
+description : Parce qu’ils s’ouvrent au tourisme ou tout simplement parce qu’ils nous ont émerveillés, voici notre sélection des villes, régions et pays du monde où mettre le cap cette année. Attention les yeux !
+date : Thu, 02 Jan 2025 07:30:00 +0100
+categories : ['Guides']
+
+id : https://www.lefigaro.fr/voyages/guides/ou-partir-au-portugal-nos-incontournables-et-nouvelles-adresses-20240217
+source : Le Figaro - Voyages.xml
+title : Où partir au Portugal en 2025 ? Nos incontournables et nouvelles adresses
+description : Le Portugal ne se résume pas à Lisbonne ou Porto, ses deux métropoles les plus visitées. Entre authenticité, ruralité et littoral ensoleillé, découvrez notre sélection des meilleures destinations du pays.
+date : Fri, 17 Jan 2025 11:43:19 +0100
+categories : ['Guides']
+
+id : https://www.lefigaro.fr/voyages/hotels/sejour-a-stockholm-nos-hotels-preferes-dans-la-capitale-scandinave-20241113
+source : Le Figaro - Voyages.xml
+title : Séjour à Stockholm : nos hôtels préférés dans la capitale scandinave
+description : Stockholm, ville archipel, célèbre pour son «lagom» et son «fika», séduit les voyageurs par sa nature préservée, son urbanisme éclairé et ses spécificités culturelles uniques. Voici dix hôtels pour un séjour réussi dans la capitale suédoise.
+date : Wed, 29 Jan 2025 16:50:45 +0100
+categories : ['Hôtels']
+
+id : https://www.lefigaro.fr/voyages/hotels/madrid-en-pleine-effervescence-nos-5-hotels-coups-de-coeur-a-connaitre-20250108
+source : Le Figaro - Voyages.xml
+title : Madrid en pleine effervescence : nos 5 hôtels coups de cœur à connaître
+description : Longtemps dans l’ombre de Barcelone au niveau touristique, la capitale espagnole revient sur les devants de la scène. Depuis quelques années, Madrid multiplie les ouvertures d’hôtels. Voici notre sélection d’établissements du quatre au cinq étoiles.
+date : Thu, 09 Jan 2025 12:45:17 +0100
+categories : ['Hôtels']
+

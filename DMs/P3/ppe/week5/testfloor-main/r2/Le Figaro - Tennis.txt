@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/sports/tennis/tennis-mpetshi-perricard-forfait-a-marseille-20250210
+source : Le Figaro - Tennis.xml
+title : Tennis : Mpetshi Perricard forfait à Marseille
+description : Giovanni Mpetshi Perricard ne fera pas son retour sur les courts de l’ATP 250 de Marseille. Malade le Tricolore s’ajoute à la liste des forfaits déjà bien remplie.
+date : Mon, 10 Feb 2025 13:19:55 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-novak-djokovic-assure-etre-gueri-a-quasiment-100-20250210
+source : Le Figaro - Tennis.xml
+title : Tennis : Novak Djokovic assure être guéri à «quasiment 100%»
+description : Le Serbe a donné de ses nouvelles sur le plan médical en vue du tournoi à Doha auquel il prendra part dans une semaine.
+date : Mon, 10 Feb 2025 12:45:24 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-la-fantastique-remontada-de-belinda-bencic-au-classement-20250210
+source : Le Figaro - Tennis.xml
+title : Tennis : la fantastique remontada de Belinda Bencic au classement
+description : Grâce à son titre à Abou Dhabi, la Suissesse progresse de 92 places dans la hiérarchie mondiale.
+date : Mon, 10 Feb 2025 09:50:51 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-alex-de-minaur-frappe-de-nouveau-a-la-porte-du-top-5-20250210
+source : Le Figaro - Tennis.xml
+title : Tennis : Alex De Minaur frappe de nouveau à la porte du top 5
+description : Grâce à sa finale à Rotterdam, perdue face à Carlos Alcaraz, l’Australien remonte au 6e rang mondial.
+date : Mon, 10 Feb 2025 09:47:32 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-rome-roland-garros-us-open-les-5-plus-grands-matches-de-la-carriere-de-diego-schwartzman-20250210
+source : Le Figaro - Tennis.xml
+title : Tennis : Rome, Roland-Garros, US Open... Les 5 plus grands matches de la carrière de Diego Schwartzman
+description : Ancien demi-finaliste à Roland-Garros et membre du top 10, Diego Schwartzman s’apprête à mettre un terme à sa carrière cette semaine dans «son» tournoi de Buenos Aires. Voici les 5 plus grands matches de sa carrière.
+date : Mon, 10 Feb 2025 08:16:10 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-football-taille-retraite-5-choses-a-savoir-sur-diego-schwartzman-20250210
+source : Le Figaro - Tennis.xml
+title : Tennis : football, taille, retraite… 5 choses à savoir sur Diego Schwartzman
+description : À 32 ans, l’ancien numéro un argentin Schwartzman va dire adieu au tennis cette semaine à domicile à Buenos Aires.
+date : Mon, 10 Feb 2025 13:01:32 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-denis-shapovalov-domine-casper-ruud-et-remporte-l-atp-500-de-dallas-20250209
+source : Le Figaro - Tennis.xml
+title : Tennis : Denis Shapovalov domine Casper Ruud et remporte l'ATP 500 de Dallas
+description : Denis Shapovalov a remporté le tournoi ATP 500 de Dallas en dominant ce dimanche le Norvégien Casper Ruud, tête de série N.2, en deux sets 7-6 (7/5), 6-3.
+date : Sun, 09 Feb 2025 22:08:07 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-alcaraz-plus-fort-que-de-minaur-s-offre-son-premier-titre-de-la-saison-a-rotterdam-20250209
+source : Le Figaro - Tennis.xml
+title : Tennis : Alcaraz plus fort que De Minaur s’offre son premier titre de la saison à Rotterdam
+description : Gros combat, mais victoire finale pour Carlos Alcaraz à l’ATP 500 de Rotterdam face à l’Australien Alex De Minaur. Premier titre de l’année 2025 pour le numéro trois mondial.
+date : Sun, 09 Feb 2025 18:15:33 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-vers-une-fin-de-carriere-pour-lucas-pouille-20250209
+source : Le Figaro - Tennis.xml
+title : Tennis : vers une fin de carrière pour Lucas Pouille ?
+description : L’ancien n°10 mondial a, ce dimanche, été contraint à l’abandon, en finale du tournoi Challenger de Lille. Il souffre d’une rupture complète d’un tendon d’Achille.
+date : Sun, 09 Feb 2025 22:01:42 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-caroline-garcia-remporte-son-premier-match-en-2025-20250209
+source : Le Figaro - Tennis.xml
+title : Tennis : Caroline Garcia remporte à Doha son premier match en 2025
+description : Caroline Garcia a remporté son premier tour lors du tournoi de de Doha ce dimanche face à la Chinoise Yuan Yue. C’est sa première victoire depuis le mois de septembre dernier.
+date : Sun, 09 Feb 2025 14:18:18 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-shapovalov-affrontera-ruud-en-finale-a-dallas-20250209
+source : Le Figaro - Tennis.xml
+title : Tennis : Shapovalov affrontera Ruud en finale à Dallas
+description : Tombeur de Tommy Paul, le Canadien sera opposé au Norvégien ce dimanche.
+date : Sun, 09 Feb 2025 11:34:36 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-alcaraz-rejoint-de-minaur-en-finale-a-rotterdam-20250208
+source : Le Figaro - Tennis.xml
+title : tennis : Alcaraz rejoint De Minaur en finale à Rotterdam
+description : L’Espagnol a rejoint la finale du tournoi ATP 500 de Rotterdam ce samedi après sa victoire sur Hubert Hurkcaz (6-4, 6-7 (5/7), 6-3).
+date : Sat, 08 Feb 2025 22:47:40 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-alex-de-minaur-qualifie-pour-la-finale-a-rotterdam-20250208
+source : Le Figaro - Tennis.xml
+title : Tennis : Alex de Minaur qualifié pour la finale à Rotterdam
+description : Alex de Minaur s’est facilement qualifié pour la finale du tournoi de Rotterdam en éliminant l’Italien Bellucci en 2 sets. Il retrouvera Carlos Alcaraz ou Hubert Hurkacz en finale.
+date : Sat, 08 Feb 2025 17:01:25 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-bencic-remporte-le-tournoi-d-abu-dhabi-20250208
+source : Le Figaro - Tennis.xml
+title : Tennis : Belinda Bencic remporte le tournoi d’Abu Dhabi
+description : Belinda Bencic a remporté le tournoi d’Abu Dhabi ce samedi en battant en finale l’Américaine Ashlyn Krueger en 3 sets.
+date : Sat, 08 Feb 2025 16:47:34 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-echange-marathon-coup-entre-les-jambes-le-point-genial-remporte-par-de-minaur-a-rotterdam-20250208
+source : Le Figaro - Tennis.xml
+title : Tennis : échange marathon, coup entre les jambes, le point génial remporté par De Minaur à Rotterdam
+description : L’Australien a arraché un point après un duel d’une grande intensité face à Mattia Bellucci ce samedi aux Pays-Bas.
+date : Sat, 08 Feb 2025 16:02:59 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-un-possible-humbert-gasquet-en-huitiemes-de-finale-a-marseille-20250208
+source : Le Figaro - Tennis.xml
+title : Tennis : un possible Humbert-Gasquet en huitièmes de finale à Marseille
+description : Le tirage au sort de l’Open 13 de Marseille a eu lieu ce samedi. Parmi les potentielles belles affiches, Richard Gasquet pourrait retrouver Ugo Humbert en 8e de finale.
+date : Sat, 08 Feb 2025 15:29:26 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-shapovalov-et-paul-filent-en-demies-20250208
+source : Le Figaro - Tennis.xml
+title : Tennis :  Shapovalov et Paul filent en demies à Dallas
+description : Denis Shapovalov et Tommy Paul ont validé leur billet pour le dernier carré du tournoi texan.
+date : Sat, 08 Feb 2025 13:03:49 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-alcaraz-poursuit-sa-promenade-de-sante-a-rotterdam-20250207
+source : Le Figaro - Tennis.xml
+title : Tennis : Alcaraz poursuit sa promenade de santé à Rotterdam
+description : Carlos Alcaraz a facilement disposé de son compatriote Pedro Martinez en 2 sets ce vendredi soir en quarts de finale de l’ATP 500 de Rotterdam. Il retrouvera Rublev ou Hurkacz en demi-finales.
+date : Fri, 07 Feb 2025 21:50:27 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-bencic-sort-rybakina-et-rejoint-la-finale-a-abu-dhabi-20250207
+source : Le Figaro - Tennis.xml
+title : Tennis : Bencic sort Rybakina et rejoint la finale à Abu Dhabi
+description : Belinda Bencic a créé la surprise en éliminant la Kazakhe Elena Rybakina en demi-finales du tournoi d’Abu Dhabi ce vendredi. La Suissesse retrouvera l’Américaine Krueger samedi en finale.
+date : Fri, 07 Feb 2025 18:27:30 +0100
+categories : ['Tennis']
+
+id : https://www.lefigaro.fr/sports/tennis/tennis-la-sensation-bellucci-surclasse-tsitsipas-en-quarts-a-rotterdam-20250207
+source : Le Figaro - Tennis.xml
+title : Tennis : la sensation Bellucci surclasse Tsitsipas en quarts à Rotterdam
+description : Issu des qualifications, Mattia Bellucci (92e mondial) s’est qualifié vendredi pour la première demi-finale de son histoire sur le circuit principal, où il affrontera au tournoi ATP 500 de Rotterdam l’Australien Alex De Minaur (8e), finaliste sortant.
+date : Fri, 07 Feb 2025 17:11:08 +0100
+categories : ['Tennis']
+

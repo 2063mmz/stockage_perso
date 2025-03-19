@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/politique/le-scan/elections-europeennes-quels-sont-les-indicateurs-a-regarder-le-9-juin-20240605
+source : Le Figaro - Le Scan Politique.xml
+title : Élections européennes : quels sont les indicateurs à regarder le 9 juin ?
+description : ANALYSE - Combien de listes, trois, cinq ou sept, obtiendront des élus ? La liste des macronistes sera-t-elle 2e ou 3e ? L'écart entre le RN et les seconds sera-t-il historique ? Les clés pour comprendre le verdict de dimanche.
+date : Wed, 05 Jun 2024 09:00:00 +0200
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/politique/le-scan/mandats-fonctions-popularite-quel-bilan-pour-valery-giscard-d-estaing-elu-president-il-y-a-50-ans-20240521
+source : Le Figaro - Le Scan Politique.xml
+title : Mandats, fonctions, popularité: quel bilan pour Valéry Giscard d’Estaing, élu président il y a 50 ans?
+description : Valéry Giscard d’Estaing fut élu président de la République le 19 mai 1974. Il siégea aussi à l’Assemblée nationale, au Parlement européen, à la région Auvergne ou à l’Académie française.
+date : Tue, 21 May 2024 18:59:30 +0200
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/politique/le-scan/europeennes-la-liste-renaissance-peut-elle-compter-sur-la-resilience-d-un-electorat-attache-plus-que-d-autres-a-l-europe-20240424
+source : Le Figaro - Le Scan Politique.xml
+title : Européennes : la liste Renaissance peut-elle compter sur la résilience d'un électorat attaché plus que d'autres à l'Europe ?
+description : DÉCRYPTAGE - Alors que la liste de Valérie Hayer est à la peine dans les sondages, Pascal Perrineau, professeur émérite des universités à Sciences Po, analyse les faiblesses et les résiliences électorales du macronisme.
+date : Wed, 24 Apr 2024 07:00:00 +0200
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/politique/le-scan/proportionnelle-aux-legislatives-qu-aurait-donne-le-systeme-mixte-imagine-par-yael-braun-pivet-20240409
+source : Le Figaro - Le Scan Politique.xml
+title : Proportionnelle aux législatives : qu'aurait donné le système mixte imaginé par Yaël Braun-Pivet ?
+description : DÉCRYPTAGE - Avec la proportionnelle dans les 18 départements élisant 10 députés ou plus, la majorité aurait compté 26 élus de moins, le RN, 14 de plus et LR, 12 de plus.
+date : Tue, 09 Apr 2024 18:41:33 +0200
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/politique/le-scan/longevite-popularite-gouvernements-deplacements-quel-fut-le-bilan-politique-des-annees-pompidou-20240327
+source : Le Figaro - Le Scan Politique.xml
+title : Longévité, popularité, gouvernements, déplacements : quel fut le bilan politique des années Pompidou ?
+description : DÉCRYPTAGE - Disparu il y a cinquante ans, Georges Pompidou détient le record de longévité pour un premier ministre et le record de brièveté pour un président de la République
+date : Fri, 29 Mar 2024 16:36:50 +0100
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/politique/le-scan/du-parti-democrate-populaire-pdp-au-modem-peut-on-parler-de-100-ans-de-democratie-chretienne-20240320
+source : Le Figaro - Le Scan Politique.xml
+title : Du Parti démocrate populaire (PDP) au MoDem, peut-on parler de 100 ans de démocratie-chrétienne ?
+description : DÉCRYPTAGE - À l'occasion du congrès du MoDem, ce week-end à Blois, François Bayrou entend marquer le centenaire de la création du PDP, premier parti démocrate-chrétien.
+date : Wed, 20 Mar 2024 10:17:11 +0100
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/politique/le-scan/qu-est-devenu-l-espace-electoral-et-politique-de-la-droite-de-gouvernement-20240313
+source : Le Figaro - Le Scan Politique.xml
+title : Qu’est devenu l’espace électoral et politique de «la droite de gouvernement»?
+description : DÉCRYPTAGE - Professeur émérite des universités à Sciences Po, ancien directeur du Cevipof, Pascal Perrineau analyse la nature du recul électoral de la droite «de gouvernement».
+date : Wed, 13 Mar 2024 06:00:11 +0100
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/politique/le-scan/sur-quoi-ont-porte-les-25-revisions-constitutionnelles-de-la-ve-republique-20240304
+source : Le Figaro - Le Scan Politique.xml
+title : Sur quoi ont porté les 25 révisions constitutionnelles de la Ve République?
+description : DÉCRYPTAGE - L’inscription de la «liberté garantie» de l’avortement sera la première depuis 2008. Depuis 1958, seules deux réformes ont été adoptées par référendum.
+date : Mon, 04 Mar 2024 09:27:42 +0100
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/politique/le-scan/un-gouvernement-attal-finalement-peu-resserre-plutot-jeune-et-tres-francilien-20240209
+source : Le Figaro - Le Scan Politique.xml
+title : Un gouvernement Attal finalement peu resserré, plutôt jeune et très francilien
+description : Un tiers des ministres sont élus d'Île-de-France. La moitié ont conservé leur poste de l'équipe Borne, un quart a changé de portefeuille et un quart sont des nouveaux. Avec 35 membres, le gouvernement Attal est plus garni que 21 autres équipes sous la Ve. La benjamine, Marie Lebec, a 33 ans, la doyenne, Nicole Belloubet, 68.
+date : Sat, 10 Feb 2024 10:38:54 +0100
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/politique/le-scan/y-a-t-il-encore-un-espace-electoral-pour-la-gauche-socialiste-20240207
+source : Le Figaro - Le Scan Politique.xml
+title : Y a-t-il encore un espace électoral pour la gauche socialiste ?
+description : ANALYSE - Si les dernières décennies sont bien celles d'une profonde perte d'influence électorale de la gauche, les crises du macronisme et du mélenchonisme pourraient rebattre les cartes.
+date : Wed, 07 Feb 2024 10:45:57 +0100
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/politique/le-scan/depuis-2017-le-groupe-lrem-perd-un-depute-tous-les-deux-mois-et-demi-20191113
+source : Le Figaro - Le Scan Politique.xml
+title : Où sont passés les 45 députés perdus par LREM en trois ans?
+description : INFOGRAPHIE - Depuis 2017, les démissions et les exclusions ont privé les Marcheurs de leur majorité absolue. Une hémorragie inédite pour un groupe majoritaire sous la Ve République.
+date : Tue, 07 Sep 2021 15:07:42 +0200
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/politique/le-scan/de-malraux-a-dati-qui-furent-les-27-ministres-de-la-culture-20240123
+source : Le Figaro - Le Scan Politique.xml
+title : De Malraux à Dati, qui furent les 27 ministres de la Culture ?
+description : DÉCRYPTAGE - Rachida Dati est la 11e femme à la tête de ce ministère marqué par les deux décennies d'André Malraux et de Jack Lang.
+date : Tue, 23 Jan 2024 19:23:01 +0100
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/politique/le-scan/carte-electorale-les-biais-politiques-d-un-critere-demographique-a-bout-de-souffle-20240109
+source : Le Figaro - Le Scan Politique.xml
+title : Carte électorale: les biais politiques d’un critère démographique à bout de souffle
+description : LE SCAN POLITIQUE - Sous l’effet de la pression migratoire et démographique, le critère de la population totale fixant le nombre de députés n’est plus une garantie démocratique.
+date : Tue, 09 Jan 2024 20:22:51 +0100
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/politique/le-scan/quelles-sont-les-cles-de-la-popularite-de-gabriel-attal-20231128
+source : Le Figaro - Le Scan Politique.xml
+title : Quelles sont les clés de la popularité de Gabriel Attal?
+description : ANALYSE - Sa nomination à Matignon, moins de six mois après son arrivée au ministère de l’Éducation nationale, fait de lui le plus jeune premier ministre de la Ve République.
+date : Tue, 09 Jan 2024 13:04:56 +0100
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/politique/le-scan/municipales-anne-hidalgo-gregory-doucet-et-benoit-payan-auraient-ils-ete-battus-avec-un-vote-a-l-echelle-de-la-ville-20231114
+source : Le Figaro - Le Scan Politique.xml
+title : Municipales: Anne Hidalgo, Grégory Doucet et Benoît Payan auraient-ils été battus avec un vote à l’échelle de la ville?
+description : ANALYSE - Une fusion parfaite de la droite et des macronistes aurait rendu le résultat très incertain à Paris et à Lyon.
+date : Tue, 14 Nov 2023 14:53:29 +0100
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/politique/le-scan/sondages-pour-melenchon-est-ce-vraiment-la-chute-finale-20231108
+source : Le Figaro - Le Scan Politique.xml
+title : Sondages: pour Mélenchon, est-ce vraiment la chute finale?
+description : DÉCRYPTAGE - Le constat de cette baisse s’explique par des défections au sein de son socle électoral. Celui qui l’avait porté lors des précédentes élections en 2022 et 2017.
+date : Wed, 08 Nov 2023 15:45:17 +0100
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/les-deux-tiers-des-senateurs-candidats-a-leur-propre-succession-20200918
+source : Le Figaro - Le Scan Politique.xml
+title : Les deux tiers des sénateurs candidats à leur propre succession
+description : FIG DATA - Sur les 172 élus qui remettent leur siège en jeu lors des élections du 27 septembre prochain, seuls 60 ne se représentent pas.
+date : Fri, 18 Sep 2020 17:46:53 +0200
+categories : ['Actualité', 'Le Scan Politique']
+
+id : https://www.lefigaro.fr/politique/le-scan/plus-age-plus-feminin-plus-a-droite-le-nouveau-gouvernement-en-un-coup-d-oeil-20200707
+source : Le Figaro - Le Scan Politique.xml
+title : D'abord féminin, plus jeune, autant de gauche que de droite... Le gouvernement en un coup d'œil
+description : Découvrez les équilibres et déséquilibres de l'équipe Castex, au complet depuis dimanche.
+date : Tue, 28 Jul 2020 07:55:08 +0200
+categories : ['Le Scan Politique', 'Scan Politique']
+
+id : https://www.lefigaro.fr/politique/face-a-la-crise-le-paradoxe-d-une-opinion-a-la-fois-sur-informee-et-sur-angoissee-20200428
+source : Le Figaro - Le Scan Politique.xml
+title : Face à la crise, le paradoxe d’une opinion à la fois sur-informée et sur-angoissée
+description : DÉCRYPTAGE - L’essor des réseaux sociaux pallie l’absence de sociabilité «physique». Que nous révèlent les sondages?
+date : Tue, 28 Apr 2020 09:42:43 +0200
+categories : ['Le Scan Politique', 'Politique']
+
+id : https://www.lefigaro.fr/politique/municipales-lrem-defiee-par-les-dissidences-internes-20200305
+source : Le Figaro - Le Scan Politique.xml
+title : Municipales: LREM défiée par les dissidences internes
+description : ANALYSE - Dans 15 des 40 villes de plus de 100.000 habitants, des marcheurs concurrencent la liste choisie par leur parti.
+date : Thu, 05 Mar 2020 19:37:12 +0100
+categories : ['Le Scan Politique', 'Politique']
+

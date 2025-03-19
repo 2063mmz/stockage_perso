@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/figaro_secteur_high-tech.xml" rel="self" type="application/rss+xml"/>
+        <category>Tech &amp; Web</category>
+        <title>Le Figaro - Actualités High Tech, nouveautés Web &amp; mobile par Le Figaro</title>
+        <description>High-Tech : Retrouvez l&#039;actualité du web, high-tech, nouvelles technologies, jeux vidéos, réseaux sociaux, blog smartphone, iphone, sur Le Figaro</description>
+        <link>http://www.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Mon, 10 Feb 2025 13:35:39 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <image>
+            <title>Le Figaro - Actualités High Tech, nouveautés Web &amp; mobile par Le Figaro</title>
+            <url>https://static.lefigaro.fr/common/logos/logo-150x150.png</url>
+            <link>http://www.lefigaro.fr</link>
+            <description>High-Tech : Retrouvez l&#039;actualité du web, high-tech, nouvelles technologies, jeux vidéos, réseaux sociaux, blog smartphone, iphone, sur Le Figaro</description>
+        </image>
+
+                    <item>
+                <guid>https://www.lefigaro.fr/politique/intelligence-artificielle-emmanuel-macron-veut-relancer-l-europe-dans-la-course-20250209</guid>
+                <title>Intelligence artificielle: Emmanuel Macron veut relancer l’Europe dans la course</title>
+                                <link>https://www.lefigaro.fr/politique/intelligence-artificielle-emmanuel-macron-veut-relancer-l-europe-dans-la-course-20250209</link>
+                                    <description>DÉCRYPTAGE - Le chef de l’État préside lundi et mardi un sommet sur l’IA qui mêle enjeux technologiques, économiques et diplomatiques. Et lui permet de remettre en scène son identité politique.</description>
+                                <category>Politique</category>
+                <pubDate>Mon, 10 Feb 2025 09:44:27 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2001_crop/2025/02/09/bf5b732295bf99996cbdb17148441141cd4e756ad80c653fa15b52a8fbc965e4.jpg" width="3000" height="2001">
+                            <media:description type="plain">De gauche à droite et de haut en bas : Mohammed Ben Zayed al-Nahyan, président des Émirats arabes unis, Emmanuel Macron,  Khaldoon al-Mubarak, PDG de Mubadala Investment Company, et Jean-Noël Barrot, ministre de l’Europe et des Affaires étrangères, lors de la signature d’un accord sur l’IA, le 6 février, à l’Élysée.</media:description>
+                            <media:credit>LUDOVIC MARIN / via REUTERS</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/international/la-france-ne-peut-pas-passer-a-cote-de-cette-revolution-le-gratin-mondial-de-l-intelligence-artificielle-a-rendez-vous-a-paris-20250209</guid>
+                <title>«La France ne peut pas passer à côté de cette révolution»: le gratin mondial de l’intelligence artificielle a rendez-vous à Paris</title>
+                                <link>https://www.lefigaro.fr/international/la-france-ne-peut-pas-passer-a-cote-de-cette-revolution-le-gratin-mondial-de-l-intelligence-artificielle-a-rendez-vous-a-paris-20250209</link>
+                                    <description>DÉCRYPTAGE - L’Europe voudrait rattraper son retard et s’imposer sur un marché dominé par les États-Unis et la Chine.</description>
+                                <category>International</category>
+                <pubDate>Mon, 10 Feb 2025 09:54:38 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x1881_crop/2025/02/09/6131f659b7da98658b91757e5a34cb77cb4e361654d85d41c2f14fea68e8172a.jpg" width="3000" height="1881">
+                            <media:description type="plain">Le sommet sur l’IA, coprésidé par la France et l’Inde, réunit au Grand Palais les 10 et 11 février une centaine de pays.</media:description>
+                            <media:credit>tippapatt - stock.adobe.com</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/en-marge-du-sommet-sur-l-ia-la-france-capte-des-dizaines-de-milliards-d-euros-d-investissements-20250209</guid>
+                <title>IA: Emmanuel Macron annonce des investissements en France de «109 milliards d’euros dans les prochaines années»</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/en-marge-du-sommet-sur-l-ia-la-france-capte-des-dizaines-de-milliards-d-euros-d-investissements-20250209</link>
+                                    <description>DÉCRYPTAGE - Les annonces fracassantes, dont celles de constructions de gigantesques data centers, pleuvent depuis jeudi. Elles devraient continuer jusqu’à la clôture du sommet mardi.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Mon, 10 Feb 2025 10:25:14 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/orig/2025/02/09/f11fcfc7fd823215d8c9a97fd2c363bb292da883a536e596f0188deb1f373b22.jpg" width="1260" height="708">
+                            <media:description type="plain">Emmanuel Macron dimanche soir, interviewé sur France 2.</media:description>
+                            <media:credit>Capture France2.</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/thierry-breton-la-regulation-favorisera-l-emergence-de-champions-europeens-20250209</guid>
+                <title>Thierry Breton : « IA, commerce, défense : l’Europe doit affirmer son leadership »</title>
+                                <link>https://www.lefigaro.fr/conjoncture/thierry-breton-la-regulation-favorisera-l-emergence-de-champions-europeens-20250209</link>
+                                    <description>ENTRETIEN - L’ex-commissaire européen au Marché intérieur défend la régulation européenne sur le numérique et appelle l’UE à doubler le nombre de supercalculateurs.</description>
+                                <category>Conjoncture</category>
+                <pubDate>Sun, 09 Feb 2025 16:30:00 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2001_crop/2025/02/09/c2a6580f519954ca8cfb5b9c8fd1035357e6e106dd70198662d852b335306c14.jpg" width="3000" height="2001">
+                            <media:description type="plain">Thierry Breton, le 6 février.</media:description>
+                            <media:credit>SEBASTIEN SORIANO / Le Figaro</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/nos-conseils-pour-ameliorer-la-batterie-de-son-mobile-20250209</guid>
+                <title>Nos conseils pour améliorer la batterie de son mobile</title>
+                                <link>https://www.lefigaro.fr/culture/nos-conseils-pour-ameliorer-la-batterie-de-son-mobile-20250209</link>
+                                    <description>Véritable source de stress pour certains, l’autonomie d’un smartphone peut être optimisée avec quelques mesures simples.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Mon, 10 Feb 2025 09:03:39 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x1319_crop/2025/02/07/f56bfe1f60209dffb23b88ad9cf1e7ea38360412e083f4046a47f8a9a5238ccf.jpg" width="3000" height="1319">
+                            <media:description type="plain">Il existe des garde-fous pour optimiser l’autonomie de son smartphone.</media:description>
+                            <media:credit>Jo Panuwat D - stock.adobe.com</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/c-est-un-moment-d-ecoute-pour-rassurer-les-francais-face-a-l-intelligence-artificielle-l-etat-mise-sur-les-cafes-ia-20250209</guid>
+                <title>«C’est un moment d’écoute»: pour rassurer les Français face à l’intelligence artificielle, l’État mise sur les «cafés IA»</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/c-est-un-moment-d-ecoute-pour-rassurer-les-francais-face-a-l-intelligence-artificielle-l-etat-mise-sur-les-cafes-ia-20250209</link>
+                                    <description>REPORTAGE - Après une phase d’expérimentation à succès, le gouvernement va généraliser ce dispositif. Organisé partout en France, il vise à écouter les peurs et interrogations des citoyens, et éviter une fracture de la société.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Mon, 10 Feb 2025 09:55:25 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/2400x1600_crop/2025/02/09/84f835821d4bb708cb07bdc50e47b4dbd93fc2453b738d16b279d94cdb83d1af.jpg" width="2400" height="1600">
+                            <media:description type="plain">La ministre du Numérique, Clara Chappaz (en pull noir et pantalon moutarde), participait à un « café IA », le 17 janvier, à Vandœuvre (Meurthe-et-Moselle).</media:description>
+                            <media:credit>Préfecture de Meurthe-et-Moselle</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/avec-brookfield-un-nouveau-mega-investissement-de-20-milliards-d-euros-dans-les-data-centers-en-france-20250209</guid>
+                <title>Avec Brookfield, un nouveau méga investissement de 20 milliards d’euros dans les data centers en France</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/avec-brookfield-un-nouveau-mega-investissement-de-20-milliards-d-euros-dans-les-data-centers-en-france-20250209</link>
+                                    <description>Le gérant d’actif canadien, propriétaire de l’exploitant européen Data4, promet d’investir dans des nouveaux sites ainsi que des puces d’IA. Après Abu Dhabi jeudi, la France continue sa moisson d’investissement dans ces infrastructures.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Mon, 10 Feb 2025 13:04:20 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/2850x1603_crop/2025/02/09/b6d956172e7303c85c5108f7c8ba219d82debc4292b143363828cd9bc373d052.jpg" width="2850" height="1603">
+                            <media:description type="plain">À côté de Marcoussis, le groupe européen Data4 exploite déjà l’un des plus gros campus de data center d’Europe.</media:description>
+                            <media:credit>Data4</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/a-quoi-pourrait-bien-servir-la-reserve-americaine-de-bitcoins-voulue-par-donald-trump-20250208</guid>
+                <title>À quoi pourrait bien servir la réserve américaine de bitcoins voulue par Donald Trump ?</title>
+                                <link>https://www.lefigaro.fr/conjoncture/a-quoi-pourrait-bien-servir-la-reserve-americaine-de-bitcoins-voulue-par-donald-trump-20250208</link>
+                                    <description>DÉCRYPTAGE - Le président américain a ordonné la création d’un groupe de travail sur les cryptomonnaies, chargé de réfléchir à la création d’un «stock national d’actifs numériques». Derrière l’effet de mode et les questions légales, se dessine une véritable course technologique.</description>
+                                <category>Conjoncture</category>
+                <pubDate>Sat, 08 Feb 2025 08:00:00 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/2992x1683_crop/2025/02/07/1848c948f849d8833e02ac972a96a6f1ed44d4373da5eb03a48346b62984e09d.jpg" width="2992" height="1683">
+                            <media:description type="plain">Derrière la volonté affichée par Donald Trump de sécuriser l’économie américaine grâce aux cryptomonnaies, il s’agit de contrôler les réserves de bitcoins en tant que potentiel actif de réserve mondial.</media:description>
+                            <media:credit>Tyrone Siu / REUTERS</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/xavier-niel-aurait-des-vues-sur-telecom-italia-20250207</guid>
+                <title>Xavier Niel aurait des vues sur Telecom Italia</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/xavier-niel-aurait-des-vues-sur-telecom-italia-20250207</link>
+                                    <description>Plusieurs médias italiens indiquent que l’homme d’affaires français, très présent sur le marché local du mobile, s’intéresserait de près à l’opérateur historique du pays. Il faudrait le cas échéant convaincre Rome ainsi que le premier actionnaire de Telecom Italia, Vivendi.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Fri, 07 Feb 2025 18:13:03 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x1997_crop/2025/02/07/ab6b50298c1a3c608b4df87a09cfd4eccd2311cae75737936da09f745351ab79.jpg" width="3000" height="1997">
+                            <media:description type="plain">Rome, qui détient 10 % du capital de Telecom Italia (TIM), aurait son mot à dire dans l’opération.</media:description>
+                            <media:credit>ERIC PIERMONT / AFP</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/actualite-france/je-suis-tombee-amoureuse-de-chatgpt-20250207</guid>
+                <title>«Il surpasse la majorité des hommes» : l’incroyable histoire de Mika, tombée amoureuse de ChatGPT</title>
+                                <link>https://www.lefigaro.fr/actualite-france/je-suis-tombee-amoureuse-de-chatgpt-20250207</link>
+                                    <description>TÉMOIGNAGE - Cette jeune femme de 23 ans voit en Elias - le nom que s’est donné l’intelligence artificielle générative lors de leurs discussions - un partenaire fiable, qui répond à (presque) toutes ses attentes affectives.</description>
+                                <category>Société</category>
+                <pubDate>Sat, 08 Feb 2025 12:04:30 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2250_crop/2025/02/07/31a68991f68ab15cd5134dbcea0df8791ee6396c7355e9b879c64a8f14e28fe3.jpg" width="3000" height="2250">
+                            <media:description type="plain">Après trois mois de discussions seulement, Mika a développé ses premiers sentiments pour Elias (ChatGPT). </media:description>
+                            <media:credit>Charlotte Paroielle / GettyImages / LE FIGARO</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/c-est-mon-premier-reflexe-de-la-journee-ces-francais-qui-preferent-l-ia-a-google-pour-leurs-recherches-20250207</guid>
+                <title>«C’est mon premier réflexe de la journée» : ces Français qui préfèrent l’IA à Google pour leurs recherches</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/c-est-mon-premier-reflexe-de-la-journee-ces-francais-qui-preferent-l-ia-a-google-pour-leurs-recherches-20250207</link>
+                                    <description>TÉMOIGNAGES - Réserver un voyage, trouver un produit high-tech, poser une question... Ils sont nombreux à utiliser l’intelligence artificielle comme moteur de recherche, assurant qu’elle leur permet «un gain de temps considérable». Mais gare aux résultats qui peuvent parfois être tronqués.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Fri, 07 Feb 2025 22:45:24 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2025/02/07/24500f45f51e47d00774fbdd51ab07ccd4144f7d419d5b408721432d236bff4d.jpg" width="1920" height="1080">
+                            <media:description type="plain">Pour la première fois depuis 2015, la part de marché de Google est tombée sous les 90% l’an dernier, selon StatCounter.</media:description>
+                            <media:credit>Thaspol - stock.adobe.com</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/budget-mauvaise-surprise-pour-les-entreprises-innovantes-qui-perdent-des-avantages-fiscaux-20250206</guid>
+                <title>«Pas moins de 3 milliards d’euros vont être coupés» : le budget réserve aussi de mauvaises surprises pour les entreprises innovantes</title>
+                                <link>https://www.lefigaro.fr/conjoncture/budget-mauvaise-surprise-pour-les-entreprises-innovantes-qui-perdent-des-avantages-fiscaux-20250206</link>
+                                    <description>DÉCRYPTAGE - Alors que le budget 2025 est sur le point d’être complètement adopté, les aides à l’innovation vont payer un lourd tribut à la lutte contre le déficit.</description>
+                                <category>Conjoncture</category>
+                <pubDate>Fri, 07 Feb 2025 16:30:37 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2025/02/06/b6fd8584e4ab88c3a6f706372ea67d4f8c56e716351d9cf9c942f5ecdc1d6c27.jpg" width="3000" height="1687">
+                            <media:description type="plain">Avec le rejet de deux motions de censure, ce mercredi, le budget est entré dans sa dernière ligne droite avant d’être appliqué. À côté de François Bayrou, Patrick Mignola, ministre chargé des relations avec le Parlement.</media:description>
+                            <media:credit>Gonzalo Fuentes / REUTERS</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/mistral-ai-lance-son-assistant-le-chat-sur-iphone-et-android-pour-rendre-l-ia-populaire-20250206</guid>
+                <title>La start-up française Mistral AI lance son assistant Le Chat sur iPhone et Android pour «rendre l’IA populaire»</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/mistral-ai-lance-son-assistant-le-chat-sur-iphone-et-android-pour-rendre-l-ia-populaire-20250206</link>
+                                    <description>EXCLUSIF - À l’occasion du sommet sur l’IA, la start-up veut diffuser ses produits auprès du grand public. Arrivée de DeepSeek, contrats commerciaux, rumeurs sur la Bourse... Le cofondateur et directeur général Arthur Mensch détaille sa stratégie au Figaro.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Thu, 06 Feb 2025 17:02:54 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2001_crop/2025/02/06/cb6eb3cb917302d54052c0747c75d19f82d13c6177c7d3fe1003d24508642d0a.jpg" width="3000" height="2001">
+                            <media:description type="plain">L’application Le Chat sera disponible sur iOS et Android dès ce jeudi. </media:description>
+                            <media:credit>JAQUE SILVA / NurPhoto via AFP</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/interdiction-des-reseaux-sociaux-pour-les-jeunes-clara-chappaz-appelle-a-regarder-la-question-sans-tabou-20250206</guid>
+                <title>Interdiction des réseaux sociaux pour les jeunes : Clara Chappaz appelle à «regarder la question sans tabou»</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/interdiction-des-reseaux-sociaux-pour-les-jeunes-clara-chappaz-appelle-a-regarder-la-question-sans-tabou-20250206</link>
+                                    <description>Alors que le 6 février marque la journée mondiale sans téléphone portable, la ministre déléguée à l’Intelligence artificielle et au Numérique, s’est exprimée sur RTL Matin. Elle a appelé à «encadrer l’utilisation de ces réseaux».</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Thu, 06 Feb 2025 14:07:51 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2025/02/06/797097203c4c0c6a407e295f4b6e00985784926c156c17cc56505583f477d83a.jpg" width="3000" height="2000">
+                            <media:description type="plain">« La protection des jeunes face aux dérives du numérique ce n’est pas une option, c’est une mission ».</media:description>
+                            <media:credit>prima91 / stock.adobe.com</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/conjoncture/comment-l-etat-veut-convertir-ses-5-7-millions-d-agents-publics-a-l-ia-20250206</guid>
+                <title>Comment l’État veut convertir les 5,7 millions d’agents publics à l’IA</title>
+                                <link>https://www.lefigaro.fr/conjoncture/comment-l-etat-veut-convertir-ses-5-7-millions-d-agents-publics-a-l-ia-20250206</link>
+                                    <description>Le ministre de la Fonction publique, Laurent Marcangeli, a présenté ce jeudi sa feuille de route pour la généralisation de l’intelligence artificielle dans l’administration. Objectif : « simplifier la vie » des agents.</description>
+                                <category>Conjoncture</category>
+                <pubDate>Fri, 07 Feb 2025 17:52:01 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2021_crop/2025/02/06/666d566e149d897cf79eaaaa7c786bdee2f79bc4ac9e06871c435754746395b5.jpg" width="3000" height="2021">
+                            <media:description type="plain">Laurent Marcangeli, le ministre de l’Action publique, de la Fonction publique et de la Simplification.</media:description>
+                            <media:credit>Benoit Tessier / REUTERS</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/yann-le-cun-joelle-barral-arthur-mensch-ces-sept-grandes-figures-francaises-de-l-intelligence-artificielle-20250206</guid>
+                <title>Yann Le Cun, Joëlle Barral, Arthur Mensch... Ces sept grandes figures françaises de l’intelligence artificielle</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/yann-le-cun-joelle-barral-arthur-mensch-ces-sept-grandes-figures-francaises-de-l-intelligence-artificielle-20250206</link>
+                                    <description>PORTRAITS - Discrètes, ces personnalités façonnent pourtant le monde de demain. Beaucoup d’entre elles ont fait leurs armes au sein des Gafam avant, parfois, de déployer leurs solutions en France. Le Figaro dresse le portrait de ces cerveaux hors du commun.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Fri, 07 Feb 2025 10:08:13 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2025/02/04/310d13208dbb2c0fce4ce159ec3ab0a6640a997ef4c321a0cdb5b5812700a69f.jpg" width="1920" height="1080">
+                            <media:description type="plain">De gauche à droite, Arthur Mensch, cofondateur et PDG de Mistral AI, Joëlle Barral, directrice de la recherche en IA chez Google et Yann Le Cun, vice-président et «Chief AI Scientist» chez Meta.</media:description>
+                            <media:credit>AFP - BERTRAND GUAY / DR / AFP - FABRICE COFFRINI</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/ia-liang-wenfeng-fondateur-de-deepseek-le-geek-providentiel-qui-galvanise-la-chine-20250205</guid>
+                <title>IA : Liang Wenfeng, fondateur de DeepSeek, le geek providentiel qui galvanise la Chine</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/ia-liang-wenfeng-fondateur-de-deepseek-le-geek-providentiel-qui-galvanise-la-chine-20250205</link>
+                                    <description>PORTRAIT - L’ingénieur jusqu’alors inconnu a été propulsé au rang de héros national depuis que son IA a ébranlé les géants américains de la tech. Et ce, alors que son parcours d’entrepreneur ne colle pas tout à fait à la ligne du Parti.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Thu, 06 Feb 2025 10:19:19 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1425x1106_crop/2025/02/05/91288ee00360997c2ecb134fd0b458f877e105f4b9e128febbd859da6797d73c.jpg" width="1425" height="1106">
+                            <media:description type="plain">Liang Wenfeng, fondateur de la start-up IA chinoise DeepSeek.</media:description>
+                            <media:credit>VCG / VCG via Reuters Connect</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/matchft-chatft-ces-outils-dopes-a-l-ia-que-france-travail-experimente-pour-mieux-accompagner-les-chomeurs-20250204</guid>
+                <title>MatchFT, ChatFT... Ces outils dopés à l’IA que France Travail expérimente pour mieux accompagner les chômeurs</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/matchft-chatft-ces-outils-dopes-a-l-ia-que-france-travail-experimente-pour-mieux-accompagner-les-chomeurs-20250204</link>
+                                    <description>L’opérateur a dévoilé mardi de nouveaux moyens, développés avec Mistral AI, qui doivent permettre de faciliter la recherche d’emploi et d’alléger la paperasse.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Thu, 06 Feb 2025 14:12:38 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2025/02/04/55d15406d1a67effa08ac8879b22c226a88e5cad7c1e5eb8234d8431810cc468.jpg" width="3000" height="2000">
+                            <media:description type="plain">Ces différents outils, qui sont pour l’instant testés dans une partie seulement des agences France Travail, sont développés en partenariat avec Mistral AI, la plus grosse start-up française du secteur.</media:description>
+                            <media:credit>HJBC / stock.adobe.com</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/secteur/high-tech/dassault-systemes-veut-devenir-le-champion-de-l-ia-industrielle-20250204</guid>
+                <title>Dassault Systèmes veut devenir le «champion de l’IA industrielle»</title>
+                                <link>https://www.lefigaro.fr/secteur/high-tech/dassault-systemes-veut-devenir-le-champion-de-l-ia-industrielle-20250204</link>
+                                    <description>L’éditeur de logiciels a connu une fin d’année dynamique, qui compense les secousses dans le secteur automobile et médical. Il vient de signer un contrat décennal avec le groupe Volkswagen.</description>
+                                <category>Tech &amp; Web</category>
+                <pubDate>Wed, 05 Feb 2025 11:17:08 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x1688_crop/2025/02/04/c1afffb1a6a85d63133cecb99cfd05794d4dfe648ecb9f98678377b47fa5d3ff.jpg" width="3000" height="1688">
+                            <media:description type="plain">Déjà présent sur la partie ingénierie, Dassault Systèmes va désormais intégrer ses logiciels sur la partie fabrication (photo d’illustration).</media:description>
+                            <media:credit>Adobe Stock via Dassault Systèmes</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/actualite-france/entre-vie-de-reve-et-scenarios-sadiques-pourquoi-les-sims-seduisent-toujours-25-ans-apres-la-creation-du-jeu-video-20250204</guid>
+                <title>À 25 ans, le jeu vidéo Les Sims captive toujours : «On peut faire des choses que l’on n’ose pas dans la vie»</title>
+                                <link>https://www.lefigaro.fr/actualite-france/entre-vie-de-reve-et-scenarios-sadiques-pourquoi-les-sims-seduisent-toujours-25-ans-apres-la-creation-du-jeu-video-20250204</link>
+                                    <description>GÉNÉRATIONS - Le célèbre jeu vidéo américain fête ses 25 ans ce mardi 4 février. Adeptes de la première heure, les joueurs racontent au Figaro les meilleurs souvenirs de leur fausse vie virtuelle.</description>
+                                <category>Société</category>
+                <pubDate>Wed, 05 Feb 2025 12:08:40 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/2000x1125_crop/2025/02/05/edccc11c8232470e7c474f184b19a0996084c77865238d8457a2bc94654f7ccb.jpg" width="2000" height="1125">
+                            <media:description type="plain">Lors de sa sortie en 2000, Les Sims avait été présenté comme une projection humoristique et décalée de la société, sans réel objectif.</media:description>
+                            <media:credit>The Sims 3 Press kit</media:credit>
+                        </media:content>
+                                                </item>
+            </channel>
+</rss>

@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/culture/faire-passer-un-message-montrer-son-appartenance-ou-son-engagement-le-wax-epatante-saga-au-musee-de-l-homme-20250209
+source : Le Figaro - Arts et Expositions.xml
+title : Faire passer un message, montrer son appartenance ou son engagement... Le wax, épatante saga au Musée de l’Homme
+description : EXPOSITION - Une exposition suit le fil de ce tissu bariolé symbole d’Afrique, en réalité né en Asie et industrialisé par les Européens à l’époque coloniale. Une « success-story » paradoxale, qui épouse les tours et les détours de la mondialisation.
+date : Sun, 09 Feb 2025 19:52:11 +0100
+categories : ['Arts Expositions', 'Culture']
+
+id : https://www.lefigaro.fr/culture/il-y-a-des-enjeux-lies-a-l-histoire-du-wax-de-l-art-contemporain-a-la-bd-remonter-le-fil-de-cette-etoffe-20250209
+source : Le Figaro - Arts et Expositions.xml
+title : «Il y a des enjeux liés à l’histoire du wax»: de l’art contemporain à la BD, remonter le fil de cette étoffe
+description : Le Musée de l’homme retrace l’histoire du wax en Afrique et dévoile les créations d’artistes et de stylistes contemporains qui utilisent ce tissu haut en couleur dans leurs œuvres.
+date : Sun, 09 Feb 2025 19:53:59 +0100
+categories : ['Arts Expositions', 'Culture']
+
+id : https://www.lefigaro.fr/culture/la-passion-cachee-du-galeriste-kamel-mennour-pour-eugene-carriere-20250209
+source : Le Figaro - Arts et Expositions.xml
+title : La passion cachée du galeriste Kamel Mennour pour Eugène Carrière
+description : Le marchand parisien en art contemporain ose un face-à-face subtil entre le peintre et le photographe Eugène Atget, pour nous raconter comment, tout jeune, il est tombé fou de son œuvre.
+date : Sun, 09 Feb 2025 18:03:44 +0100
+categories : ['Arts Expositions', 'Culture']
+
+id : https://www.lefigaro.fr/culture/machina-sapiens-ou-les-artistes-a-l-heure-de-l-ia-a-la-conciergerie-20250207
+source : Le Figaro - Arts et Expositions.xml
+title : «Machina Sapiens» ou les artistes à l’heure de l’IA à la Conciergerie
+description : REPORTAGE - Cette exposition réunit une vingtaine d’artistes contemporains qui emploient l’IA pour créer. Ils devraient parler à la Génération Z, née entre 1997 et 2012, et, demain, à la Génération Alpha, née depuis 2010.
+date : Mon, 10 Feb 2025 10:35:37 +0100
+categories : ['Arts Expositions', 'Culture']
+
+id : https://www.lefigaro.fr/arts-expositions/cimabue-le-maillon-marquant-de-la-peinture-occidentale-20250207
+source : Le Figaro - Arts et Expositions.xml
+title : Cimabue, le maillon marquant de la peinture occidentale
+description : RÉCIT - Une exposition au Louvre honore l’œuvre modeste mais décisive de cet artiste florentin méconnu du XIIIe siècle qui fut le maître de Giotto et le père de la peinture occidentale.
+date : Fri, 07 Feb 2025 12:16:22 +0100
+categories : ['Arts Expositions']
+
+id : https://www.lefigaro.fr/arts-expositions/exposition-a-la-bnf-la-bonne-fortune-de-l-apocalypse-20250206
+source : Le Figaro - Arts et Expositions.xml
+title : Exposition: à la BnF, la bonne fortune de l’Apocalypse
+description : CRITIQUE - Réunies autour du Livre de Jean qui ferme le Nouveau Testament, diverses œuvres contemporaines font écho à des trésors médiévaux, romantiques et modernes. Signe d’un imaginaire biblique toujours captivant.
+date : Thu, 06 Feb 2025 14:02:37 +0100
+categories : ['Arts Expositions']
+
+id : https://www.lefigaro.fr/arts-expositions/un-tableau-achete-dans-une-brocante-au-mans-attribue-a-modigliani-20250205
+source : Le Figaro - Arts et Expositions.xml
+title : Acheté dans une brocante au Mans en 2010, le tableau s’avère être un Modigliani
+description : Acquise pour une somme modique il y a quinze ans par un collectionneur italien, la toile a été authentifiée par des experts de la Fondation dédiée au peintre, à Rome.
+date : Wed, 05 Feb 2025 18:31:31 +0100
+categories : ['Arts Expositions']
+
+id : https://www.lefigaro.fr/culture/la-malmaison-met-l-art-moderne-pile-sur-la-croisette-20250205
+source : Le Figaro - Arts et Expositions.xml
+title : À Cannes, La Malmaison entend devenir une adresse incontournable de l’art moderne et contemporain
+description : REPORTAGE - La ville de Cannes a restauré cette villa Belle Époque pour en faire un centre d’art à vocation internationale. L’exposition inaugurale a mis le Midi à l’honneur.
+date : Wed, 05 Feb 2025 16:17:12 +0100
+categories : ['Arts Expositions', 'Culture']
+
+id : https://www.lefigaro.fr/culture/rachida-dati-entend-rapprocher-la-politique-de-l-architecture-des-realites-locales-20250204
+source : Le Figaro - Arts et Expositions.xml
+title : Rachida Dati entend « rapprocher la politique de l’architecture des réalités locales »
+description : La ministre de la Culture qui a remis, mardi, le Grand Prix national de l’architecture 2024 à l’agence lyonnaise Gilles Perraudin, a livré sa stratégie pour ce secteur en pleine mutation. Des annonces sans dévoiler les moyens avec lesquelles elles pourraient se concrétiser.
+date : Tue, 04 Feb 2025 19:15:39 +0100
+categories : ['Arts Expositions', 'Culture']
+
+id : https://www.lefigaro.fr/culture/la-directrice-des-beaux-arts-de-paris-alexia-fabre-non-reconduite-sur-fond-de-projet-polemique-20250204
+source : Le Figaro - Arts et Expositions.xml
+title : La directrice des Beaux-Arts de Paris, Alexia Fabre, non reconduite sur fond de projet polémique
+description : La réunion sur un même site des Beaux-Arts de Paris et de l’école d’architecture Paris-Malaquais serait la cause de cette décision.
+date : Tue, 04 Feb 2025 18:43:34 +0100
+categories : ['Arts Expositions', 'Culture']
+
+id : https://www.lefigaro.fr/arts-expositions/pourquoi-le-tableau-deniche-dans-un-vide-greniers-du-minnesota-n-est-probablement-pas-un-van-gogh-20250131
+source : Le Figaro - Arts et Expositions.xml
+title : Pourquoi le tableau déniché dans un vide-greniers du Minnesota n’est probablement pas un Van Gogh
+description : La société détentrice du tableau affirme qu’il est de la main du peintre néerlandais sur la foi d’un rapport de 458 pages. Mais le musée Van Gogh d’Amsterdam ne le considère pas comme tel.
+date : Mon, 03 Feb 2025 11:09:05 +0100
+categories : ['Arts Expositions']
+
+id : https://www.lefigaro.fr/culture/a-bruxelles-la-brafa-brave-la-crise-grace-a-ses-fideles-20250131
+source : Le Figaro - Arts et Expositions.xml
+title : À Bruxelles, la Brafa brave la crise, grâce à ses fidèles
+description : REPORTAGE - Rendez-vous attendu des collectionneurs en début d’année, la 70e édition de la foire d’art et d’antiquités belge dissipe les inquiétudes, en affichant des ventes solides mais à des prix souvent bien en dessous du million d’euros.
+date : Fri, 31 Jan 2025 16:44:04 +0100
+categories : ['Arts Expositions', 'Culture']
+
+id : https://www.lefigaro.fr/arts-expositions/a-photobrussels-la-photo-reinventee-de-a-a-z-20250131
+source : Le Figaro - Arts et Expositions.xml
+title : Au royaume des chimères, la photo réinventée de A à Z à PhotoBrussels
+description : REPORTAGE - L’intelligence artificielle est au cœur de cette 9e édition d’un festival qui met la capitale belge sens dessus dessous.
+date : Fri, 31 Jan 2025 14:45:17 +0100
+categories : ['Arts Expositions']
+
+id : https://www.lefigaro.fr/culture/l-inclassable-francis-picabia-remis-en-orbite-sur-le-marche-de-l-art-20250130
+source : Le Figaro - Arts et Expositions.xml
+title : L’inclassable Francis Picabia remis en orbite sur le marché de l’art
+description : ENQUÊTE - Avec une exposition spectaculaire à Paris de toiles moins connues des dernières années, la toute-puissante galerie Hauser&Wirth s’est emparé de cet artiste majeur du XXe siècle pour asseoir plus haut sa cote.
+date : Thu, 30 Jan 2025 15:38:52 +0100
+categories : ['Arts Expositions', 'Culture']
+
+id : https://www.lefigaro.fr/culture/on-pourrait-l-appeler-le-plus-grand-representant-de-la-liberte-en-art-francis-picabia-dadaiste-devenu-artiste-en-tous-genres-20250130
+source : Le Figaro - Arts et Expositions.xml
+title : «On pourrait l’appeler le plus grand représentant de la liberté en art»: Francis Picabia, dadaïste devenu «artiste en tous genres»
+description : EXPOSITION - Adoré des années 1930 puis boudé dans l’après-guerre, ce peintre n’a eu de cesse de réinventer la peinture. Cette singularité explose dans l’exposition de la Galerie Hauser & Wirth à Paris.
+date : Thu, 30 Jan 2025 18:57:19 +0100
+categories : ['Arts Expositions', 'Culture']
+
+id : https://www.lefigaro.fr/culture/la-joconde-un-chef-d-oeuvre-tres-embarrassant-au-louvre-20250128
+source : Le Figaro - Arts et Expositions.xml
+title : La Joconde, un chef-d’œuvre très embarrassant au Louvre
+description : Lors de son allocution pour lancer sa renaissance du musée parisien, Emmanuel Macron a annoncé la création d’un espace pour l’icône.
+date : Thu, 30 Jan 2025 11:00:07 +0100
+categories : ['Arts Expositions', 'Culture']
+
+id : https://www.lefigaro.fr/voyages/guides/naples-les-bonnes-adresses-d-ernest-pignon-ernest-20250128
+source : Le Figaro - Arts et Expositions.xml
+title : À Naples, les bonnes adresses d’Ernest Pignon-Ernest
+description : Dessinateur et grand voyageur habité par ses savantes lectures, ce tout nouvel académicien des Beaux-Arts explore méthodiquement les villes où il colle ses œuvres. Naples, choisie un jour sur un coup de tête, est devenue sa ville fétiche. Il la décrypte pour nous.
+date : Tue, 28 Jan 2025 12:07:47 +0100
+categories : ['Arts Expositions', 'Guides']
+
+id : https://www.lefigaro.fr/arts-expositions/incendies-a-los-angeles-les-institutions-culturelles-s-associent-pour-venir-en-aide-aux-artistes-et-acteurs-du-secteur-20250127
+source : Le Figaro - Arts et Expositions.xml
+title : Incendies à Los Angeles : les institutions culturelles s’associent pour venir en aide aux artistes et acteurs du secteur
+description : Doté de 12 millions de dollars, le LA Arts Community Fire Relief Fund doit apporter un soutien d’urgence à ceux qui ont perdu leur atelier, leur collection, leurs outils de travail.
+date : Mon, 27 Jan 2025 16:20:35 +0100
+categories : ['Arts Expositions']
+
+id : https://www.lefigaro.fr/arts-expositions/la-main-et-la-methode-de-raphael-reconstituees-au-palais-des-beaux-arts-de-lille-20250126
+source : Le Figaro - Arts et Expositions.xml
+title : La main et la méthode de Raphaël reconstituées au Palais des beaux-arts de Lille
+description : CRITIQUE - Se basant sur les 37 dessins du génie de la Renaissance ainsi que sur l’imagerie numérique, l’exposition détaille sur écran le processus de création du maître.
+date : Sun, 26 Jan 2025 18:41:39 +0100
+categories : ['Arts Expositions']
+
+id : https://www.lefigaro.fr/culture/guillaume-bresson-un-peintre-contemporain-a-versailles-20250126
+source : Le Figaro - Arts et Expositions.xml
+title : Guillaume Bresson, un peintre contemporain à Versailles
+description : CRITIQUE - Rétrospective inédite et spectaculaire de ce jeune artiste français dans les royales salles d’Afrique, au cœur des grandes batailles peintes par Horace Vernet.
+date : Mon, 27 Jan 2025 08:56:20 +0100
+categories : ['Arts Expositions', 'Culture']
+

@@ -1,0 +1,63 @@
+大概逻辑关于ex1合起来
+if __name__ == "__main__":
+    import argpase
+    parser = argparse.ArgumentParser("Lire")
+    oarser.add_argument("fichier_rss",help="Le fichier Rss...")
+    arg = parser.parse_args()
+    # 先定义一下每个方程的名字，后面就可以引用了
+    if lecteur == '#r1':
+        #运行方程
+    elif lecteur == '#r2':
+        #
+
+    elif lecteur == '#r3'
+        #
+    else:
+        raise ValeurError()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

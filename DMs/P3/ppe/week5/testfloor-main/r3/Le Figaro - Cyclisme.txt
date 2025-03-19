@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/sports/cyclisme/cyclisme-kevin-vauquelin-remporte-le-dernier-chrono-et-le-classement-general-de-l-etoile-de-besseges-20250209
+source : Le Figaro - Cyclisme.xml
+title : Cyclisme : Kévin Vauquelin remporte le dernier chrono et le classement général de l’Etoile de Bessèges
+description : Kévin Vauquelin a remporté le chrono final de l’Etoile de Bessèges qui avait lieu ce dimanche à Alès. Le Français fait coup double en remportant également le classement général de la course.
+date : Sun, 09 Feb 2025 16:17:53 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/cyclisme-benjamin-thomas-ne-disputera-pas-le-chrono-final-de-l-etoile-de-besseges-20250209
+source : Le Figaro - Cyclisme.xml
+title : Cyclisme : Benjamin Thomas ne disputera pas le chrono final de l’Etoile de Bessèges
+description : Malade, Benjamin Thomas ne prendra pas le départ dimanche de la 5e et dernière étape de l’Etoile de Bessèges à Alès. C’est son équipe Cofidis qui l’a annoncé sur son compte X. Le champion olympique de l’omnium, vainqueur de la course en 2022, était 13e du classement général.
+date : Sun, 09 Feb 2025 14:22:24 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/tour-d-oman-le-belge-louis-vervaeke-remporte-la-2e-etape-et-prend-la-tete-du-general-20250209
+source : Le Figaro - Cyclisme.xml
+title : Tour d’Oman : le Belge Louis Vervaeke remporte la 2e étape et prend la tête du général
+description : Louis Vervaeke a gagné ce dimanche sa première victoire professionnelle lors de la 2e étape du Tour d’Oman. Le Belge profite de sa victoire pour prendre le maillot de leader devant son coéquipier Valentin Paret-Peintre et Sean Flynn.
+date : Sun, 09 Feb 2025 14:21:12 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/cyclisme-kevin-vauquelin-gagne-la-4e-etape-de-l-etoile-de-besseges-et-prend-la-tete-du-general-20250208
+source : Le Figaro - Cyclisme.xml
+title : Cyclisme : Kévin Vauquelin gagne la 4e étape de l’Etoile de Bessèges et prend la tête du général
+description : Kévin Vauquelin a remporté la 4e étape de l’Etoile de Bessèges qui se terminait en haut du Mont Bouquet. Le coureur français fait coup double et prend la tête du classement général à la veille de l’arrivée de la course.
+date : Sat, 08 Feb 2025 17:02:29 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/tour-d-oman-le-neerlandais-olav-kooij-remporte-la-1re-etape-20250208
+source : Le Figaro - Cyclisme.xml
+title : Tour d'Oman : le Néerlandais Olav Kooij remporte la 1re étape
+description : Olav Kooij a remporté au sprint la première étape du Tour d’Oman samedi. Le Néerlandais a devancé le Tchèque Bittner et le Norvégien Blikra.
+date : Sat, 08 Feb 2025 13:53:12 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/cyclisme-arnaud-de-lie-gagne-la-3e-etape-du-tour-de-besseges-et-devient-leader-du-general-20250207
+source : Le Figaro - Cyclisme.xml
+title : Cyclisme : Arnaud De Lie gagne la 3e étape du Tour de Bessèges et devient leader du général
+description : Arnaud De Lie (Lotto) a remporté vendredi la troisième étape de l’Étoile de Bessèges marquée par l’abandon de huit équipes à la suite d’une nouvelle intrusion d’un véhicule sur le parcours. Le Belge fait coup double et devient leader du classement général de la course.
+date : Fri, 07 Feb 2025 17:26:30 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/cyclisme-nouvelle-intrusion-de-voiture-sur-le-parcours-plusieurs-equipes-se-retirent-de-l-etoile-de-besseges-20250207
+source : Le Figaro - Cyclisme.xml
+title : Cyclisme : nouvelle intrusion de voiture sur le parcours, plusieurs équipes se retirent de l'Étoile de Bessèges
+description : Une intrusion de voiture à contresens sur le parcours a agité la troisième étape de la course française.
+date : Fri, 07 Feb 2025 14:45:37 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/cyclisme-van-gils-abandonne-a-etoile-de-besseges-cause-d-une-voiture-sur-le-parcours-20250206
+source : Le Figaro - Cyclisme.xml
+title : Cyclisme : Van Gils abandonne l’Etoile de Bessèges à cause d'une voiture sur le parcours
+description : Le Belge Maxim Van Gils (Red Bull-Bora Hansgrohe) a abandonné l’Etoile de Bessèges jeudi pendant la 2e étape remportée par le Norvégien Soren Waerenskjold «à cause d’une voiture rentrée sur le parcours», a annoncé son équipe sur les réseaux sociaux.
+date : Thu, 06 Feb 2025 22:22:53 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/cyclisme-premiere-victoire-pour-bernal-depuis-son-accident-en-2022-20250206
+source : Le Figaro - Cyclisme.xml
+title : Cyclisme : première victoire pour Bernal depuis son accident en 2022
+description : Egan Bernal, le vainqueur du Tour de France 2019, a remporté sa première victoire depuis son terrible accident en 2022 en devenant champion de Colombie du contre-la-montre jeudi à Bucaramanga.
+date : Thu, 06 Feb 2025 19:34:26 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/cyclisme-santiago-buitrago-remporte-la-2e-etape-du-tour-de-valence-vacek-reste-leader-du-general-20250206
+source : Le Figaro - Cyclisme.xml
+title : Cyclisme : Santiago Buitrago remporte la 2e étape du Tour de Valence, Vacek reste leader du général
+description : Le Colombien Santiago Buitrago a remporté la 2e étape du Tour de Valence ce jeudi. Le Tchèque Mathias Vacek conserve son maillot de leader.
+date : Thu, 06 Feb 2025 17:45:38 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/etoile-de-besseges-le-norvegien-waerenskjold-remporte-la-deuxieme-etape-magnier-reste-leader-du-general-20250206
+source : Le Figaro - Cyclisme.xml
+title : Étoile de Bessèges: le Norvégien Waerenskjold remporte la deuxième étape, Magnier reste leader du général
+description : Le Norvégien Soren Waerenskjold (Uno-X Mobility) a remporté jeudi la deuxième étape de l’Etoile de Bessèges devant les Français Arnaud Démare et Paul Magnier. Celui-ci reste leader du classement général.
+date : Thu, 06 Feb 2025 16:58:05 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/cyclisme-l-equipe-lidl-trek-remporte-le-chrono-par-equipes-inaugural-du-tour-de-valence-20250205
+source : Le Figaro - Cyclisme.xml
+title : Cyclisme : l’équipe Lidl-Trek remporte le chrono par équipes inaugural du Tour de Valence
+description : L’équipe Lidl-Trek a remporté le chrono inaugural du Tour de Valence ce mercredi. Le Tchèque Mathias Vacek prend le maillot de leader de la course.
+date : Wed, 05 Feb 2025 18:22:02 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/cyclisme-recherche-par-la-police-apres-sa-disparition-en-espagne-oscar-freire-s-etait-volontairement-absente-durant-deux-jours-20250205
+source : Le Figaro - Cyclisme.xml
+title : Cyclisme : recherché par la police après sa disparition en Espagne, Oscar Freire s’était volontairement absenté... durant deux jours
+description : LE SCAN SPORT - L’ancien coureur cycliste espagnol avait disparu ce mardi 4 février et sa famille avait déposé plainte. L’ex-champion du monde, localisé ce mercredi, s’était simplement absenté sans ses affaires personnelles.
+date : Wed, 05 Feb 2025 17:58:48 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/etoile-de-besseges-le-francais-paul-magnier-remporte-la-premiere-etape-20250205
+source : Le Figaro - Cyclisme.xml
+title : Étoile de Bessèges : le Français Paul Magnier remporte la première étape
+description : Le Français Paul Magnier a gagné ce mercredi la première étape de l’Etoile de Bessèges cycliste disputé autour de Bellegarde dans le Gard. Le jeune coureur de 20 ans prend logiquement le maillot de leader de l’épreuve.
+date : Wed, 05 Feb 2025 17:33:12 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/tour-de-france/tour-de-france-on-sait-que-c-est-de-plus-en-plus-complique-pour-les-collectivites-locales-prudhomme-rassure-les-elus-bretons-20250205
+source : Le Figaro - Cyclisme.xml
+title : Tour de France : «On sait que c’est de plus en plus compliqué pour les collectivités locales», Prudhomme rassure les élus bretons
+description : Le directeur du Tour de France a tenu à apaiser l’inquiétude entourant, pour des raisons budgétaires, la 7e étape de la Grande Boucle.
+date : Wed, 05 Feb 2025 08:56:23 +0100
+categories : ['Tour de France']
+
+id : https://www.lefigaro.fr/sports/cyclisme/mondial-de-cyclo-cross-seul-au-monde-mathieu-van-der-poel-decroche-un-septieme-sacre-devant-van-aert-a-lievin-20250202
+source : Le Figaro - Cyclisme.xml
+title : Mondial de cyclo-cross : seul au monde, Mathieu van der Poel décroche un septième sacre devant van Aert à Liévin
+description : Pour le retour du championnat du monde de cyclo-cross en France à Liévin, Mathieu van der Poel a écrasé la concurrence pour s’offrir le septième sacre de sa carrière et entrer dans l’histoire.
+date : Sun, 02 Feb 2025 16:58:36 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/en-direct-cyclo-cross-suivez-le-duel-van-der-poel-van-aert-pour-le-mondial-en-france-20250202
+source : Le Figaro - Cyclisme.xml
+title : Cyclo-cross : revivez le Mondial en France remporté par van der Poel
+description : Les championnats du monde de cyclo-cross font leur retour en France à Liévin. Pour l’occasion, Mathieu van Der Poel a décroché un septième sacre historique face à son rival de toujours Wout van Aert.
+date : Sun, 02 Feb 2025 16:15:42 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/cyclo-cross-chaines-duel-van-der-poel-van-aert-conditions-dantesques-5-questions-avant-le-mondial-en-france-20250202
+source : Le Figaro - Cyclisme.xml
+title : Cyclo-cross : chaînes, duel van der Poel-van Aert, conditions dantesques... 5 questions avant le mondial en France
+description : Les championnats du monde de cyclo-cross font leur retour en France. Pour l’occasion, Mathieu van Der Poel double tenant du titre remet sa couronne en jeu et vise un septième sacre historique face à son rival de toujours Wout van Aert.
+date : Sun, 02 Feb 2025 07:30:00 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/cyclisme-pidcock-remporte-le-al-ula-tour-en-arabie-saoudite-20250201
+source : Le Figaro - Cyclisme.xml
+title : Cyclisme: Pidcock remporte le Al-Ula Tour en Arabie saoudite
+description : Tom Pidcock (Q36.5) a remporté samedi sa première course à étapes en s’imposant dans le Al-Ula Tour au terme de la cinquième et dernière étape enlevée au sprint par son coéquipier Matteo Moschetti.
+date : Sat, 01 Feb 2025 15:18:12 +0100
+categories : ['Cyclisme']
+
+id : https://www.lefigaro.fr/sports/cyclisme/cyclisme-paul-lapeira-un-champion-de-france-ambitieux-20250201
+source : Le Figaro - Cyclisme.xml
+title : Cyclisme : Paul Lapeira, un champion de France ambitieux
+description : PORTRAIT - Après une année 2024 marquée par son titre de champion de France, Paul Lapeira aborde la nouvelle saison avec de grandes ambitions. Portrait d’un jeune cycliste qui a la tête sur les épaules.
+date : Wed, 05 Feb 2025 16:43:23 +0100
+categories : ['Cyclisme']
+

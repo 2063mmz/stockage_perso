@@ -1,0 +1,210 @@
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/inde-le-boom-du-trafic-aerien-aiguise-l-appetit-de-boeing-et-airbus_AD-202502100079.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Inde: le boom du trafic aérien aiguise l'appétit de Boeing et Airbus
+description : Des aéroports qui poussent comme des champignons, des pilotes et des techniciens à former à la pelle, des commandes en pagaille: le trafic aérien explose en Inde et aiguise l'appétit de Boeing et Airbus, à la veille du salon AeroIndia à Bangalore (10-14 février). <br /><br /><img src="https://images.bfmtv.com/eM8iiAWtyw_GiX5nzkfKT8iQdpA=/0x106:2048x1258/800x0/images/Des-avions-d-IndiGo-sur-le-tarmac-de-l-aeroport-international-Netaji-Subhas-Chandra-Bose-a-Kolkata-Inde-le-17-octobre-2019-1142677.jpg" />
+date : Mon, 10 Feb 2025 05:38:17 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/nous-avons-commence-a-paniquer-un-avion-reliant-l-egypte-a-l-angleterre-atterrit-en-urgence-apres-un-malaise-du-pilote_AN-202502090415.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : "Nous avons commencé à paniquer": un avion d'Easyjet atterrit en urgence après un malaise du pilote
+description : Un vol EasyJet, qui reliait la ville d'Hurghada à celle de Manchester, a dû atterrir en urgence, après le malaise d'un pilote. Les passagers sont depuis bloqués à Athènes.<br /><br /><img src="https://images.bfmtv.com/NDiEILL2iDfq1qOadITtLPms0VQ=/0x106:2048x1258/800x0/images/Image-d-illustration-un-avion-Easy-Jet-au-decollage-1071735.jpg" />
+date : Sun, 09 Feb 2025 19:34:07 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/des-progres-plus-lents-que-prevu-airbus-freine-ses-ambitions-sur-le-projet-d-avion-a-hydrogene_AD-202502070635.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Des progrès "plus lents que prévu": Airbus freine ses ambitions sur le projet d'avion à hydrogène
+description : L'avionneur européen qui ambitionnait de commercialiser son premier appareil en 2035 a reconnu des progrès "plus lents que prévu". Il n'a pas communiqué de nouvelle échéance. <br /><br /><img src="https://images.bfmtv.com/EN86GJFzxn45sW6gzaecrLBPn4o=/0x106:2048x1258/800x0/images/hydrogene-1659717.jpg" />
+date : Fri, 07 Feb 2025 15:43:30 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/avec-la-certification-de-son-moteur-safran-accelere-dans-l-aviation-electrique_AV-202502040340.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Avec la certification de son moteur, Safran accélère dans l'aviation électrique
+description : L'ENGINeUS 100 est désormais validé par l’Agence de l'Union européenne pour la sécurité aérienne (EASA). Il équipe notamment les appareils de la start-up toulousaine Aura Aéro. <br /><br /><img src="https://images.bfmtv.com/yeRw18hkXfc3tNW9E0j5Wg62RY0=/4x96:1796x1104/800x0/images/Le-moteur-electrique-ENGINeUS-100-de-Safran-2026942.jpg" />
+date : Tue, 04 Feb 2025 09:46:37 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/probleme-moteur-et-fumee-les-passagers-d-un-airbus-a319-evacues-d-urgence-a-houston_AN-202502030444.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Problème moteur et fumée: les passagers d'un Airbus A319 évacués d'urgence à Houston
+description : L'avion à destination de New York avait 104 passagers à bord. L'incident s'est produit juste avant le décollage.<br /><br /><img src="https://images.bfmtv.com/kL3kmdb5b3GpltScXU_vb9_bieI=/0x48:2048x1200/800x0/images/United-Airlines-Airbus-2026262.jpg" />
+date : Mon, 03 Feb 2025 11:07:00 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/airbus-d-air-busan-ravage-par-un-incendie-l-enquete-pointe-du-doigt-l-explosion-d-une-batterie-en-cabine_AN-202501300550.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Airbus d'Air Busan ravagé par un incendie: l'enquête pointe du doigt la surchauffe d'une batterie en cabine
+description : Des passagers ont signalé aux enquêteurs des crépitements et de la fumée provenant d'un casier à bagage avant l’incendie. <br /><br /><img src="https://images.bfmtv.com/6yroj9UrMkM96HnUMsoH4erVlgk=/5x17:741x431/800x0/images/L-Airbus-A321-d-Air-Busan-apres-l-incendie-2024114.jpg" />
+date : Thu, 30 Jan 2025 13:01:37 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/avion-de-ligne-supersonique-boom-supersonic-fait-passer-le-mur-du-son-a-son-demonstrateur_AV-202501290564.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Avion de ligne supersonique: Boom Supersonic fait passer le mur du son à son démonstrateur
+description : C'est une nouvelle étape importante pour l'entreprise américaine avant la production d'Overture, cet avion de ligne qui volera à 1.7 Mach. <br /><br /><img src="https://images.bfmtv.com/FL3DrEZMCWIVoJREGbwCz5cyNO4=/0x0:1920x1080/800x0/images/Le-demonstrateur-XB-1-de-Boom-Supersonic-2023344.jpg" />
+date : Wed, 29 Jan 2025 13:23:11 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/alors-que-l-aeroport-sera-ferme-ryanair-vend-des-billets-d-avion-au-depart-de-dole_AV-202501290224.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Alors que l'aéroport sera fermé, Ryanair vend des billets d'avion au départ de Dole
+description : Entre le 26 mai et le 11 juillet, l'aéroport de Dole, dans le Jura, sera en travaux.  Mais des passagers ont acheté des billets sur cette période avec la compagnie aérienne Ryanair. Ils ne savent pas s'ils vont pouvoir partir. <br /><br /><img src="https://images.bfmtv.com/AwniYsDTJ8f_2zSYhplMvpcrOjE=/7x25:1255x727/800x0/images/-462367.jpg" />
+date : Wed, 29 Jan 2025 07:09:30 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/11-8-milliards-de-dollars-la-perte-abyssale-de-boeing-en-2024_AD-202501280514.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : 11,8 milliards de dollars: la perte abyssale de Boeing en 2024
+description : L'industriel qui a subi des problèmes de production et une grève massive dit entrevoir "des signes encourageants".<br /><br /><img src="https://images.bfmtv.com/o6L51mar0tM6rFxlJRutPz7GzaM=/0x39:2048x1191/800x0/images/Boeing-737-Max-usine-1892749.jpg" />
+date : Tue, 28 Jan 2025 12:58:51 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/l-elysee-ouvre-la-voie-a-la-presence-des-societes-israeliennes-au-prochain-salon-aerien-du-bourget_AD-202501260301.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : L'Élysée ouvre la voie à la présence des sociétés israéliennes au prochain Salon aérien du Bourget
+description : Après un échange téléphonique avec  Benjamin Netanyahu, Emmanuel Macron a fait savoir que  "la présence des sociétés israéliennes" au Salon du Bourget "pourrait être favorablement examinée, en conséquence du cessez-le-feu à Gaza et au Liban".<br /><br /><img src="https://images.bfmtv.com/q_VSYYPa1yHUYxcwJfkd3ksCyZM=/0x40:768x472/800x0/images/Des-visiteurs-du-salon-international-de-l-aeronautique-et-de-l-espace-du-Bourget-le-19-juin-2023-pres-de-Paris-1662725.jpg" />
+date : Sun, 26 Jan 2025 15:52:17 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/airbus-va-fermer-sa-compagnie-de-fret-par-avions-beluga_AD-202501240553.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Airbus va fermer sa compagnie de fret par avions "Beluga"
+description : Les "Beluga" sont des avions dérivés de l'Airbus A330 qui servent au transport des grandes sections d'avions entre les différents sites Airbus. Entrés en service en 1995, ils tiennent leur nom de leur silhouette ressemblant au cétacé.<br /><br /><img src="https://images.bfmtv.com/Eokc4u8KOrpI9Gv4erBk7Ev1Vuc=/0x39:768x471/800x0/images/Un-avion-Airbus-A300-600ST-Super-Transporter-egalement-connu-sous-le-nom-d-Airbus-Beluga-dans-une-usine-du-constructeur-aeronautique-Airbus-a-Montoir-de-Bretagne-le-3-janvier-2023-1564125.jpg" />
+date : Fri, 24 Jan 2025 12:57:25 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/boeing-anticipe-de-tres-lourdes-pertes-au-quatrieme-trimestre_AD-202501240334.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Boeing anticipe de très lourdes pertes au quatrième trimestre
+description : L'avionneur a annoncé jeudi une charge de 1,1 milliard de dollars dans sa branche aviation commerciale et de 1,7 milliard dans sa branche Défense, Espace et Services.<br /><br /><img src="https://images.bfmtv.com/Mq8KdGzKRy1gdjOIbnqykPVgM98=/308x543:1764x1362/800x0/images/Un-Boeing-787-Dreamliner-de-Qatar-Airways-Photo-d-illustration-1870662.jpg" />
+date : Fri, 24 Jan 2025 08:29:17 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/faute-d-avions-riyadh-air-la-nouvelle-compagnie-saoudienne-retarde-son-lancement_AV-202501220596.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Faute d'avions, Riyadh Air, la nouvelle compagnie saoudienne, retarde son lancement
+description : L'opérateur lancé en 2023 attends toujours les premiers exemplaires de ses Boeing 787 Dreamliner qui doivent constituer la première partie de sa flotte.<br /><br /><img src="https://images.bfmtv.com/jVcfThkkVy1Iq_HHiYeJd2u1fyw=/1x57:1041x642/800x0/images/1268217.jpg" />
+date : Wed, 22 Jan 2025 14:18:42 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/le-transport-aerien-francais-s-alarme-d-un-declin-inexorable-du-secteur_AD-202501210442.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Le transport aérien français s'alarme d'un "déclin inexorable" du secteur
+description : Entre les hausses de redevances de navigation aérienne, le coût de la transition énergétique et l'augmentation de taxes, notamment la taxe de solidarité sur les billets d'avion, le secteur estime le surcoût sur l'année en cours à 1,2 milliard d'euros.<br /><br /><img src="https://images.bfmtv.com/igdEAxTG30oY8cICAQAWa5IU53k=/0x40:768x472/800x0/images/Le-siege-d-Air-France-a-l-aeroport-de-Roissy-au-nord-de-Paris-le-23-juillet-2024-1909624.jpg" />
+date : Tue, 21 Jan 2025 10:53:29 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/space-x-reussit-a-recuperer-le-propulseur-de-sa-megafusee-starship-mais-perd-contact-avec-le-second-etage_AD-202501161024.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : SpaceX réussit à récupérer le propulseur de sa mégafusée Starship mais perd contact avec le second étage
+description : L'entreprise d'Elon Musk a perdu tout contact avec le second étage de sa mégafusée à la suite d'une "anomalie".<br /><br /><img src="https://images.bfmtv.com/g-fHNu5K4nA_gj3_RH4l7zMbKWI=/8x2:2040x1145/800x0/images/Le-propulseur-nomme-Super-Heavy-redescendu-vers-le-pas-de-tir-et-a-ete-immobilise-apres-l-envoi-de-la-megafusee-Starship-a-Boca-Chica-Village-Texas-le-16-janvier-2025-2015148.jpg" />
+date : Fri, 17 Jan 2025 07:00:14 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/elon-musk-felicite-son-rival-jeff-bezos-apres-le-decollage-de-la-fusee-new-glenn_AD-202501160321.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Elon Musk félicite son rival Jeff Bezos après le décollage de la fusée New Glenn
+description : Le milliardaire et patron de Space X a félicité sur le réseau social X son principal concurrent Jeff Bezos après le vol inaugural ce jeudi de sa grande fusée New Glenn. <br /><br /><img src="https://images.bfmtv.com/tIj_Fc8lQG3bRKLDsq4d9Pw3tZ8=/0x78:2048x1230/800x0/images/Elon-Musk-et-Jeff-Bezos-2001088.jpg" />
+date : Thu, 16 Jan 2025 09:16:43 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/la-fusee-new-glenn-de-jeff-bezos-a-decolle-pour-la-premiere-fois_AD-202501160197.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : La fusée New Glenn de Jeff Bezos a décollé pour la première fois
+description : Après plusieurs reports, la fusée de Blue Origin a décollé ce jeudi 16 janvier, peu après 8 heures. En partie réutilisable, New Glenn doit permettre à l'entreprise de Jeff Bezos de concurrencer SpaceX sur le marché du lancement de satellites commerciaux et militaires en orbite mais aussi de vaisseaux et d'astronautes.  <br /><br /><img src="https://images.bfmtv.com/0Abh3CtjVSP1Otkcv58wIgMOsXU=/0x3:1008x570/800x0/images/La-fusee-New-Glenn-effectue-son-vol-inaugural-depuis-le-centre-spatial-Kennedy-a-Cap-Canaveral-en-Floride-le-16-janvier-2025-2014491.jpg" />
+date : Thu, 16 Jan 2025 07:23:49 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/space-x-va-retenter-de-rattraper-le-premier-etage-de-sa-fusee-starship-lors-d-un-7e-vol-test_AD-202501150138.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : SpaceX va retenter de rattraper le premier étage de sa fusée Starship lors d'un 7e vol test
+description : L'entreprise d'Elon Musk va retenter ce mercredi de rattraper le premier étage de sa fusée Starship. Un exploit qu'elle n'a réussi qu'une seule fois en six tentatives. <br /><br /><img src="https://images.bfmtv.com/2pLKcp9kQASso2gHQCkDkRROuLM=/7x111:2039x1254/800x0/images/Le-vaisseau-spatial-de-SpaceX-decolle-de-la-base-stellaire-pres-de-Boca-Chica-au-Texas-le-13-octobre-2024-pour-le-test-du-vol-Starship-5-1955687.jpg" />
+date : Wed, 15 Jan 2025 06:11:58 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/boeing-n-a-livre-que-348-avions-en-2024-pire-resultat-depuis-2021_AD-202501140696.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Boeing n'a livré que 348 avions en 2024, pire résultat depuis 2021
+description : La production de l'avionneur a été perturbée par moult problèmes de qualité et par une grève de plus de 50 jours qui a paralysé plusieurs usines cruciales. <br /><br /><img src="https://images.bfmtv.com/o6L51mar0tM6rFxlJRutPz7GzaM=/0x39:2048x1191/800x0/images/Boeing-737-Max-usine-1892749.jpg" />
+date : Tue, 14 Jan 2025 16:17:00 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/737-max-l-avion-maudit-de-boeing_DN-202401100372.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : 737 Max: l'avion maudit de Boeing
+description : Le Boeing 737 Max est la quatrième génération de la famille d'avions 737. Construit depuis 2015, il a connu crashs et dysfonctionnements depuis sa mise en service au point d'inquiéter équipages et passagers.<br /><br /><img src="https://images.bfmtv.com/aIWDLed2oaPZAZVy5zpGinPVrQI=/0x14:2048x1166/800x0/images/Demonstration-du-Boeing-737-Max-sur-le-salon-de-Farnborough-en-2018-1452141.jpg" />
+date : Tue, 14 Jan 2025 16:17:00 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/aerien-la-hausse-du-trafic-ruinera-t-elle-les-efforts-de-decarbonation-de-l-industrie_AV-202501140505.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Aérien: la hausse du trafic ruinera-t-elle les efforts de décarbonation de l'industrie?
+description : C'est la conclusion d'une étude menée par T&E (Transport et Environnement) qui avance d'autres freins comme l’extension des aéroports ou encore la sous-taxation du secteur.<br /><br /><img src="https://images.bfmtv.com/5WSxtwTOZdhYLvGmNRz_K8VO3vU=/0x2:624x353/800x0/images/-438187.jpg" />
+date : Tue, 14 Jan 2025 12:51:36 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/nouveau-report-jeudi-au-plus-tot-du-lancement-de-la-fusee-new-glenn-de-jeff-bezos_AD-202501140408.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Nouveau report "jeudi au plus tôt" du lancement de la fusée New Glenn de Jeff Bezos
+description : Haute de 98 mètres, soit la taille d'un immeuble d'environ 30 étages, cette nouvelle fusée doit marquer un tournant pour Blue Origin en lui permettant de réaliser son premier vol orbital depuis sa création en 2000.<br /><br /><img src="https://images.bfmtv.com/GjaIboFzgzGCW3wgaCjw8gae3N0=/4x63:1252x765/800x0/images/New-Glenn-2012262.jpg" />
+date : Tue, 14 Jan 2025 10:44:24 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/blue-origin-reporte-encore-le-premier-lancement-de-sa-fusee-geante-new-glenn_AD-202501130314.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Blue Origin reporte encore le premier lancement de sa fusée géante New Glenn
+description : Blue Origin a annoncé le report du vol inaugural de sa fusée initialement prévu dans la nuit de dimanche à lundi en raison de problèmes techniques. <br /><br /><img src="https://images.bfmtv.com/GjaIboFzgzGCW3wgaCjw8gae3N0=/4x63:1252x765/800x0/images/New-Glenn-2012262.jpg" />
+date : Mon, 13 Jan 2025 08:43:07 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/comme-comparer-une-ferrari-avec-une-volkswagen-cinq-choses-a-savoir-sur-la-fusee-de-jeff-bezos-qui-s-attaque-a-celle-d-elon-musk_AD-202501130092.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : "Comme comparer une Ferrari avec une Volkswagen": cinq choses à savoir sur la fusée de Jeff Bezos qui s'attaque à celle d'Elon Musk
+description : Avec un premier vol orbital, attendu depuis plusieurs années et repoussé à plusieurs reprises, la société de Jeff Bezos ambitionne de rattraper son grand rival SpaceX, qui appartient à un autre milliardaire américain, Elon Musk. <br /><br /><img src="https://images.bfmtv.com/VBQT8bWzh5J_xBco9j7XtvZzQCM=/0x106:2048x1258/800x0/images/New-Glenn-2012087.jpg" />
+date : Mon, 13 Jan 2025 05:49:10 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/avions-le-chinois-comac-espere-que-son-c919-obtiendra-sa-certification-europeenne-cette-annee_AV-202501100421.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Avions: le chinois Comac espère que son C919 obtiendra sa certification européenne cette année
+description : Concurrent du Boeing 737 et de l'Airbus A320 dans le juteux marché des mono-couloirs, le C919 ne vole actuellement qu'en Chine.<br /><br /><img src="https://images.bfmtv.com/-eCL4-tb2jnPEIxcu8Nwz8KuOFo=/0x105:2048x1257/800x0/images/C919-1809251.jpg" />
+date : Fri, 10 Jan 2025 10:28:40 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/ponctualite-dans-l-aerien-les-compagnies-espagnoles-les-mieux-classees-les-francaises-toujours-absentes-du-palmares_AV-202501100279.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Ponctualité dans l'aérien: les compagnies espagnoles les mieux classées, les françaises toujours absentes du palmarès
+description : Comme chaque année, l'institut Cirium dresse le classement des compagnies aériennes qui ont le mieux respecté les horaires.<br /><br /><img src="https://images.bfmtv.com/KsiBegH8nGCmX7Na-ajQMqqKa6U=/0x75:800x525/800x0/images/-430548.jpg" />
+date : Fri, 10 Jan 2025 07:47:06 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/cela-devient-invivable-guillaume-faury-airbus-vent-debout-contre-les-taxes-et-les-normes_AV-202501100152.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : "Cela devient invivable": Guillaume Faury (Airbus) vent debout contre les taxes et les normes
+description : Lors de ses vœux à la presse, celui qui est également le président du Groupement des industries françaises aéronautiques et spatiales (Gifas) estime que tout est fait pour mettre des "bâtons dans les roues" à l'industrie. <br /><br /><img src="https://images.bfmtv.com/1Yhh4KwvhpZMWpJ4zSYOWFQ4USs=/0x20:704x416/800x0/images/Guillaume-Faury-1626083.jpg" />
+date : Fri, 10 Jan 2025 06:15:15 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/ni-bouc-emissaire-ni-vache-a-lait-la-filiere-aerospatiale-vent-debout-contre-les-taxes_AD-202501090616.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : "Ni bouc émissaire, ni vache à lait": la filière aérospatiale vent debout contre les taxes
+description : Par la voix du Gifas, la filière aérospatiale française s'est opposée à une éventuelle hausse des taxes et des impôts sur les sociétés, envisagée par le gouvernement.<br /><br /><img src="https://images.bfmtv.com/6xO7vk3AG5q_Bb1nuAluArftJIE=/0x130:4688x2767/800x0/images/-314231.jpg" />
+date : Thu, 09 Jan 2025 14:57:54 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/une-surveillance-sans-faille-pourquoi-le-regulateur-americain-de-l-aviation-continue-de-scruter-boeing_AD-202501030389.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : "Une surveillance sans faille": pourquoi le régulateur américain de l'aviation continue de scruter Boeing
+description : La FAA réclame à Boeing un "changement culturel fondamental".<br /><br /><img src="https://images.bfmtv.com/o6L51mar0tM6rFxlJRutPz7GzaM=/0x39:2048x1191/800x0/images/Boeing-737-Max-usine-1892749.jpg" />
+date : Fri, 03 Jan 2025 13:32:05 GMT
+categories : []
+
+id : https://www.bfmtv.com/economie/entreprises/aeronautique/crash-d-avion-au-kazakhstan-l-examen-des-boites-noires-a-demarre-au-bresil_AD-202501020619.html
+source : Flux RSS - BFM BUSINESS - Entreprises - Aéronautique.xml
+title : Crash d'avion au Kazakhstan: l'examen des boîtes noires a démarré au Brésil
+description : Les boîtes noires de l'avion d'Azerbaijan Airlines qui s'est écrasé la semaine dernière au Kazakhstan, sont en train d'être examinées à Brasilia, selon les autorités brésiliennes.<br /><br /><img src="https://images.bfmtv.com/ZkEO5Kg5oRJnQgk-GOv4GbNzwGA=/0x106:2048x1258/800x0/images/Des-specialistes-des-situations-d-urgence-travaillent-sur-le-site-du-crash-d-un-avion-de-ligne-de-la-compagnie-Azerbaijan-Airlines-pres-de-la-ville-d-Aktau-dans-l-ouest-du-Kazakhstan-le-25-decembre-2024-2003999.jpg" />
+date : Thu, 02 Jan 2025 21:33:39 GMT
+categories : []
+

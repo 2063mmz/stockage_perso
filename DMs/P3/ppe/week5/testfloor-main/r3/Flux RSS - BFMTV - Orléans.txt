@@ -1,0 +1,7 @@
+id : https://www.bfmtv.com/orleans/orleans-la-prefecture-dement-le-deplacement-de-migrants-depuis-paris-en-vue-des-jeux-olympiques_AD-202403260651.html
+source : Flux RSS - BFMTV - Orléans.xml
+title : Orléans: la préfecture dément le déplacement de migrants depuis Paris en vue des Jeux olympiques
+description : La préfecture du Loiret a démenti, ce mardi 26 mars, les rumeurs suggérant que des migrants auraient été déplacés dans la ville d'Orléans depuis Paris en vue des Jeux olympiques de Paris cet été.<br /><br /><img src="https://images.bfmtv.com/t6rzAfg03Q_cc6HOT3sH0EjDScI=/0x151:2048x1303/800x0/images/Une-photo-prise-le-23-decembre-2015-montre-la-facade-de-la-prefecture-du-Loiret-a-Orleans-dans-le-centre-de-la-France-1832483.jpg" />
+date : Tue, 26 Mar 2024 15:12:59 GMT
+categories : ['No category']
+

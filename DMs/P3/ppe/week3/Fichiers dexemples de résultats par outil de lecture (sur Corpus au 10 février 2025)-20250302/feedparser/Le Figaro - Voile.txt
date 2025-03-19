@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-foule-immense-retrouvailles-et-larmes-d-emotion-l-arrivee-triomphale-de-violette-dorange-en-images-20250209
+source : Le Figaro - Voile.xml
+title : Vendée Globe : foule immense, retrouvailles et larmes d’émotion, l’arrivée triomphale de Violette Dorange en images
+description : DIAPORAMA - La plus jeune navigatrice (23 ans) à boucler un Vendée Globe a été accueillie par des milliers de spectateurs, dimanche midi, après une aventure de plus de 90 jours en mer.
+date : Mon, 10 Feb 2025 08:30:38 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-violette-dorange-la-benjamine-de-l-epreuve-a-boucle-son-tour-du-monde-20250209
+source : Le Figaro - Voile.xml
+title : Vendée Globe : «Au bout de son rêve», la benjamine Violette Dorange embrase les Sables-d’Olonne
+description : RÉCIT - La Charentaise de 23 ans, accueillie par une foule immense, a terminé son tour du monde en solitaire en 90 jours, 22 heures 37 minutes et 9 secondes. Un retour héroïque dans le chenal du port vendéen qui restera longtemps dans les mémoires.
+date : Sun, 09 Feb 2025 17:05:11 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-kojiro-shiraishi-24e-violette-dorange-attendue-sur-la-ligne-d-arrivee-20250209
+source : Le Figaro - Voile.xml
+title : Vendée Globe : Kojiro Shiraishi 24e, Violette Dorange attendue sur la ligne d’arrivée
+description : Kojiro Shiraishi a franchi la ligne d’arrivée ce dimanche à 10h36 en 90j, 21h et 34 minutes.
+date : Sun, 09 Feb 2025 11:25:38 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-ils-sont-completement-fous-le-monocoque-de-violette-dorange-frole-par-un-avion-de-la-marine-20250208
+source : Le Figaro - Voile.xml
+title : Vendée Globe : «Ils sont complètement fous», Violette Dorange frôlée par un avion de la marine venu à sa rencontre
+description : La navigatrice, attendue dans la nuit de samedi à dimanche en Vendée, a eu la bonne surprise d’apercevoir un appareil de la marine venu à sa rencontre.
+date : Sat, 08 Feb 2025 13:46:51 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-guirec-soudee-23e-violette-dorange-attendue-dans-la-nuit-de-samedi-a-dimanche-20250208
+source : Le Figaro - Voile.xml
+title : Vendée Globe : Guirec Soudée 23e, Violette Dorange attendue dans la nuit de samedi à dimanche
+description : Le navigateur breton est arrivé samedi aux Sables d’Olonne. Derrière lui, un sprint fait rage avec quatre skippers, dont Violette Dorange.
+date : Sat, 08 Feb 2025 10:01:15 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-le-doyen-de-l-epreuve-jean-le-cam-arrive-en-20e-position-20250204
+source : Le Figaro - Voile.xml
+title : Vendée Globe : le doyen de l'épreuve Jean Le Cam arrive en 20e position
+description : Ce mardi, le doyen de la compétition Jean Le Cam (65 ans) a atteint l’arrivée du Vendée Globe en 20e position en 85 jours, 15 heures et 51 minutes.
+date : Wed, 05 Feb 2025 14:23:28 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-benjamin-ferre-16e-trois-marins-arrivent-en-seulement-36-minutes-apres-un-sprint-haletant-20250203
+source : Le Figaro - Voile.xml
+title : Vendée Globe : Benjamin Ferré 16e, trois marins arrivent en seulement 36 minutes après un sprint haletant
+description : Le skipper du monocoque Monnoyeur-Duo for a job a arraché la 16e place avec quelques poignées de minutes d’avance sur Tanguy Le Turquais et le Suisse Alan Roura.
+date : Mon, 03 Feb 2025 18:12:59 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-j-ai-tout-essaye-arnaud-boissieres-annonce-son-abandon-apres-son-dematage-20250202
+source : Le Figaro - Voile.xml
+title : Vendée Globe : «J’ai tout essayé», Arnaud Boissières annonce son abandon après son démâtage
+description : Victime d’un démâtage jeudi, le skipper du monocoque la Mie Câline a informé la direction de course de son retrait ce dimanche.
+date : Sun, 02 Feb 2025 20:30:17 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-arrivees-aux-sables-d-olonne-de-bestaven-hors-course-et-d-attanasio-14e-20250202
+source : Le Figaro - Voile.xml
+title : Vendée Globe : arrivées aux Sables d'Olonne de Yannick Bestaven (hors course) et de Romain Attanasio (14e)
+description : Les deux navigateurs ont remonté le chenal de la cité vendéenne en fin d’après-midi.
+date : Mon, 03 Feb 2025 08:28:35 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-dematage-pour-arnaud-boissieres-20250130
+source : Le Figaro - Voile.xml
+title : Vendée Globe : démâtage pour Arnaud Boissières
+description : Le skipper du monocoque La Mie Câline a démâté ce jeudi matin alors qu’il occupait la 27e place, à plus de 2 500 milles de l’arrivée.
+date : Thu, 30 Jan 2025 16:55:35 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-apres-deux-abandons-samantha-davies-retrouve-la-joie-de-boucler-un-tour-du-monde-20250130
+source : Le Figaro - Voile.xml
+title : Vendée Globe : après deux abandons, Samantha Davies retrouve la joie de boucler un tour du monde
+description : La Britannique a coupé la ligne d’arrivée du Vendée Globe ce jeudi, à la 13e place.
+date : Thu, 30 Jan 2025 12:32:18 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-j-ai-recule-de-deux-milles-sur-le-parcours-la-galere-du-belge-lanterne-rouge-qui-s-est-eloigne-de-l-arrivee-20250130
+source : Le Figaro - Voile.xml
+title : Vendée Globe : «J’ai reculé de deux milles sur le parcours», la galère du Belge lanterne rouge qui s’est éloigné de l’arrivée
+description : Englué dans une zone de contre-courant le long de l’Amérique du Sud, Denis van Weynbergh a reculé sur le parcours du Vendée Globe.
+date : Thu, 30 Jan 2025 14:40:27 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-boris-herrmann-12e-aux-sables-d-olonne-20250129
+source : Le Figaro - Voile.xml
+title : Vendée Globe : Boris Herrmann 12e aux Sables-d’Olonne
+description : L’Allemand Boris Herrmann a bouclé son tour du monde ce mercredi en 80j 10h 16min 41s avec une 12e place à la clé.
+date : Wed, 29 Jan 2025 23:58:49 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-a-force-de-parler-tout-seul-tu-te-demandes-si-tu-ne-vas-pas-devenir-dingue-jean-le-cam-bataille-dans-les-calmes-pour-terminer-son-6e-tour-du-monde-a-65-ans-20250128
+source : Le Figaro - Voile.xml
+title : Vendée Globe : « À force de parler tout seul, tu te demandes si tu ne vas pas devenir dingue »… Jean Le Cam bataille dans les calmes pour terminer son 6e tour du monde à 65 ans
+description : Le doyen du tour du monde, situé au niveau des Canaries, s’est confié sur sa course ce mardi au micro de l’organisation. Tout en taclant Donald Trump et la classe politique française.
+date : Tue, 28 Jan 2025 12:58:38 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-clarisse-cremer-a-passe-la-ligne-en-11e-position-20250127
+source : Le Figaro - Voile.xml
+title : Vendée Globe : «Je ne suis pas la seule à être dans le mauvais port»... Clarisse Crémer, 11e, s’est abritée à la Rochelle pour se protéger de la tempête
+description : Clarisse Crémer a passé la ligne d’arrivée du Vendée Globe en 11e position ce lundi matin. Et ne pouvant pas rejoindre les Sables d’Olonne, elle a accosté au port de La Rochelle.
+date : Mon, 27 Jan 2025 18:06:27 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-le-village-de-la-course-ferme-en-raison-d-une-tempete-aux-sables-d-olonne-les-arrivees-de-dutreux-et-cremer-repoussees-20250126
+source : Le Figaro - Voile.xml
+title : Vendée Globe : le village de la course fermé en raison d’une tempête aux Sables-d’Olonne, Dutreux détourné vers La Rochelle
+description : Des rafales de vent à plus de 100 km/h sur la côte vendéenne perturbent l’arrivée au port des skippers, dont Benjamin Dutreux, officiellement 10e de la course.
+date : Sun, 26 Jan 2025 17:47:09 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-8e-justine-mettraux-devient-la-navigatrice-la-plus-rapide-de-l-histoire-de-la-course-20250125
+source : Le Figaro - Voile.xml
+title : Vendée Globe : 8e, Justine Mettraux devient la navigatrice la plus rapide de l'histoire de la course
+description : La Suissesse de 38 ans a réalisé une performance extraordinaire en achevant son tour du monde en à peine plus de 76 jours.
+date : Sat, 25 Jan 2025 21:15:43 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-le-nordiste-thomas-ruyant-septieme-aux-sables-d-olonne-20250125
+source : Le Figaro - Voile.xml
+title : Vendée Globe : le Nordiste Thomas Ruyant décroche la septième place
+description : Annoncé comme l’un des grands favoris, Thomas Ruyant a passé la ligne d’arrivée samedi matin et termine 7e du Vendée Globe.
+date : Sat, 25 Jan 2025 13:55:42 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-pour-une-premiere-nicolas-lunven-termine-a-la-sixieme-place-20250124
+source : Le Figaro - Voile.xml
+title : Vendée Globe : pour une première, Nicolas Lunven termine à la sixième place
+description : Le skipper de Holcim-PRB a franchi la ligne peu avant 9 heures vendredi soir.
+date : Fri, 24 Jan 2025 21:49:48 +0100
+categories : ['Vendée Globe', 'Voile']
+
+id : https://www.lefigaro.fr/sports/voile/vendee-globe/vendee-globe-mode-course-desactive-mode-aventure-active-sam-davies-decide-de-ralentir-pour-eviter-de-tout-casser-dans-la-tempete-20250124
+source : Le Figaro - Voile.xml
+title : Vendée Globe : «Mode course désactivé, mode aventure activé»... Sam Davies décide de ralentir pour éviter de tout casser dans la tempête
+description : La navigatrice a été obligée de lever le pied au vu des conditions météorologiques qui l’attendent à l’arrivée.
+date : Sun, 26 Jan 2025 13:03:50 +0100
+categories : ['Vendée Globe', 'Voile']
+

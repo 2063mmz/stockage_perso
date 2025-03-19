@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/jardin/comment-creer-un-jardin-zen-comme-un-vrai-professionnel-20250210
+source : Le Figaro - Jardin.xml
+title : Comment créer un jardin zen comme un vrai professionnel ?
+description : Galets, sable, quelques arbustes et plantes : le jardin zen se veut minimaliste et épuré, pour inviter à la méditation et à la relaxation. Voici un guide pour faire de votre terrain un jardin paysagé simple et harmonieux.
+date : Mon, 10 Feb 2025 06:00:00 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/j-ai-abattu-mon-cerisier-parce-qu-il-ne-donnait-rien-quand-julie-depardieu-avouait-ses-impatiences-de-jardiniere-20250209
+source : Le Figaro - Jardin.xml
+title : «J’ai abattu mon cerisier parce qu’il ne donnait rien» : quand Julie Depardieu avouait ses impatiences de jardinière
+description : La comédienne, passionnée par son potager et ses fleurs, a plusieurs fois évoqué les difficultés rencontrées dans son jardin. Des confidences qui feront sourire les amateurs. Petit florilège.
+date : Sun, 09 Feb 2025 06:00:00 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/ces-mysterieux-oeufs-roses-sont-une-menace-pour-votre-jardin-20250208
+source : Le Figaro - Jardin.xml
+title : Ces mystérieux œufs roses sont une menace pour votre jardin
+description : Si d’étranges amas d’œufs colorés attirent votre attention dans votre jardin, méfiance : l’escargot pomme pourrait être en train d’envahir les lieux. Cette espèce est une menace sérieuse pour la biodiversité.
+date : Sat, 08 Feb 2025 06:00:00 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/vous-risquez-150-000-euros-d-amende-si-cette-graminee-se-trouve-dans-votre-jardin-20250207
+source : Le Figaro - Jardin.xml
+title : Vous risquez 150.000 euros d’amende si cette graminée se trouve dans votre jardin
+description : Désormais présente un peu partout en France, elle est considérée comme une espèce exotique envahissante. Les contrevenants s’exposent à une lourde sanction financière.
+date : Fri, 07 Feb 2025 12:00:00 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/peut-on-laisser-les-bulbes-de-dahlias-en-terre-pendant-l-hiver-20250207
+source : Le Figaro - Jardin.xml
+title : Peut-on laisser les bulbes de dahlias en terre pendant l’hiver ?
+description : Les dahlias ne supportent pas les froids extrêmes et doivent donc être protégés pendant la saison hivernale. Faut-il les rentrer ? Quand et comment les retirer de terre ? Toutes nos réponses.
+date : Fri, 07 Feb 2025 06:00:00 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/transformer-ses-meubles-en-jardinieres-une-nouvelle-tendance-deco-20250206
+source : Le Figaro - Jardin.xml
+title : Transformer ses meubles en jardinières, une nouvelle tendance déco
+description : Que faire d’un vieux meuble abîmé ou un peu ringard ? En plaçant des plantes dans les tiroirs, certains décident d’en faire un véritable jardin d’hiver pour la maison. Est-ce une bonne idée ?
+date : Thu, 06 Feb 2025 06:00:00 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/decouvrez-nos-20-jardins-remarquables-preferes-20250205
+source : Le Figaro - Jardin.xml
+title : Découvrez nos 20 «Jardins remarquables» préférés
+description : Le label «Jardins remarquables» a plus de 20 ans. Bourgogne, Savoie, Drôme, Bretagne… toute la France est représentée. Découvrez nos coups de cœur.
+date : Wed, 05 Feb 2025 06:00:00 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/vos-azalees-ne-fleuriront-pas-de-sitot-si-vous-commettez-cette-erreur-20250204
+source : Le Figaro - Jardin.xml
+title : Cette erreur qui peut coûter cher aux azalées
+description : Les azalées, avec leurs fleurs éclatantes et délicates, sont des plantes prisées dans nos jardins et nos intérieurs. Cependant, une erreur fréquente peut compromettre leur floraison et leur santé : l’utilisation de la cendre de bois.
+date : Wed, 05 Feb 2025 10:28:48 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/comment-entretenir-ses-plantes-d-interieur-20250203
+source : Le Figaro - Jardin.xml
+title : Comment entretenir ses plantes d’intérieur ?
+description : Même si l’on n’a pas la main verte, on peut, avec quelques gestes simples, permettre à ses plantes d’intérieur de pousser et prospérer. Voici comment.
+date : Mon, 03 Feb 2025 06:00:00 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/j-ai-arrete-de-compter-a-180-arbres-anny-duperey-a-plante-un-jardin-de-4-hectares-de-ses-propres-mains-20250202
+source : Le Figaro - Jardin.xml
+title : «J’ai arrêté de compter à 180 arbres» : Anny Duperey a planté un jardin de 4 hectares de ses propres mains
+description : La célèbre actrice a créé un merveilleux parc, orné de nombreuses variétés d’arbres, dans un village de la Creuse. Au fil du temps, elle a distillé de précieux conseils, pour ceux qui voudraient un jardin esthétique. Voici une petite sélection.
+date : Sun, 02 Feb 2025 06:00:00 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/pour-proteger-les-arbres-en-hiver-les-japonais-ont-une-methode-tres-esthetique-20250201
+source : Le Figaro - Jardin.xml
+title : Pour protéger les arbres en hiver, les Japonais ont une méthode très esthétique
+description : Au Japon, dès novembre, les arbres les plus fragiles ou les plus précieux bénéficient d’une structure ancestrale qui les protège de la neige trop abondante. Le Yukitsuri donne un aspect magique aux jardins. Découvrez-le en images.
+date : Sat, 01 Feb 2025 07:00:00 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/comment-faire-fuir-les-rats-taupiers-du-jardin-avant-qu-ils-ne-commettent-des-degats-20250131
+source : Le Figaro - Jardin.xml
+title : Comment faire fuir les rats taupiers du jardin avant qu’ils ne commettent des dégâts ?
+description : Aussi connus sous le nom de «campagnols terrestres», les rats taupiers sont connus pour faire des trous et des dégâts au jardin. Comment repérer leur présence ? Comment s’en débarrasser ? Nos réponses.
+date : Fri, 31 Jan 2025 06:00:00 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/connaissez-vous-le-mancenillier-l-arbre-le-plus-dangereux-du-monde-20250130
+source : Le Figaro - Jardin.xml
+title : Connaissez-vous le mancenillier, l’arbre le plus dangereux du monde ?
+description : Certains arbres sont tellement toxiques qu’il est dangereux de s’en approcher. Le mancenillier, présent dans les régions équatoriales, est l’un des plus redoutables. Cet arbuste, dont le fruit est surnommé «petite pomme de la mort», représente un véritable danger pour quiconque s’aventurerait à proximité.
+date : Thu, 30 Jan 2025 15:49:25 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/la-serre-walipini-un-concept-malin-pour-obtenir-des-fruits-et-des-legumes-toute-l-annee-20250130
+source : Le Figaro - Jardin.xml
+title : La serre walipini : un concept malin pour obtenir des fruits et des légumes toute l’année
+description : Pour adapter vos plantations aux défis du réchauffement climatique, mais aussi pour prolonger la période de vos cultures, la serre walipini est une réponse pratique et durable. En quoi consiste cet équipement ? Comment réaliser ce projet chez vous ?
+date : Thu, 30 Jan 2025 06:00:00 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/un-crapaud-dans-le-jardin-faut-il-se-rejouir-de-son-arrivee-20250129
+source : Le Figaro - Jardin.xml
+title : Un crapaud dans le jardin : faut-il se réjouir de son arrivée ?
+description : Cet amphibien peut devenir un excellent allié du jardinier, mais il peut aussi causer un trouble sonore. Comment attirer les crapauds au jardin ? Quel est l’intérêt de cet animal contre les insectes ravageurs ? Nos réponses.
+date : Wed, 29 Jan 2025 06:00:00 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/nouvel-an-chinois-5-jolies-fleurs-qui-sont-des-porte-bonheurs-en-chine-20250128
+source : Le Figaro - Jardin.xml
+title : Nouvel an chinois : 5 jolies fleurs qui sont des porte-bonheurs en Chine
+description : Demain a lieu cet événement festif célébré chaque année en Chine et dans le monde entier. L’occasion pour les amateurs de fleurs de découvrir, offrir ou planter des espèces originaires de l’Empire du Milieu.
+date : Tue, 28 Jan 2025 12:27:19 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/a-t-on-le-droit-d-enterrer-une-urne-funeraire-dans-son-jardin-20250128
+source : Le Figaro - Jardin.xml
+title : A-t-on le droit d’enterrer une urne funéraire dans son jardin ?
+description : La perte d’un être cher soulève de nombreuses questions, notamment sur la conservation ou l’inhumation des cendres. Si l’idée d’enterrer une urne dans son jardin peut sembler une solution personnelle et intime, qu’en dit la législation française ?
+date : Tue, 28 Jan 2025 06:00:00 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/jardin-en-janvier-taillez-ces-3-arbres-fruitiers-pour-une-recolte-abondante-cet-ete-20250127
+source : Le Figaro - Jardin.xml
+title : Taillez ces 3 arbres fruitiers d’ici la fin du mois pour une récolte abondante en été
+description : Afin de garantir une belle récolte estivale avec de beaux fruits, la taille de certains végétaux est nécessaire en janvier. Il ne vous reste que quelques jours. Quels fruitiers tailler ? Comment procéder ? Nos réponses.
+date : Wed, 29 Jan 2025 10:24:14 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/jardin-ces-astuces-qui-circulent-sur-les-reseaux-sociaux-sont-fausses-20250126
+source : Le Figaro - Jardin.xml
+title : Jardin : ces astuces qui circulent sur les réseaux sociaux sont fausses
+description : Les réseaux sociaux regorgent de conseils pour entretenir vos plantes, mais tous ne sont pas bonnes à suivre. Certaines idées, bien qu’attrayantes, peuvent même nuire à vos végétaux et compromettre leur croissance.
+date : Sun, 26 Jan 2025 08:20:42 +0100
+categories : ['Jardin']
+
+id : https://www.lefigaro.fr/jardin/laissez-pousser-les-ronces-et-les-chardons-les-etonnantes-lecons-de-jardinage-de-gaspard-koenig-20250125
+source : Le Figaro - Jardin.xml
+title : «Laissez pousser les ronces et les chardons» : les étonnantes leçons de jardinage de Gaspard Koenig
+description : Au fil de ses romans et de ses interviews, le philosophe, qui vit dans une chaumière en Normandie, a développé une pensée bien à lui sur le jardinage. Nous avons réuni ses principaux conseils.
+date : Wed, 29 Jan 2025 11:06:12 +0100
+categories : ['Jardin']
+

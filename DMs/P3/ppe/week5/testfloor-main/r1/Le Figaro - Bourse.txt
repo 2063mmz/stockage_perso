@@ -1,0 +1,140 @@
+id : https://bourse.lefigaro.fr/actu-conseils/une-saison-halloween-qui-bat-tous-les-records-compagnie-des-alpes-commence-l-hiver-tout-schuss-20250210
+source : Le Figaro - Bourse.xml
+title : «Une saison Halloween qui bat tous les records»: Compagnie des Alpes commence l’hiver tout schuss
+description : NOTRE CONSEIL ACTION SUR COMPAGNIE DES ALPES - Le groupe de loisirs a publié une croissance soutenue de ses ventes au 1er trimestre 2024/2025, qui comprend les vacances de Noël. Ce qui augure favorablement de la suite.
+date : Mon, 10 Feb 2025 12:34:00 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/eiffage-ce-vinci-en-miniature-merite-mieux-en-bourse-selon-les-analystes-d-ubs-20250210
+source : Le Figaro - Bourse.xml
+title : Eiffage, ce Vinci en miniature, mérite mieux en Bourse, selon les analystes d’UBS
+description : CONFIDENTIEL BOURSE - Chaque semaine, Le Figaro Patrimoine et Bourse relaie des informations confidentielles repérées dans les notes d’analystes pour vous aider dans vos décisions d’investissement.
+date : Mon, 10 Feb 2025 08:54:41 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/un-mois-de-janvier-2025-marque-par-la-surprenante-activite-des-banques-centrales-20250208
+source : Le Figaro - Bourse.xml
+title : Un mois de janvier 2025 marqué par la surprenante activité des banques centrales
+description : Pour les marchés financiers, l’actualité politique ne se limite pas aux annonces de Donald Trump. Plus discrètes, les banques centrales n’en sont pas moins actives ces dernières semaines. Mais aussi discordantes.
+date : Sat, 08 Feb 2025 07:15:00 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/bourse-de-paris-vinci-dans-les-plus-fortes-hausses-un-groupe-de-spiritueux-rechute-20250207
+source : Le Figaro - Bourse.xml
+title : Bourse de Paris : Vinci dans les plus fortes hausses, un groupe de spiritueux rechute
+description : Comme l’ensemble des Bourses mondiales, le CAC 40 se rétracte ce vendredi. L’indice français n’a pas réussi à rester au-dessus des 8 000 points à cause des consommateurs américains qui ont surpris les marchés financiers.
+date : Fri, 07 Feb 2025 17:41:18 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/l-oreal-la-chine-pese-toujours-sur-la-croissance-mais-n-empeche-pas-une-marge-record-de-20-20250207
+source : Le Figaro - Bourse.xml
+title : L’Oréal: la Chine pèse toujours sur la croissance mais n’empêche pas une marge record de 20%
+description : NOTRE CONSEIL ACTION SUR L’ORÉAL - Le numéro un mondial des cosmétiques est parvenu à inscrire plusieurs records en 2024 dans un contexte compliqué, mais l’action souffre toujours. Nos explications.
+date : Fri, 07 Feb 2025 15:46:49 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/lvmh-le-bureau-d-analyse-stifel-souligne-les-tendances-positives-du-numero-un-mondial-du-luxe-pour-2025-20250207
+source : Le Figaro - Bourse.xml
+title : LVMH : le bureau d’analyse Stifel souligne les tendances positives du numéro un mondial du luxe pour 2025
+description : CONFIDENTIEL BOURSE - Chaque semaine, Le Figaro Patrimoine et Bourse relaie des informations confidentielles repérées dans les notes d’analystes pour vous aider dans vos décisions d’investissement.
+date : Fri, 07 Feb 2025 11:57:00 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/les-6-conditions-pour-que-les-bourses-europeennes-fassent-mieux-que-wall-street-en-2025-selon-neuflize-obc-20250207
+source : Le Figaro - Bourse.xml
+title : Les 6 conditions pour que les Bourses européennes fassent mieux que Wall Street en 2025, selon Neuflize OBC
+description : Macroéconomie, politique monétaire, phénomènes de marché: chaque semaine, le Figaro Patrimoine et Bourse propose l’éclairage d’un professionnel de la finance.
+date : Fri, 07 Feb 2025 10:12:06 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/bourse-de-paris-le-cac-40-repasse-au-dessus-des-8-000-points-societe-generale-et-emeis-ex-orpea-decollent-20250206
+source : Le Figaro - Bourse.xml
+title : Bourse de Paris : le CAC 40 repasse au-dessus des 8 000 points, Société Générale et Emeis (ex-Orpéa) décollent
+description : Le CAC 40 a mis de côté la guerre commerciale entre les États-Unis et la Chine pour rebondir ce jeudi. L’indice parisien a notamment profité des résultats de sociétés comme ArcelorMittal et Société Générale pour franchir le seuil symbolique des 8 000 points.
+date : Fri, 07 Feb 2025 16:26:59 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/surprise-la-bourse-applaudit-pernod-ricard-qui-pourtant-abaisse-ses-perspectives-20250206
+source : Le Figaro - Bourse.xml
+title : Surprise, la Bourse applaudit Pernod Ricard qui pourtant abaisse ses perspectives
+description : NOTRE CONSEIL ACTION SUR PERNOD RICARD - Le groupe de vins &amp;amp; spiritueux est toujours plombé par un marché chinois en berne, contraignant la direction à revoir ses ambitions à la baisse. Mais la Bourse apprécie! Nos explications.
+date : Thu, 06 Feb 2025 17:23:18 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/pourquoi-l-or-continue-t-il-de-grimper-alors-que-les-actions-comme-l-indice-nasdaq-restent-bien-orientees-20250206
+source : Le Figaro - Bourse.xml
+title : «Pourquoi l’or continue-t-il de grimper alors que les actions, comme l’indice Nasdaq, restent bien orientées?»
+description : Vie des entreprises, fonctionnement du marché, droit boursier, ... La rédaction du Figaro Patrimoine et Bourse se saisit de vos questions et vous apporte son expertise.
+date : Fri, 07 Feb 2025 16:09:10 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/4-nouvelles-actions-entrent-dans-le-superportefeuille-high-five-de-portzamparc-de-fevrier-20250206
+source : Le Figaro - Bourse.xml
+title : 4 nouvelles actions entrent dans le superportefeuille «High Five» de Portzamparc de février
+description : C’est déjà l’heure du rapport d’étape mensuel de la liste «High Five», les actions françaises préférées des analystes de Portzamparc. Une valeur reste en course, et quatre nouvelles venues font leur entrée.
+date : Thu, 06 Feb 2025 14:28:03 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/apres-un-beau-rally-le-cac-40-aurait-besoin-de-souffler-surveillez-bien-nos-points-cle-avant-d-intervenir-20250206
+source : Le Figaro - Bourse.xml
+title : Après un beau rally, le CAC 40 aurait besoin de souffler: surveillez bien nos points clé avant d’intervenir
+description : Tous les jeudis, le Figaro Patrimoine et Bourse vous propose un regard technique sur le CAC 40: supports, résistances, stratégie et conseils.
+date : Thu, 06 Feb 2025 10:48:40 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/expertise/les-chiffres-fous-d-orange-le-pari-boursier-de-la-semaine-consultez-la-lettre-des-placements-du-5-fevrier-20250205
+source : Le Figaro - Bourse.xml
+title : Les chiffres fous d’Orange, le pari boursier de la semaine… Consultez La lettre des placements du 5 février
+description : L’édition du mercredi 5 février de La lettre des placements, l’hebdomadaire de conseils boursiers du Figaro, vient de paraître. Découvrez le sommaire de ce numéro et consultez le PDF de La lettre.
+date : Wed, 05 Feb 2025 20:28:39 +0100
+categories : ['Conseils bourse']
+
+id : https://bourse.lefigaro.fr/actu-conseils/cac-40-paris-oscille-entre-espoir-et-crainte-20250205
+source : Le Figaro - Bourse.xml
+title : CAC 40: Paris oscille entre espoir et crainte
+description : Tous les mercredis, la rédaction du Figaro Bourse et placements revient sur les tendances clé du CAC 40 durant la semaine écoulée.
+date : Wed, 05 Feb 2025 19:38:15 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/bourse-de-paris-un-fabricant-de-vaccins-en-tres-forte-hausse-renault-recule-avec-l-echec-de-fusion-de-nissan-20250205
+source : Le Figaro - Bourse.xml
+title : Bourse de Paris: un fabricant de vaccins en forte hausse, Renault recule avec l’échec de la fusion entre Nissan et Honda
+description : Après un léger rebond hier, le CAC 40 se replie en raison des tensions commerciales qui ne se sont toujours pas apaisées. Les ripostes menées par les deux premières économies mondiales paralysent les Bourses mondiales, qui ne sont pas aidées non plus par certains poids lourds américains.
+date : Wed, 05 Feb 2025 17:50:46 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/des-profits-record-pour-bnp-paribas-qui-des-2025-va-payer-son-dividende-en-deux-temps-20250205
+source : Le Figaro - Bourse.xml
+title : Des profits record pour BNP Paribas, qui dès 2025 va payer son dividende en deux temps
+description : NOTRE CONSEIL ACTION SUR BNP PARIBAS - En tendance, les profits du groupe bancaire français ont pris de la vitesse en 2024, et ce n’est pas fini. Ce qui permet d’augmenter les retours aux actionnaires.
+date : Wed, 05 Feb 2025 17:09:17 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/wavestone-tient-ses-prix-malgre-la-conjoncture-la-bourse-apprecie-20250205
+source : Le Figaro - Bourse.xml
+title : Wavestone tient ses prix malgré la conjoncture, la Bourse apprécie
+description : NOTRE CONSEIL ACTION SUR WAVESTONE - Le cabinet de conseil a publié une activité trimestrielle plutôt rassurante qui lui a permis de confirmer ses objectifs annuels.
+date : Thu, 06 Feb 2025 16:47:54 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/bourse-de-paris-bnp-paribas-bondit-apres-ses-resultats-les-spiritueux-penalises-par-les-droits-de-douane-20250204
+source : Le Figaro - Bourse.xml
+title : Bourse de Paris : BNP Paribas bondit après ses résultats, les spiritueux pénalisés par les droits de douane
+description : Le CAC 40 a retrouvé progressivement le chemin des gains ce mardi. Les États-Unis ont temporairement suspendu les taxes douanières pour le Mexique et le Canada tandis que la situation avec Pékin n’est pas rentrée dans une escalade pourtant redoutée. Les Bourses européennes clôturent majoritairement dans le vert.
+date : Tue, 04 Feb 2025 17:51:49 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/apres-une-annee-historique-pour-publicis-l-action-proche-des-sommets-20250204
+source : Le Figaro - Bourse.xml
+title : Après une année historique pour Publicis, l’action proche des sommets
+description : NOTRE CONSEIL ACTION SUR PUBLICIS - Le groupe de communication n’a pas faibli dans les derniers mois de 2024, dépassant même son objectif de croissance organique. Et 2025 se présente bien.
+date : Tue, 04 Feb 2025 15:56:50 +0100
+categories : ['Actualité boursière']
+
+id : https://bourse.lefigaro.fr/actu-conseils/amundi-le-blackrock-europeen-en-avance-sur-bon-nombre-de-ses-objectifs-pour-2025-20250204
+source : Le Figaro - Bourse.xml
+title : Amundi, le BlackRock européen, en avance sur bon nombre de ses objectifs pour 2025
+description : NOTRE CONSEIL ACTION SUR AMUNDI - La Bourse peine à reconnaître les vertus du géant européen de la gestion d’actifs, qui pourtant aligne les publications supérieures aux attentes émaillées de records.
+date : Tue, 04 Feb 2025 12:29:02 +0100
+categories : ['Actualité boursière']
+

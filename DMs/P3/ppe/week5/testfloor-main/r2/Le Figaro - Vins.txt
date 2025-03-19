@@ -1,0 +1,140 @@
+id : https://avis-vin.lefigaro.fr/domaines-et-vignerons/chateau-figeac-l-evolution-discrete-d-une-etiquette-iconique-20250210
+source : Le Figaro - Vins.xml
+title : Château-Figeac, l’évolution discrète d’une étiquette iconique
+description : L’étiquette de Château-Figeac dénote du classicisme qui entoure habituellement les bouteilles bordelaises.
+date : Mon, 10 Feb 2025 12:30:00 +0100
+categories : ['Domaines et vignerons']
+
+id : https://avis-vin.lefigaro.fr/connaitre-deguster/vins-cocktails-spiritueux-ce-que-boivent-vraiment-les-jeunes-en-2025-20250210
+source : Le Figaro - Vins.xml
+title : Vins, cocktails, spiritueux : ce que boivent (vraiment) les jeunes en 2025
+description : ENQUÊTE - À l’occasion de Wine Paris, le grand rendez-vous des professionnels du vin qui se tient à partir de ce lundi,  nous avons mené l’enquête sur les aspirations plurielles des 18-25 ans.
+date : Mon, 10 Feb 2025 07:30:00 +0100
+categories : ['Comprendre le vin']
+
+id : https://avis-vin.lefigaro.fr/podcasts/14-5-degres-vous-etes-fou-faut-il-vraiment-se-fier-au-taux-d-alcool-dans-un-vin-20250209
+source : Le Figaro - Vins.xml
+title : Faut-il vraiment se fier au taux d’alcool dans un vin ?
+description : Si vous faites partie des buveurs capables de refuser un vin susceptible de vous mettre un coup derrière la nuque en raison d’un taux d’alcool jugé trop élevé, il semblerait que vous ayez tort. Explications.
+date : Sun, 09 Feb 2025 21:28:39 +0100
+categories : ['Podcasts']
+
+id : https://avis-vin.lefigaro.fr/connaitre-deguster/les-4-solutions-pour-sortir-le-monde-du-vin-de-la-crise-20250209
+source : Le Figaro - Vins.xml
+title : Les 4 solutions pour sortir le monde du vin de la crise
+description : Pour Le Figaro, Jean-Luc Coupet, spécialiste des fusions et acquisitions et «conseil de l’ombre» de tous les grands domaines, analyse les problèmes climatiques, financiers, commerciaux et réglementaires du monde du vin. Et nous livre ses solutions.
+date : Sun, 09 Feb 2025 12:30:00 +0100
+categories : ['Comprendre le vin']
+
+id : https://avis-vin.lefigaro.fr/connaitre-deguster/les-10-repaires-des-vignerons-gastronomes-durant-wine-paris-le-grand-rendez-vous-des-professionnels-du-vin-20250209
+source : Le Figaro - Vins.xml
+title : Les 10 repaires des vignerons gastronomes durant Wine Paris, le grand rendez-vous des professionnels du vin
+description : Si les professionnels du monde viticole se retrouvent porte de Versailles du 10 au 12 février, ils se restaurent partout dans la capitale. Notre sélection de bonnes adresses.
+date : Sun, 09 Feb 2025 08:00:00 +0100
+categories : ['Comprendre le vin']
+
+id : https://avis-vin.lefigaro.fr/tops-selections-vins-spiritueux/peut-on-encore-boire-des-vins-de-bourgogne-a-prix-raisonnable-decouvrez-notre-selection-a-moins-de-15-euros-20250208
+source : Le Figaro - Vins.xml
+title : Peut-on encore boire des vins de Bourgogne à prix raisonnable ? Découvrez notre sélection, à moins de 15 euros
+description : NOTRE SÉLECTION - Le Figaro Vin s’est risqué à l’exercice périlleux de sélectionner 10 vins de Bourgogne sous la barre des 15 euros.
+date : Sat, 08 Feb 2025 21:16:33 +0100
+categories : ['Tops et sélections']
+
+id : https://avis-vin.lefigaro.fr/connaitre-deguster/elle-peut-parfois-essayer-de-compenser-un-mauvais-vin-comment-l-etiquette-determine-le-succes-du-vin-20250208
+source : Le Figaro - Vins.xml
+title : «Elle peut parfois essayer de compenser un mauvais vin» : comment l’étiquette détermine le succès d’une bouteille
+description : ENQUÊTE - De la couleur pour séduire les jeunes, du classicisme pour plaire aux seniors… Entre évolution des styles, impact sur l’acte d’achat et gage d’authenticité, ces labels en disent long sur l’identité des domaines viticoles et l’évolution du secteur.
+date : Sat, 08 Feb 2025 08:00:00 +0100
+categories : ['Comprendre le vin']
+
+id : https://avis-vin.lefigaro.fr/economie-du-vin/pourquoi-la-baisse-de-consommation-de-vin-entraine-dans-sa-chute-les-marges-des-restaurateurs-20250207
+source : Le Figaro - Vins.xml
+title : Pourquoi la baisse de consommation de vin entraîne dans sa chute les marges des restaurateurs
+description : Source conséquente de marge pour les restaurateurs, le vin fait face à une déconsommation qui n’est pas sans répercussion pour eux.
+date : Fri, 07 Feb 2025 18:13:02 +0100
+categories : ['Economie du vin']
+
+id : https://avis-vin.lefigaro.fr/biere/bieres-notre-selection-des-meilleures-brasseries-de-montagne-20250207
+source : Le Figaro - Vins.xml
+title : Bières : notre sélection des meilleures brasseries de montagne
+description : NOTRE SÉLECTION - Alors que débutent les vacances d’hiver, voici quatre brasseries de montagne qui témoignent de l’intérêt de plus en plus prononcé des pays alpins pour la cause houblonnée.
+date : Fri, 07 Feb 2025 12:38:32 +0100
+categories : ['Bière et brasseries']
+
+id : https://avis-vin.lefigaro.fr/terroir-viticulture/on-obtient-99-de-raisins-intacts-quand-la-technologie-agricole-de-pointe-se-met-au-service-de-la-vigne-20250207
+source : Le Figaro - Vins.xml
+title : «On obtient 99% de raisins intacts» : quand la technologie agricole de pointe se met au service de la vigne
+description : Depuis des millénaires, la vigne est cultivée, greffée, taillée et vendangée. Aujourd’hui, elle est aussi connectée. Thierry Le Briquer, de CNH Industrial-New Holland, nous explique comment la robotique et le numérique préparent l’avenir de la viticulture.
+date : Fri, 07 Feb 2025 14:38:01 +0100
+categories : ['Terroir et viticulture']
+
+id : https://avis-vin.lefigaro.fr/economie-du-vin/un-format-plus-adapte-a-la-nouvelle-generation-qui-boit-moins-les-vins-en-canette-ont-ils-enfin-trouve-leur-public-20250206
+source : Le Figaro - Vins.xml
+title : «Un format plus adapté à la nouvelle génération qui boit moins» : les vins en canette ont-ils enfin trouvé leur public ?
+description : En 2022, le marché naissant du vin en canette connaissait une véritable expansion, mais comment se porte la tendance trois ans plus tard ?
+date : Thu, 06 Feb 2025 17:42:23 +0100
+categories : ['Economie du vin']
+
+id : https://avis-vin.lefigaro.fr/economie-du-vin/le-sake-m-a-embarquee-dans-l-univers-de-l-alcool-rencontre-avec-maryam-masure-sommeliere-de-sake-20250206
+source : Le Figaro - Vins.xml
+title : «Le saké m’a embarquée dans l’univers de l’alcool» : rencontre avec Maryam Masure, sommelière de saké
+description : Le saké, tout juste reconnu au patrimoine culturel immatériel de l’Unesco, aura bientôt le droit à un salon dédié en France : le mondial du saké. Maryam Masure, sommelière de saké en est la cofondatrice avec les œnologues de France.
+date : Fri, 07 Feb 2025 12:17:01 +0100
+categories : ['Economie du vin']
+
+id : https://avis-vin.lefigaro.fr/biere/kronenbourg-lance-somersby-en-france-pour-conquerir-le-marche-des-bieres-aromatisees-20250205
+source : Le Figaro - Vins.xml
+title : Kronenbourg lance Somersby en France pour conquérir le marché des bières aromatisées
+description : Kronenbourg se lance dans la bière aromatisée avec Somersby. La marque déjà présente dans 64 pays a été adaptée aux consommateurs français.
+date : Wed, 05 Feb 2025 18:31:13 +0100
+categories : ['Bière et brasseries']
+
+id : https://avis-vin.lefigaro.fr/economie-du-vin/dans-l-aude-l-emotion-des-vignerons-contraints-d-arracher-leurs-vignes-20250205
+source : Le Figaro - Vins.xml
+title : Dans l’Aude, l’émotion des vignerons contraints d’arracher leurs vignes
+description : Ces vignerons de l’Aude, confrontés à la sécheresse et à la surproduction, n’ont d’autre choix que de sacrifier au moins une partie de leur exploitation, parfois issue de l’héritage familial.
+date : Wed, 05 Feb 2025 09:50:51 +0100
+categories : ['Economie du vin']
+
+id : https://avis-vin.lefigaro.fr/economie-du-vin/philippe-massol-directeur-general-de-la-cite-du-vin-de-bordeaux-la-cite-du-vin-est-capable-de-vivre-sa-vie-sans-etre-soutenue-par-l-argent-public-20250205
+source : Le Figaro - Vins.xml
+title : Philippe Massol, directeur général de la Cité du Vin de Bordeaux : «La Cité du vin est capable de vivre sa vie sans être soutenue par l’argent public»
+description : Après neuf années d’activité, la Cité du Vin a trouvé sa place dans le paysage œnotouristique bordelais. Entretien avec Philippe Massol, son directeur général.
+date : Wed, 05 Feb 2025 07:30:00 +0100
+categories : ['Economie du vin']
+
+id : https://avis-vin.lefigaro.fr/economie-du-vin/valerie-befve-nommee-directrice-generale-des-proprietes-dassault-a-saint-emilion-20250204
+source : Le Figaro - Vins.xml
+title : Valérie Befve nommée directrice générale des propriétés Dassault à Saint-Emilion
+description : Valérie Befve succède à Romain Depons à la tête des propriétés du groupe Dassault à Saint-Emilion. Elle occupait jusque-là le poste de directrice commerciale.
+date : Wed, 05 Feb 2025 11:40:37 +0100
+categories : ['Economie du vin']
+
+id : https://avis-vin.lefigaro.fr/domaines-et-vignerons/un-laboratoire-de-la-haute-viticulture-alsacienne-trois-domaines-reputes-font-l-acquisition-d-une-parcelle-en-grand-cru-rangen-20250204
+source : Le Figaro - Vins.xml
+title : «Un laboratoire de la haute viticulture alsacienne» : trois domaines réputés font l’acquisition d’une parcelle en grand cru Rangen
+description : Le domaine Marcel Deiss, la famille Trapet et Thomas Mack, propriétaire du château Ollwiller, ont fait l’acquisition d’une parcelle commune dans l’un des grands crus les plus prestigieux d’Alsace. Tout cela pour en faire «un laboratoire de haute viticulture».
+date : Tue, 04 Feb 2025 20:04:22 +0100
+categories : ['Domaines et vignerons']
+
+id : https://avis-vin.lefigaro.fr/spiritueux/avec-trump-le-whisky-ecossais-redoute-de-trinquer-a-nouveau-2-20250204
+source : Le Figaro - Vins.xml
+title : Comment le whisky écossais s’organise face à la menace de nouvelles taxes américaines
+description : C’est tout au bout de la route, sur une presqu’île sauvage battue par les vents : ici, on fabrique un whisky bio zéro carbone unique en Écosse, qui séduit les États-Unis. Mais il faut désormais composer avec la menace Trump.
+date : Wed, 05 Feb 2025 10:28:57 +0100
+categories : ['Spiritueux']
+
+id : https://avis-vin.lefigaro.fr/agenda/de-grands-vins-a-prix-caviste-au-restaurant-decouvrez-les-adresses-qui-participent-a-l-operation-carte-sur-table-20250204
+source : Le Figaro - Vins.xml
+title : De grands vins à prix caviste au restaurant : découvrez les adresses qui participent à l’opération «Carte sur Table»
+description : Pour sa 13e édition, l’opération «Carte sur Table» revient avec un principe simple mais diablement efficace : proposer de grands vins bordelais à prix caviste dans une sélection de restaurants partout en France.
+date : Sat, 08 Feb 2025 11:11:40 +0100
+categories : ["L'agenda du vin"]
+
+id : https://avis-vin.lefigaro.fr/connaitre-deguster/un-verre-pense-pour-les-buveurs-de-vin-naturel-nouvel-indispensable-ou-simple-coup-marketing-20250204
+source : Le Figaro - Vins.xml
+title : Un verre pensé pour les buveurs de vin naturel : nouvel indispensable ou simple coup marketing ?
+description : S’il y a de mauvais vins, il y a aussi de piètres verres, et même les plus sophistiqués semblent peu adaptés aux nouvelles méthodes de vinification. À l’exception de celui-ci. On a testé.
+date : Tue, 04 Feb 2025 07:30:00 +0100
+categories : ['Comprendre le vin']
+

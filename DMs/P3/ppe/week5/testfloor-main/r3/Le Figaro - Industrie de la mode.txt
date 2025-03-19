@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/style/calvin-klein-le-come-back-d-un-mythe-americain-20250209
+source : Le Figaro - Industrie de la mode.xml
+title : Calvin Klein, le come-back d’un mythe américain
+description : Vendredi, l’Italienne Veronica Leoni ranimait sur les podiums de la Fashion Week de New York, l’esprit « CK » des années 1990, son minimalisme sensuel et ses coupes aiguisées. En présence du créateur culte et de Kate Moss !
+date : Sun, 09 Feb 2025 20:28:53 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/avec-l-oreal-jacquemus-a-trouve-un-investisseur-et-un-partenaire-pour-son-parfum-20250207
+source : Le Figaro - Industrie de la mode.xml
+title : Avec L’Oréal, Jacquemus a trouvé un investisseur et un partenaire pour son parfum
+description : Le groupe français de cosmétique devient investisseur minoritaire dans Jacquemus et développera pour la première fois, les produits de beauté de la marque solaire et appréciée des jeunes générations, fondée en 2009 par le créateur provençal, Simon Porte Jacquemus.
+date : Fri, 07 Feb 2025 10:03:57 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/gucci-met-fin-au-contrat-de-sabato-de-sarno-20250206
+source : Le Figaro - Industrie de la mode.xml
+title : Luxe : Gucci met fin au contrat de son directeur créatif Sabato de Sarno
+description : La marque florentine dans le giron de Kering a annoncé ce 6 février le départ de son directeur créatif arrivé il y a seulement deux ans. Un divorce qui ne surprend pas vraiment, au regard des mauvais chiffres, mais survient plus tôt que prévu.
+date : Thu, 06 Feb 2025 10:15:03 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/un-sac-de-luxe-donne-t-il-vraiment-de-l-allure-analyse-20250206
+source : Le Figaro - Industrie de la mode.xml
+title : Le sac de luxe : un atout élégant ou un investissement superflu ?
+description : Dépenser un demi-salaire dans un modèle de l’avenue Montaigne suffit-il à rendre chic ? Nous avons pesé les pour et les contre…
+date : Fri, 07 Feb 2025 11:54:55 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/la-taille-emeraude-d-une-pierre-deux-coups-20250205
+source : Le Figaro - Industrie de la mode.xml
+title : La taille émeraude, d’une pierre deux coups
+description : Longtemps réservée aux gemmes vertes ultraprécieuses, cette forme rectangulaire à angles coupés, qui magnifie les reflets d’une pierre et attire les regards par son volume, connaît une cote inédite.
+date : Wed, 05 Feb 2025 15:04:01 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/le-concept-store-lulli-phenomene-mode-du-sud-20250205
+source : Le Figaro - Industrie de la mode.xml
+title : Le concept-store Lulli, phénomène mode du Sud
+description : Fondé en 2003, le multimarque marseillais a fait des petits à Nice, Toulon ou Cassis. Son vestiaire solaire toujours « à la page » fait la fierté des filles du Midi.
+date : Wed, 05 Feb 2025 14:59:38 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/vous-avez-le-choix-dans-la-vie-maroquinerie-pour-femme-ou-maroquinerie-pour-homme-20250205
+source : Le Figaro - Industrie de la mode.xml
+title : « Vous avez le choix, dans la vie : maroquinerie pour femme… ou maroquinerie pour homme »
+description : La formule pleine d’humour était celle que répétait Philippe Cassegrain à ses petits-enfants. Aujourd’hui, ils ont entre 30 et 35 ans, et ont repris le flambeau auprès de leurs parents chez Longchamp. Juliette Poupard, Adrien et Hector Cassegrain racontent cette transmission au sein de l’entreprise familiale et indépendante.
+date : Wed, 05 Feb 2025 07:00:00 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/east-west-marquise-divorce-ring-petit-glossaire-de-gros-diamants-de-star-20250204
+source : Le Figaro - Industrie de la mode.xml
+title : « East-West », marquise, « divorce ring », petit glossaire de gros diamants de star
+description : Les stars planétaires adorent montrer leur gros caillou sur leur compte Instagram et ainsi étoffer notre culture joaillière. Lexique.
+date : Tue, 04 Feb 2025 18:00:00 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/angelina-jolie-le-pouvoir-d-une-femme-vient-toujours-de-l-interieur-mais-la-bonne-nuance-de-rouge-a-levres-renforce-son-essence-20250204
+source : Le Figaro - Industrie de la mode.xml
+title : Angelina Jolie : « Le pouvoir d’une femme vient toujours de l’intérieur, mais la bonne nuance de rouge à lèvres renforce son essence »
+description : Deux rôles pour l’actrice en ce début d’année, la Callas dans « Maria » de Pablo Larrain, qui sort aujourd’hui en salle, et égérie de Tom Ford Beauty dans une campagne signée Mert et Marcus.
+date : Tue, 04 Feb 2025 17:06:11 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/lucien-pages-j-ai-une-collection-de-300-flacons-de-parfums-factices-geants-20250203
+source : Le Figaro - Industrie de la mode.xml
+title : Lucien Pagès : « J’ai une collection de 300 flacons de parfums factices géants ! »
+description : Avec sa passion des flacons XXL - des années 1980 en particulier -, l’attaché de presse le plus connu de la mode est devenu une référence du genre sur TikTok !
+date : Mon, 03 Feb 2025 12:45:47 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/je-ne-porte-jamais-deux-fois-de-suite-le-meme-parfum-quand-se-parfumer-tourne-a-l-obsession-20250203
+source : Le Figaro - Industrie de la mode.xml
+title : «Je ne porte jamais deux fois de suite le même parfum» : quand se parfumer tourne à l’obsession
+description : Qu’ils les portent la nuit ou en superposition, qu’ils collectionnent les flacons ou qu’ils traquent les odeurs disparues, ces fous de parfums en partagent une même vision : celle d’un objet esthétique, vecteur de sensorialité et d’émotions.
+date : Mon, 03 Feb 2025 12:40:02 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/des-fleurs-des-plantes-et-meme-des-insectes-quand-la-nature-inspire-les-plus-beaux-bijoux-de-haute-joaillerie-20250201
+source : Le Figaro - Industrie de la mode.xml
+title : Des fleurs, des plantes et même des insectes… quand la nature inspire les plus beaux bijoux de haute joaillerie
+description : Cette semaine, place Vendôme, où les grandes maisons présentaient leurs collections de haute joaillerie, la nature a brillamment repris ses droits.
+date : Sat, 01 Feb 2025 09:00:00 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/demna-de-balenciaga-honore-par-rachida-dati-le-depart-de-kim-jones-de-chez-dior-le-jury-du-festival-d-hyeres-ca-s-est-passe-en-marge-de-la-haute-couture-20250131
+source : Le Figaro - Industrie de la mode.xml
+title : Demna de Balenciaga honoré par Rachida Dati, le départ de Kim Jones de chez Dior, le jury du Festival d’Hyères : ça s’est passé en marge de la haute couture
+description : Le directeur artistique géorgien décoré chevalier de l’ordre des Arts et des Lettres, des grands noms pour le jury de la 40e édition de Hyères, la Légion d’honneur et le départ du Britannique de chez Dior Men... tout ce qu’il faut retenir de la mode ces derniers jours.
+date : Fri, 31 Jan 2025 18:01:30 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/nouveau-sac-nouvelle-star-le-25-de-chanel-s-offre-une-campagne-en-musique-avec-dua-lipa-20250131
+source : Le Figaro - Industrie de la mode.xml
+title : Nouveau sac, nouvelle star : le 25 de Chanel s’offre une campagne en musique avec Dua Lipa
+description : EXCLUSIF. - Voilà trois ans que la maison de la rue Cambon n’avait pas lancé de modèle de maroquinerie destiné à durer. C’est chose faite avec ce hobo à poches cargo nommé « 25 », révélé dans une vidéo mettant en scène la chanteuse la plus prisée de l’industrie de la mode.
+date : Fri, 31 Jan 2025 17:36:02 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/couture-elie-saab-a-fleur-de-peau-viktor-rolf-sous-toutes-les-coutures-20250131
+source : Le Figaro - Industrie de la mode.xml
+title : Couture : Elie Saab à fleur de peau, Viktor & Rolf sous toutes les coutures
+description : Le couturier libanais régale ses clientes de robes tulipes dans les tons poudrés. Le duo néerlandais fait le show avec son gazar de soie dans tous ses états.
+date : Fri, 31 Jan 2025 12:05:07 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/musee-rodin-dans-la-jungle-cosmique-de-rithika-merchant-20250130
+source : Le Figaro - Industrie de la mode.xml
+title : Musée Rodin : dans la jungle cosmique de Rithika Merchant
+description : PORTRAIT. La jeune artiste indienne, diplômée de la Parsons School of Design de New York, puise dans la mythologie au sens le plus large. Pour Dior, les brodeuses des ateliers Chanakya de Mumbai ont traduit ses aquarelles en une promenade mirifique, à voir pendant quelques jours au musée parisien.
+date : Thu, 30 Jan 2025 19:14:35 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/alessandro-michele-de-retour-en-scene-chez-valentino-vertige-de-la-beaute-20250130
+source : Le Figaro - Industrie de la mode.xml
+title : Alessandro Michele, de retour en scène chez Valentino : vertige de la beauté
+description : L’homme qui a propulsé Gucci il y a dix ans avant de revenir dans la maison de Valentino Garavani l’an dernier, livrait la première collection de haute couture de sa vie. Une déflagration d’émotions au Palais Brongniart, ce mardi.
+date : Thu, 30 Jan 2025 16:33:06 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/ludovic-de-saint-sernin-la-revelation-de-la-haute-couture-chez-jean-paul-gaultier-20250130
+source : Le Figaro - Industrie de la mode.xml
+title : Ludovic de Saint Sernin, la révélation de la haute couture, chez Jean Paul Gaultier
+description : Invité le temps d’une saison par Gaultier à imaginer une collection de haute couture, le créateur de 33 ans a fait sensation, mercredi soir, avec ses sirènes et Ondine, sulfureuses et sensuelles. Une étoile est née…
+date : Thu, 30 Jan 2025 17:34:47 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/pietro-beccari-pdg-de-louis-vuitton-chaque-fois-que-je-vais-dans-un-paddock-de-formule-1-c-est-une-sorte-d-experience-metaphysique-20250130
+source : Le Figaro - Industrie de la mode.xml
+title : Pietro Beccari, PDG de Louis Vuitton : « Chaque fois que je vais dans un paddock de Formule 1, c’est une sorte d’expérience métaphysique ! »
+description : C’est officiel, le malletier devient partenaire officiel de la F1, première fois qu’une maison de luxe française investit les circuits. Alors que la marque est devenue ces derniers mois un protagoniste du sport en général, son PDG nous raconte les coulisses de cet engagement de dix ans auprès de la catégorie reine du sport automobile.
+date : Thu, 30 Jan 2025 14:26:14 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/pharrell-williams-petit-j-etais-obnubile-par-les-bijoux-en-or-de-sammy-davis-jr-de-redd-foxx-et-liberace-que-je-voyais-a-la-tele-20250129
+source : Le Figaro - Industrie de la mode.xml
+title : Pharrell Williams : « Petit, j’étais obnubilé par les bijoux en or de Sammy Davis Jr., Redd Foxx et Liberace »
+description : ENTRETIEN EXCLUSIF - La star américaine, collectionneur insatiable de bijoux, a mis son esprit créatif au service du joaillier du groupe LVMH, Tiffany &amp; Co. Il présentait hier soir à Paris le troisième chapitre de sa collection Titan sertie de perles de Tahiti.
+date : Thu, 30 Jan 2025 12:24:53 +0100
+categories : ['Industrie de la mode']
+

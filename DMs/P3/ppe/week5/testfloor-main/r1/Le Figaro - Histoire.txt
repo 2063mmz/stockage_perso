@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/histoire/le-nouveau-figaro-histoire-israel-naissance-d-une-nation-20241205
+source : Le Figaro - Histoire.xml
+title : Le nouveau Figaro Histoire : Israël, naissance d’une nation
+description : LE FIGARO HISTOIRE - Le nouveau numéro du magazine, en kiosque actuellement, consacre un dossier exceptionnel au sionisme et à la naissance de l’État d’Israël.
+date : Thu, 05 Dec 2024 15:33:29 +0100
+categories : ['Histoire']
+
+id : https://www.lefigaro.fr/histoire/livres/memoricide-de-philippe-de-villiers-est-ce-ainsi-que-les-nations-meurent-20241205
+source : Le Figaro - Histoire.xml
+title : Mémoricide, de Philippe de Villiers : est-ce ainsi que les nations meurent ?
+description : CRITIQUE - Avec Mémoricide, Philippe de Villiers nous livre une puissante méditation sur l’état de notre vieux pays, menacé d’un basculement démographique et fragilisé par la haine de son propre passé.
+date : Thu, 05 Dec 2024 09:00:00 +0100
+categories : ['Histoire Livres']
+
+id : https://www.lefigaro.fr/vox/histoire/vincent-tremolet-de-villers-quand-jerome-fourquet-devoile-la-desagregation-francaise-20241205
+source : Le Figaro - Histoire.xml
+title : Vincent Trémolet de Villers: «Quand Jérôme Fourquet dévoile la désagrégation française»
+description : FIGAROVOX/CHRONIQUE - Sous l’effet de la désindustrialisation, de l’immigration et de la déculturation, les paysages, les décors, les mœurs et même les êtres n’ont plus de point d’unité.
+date : Thu, 05 Dec 2024 08:00:10 +0100
+categories : ['Vox Histoire']
+
+id : https://www.lefigaro.fr/histoire/les-vitraux-de-notre-dame-une-resurrection-en-couleurs-et-en-lumiere-20241205
+source : Le Figaro - Histoire.xml
+title : Les vitraux de Notre-Dame: une résurrection en couleurs et en lumière
+description : RÉCIT - Déposés, nettoyés et réinstallés dans une cathédrale à la clarté renouvelée, les vitraux de Notre-Dame resplendissent d’une façon jamais vue depuis Viollet-le-Duc.
+date : Fri, 06 Dec 2024 17:20:06 +0100
+categories : ['Histoire']
+
+id : https://www.lefigaro.fr/vox/histoire/eugenie-bastie-le-decolonialisme-une-imposture-intellectuelle-20241204
+source : Le Figaro - Histoire.xml
+title : Eugénie Bastié: «Le décolonialisme, une imposture intellectuelle»
+description : CHRONIQUE - Un collectif d’universitaires critique ce mouvement d’idées né en Amérique du Sud qui a colonisé les sciences sociales. Une lecture manichéenne, simpliste et essentialiste des rapports entre l’Occident et le reste du monde.
+date : Wed, 04 Dec 2024 19:24:02 +0100
+categories : ['Vox Histoire']
+
+id : https://www.lefigaro.fr/histoire/notre-dame-de-paris-ces-decouvertes-archeologiques-permises-par-le-chantier-20241204
+source : Le Figaro - Histoire.xml
+title : Notre-Dame de Paris: ces découvertes archéologiques permises par le chantier
+description : DÉCRYPTAGE - Si l’incendie de Notre-Dame fut une catastrophe, il a aussi permis des découvertes archéologiques inouïes qui dessinent la vie de la cathédrale au fil des siècles.
+date : Wed, 04 Dec 2024 11:23:23 +0100
+categories : ['Histoire']
+
+id : https://www.lefigaro.fr/histoire/notre-dame-le-second-souffle-du-grand-orgue-20241203
+source : Le Figaro - Histoire.xml
+title : Notre-Dame: le second souffle du grand orgue
+description : Le grand orgue a échappé aux flammes mais pas aux poussières de plomb. Nettoyé et harmonisé, il retentit à nouveau sous les voûtes de la cathédrale.
+date : Tue, 03 Dec 2024 11:01:16 +0100
+categories : ['Histoire']
+
+id : https://www.lefigaro.fr/histoire/notre-dame-de-paris-10-mars-1687-adieux-au-prince-20241203
+source : Le Figaro - Histoire.xml
+title : Notre-Dame de Paris, 10 mars 1687: adieux au prince
+description : FIGARO HORS-SÉRIE (4/7) -&amp;#160;Pendant sept jours, Le Figaro hors-série vous raconte la vie de la cathédrale en sept dates clés. Aujourd’hui, le Grand Condé y est honoré par la plus grandiose des pompes funèbres.
+date : Tue, 03 Dec 2024 10:06:23 +0100
+categories : ['Histoire']
+
+id : https://www.lefigaro.fr/vox/histoire/220-ans-apres-son-sacre-le-2-decembre-1804-avons-nous-renonce-a-celebrer-l-heritage-de-napoleon-20241202
+source : Le Figaro - Histoire.xml
+title : 220 ans après son sacre, le 2 décembre 1804, avons-nous renoncé à célébrer l’héritage de Napoléon ?
+description : FIGAROVOX/TRIBUNE - Alors que la France moderne est encore largement tributaire du legs impérial, le 2 décembre devrait être la date napoléonienne par excellence de notre calendrier mémoriel, estime le député UDR et historien Maxime Michelet.
+date : Mon, 02 Dec 2024 17:57:43 +0100
+categories : ['Vox Histoire']
+
+id : https://www.lefigaro.fr/histoire/comment-les-tours-de-notre-dame-de-paris-ont-ete-miraculeusement-sauvees-des-flammes-20241202
+source : Le Figaro - Histoire.xml
+title : Comment les tours de Notre-Dame de Paris ont été miraculeusement sauvées des flammes
+description : LES MIRACLES (3/7) - Le 15 avril 2019, les tours ont failli tomber sous les flammes, laissant un grand trou dans le ciel parisien occupé depuis mille ans.
+date : Tue, 03 Dec 2024 10:25:29 +0100
+categories : ['Histoire']
+
+id : https://www.lefigaro.fr/histoire/archives/j-ai-vu-l-agonie-de-bhopal-il-y-a-40-ans-le-figaro-temoignait-du-martyre-de-la-ville-indienne-20241202
+source : Le Figaro - Histoire.xml
+title : «J’ai vu l’agonie de Bhopal» : il y a 40 ans, Le Figaro témoignait du martyre de la ville indienne
+description : LES ARCHIVES DU FIGARO - Après la libération d’un nuage toxique par une usine de pesticides dans la nuit du 2 au 3 décembre 1984 à Bhopal, l’envoyée spéciale du Figaro découvrait les ravages provoqués par l’un des plus graves accidents industriels de l’histoire.
+date : Mon, 02 Dec 2024 10:00:00 +0100
+categories : ['Histoire Archives']
+
+id : https://www.lefigaro.fr/histoire/notre-dame-de-paris-le-18-aout-1572-noces-de-sang-20241202
+source : Le Figaro - Histoire.xml
+title : Notre-Dame de Paris, le 18 août 1572: noces de sang
+description : FIGARO HORS-SÉRIE (3/7) - Pendant sept jours, Le Figaro hors-série vous raconte la vie de la cathédrale en sept dates clés. Aujourd’hui, Marguerite de Valois y épouse Henri de Navarre, quatre jours avant la Saint-Barthélemy.
+date : Thu, 05 Dec 2024 12:44:13 +0100
+categories : ['Histoire']
+
+id : https://www.lefigaro.fr/histoire/archives/quel-atroce-proces-le-1er-decembre-1944-les-tortionnaires-du-93-rue-lauriston-devant-la-justice-20241201
+source : Le Figaro - Histoire.xml
+title : «Quel atroce procès!» : le 1er décembre 1944, les tortionnaires du 93 rue Lauriston devant la justice
+description : LE FAIT D’HIER - Il y a 80 ans, les truands de la Gestapo française qui sévissaient dans la tristement célèbre officine parisienne répondaient de leurs crimes devant la cour de justice de la Seine.
+date : Sun, 01 Dec 2024 12:38:05 +0100
+categories : ['Histoire Archives']
+
+id : https://www.lefigaro.fr/vox/histoire/en-algerie-60-ans-de-dictature-militaire-et-de-captation-de-la-richesse-nationale-par-les-dirigeants-du-pays-20241130
+source : Le Figaro - Histoire.xml
+title : En Algérie, 60 ans de dictature militaire et de captation de la richesse nationale par la classe dirigeante du pays
+description : GRAND RÉCIT - Le régime algérien est presque immuable depuis l’indépendance en 1962. Le principal objectif de l’oligarchie qui le dirige consiste à durer, en réprimant les opposants comme Boualem Sansal et en faisant de la France, mais aussi du Maroc, des boucs émissaires.
+date : Mon, 13 Jan 2025 10:13:31 +0100
+categories : ['Vox Histoire']
+
+id : https://www.lefigaro.fr/histoire/notre-dame-de-paris-vers-1260-la-couronne-et-la-gloire-20241129
+source : Le Figaro - Histoire.xml
+title : Notre-Dame de Paris, vers 1260 : la couronne et la gloire
+description : FIGARO HORS-SÉRIE (2/7) - Louis IX s’est fait sculpter en façade de la nouvelle cathédrale. N’a-t-il pas offert à la fille aînée de l’Eglise les saintes reliques de la Passion ?
+date : Tue, 03 Dec 2024 10:36:34 +0100
+categories : ['Histoire']
+
+id : https://www.lefigaro.fr/histoire/notre-dame-de-paris-le-19-mai-1182-maurice-de-sully-l-eveque-batisseur-20241127
+source : Le Figaro - Histoire.xml
+title : Notre-Dame de Paris, le 19 mai 1182: Maurice de Sully, l’évêque bâtisseur
+description : FIGARO HORS-SÉRIE (1/7) - Le légat du pape consacre l’autel de la nouvelle cathédrale voulue par l’évêque de Paris, Maurice de Sully.
+date : Thu, 28 Nov 2024 18:13:45 +0100
+categories : ['Histoire']
+
+id : https://www.lefigaro.fr/vox/histoire/80-ans-apres-sa-mort-nous-aurions-besoin-de-marc-bloch-pour-nous-instruire-sur-nos-propres-errements-20241126
+source : Le Figaro - Histoire.xml
+title : 80 ans après sa mort, nous aurions besoin de Marc Bloch pour nous instruire sur nos propres errements
+description : TRIBUNE - Le 23 novembre, Emmanuel Macron a annoncé l’entrée au Panthéon de celui qui fut fusillé par la Gestapo en 1944. Historien impartial et fervent patriote, Marc Bloch nous met en garde contre le dédain pour ce qui nous a précédés, explique l’historien Julien Broch.
+date : Mon, 02 Dec 2024 12:21:27 +0100
+categories : ['Vox Histoire']
+
+id : https://www.lefigaro.fr/histoire/archives/le-26-novembre-1974-simone-veil-defendait-son-projet-de-loi-sur-l-avortement-20241126
+source : Le Figaro - Histoire.xml
+title : Le 26 novembre 1974, Simone Veil défendait son projet de loi sur l’avortement
+description : LES ARCHIVES DU FIGARO - Il y a 50 ans, la ministre de la Santé présentait devant une Assemblée nationale houleuse son texte sur la légalisation de l’IVG. Un débat suivi de près dans les pages du Figaro.
+date : Tue, 26 Nov 2024 06:00:00 +0100
+categories : ['Histoire Archives']
+
+id : https://www.lefigaro.fr/histoire/archives/le-23-novembre-1944-la-ville-de-strasbourg-etait-liberee-20241125
+source : Le Figaro - Histoire.xml
+title : Le 23 novembre 1944, la ville de Strasbourg était libérée
+description : LES ARCHIVES DU FIGARO - Après la libération de la capitale alsacienne par la 2e DB du général Leclerc, Le Figaro parcourait les rues d’une ville meurtrie par quatre années d’occupation.
+date : Mon, 25 Nov 2024 12:24:01 +0100
+categories : ['Histoire Archives']
+
+id : https://www.lefigaro.fr/histoire/archives/le-25-novembre-2004-emile-louis-le-boucher-de-l-yonne-etait-condamne-a-la-reclusion-a-perpetuite-20241124
+source : Le Figaro - Histoire.xml
+title : Le 25 novembre 2004, Emile Louis, le «boucher de l’Yonne», était condamné à la réclusion à perpétuité
+description : LE FAIT D’HIER - Il y a 20 ans, le verdict tombait pour le tueur en série jugé à Auxerre dans «l’affaire des disparues de l’Yonne».
+date : Sun, 24 Nov 2024 08:00:00 +0100
+categories : ['Histoire Archives']
+

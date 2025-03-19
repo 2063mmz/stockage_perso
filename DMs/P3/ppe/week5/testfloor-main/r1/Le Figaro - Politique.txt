@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/politique/intelligence-artificielle-emmanuel-macron-veut-relancer-l-europe-dans-la-course-20250209
+source : Le Figaro - Politique.xml
+title : Intelligence artificielle: Emmanuel Macron veut relancer l’Europe dans la course
+description : DÉCRYPTAGE - Le chef de l’État préside lundi et mardi un sommet sur l’IA qui mêle enjeux technologiques, économiques et diplomatiques. Et lui permet de remettre en scène son identité politique.
+date : Mon, 10 Feb 2025 09:44:27 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/guillaume-tabard-les-defis-du-futur-pour-sortir-de-la-grisaille-du-quotidien-20250209
+source : Le Figaro - Politique.xml
+title : Guillaume Tabard: «Les défis du futur pour sortir de la grisaille du quotidien»
+description : CONTRE-POINT - Le sommet de l’IA tombe à point nommé pour Emmanuel Macron. La dissolution ratée l’a humilié et réduit à l’impuissance. Avec ce défi d’avenir, il retrouve une utilité.
+date : Sun, 09 Feb 2025 19:46:03 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/grand-jury-sur-l-ia-nous-sommes-au-meilleur-niveau-mondial-assure-eric-lombard-20250209
+source : Le Figaro - Politique.xml
+title : «Sur l’IA, nous sommes au meilleur niveau mondial», assure Éric Lombard
+description : Invité dimanche du « Grand Jury RTL-Le Figaro-M6-Public Sénat », le ministre de l’Économie et des Finances a jugé que la France a « des résultats qui sont tout à fait au niveau » de ses concurrents étrangers.
+date : Mon, 10 Feb 2025 09:57:53 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/la-meconnaissance-recule-tout-doucement-a-l-assemblee-la-lente-conversion-des-deputes-a-l-ia-20250209
+source : Le Figaro - Politique.xml
+title : «La méconnaissance recule tout doucement»: à l’Assemblée, la lente conversion des députés à l’IA
+description : DÉCRYPTAGE - Alors qu’un sommet sur l’intelligence artificielle se tient lundi et mardi dans la capitale, les élus les plus « technophiles » tentent de sensibiliser leurs collègues sur ces nouveaux outils.
+date : Mon, 10 Feb 2025 10:01:07 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/a-madrid-les-droites-souverainistes-croient-a-un-moment-historique-20250209
+source : Le Figaro - Politique.xml
+title : À Madrid, les droites souverainistes croient à un «moment historique»
+description : DÉCRYPTAGE - Réunis dans la capitale espagnole, Marine Le Pen et ses alliés européens tablent sur des victoires aussi bien idéologiques qu’électorales.
+date : Sun, 09 Feb 2025 19:21:55 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/on-n-en-peut-plus-des-insoumis-apres-la-non-censure-deux-deputees-socialistes-sur-le-terrain-face-a-leurs-electeurs-20250209
+source : Le Figaro - Politique.xml
+title : «On n’en peut plus des Insoumis» : après la non-censure, deux députées socialistes sur le terrain face à leurs électeurs
+description : RÉCIT - Après le sursis offert par leur groupe à François Bayrou, les socialistes Ayda Hadizadeh et Céline Thiébault-Martinez étaient de retour dans leur circonscription pour prendre le pouls auprès des habitants.
+date : Sun, 09 Feb 2025 16:37:40 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/gerald-darmanin-objectif-elysee-je-n-attends-plus-les-autres-20250209
+source : Le Figaro - Politique.xml
+title : Gérald Darmanin, objectif Élysée : «Je n’attends plus les autres...»
+description : RÉCIT - Après avoir proposé de remettre en cause le droit du sol, le ministre de la Justice assume «d’être en désaccord» avec certains élus de son camp. Il préfère «les voir s’éloigner» de lui «plutôt que de faire du mou et de partir avec les poubelles de l’histoire».
+date : Sun, 09 Feb 2025 23:27:00 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/bruno-retailleau-tel-qu-il-est-applique-le-droit-met-en-echec-la-volonte-de-l-etat-20250208
+source : Le Figaro - Politique.xml
+title : Immigration : Bruno Retailleau veut «redonner la parole aux Français» via un référendum
+description : «Tel qu’il est appliqué, le droit met en échec la volonté de l’État», a-t-il déclaré dans un entretien accordé au JDD.
+date : Sat, 08 Feb 2025 23:31:58 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/legitimer-le-debat-sur-l-identite-ou-l-enterrer-20250207
+source : Le Figaro - Politique.xml
+title : Guillaume Tabard: «Légitimer le débat sur l’identité ou l’enterrer?»
+description : CONTRE-POINT -  Si François Bayrou fait preuve d’audace en mettant sur la table la question de l’identité française, le premier ministre refuse d’y répondre de manière tranchée en élargissant le périmètre de discussion.
+date : Fri, 07 Feb 2025 19:26:24 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/on-doit-changer-la-loi-apres-la-liberation-de-l-influenceur-doualemn-bruno-retailleau-prend-l-opinion-a-temoin-20250207
+source : Le Figaro - Politique.xml
+title : «On doit changer la loi»: après la libération de l’influenceur Doualemn, Bruno Retailleau prend l’opinion à témoin
+description : DÉCRYPTAGE - Pour être français, il faut « respecter le mode de vie » et « les principes républicains » du pays, a déclaré le ministre de l’Intérieur vendredi lors d’un déplacement à Lognes, en Seine-et-Marne.
+date : Fri, 07 Feb 2025 19:25:44 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/droit-du-sol-oqtf-le-budget-presque-passe-francois-bayrou-rattrape-par-l-immigration-20250207
+source : Le Figaro - Politique.xml
+title : Droit du sol, OQTF… Le budget presque passé, François Bayrou rattrapé par l’immigration
+description : RÉCIT - Alors que Gérald Darmanin et Bruno Retailleau veulent limiter le droit du sol, le premier ministre souhaite élargir ce débat à l’identité nationale.
+date : Mon, 10 Feb 2025 10:23:50 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/comment-le-rn-cherche-a-contrer-bruno-retailleau-20250207
+source : Le Figaro - Politique.xml
+title : Comment le RN cherche à contrer Bruno Retailleau
+description : DÉCRYPTAGE - Alors que le ministre de l’Intérieur peut être considéré comme un danger pour le RN, le parti nationaliste navigue entre plusieurs stratégies pour endiguer sa popularité grandissante.
+date : Fri, 07 Feb 2025 19:22:04 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/vox/politique/anne-marie-le-pourhiet-on-a-multiplie-les-entraves-a-l-action-publique-depuis-des-decennies-20250207
+source : Le Figaro - Politique.xml
+title : Anne-Marie Le Pourhiet: «On a multiplié les entraves à l’action publique depuis des décennies»
+description : ENTRETIEN - L’empilement des cours de justice et des lois ne pouvait déboucher que sur l’annulation de l’OQTF de l’influenceur algérien Doualemn, argumente Anne-Marie Le Pourhiet, professeur de droit public.
+date : Fri, 07 Feb 2025 19:06:31 +0100
+categories : ['Vox Politique']
+
+id : https://www.lefigaro.fr/politique/legislative-partielle-lr-en-pole-position-pour-recuperer-la-circonscription-de-boulogne-billancourt-20250207
+source : Le Figaro - Politique.xml
+title : Législative partielle : LR en pole position pour récupérer la circonscription de Boulogne-Billancourt
+description : Arrivée largement en tête au premier tour, l’adjointe au maire Élisabeth de Maistre fait figure de favorite. Elle affrontera dimanche le représentant d’Horizons, Antoine de Jerphanion.
+date : Fri, 07 Feb 2025 19:18:20 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/guillaume-tabard-pour-francois-bayrou-plus-dure-sera-la-suite-20250207
+source : Le Figaro - Politique.xml
+title : Guillaume Tabard : «Pour François Bayrou, plus dure sera la suite»
+description : CONTRE-POINT - La censure reste une épée de Damoclès sur la tête du gouvernement, et il ne faudra pas attendre longtemps pour que la menace revienne.
+date : Fri, 07 Feb 2025 10:17:43 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/actualite-france/la-fnsea-perd-du-terrain-face-a-la-coordination-rurale-20250206
+source : Le Figaro - Politique.xml
+title : Élections agricoles : la FNSEA perd du terrain face à la Coordination rurale
+description : L’alliance FNSEA-JA reste la première force syndicale agricole du pays mais son avance est grignotée par la Coordination rurale qui gagne une quinzaine de chambres d’agriculture.
+date : Fri, 07 Feb 2025 09:44:44 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/politique/alain-juppe-elu-president-de-l-institut-georges-pompidou-20250206
+source : Le Figaro - Politique.xml
+title : Alain Juppé élu président de l’Institut Georges Pompidou
+description : INFO LE FIGARO - L’ancien premier ministre, membre du Conseil constitutionnel, a fait l’unanimité jeudi soir lors d’un vote du conseil d’administration. La transformation de la structure en fondation est l’une des priorités annoncées.
+date : Fri, 07 Feb 2025 11:27:44 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/retraites-immigration-agriculture-apres-le-budget-le-gouvernement-face-au-defi-de-reformer-20250206
+source : Le Figaro - Politique.xml
+title : Retraites, immigration, agriculture… Après le budget, le gouvernement face au défi de réformer
+description : DÉCRYPTAGE - Alors qu’il s’apprête à sortir de l’épreuve budgétaire, l’exécutif souhaite lancer des initiatives consensuelles pour éviter la chute.
+date : Fri, 07 Feb 2025 16:29:55 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/l-international-un-domaine-que-francois-bayrou-ne-se-presse-pas-d-investir-20250206
+source : Le Figaro - Politique.xml
+title : L’international, un domaine que François Bayrou ne se presse pas d’investir
+description : DÉCRYPTAGE - À la demande du chef de l’État, le premier ministre devrait bientôt se rendre en Chine. Mais sans l’engouement de ses prédécesseurs.
+date : Fri, 07 Feb 2025 10:18:06 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/entre-le-ps-et-lfi-un-eternel-divorce-20250206
+source : Le Figaro - Politique.xml
+title : Entre le PS et LFI, un éternel divorce
+description : DÉCRYPTAGE - Après la non-censure des socialistes, les Insoumis veulent bannir le PS du NFP.
+date : Thu, 06 Feb 2025 19:19:55 +0100
+categories : ['Politique']
+

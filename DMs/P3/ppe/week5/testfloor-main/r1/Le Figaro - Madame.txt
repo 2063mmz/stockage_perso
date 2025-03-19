@@ -1,0 +1,140 @@
+id : https://madame.lefigaro.fr/style/news/assiste-t-on-au-revival-de-calvin-klein-20250210
+source : Le Figaro - Madame.xml
+title : Assiste-t-on au revival de Calvin Klein ?
+description : Pour son grand retour dans le calendrier de la fashion week new yorkaise, la griffe Calvin Klein a attiré tous les regards y compris ceux des célébrités venues en nombre assister à cette résurrection.
+date : Mon, 10 Feb 2025 13:02:26 +0100
+categories : ['Actu mode']
+
+id : https://madame.lefigaro.fr/cuisine/le-gouter-de-la-semaine-un-flan-tres-gourmand-au-chocolat-et-au-praline-20250210
+source : Le Figaro - Madame.xml
+title : Le goûter de la semaine : un flan très gourmand au chocolat et au praliné
+description : Cette semaine, pour le goûter, on revisite le traditionnel flan avec une version au chocolat et au praliné.
+date : Mon, 10 Feb 2025 12:38:03 +0100
+categories : ['Cuisine et recettes']
+
+id : https://madame.lefigaro.fr/style/news/pourquoi-tout-le-monde-parle-du-jean-de-kendrick-lamar-au-super-bowl-20250210
+source : Le Figaro - Madame.xml
+title : Pourquoi tout le monde parle du jean de Kendrick Lamar au Super Bowl ?
+description : Lors de sa performance lors de la mi-temps de la finale du championnat de football américain à La Nouvelle-Orléans, le 9 février, le rappeur américain s’est fait remarquer avec la coupe de son jean.
+date : Mon, 10 Feb 2025 12:50:31 +0100
+categories : ['Actu mode']
+
+id : https://madame.lefigaro.fr/celebrites/actu-people/je-t-aime-nicolas-carla-bruni-sarkozy-reagit-au-lendemain-de-la-pose-du-bracelet-electronique-de-son-mari-20250210
+source : Le Figaro - Madame.xml
+title : «Je t’aime Nicolas» : Carla Bruni-Sarkozy réagit au lendemain de la pose du bracelet électronique de son mari
+description : Porteur d’un bracelet électronique, Nicolas Sarkozy a annoncé son retrait de ses activités d’ancien président de la République. Son épouse, Carla Bruni-Sarkozy, lui a apporté tout son soutien, comme toujours.
+date : Mon, 10 Feb 2025 12:15:41 +0100
+categories : ['Actu people']
+
+id : https://madame.lefigaro.fr/celebrites/actu-people/kevin-costner-s-entoure-de-ses-trois-grands-enfants-sur-le-tapis-rouge-de-santa-barbara-20250210
+source : Le Figaro - Madame.xml
+title : Kevin Costner s’entoure de ses trois grands enfants sur le tapis rouge de Santa Barbara
+description : L’acteur de 70 ans est venu accompagné de sa fille Grace et ses fils Hayes et Cayden pour l’avant-première du film Horizon : An America Saga - Chapitre 2 au Festival du film de Santa Barbara.
+date : Mon, 10 Feb 2025 12:03:05 +0100
+categories : ['Actu people']
+
+id : https://madame.lefigaro.fr/celebrites/actu-people/pourquoi-taylor-swift-a-t-elle-huee-au-superbowl-20250210
+source : Le Figaro - Madame.xml
+title : Pourquoi Taylor Swift a-t-elle été huée au Super Bowl ?
+description : Ce dimanche, la chanteuse américaine a été huée lorsque son visage a été projeté sur l’écran géant du Caesars Superdome, pendant la finale du championnat de football américain.
+date : Mon, 10 Feb 2025 12:44:41 +0100
+categories : ['Actu people']
+
+id : https://madame.lefigaro.fr/celebrites/actu-people/qui-est-ce-gamin-on-dirait-le-garde-du-corps-du-president-theodore-7-ans-fils-d-ivanka-trump-star-du-super-bowl-aux-cotes-de-son-grand-pere-20250210
+source : Le Figaro - Madame.xml
+title : «Qui est ce gamin ? On dirait le garde du corps du président» : Theodore, 7 ans, fils d’Ivanka Trump, star du Super Bowl aux côtés de son grand-père
+description : Le petit garçon n’a pas lâché Donald Trump d’une semelle, ce dimanche, tandis qu’ils assistaient tous les deux au match du Super Bowl, cette grand-messe de la culture américaine.
+date : Mon, 10 Feb 2025 10:15:33 +0100
+categories : ['Actu people']
+
+id : https://madame.lefigaro.fr/shopping/sezane-decouvrez-la-nouvelle-collection-amour-club-avant-rupture-de-stock-20250210
+source : Le Figaro - Madame.xml
+title : Sézane : découvrez la nouvelle collection Amour Club avant rupture de stock
+description : Avec sa sélection Amour Club, Sézane propose de retrouver Aki et Koichi habillés avec différentes pièces Sézane et Octobre Editions. C’est l’occasion de découvrir comment porter des pièces parfaites pour elles, mais aussi pour lui, et peut-être de trouver votre prochain coup de cœur.
+date : Mon, 10 Feb 2025 08:30:00 +0100
+categories : ['Shopping']
+
+id : https://madame.lefigaro.fr/celebrites/le-baiser-passionne-et-calcule-de-meghan-markle-et-du-prince-harry-dans-les-tribunes-des-invictus-games-2025-20250210
+source : Le Figaro - Madame.xml
+title : Le baiser passionné (et calculé ?) de Meghan Markle et du prince Harry dans les tribunes des Invictus Games
+description : Ce 8 février, le prince Harry et Meghan Markle ont assisté à la cérémonie d’ouverture des Invictus Games 2025. Une première apparition en commun depuis des semaines, où le couple est apparu plus complice que jamais.
+date : Mon, 10 Feb 2025 10:27:22 +0100
+categories : ['People']
+
+id : https://madame.lefigaro.fr/shopping/saint-valentin-3-idees-cadeaux-de-derniere-minute-qui-feront-leur-effet-20250210
+source : Le Figaro - Madame.xml
+title : Saint-Valentin : 3 idées cadeaux de dernière minute qui feront leur effet
+description : Vous manquez d’inspiration pour le cadeau de Saint-Valentin de votre moitié et le 14 février approche à grands pas ? Nous avons sélectionné 3 marques très appréciées chez lesquelles vous pourrez trouver de nombreuses idées cadeaux pour l’élue de votre cœur.
+date : Mon, 10 Feb 2025 08:00:00 +0100
+categories : ['Shopping']
+
+id : https://madame.lefigaro.fr/defiles/tia-adeola/automne-hiver-25-26/pret-a-porter/defile-tia-adeola-pret-a-porter-automne-hiver-25-26-20250207
+source : Le Figaro - Madame.xml
+title : Défilé - Tia adeola - Prêt à porter Automne-Hiver 25-26
+description : Découvrez le défilé Tia adeola - Prêt à porter Automne-Hiver 25-26. Retrouvez tous les looks du show en photo ainsi que les coulisses, les détails et les meilleurs moments du défilé en vidéo. Bref, le meilleur de la mode !
+date : Mon, 10 Feb 2025 07:10:19 +0100
+categories : ['Défilés']
+
+id : https://madame.lefigaro.fr/bien-etre/il-existe-un-moment-ideal-pour-prendre-son-premier-cafe-le-matin-20250210
+source : Le Figaro - Madame.xml
+title : Il existe un moment idéal pour prendre son premier café le matin
+description : Métro, boulot, café. Ou l’inverse ? Astrid Nehlig, directrice de recherche émérite à l’Inserm, et spécialiste de la boisson préférée du petit déjeuner, nous éclaire pour trouver le timing parfait.
+date : Mon, 10 Feb 2025 11:45:42 +0100
+categories : ['Bien-être']
+
+id : https://madame.lefigaro.fr/celebrites/je-n-ai-jamais-fait-ca-a-wimbledon-l-apparition-surprise-de-serena-williams-qui-danse-a-la-mi-temps-du-super-bowl-2025-20250210
+source : Le Figaro - Madame.xml
+title : «Je n’ai jamais fait ça à Wimbledon» : l’apparition surprise de Serena Williams qui danse à la mi-temps du Super Bowl
+description : La joueuse de tennis américaine Serena Williams a fait une apparition remarquée lors du Super Bowl 2025, ce dimanche 9 février. Elle a dansé au côté du rappeur Kendrick Lamar lors de sa performance pendant la mi-temps.
+date : Mon, 10 Feb 2025 10:53:07 +0100
+categories : ['People']
+
+id : https://madame.lefigaro.fr/defiles/elena-velez/automne-hiver-25-26/pret-a-porter/defile-elena-velez-pret-a-porter-automne-hiver-25-26-20250207
+source : Le Figaro - Madame.xml
+title : Défilé - Elena velez - Prêt à porter Automne-Hiver 25-26
+description : Découvrez le défilé Elena velez - Prêt à porter Automne-Hiver 25-26. Retrouvez tous les looks du show en photo ainsi que les coulisses, les détails et les meilleurs moments du défilé en vidéo. Bref, le meilleur de la mode !
+date : Mon, 10 Feb 2025 05:08:18 +0100
+categories : ['Défilés']
+
+id : https://madame.lefigaro.fr/defiles/global-fashion-collective/automne-hiver-25-26/pret-a-porter/defile-global-fashion-collective-pret-a-porter-automne-hiver-25-26-20250207
+source : Le Figaro - Madame.xml
+title : Défilé - Global fashion collective - Prêt à porter Automne-Hiver 25-26
+description : Découvrez le défilé Global fashion collective - Prêt à porter Automne-Hiver 25-26. Retrouvez tous les looks du show en photo ainsi que les coulisses, les détails et les meilleurs moments du défilé en vidéo. Bref, le meilleur de la mode !
+date : Mon, 10 Feb 2025 04:05:18 +0100
+categories : ['Défilés']
+
+id : https://madame.lefigaro.fr/defiles/monse/automne-hiver-25-26/pret-a-porter/defile-monse-pret-a-porter-automne-hiver-25-26-20250207
+source : Le Figaro - Madame.xml
+title : Défilé - Monse - Prêt à porter Automne-Hiver 25-26
+description : Découvrez le défilé Monse - Prêt à porter Automne-Hiver 25-26. Retrouvez tous les looks du show en photo ainsi que les coulisses, les détails et les meilleurs moments du défilé en vidéo. Bref, le meilleur de la mode !
+date : Mon, 10 Feb 2025 03:41:46 +0100
+categories : ['Défilés']
+
+id : https://madame.lefigaro.fr/defiles/meruert-tolegen/automne-hiver-25-26/pret-a-porter/defile-meruert-tolegen-pret-a-porter-automne-hiver-25-26-20250207
+source : Le Figaro - Madame.xml
+title : Défilé - Meruert tolegen - Prêt à porter Automne-Hiver 25-26
+description : Découvrez le défilé Meruert tolegen - Prêt à porter Automne-Hiver 25-26. Retrouvez tous les looks du show en photo ainsi que les coulisses, les détails et les meilleurs moments du défilé en vidéo. Bref, le meilleur de la mode !
+date : Mon, 10 Feb 2025 02:07:18 +0100
+categories : ['Défilés']
+
+id : https://madame.lefigaro.fr/defiles/theophilio/automne-hiver-25-26/pret-a-porter/defile-theophilio-pret-a-porter-automne-hiver-25-26-20250207
+source : Le Figaro - Madame.xml
+title : Défilé - Theophilio - Prêt à porter Automne-Hiver 25-26
+description : Découvrez le défilé Theophilio - Prêt à porter Automne-Hiver 25-26. Retrouvez tous les looks du show en photo ainsi que les coulisses, les détails et les meilleurs moments du défilé en vidéo. Bref, le meilleur de la mode !
+date : Mon, 10 Feb 2025 01:49:46 +0100
+categories : ['Défilés']
+
+id : https://madame.lefigaro.fr/astro/horoscope/quotidien/cancer
+source : Le Figaro - Madame.xml
+title : Horoscope Cancer du jour, le 10 février 2025
+description : Découvrez notre horoscope Cancer et toutes nos prévisions pour ce lundi 10 février 2025. Qu&#039;allez-vous faire aujourd&#039;hui ? Comment se déroulera votre journée au travail ou avec votre entourage ? Serez-vous en forme ?
+date : Mon, 10 Feb 2025 02:59:02 +0100
+categories : ['Astro']
+
+id : https://madame.lefigaro.fr/astro/horoscope/quotidien/verseau
+source : Le Figaro - Madame.xml
+title : Horoscope Verseau du jour, le 10 février 2025
+description : Découvrez notre horoscope Verseau et toutes nos prévisions pour ce lundi 10 février 2025. Qu&#039;allez-vous faire aujourd&#039;hui ? Comment se déroulera votre journée au travail ou avec votre entourage ? Serez-vous en forme ?
+date : Mon, 10 Feb 2025 02:59:04 +0100
+categories : ['Astro']
+

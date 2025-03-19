@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/international/scandales-sexuels-crise-des-vocations-chute-des-pratiquants-l-eglise-d-angleterre-dans-la-tourmente-20250209
+source : Le Figaro - Société.xml
+title : Scandales sexuels, crise des vocations, chute des pratiquants: l’Église d’Angleterre dans la tourmente
+description : ENQUÊTE - Les démissions de l’archevêque de Canterbury et de l’évêque de Liverpool sur fond de scandale ont mis en lumière une crise historique. Profondément divisée entre progressistes et conservateurs, l’Église anglicane semble plus affaiblie que jamais.
+date : Sun, 09 Feb 2025 22:09:41 +0100
+categories : ['International', 'Société']
+
+id : https://www.lefigaro.fr/actualite-france/confidente-de-monique-olivier-reconstitutions-spectaculaires-sabine-kheris-la-juge-des-cold-case-qui-prend-la-lumiere-20250209
+source : Le Figaro - Société.xml
+title : Confidente de Monique Olivier, reconstitutions spectaculaires… Sabine Khéris, la juge des «cold case» qui prend la lumière
+description : PORTRAIT - La magistrate de l’instruction, qui officie à Nanterre, a construit sa réputation avec des méthodes iconoclastes.
+date : Sun, 09 Feb 2025 19:06:41 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/valerie-pecresse-plus-de-50-des-incivilites-et-des-actes-de-delinquance-dans-les-transports-sont-commis-par-des-fraudeurs-20250209
+source : Le Figaro - Société.xml
+title : Valérie Pécresse : «Plus de 50% des incivilités et des actes de délinquance dans les transports sont commis par des fraudeurs»
+description : ENTRETIEN - Pour la présidente d’Île-de-France Mobilités, la lutte contre les resquilleurs est primordiale pour faire baisser l’insécurité dans les trains, métros et bus.
+date : Sun, 09 Feb 2025 20:24:03 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/surete-dans-les-transports-vers-plus-de-pouvoir-pour-les-agents-20250209
+source : Le Figaro - Société.xml
+title : Sûreté dans les transports : vers plus de pouvoir pour les agents
+description : DÉCRYPTAGE - Une proposition de loi, débattue cette semaine, vise à améliorer la sécurité sur les réseaux SNCF et RATP.
+date : Sun, 09 Feb 2025 17:56:40 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/demain/societe/je-savais-que-j-allais-etre-vire-un-jour-mais-par-une-arabe-c-est-ch-t-merwane-benlazar-licencie-de-france-5-par-rachida-dati-repond-aux-racistes-20250209
+source : Le Figaro - Société.xml
+title : «Je savais que j’allais être viré un jour, mais par une Arabe c’est ch...t» : Merwane Benlazar, licencié de France 5 par Rachida Dati, répond aux «racistes»
+description : Dans un intermède enregistré le 6 février et diffusé ce dimanche, l’humoriste s’est indigné des menaces reçues après la diffusion de sa chronique sur France 5.
+date : Mon, 10 Feb 2025 08:30:32 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/on-chante-presque-16-heures-par-semaine-entre-college-et-maitrise-la-double-vie-des-jeunes-chanteurs-de-notre-dame-20250209
+source : Le Figaro - Société.xml
+title : «On chante presque 16 heures par semaine !» : entre collège et maîtrise, la double vie des jeunes chanteurs de Notre-Dame
+description : REPORTAGE - Depuis le mois de décembre, les maîtrisiens ont réinvesti la cathédrale après cinq ans et demi hors les murs.
+date : Sun, 09 Feb 2025 14:40:11 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/la-diaspora-d-asie-du-sud-est-modele-d-une-integration-reussie-et-d-une-immigration-vertueuse-20250209
+source : Le Figaro - Société.xml
+title : La diaspora d’Asie du Sud-Est, modèle d’une intégration réussie et d’une immigration vertueuse
+description : EXCLUSIF - Dans une nouvelle étude, l’Observatoire de l’immigration et de la démographie souligne la remarquable intégration sociale et économique des immigrés du Vietnam, du Cambodge et du Laos.
+date : Sun, 09 Feb 2025 08:15:23 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/eric-de-la-chesnais-le-heraut-des-paysans-20250208
+source : Le Figaro - Société.xml
+title : Timothée Dufour, le héraut des paysans
+description : Dans ce livre écrit avec Éric de La Chesnais, notre confrère du Figaro, il lance à la fois un cri d’amour pour la terre et un cri d’alarme.
+date : Sat, 08 Feb 2025 12:31:41 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/ou-sont-les-peres-dans-les-familles-monoparentales-le-grand-delitement-du-lien-entre-les-hommes-et-leurs-enfants-20250208
+source : Le Figaro - Société.xml
+title : Où sont les pères ? Dans les familles monoparentales, le grand délitement du lien entre les hommes et leurs enfants
+description : Lorsque les parents se sont séparés avant la naissance ou juste après, un enfant sur deux n’est jamais en contact avec son père. Les motifs d’éloignement sont divers. Les hommes qui ont eu une enfance difficile ont tendance à déserter le paysage familial.
+date : Sat, 08 Feb 2025 16:12:12 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/frere-et-soeur-face-au-handicap-chaque-coup-qu-on-lui-donnait-je-le-prenais-aussi-20250208
+source : Le Figaro - Société.xml
+title : Frère et sœur face au handicap : «Chaque coup qu’on lui donnait, je le prenais aussi»
+description : RENCONTRE - Dans Zeno, Léa Hirschfeld raconte son parcours aux côtés de son frère Anton, atteint d’un trouble neurologique de naissance. Sa vie a été marquée par des blessures, des révoltes et une profonde remise en question du monde, jusqu’au jour où elle a cessé de chercher un coupable, pour simplement apprendre à être.
+date : Sat, 08 Feb 2025 10:00:00 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/ils-sont-partis-pour-vivre-jusqu-a-cent-ans-c-est-sur-en-france-ces-territoires-ou-le-nombre-de-centenaires-va-exploser-20250208
+source : Le Figaro - Société.xml
+title : «Ils sont partis pour vivre jusqu’à cent ans, c’est sûr ! » : en France, ces territoires où le nombre de centenaires va exploser
+description : PALMARÈS EXCLUSIF - Vivre au-delà de cent ans va devenir de moins en moins rare. Le Figaro dévoile le classement des endroits où le nombre de centenaires va le plus progresser entre 2025 et 2070. Découvrez les chiffres.
+date : Sat, 08 Feb 2025 19:50:22 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/financement-libyen-le-peril-encouru-par-des-prevenus-encordes-20250207
+source : Le Figaro - Société.xml
+title : «Financement libyen»: le péril encouru par des prévenus encordés
+description : DÉCRYPTAGE - Poursuivi — comme Claude Guéant, Brice Hortefeux, Thierry Gaubert et le sulfureux Alexandre Djouhri — pour association de malfaiteurs, Nicolas Sarkozy pourrait pâtir de la faiblesse de leur défense.
+date : Fri, 07 Feb 2025 19:15:45 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/droit-des-etrangers-judiciaire-ou-administratif-le-juge-est-tout-puissant-20250207
+source : Le Figaro - Société.xml
+title : Droit des étrangers: judiciaire ou administratif, le juge est tout-puissant
+description : ANALYSE - À l’image de l’affaire Doualemn, chaque décision du ministère de l’Intérieur en matière d’expulsion est aujourd’hui frappée du sceau de la fragilité.
+date : Sun, 09 Feb 2025 16:09:35 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/laurent-alexandre-chatgpt-excelle-dans-la-manipulation-des-sentiments-20250207
+source : Le Figaro - Société.xml
+title : Laurent Alexandre : «ChatGPT excelle dans la manipulation des sentiments»
+description : ENTRETIEN - Pour l’auteur de ChatGPT va nous rendre immortels, «tout est en place» pour que les humains développent une «dépendance accrue» à l’intelligence artificielle.
+date : Fri, 07 Feb 2025 22:12:29 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/je-suis-tombee-amoureuse-de-chatgpt-20250207
+source : Le Figaro - Société.xml
+title : «Il surpasse la majorité des hommes» : l’incroyable histoire de Mika, tombée amoureuse de ChatGPT
+description : TÉMOIGNAGE - Cette jeune femme de 23 ans voit en Elias - le nom que s’est donné l’intelligence artificielle générative lors de leurs discussions - un partenaire fiable, qui répond à (presque) toutes ses attentes affectives.
+date : Sat, 08 Feb 2025 12:04:30 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/arnaud-rousseau-apres-le-camouflet-de-la-fnsea-aux-elections-agricoles-je-ne-suis-ni-dans-le-deni-ni-dans-le-catastrophisme-20250207
+source : Le Figaro - Société.xml
+title : Arnaud Rousseau après la contre-performance de la FNSEA aux élections agricoles  : «Je ne suis ni dans le déni ni dans le catastrophisme»
+description : ENTRETIEN - Le président de la FNSEA assume les mauvais résultats «historiques» du syndicat agricole qui, avec son partenaire des JA, a perdu la gouvernance de 20 des 92 chambres d’agriculture.
+date : Mon, 10 Feb 2025 08:40:50 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/veronique-le-floc-h-presidente-de-la-coordination-rurale-les-agriculteurs-commencent-a-dire-stop-a-la-soumission-a-l-agro-industrie-20250207
+source : Le Figaro - Société.xml
+title : Véronique Le Floc’h, présidente de la Coordination rurale : «Les agriculteurs commencent à dire stop à la soumission à l’agro-industrie»
+description : ENTRETIEN - Alors que la Coordination rurale enregistre une progression inédite à l’issue des élections professionnelles agricoles, la responsable du syndicat affirme que «l’objectif est atteint».
+date : Fri, 07 Feb 2025 17:48:49 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/qu-est-ce-que-la-tendance-tiktok-ghettossori-qui-se-moque-de-la-methode-montessori-20250207
+source : Le Figaro - Société.xml
+title : Qu’est-ce que la tendance TikTok «ghettossori» qui se moque de la méthode Montessori ?
+description : Ces derniers jours, une vague de vidéos pointant du doigt l’éducation positive et déculpabilisant les mères qui adoptent une éducation plus «ferme» alimente les réseaux sociaux. La plupart d’entre elles cumulent plusieurs milliers de vues.
+date : Fri, 07 Feb 2025 12:11:30 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/le-business-du-jubile-entre-gadgets-et-parfums-le-vatican-mise-sur-l-afflux-de-pelerins-20250207
+source : Le Figaro - Société.xml
+title : Le business du Jubilé : entre gadgets et parfums, le Vatican mise sur l’afflux de pèlerins
+description : VU D’AILLEURS - L’art séculaire de la collecte de fonds se réinvente à l’occasion de l’Année sainte : livres, chapelets, souvenirs et visites guidées immersives. La Curie, en adoptant les codes du marketing moderne, cherche à renflouer les caisses papales.
+date : Fri, 07 Feb 2025 12:00:00 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/actualite-france/louis-manaranche-directeur-des-classes-preparatoires-au-lycee-prive-stanislas-nous-regardons-de-tres-pres-les-lettres-de-motivation-20250207
+source : Le Figaro - Société.xml
+title : Louis Manaranche, directeur des classes préparatoires au lycée privé Stanislas : «Nous regardons de très près les lettres de motivation»
+description : ENTRETIEN - Les classes préparatoires du célèbre lycée parisien se distinguent dans les classements du Figaro.
+date : Fri, 07 Feb 2025 16:21:48 +0100
+categories : ['Société']
+

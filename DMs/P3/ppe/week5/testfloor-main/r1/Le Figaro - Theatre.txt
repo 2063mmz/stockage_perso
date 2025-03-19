@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/culture/on-a-teste-une-soiree-chez-michou-transforme-en-comedy-club-par-gad-elmaleh-20250208
+source : Le Figaro - Theatre.xml
+title : On a testé une soirée Chez Michou transformé en comedy club par Gad Elmaleh
+description : Avant l’ouverture officielle le 27 mars prochain, l’humoriste et son associé Karim Kachour présentent leur concept à un public restreint. Le Figaro s’est glissé incognito dans ce cabaret mythique des nuits parisiennes. Verdict.
+date : Sat, 08 Feb 2025 11:26:23 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/culture/entre-l-ogre-jacques-weber-et-le-debonnaire-pierre-arditi-le-figaro-a-choisi-20250206
+source : Le Figaro - Theatre.xml
+title : Théâtre : entre l’ogre Jacques Weber et le débonnaire Pierre Arditi, Le Figaro a choisi
+description : CRITIQUE - Les deux comédiens, remarquables mandarins de la scène depuis des décennies, jouent respectivement L’Injuste et Le Prix. Et si vous deviez n’en voir qu’un ? Réponse en toute subjectivité.
+date : Thu, 06 Feb 2025 20:38:42 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/culture/notre-critique-de-la-vie-revee-la-grace-de-kelly-20250206
+source : Le Figaro - Theatre.xml
+title : Notre critique de La Vie rêvée, la grâce de Kelly Rivière
+description : CRITIQUE - Pour la seconde fois, la Franco-irlandaise met en scène et joue son avatar de comédienne lestée d’une famille encombrante. De l’autofiction jubilatoire.
+date : Thu, 06 Feb 2025 16:07:55 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/theatre/sandrine-sarroche-le-rire-qui-fait-du-bien-20250205
+source : Le Figaro - Theatre.xml
+title : Sandrine Sarroche, le rire qui fait du bien
+description : CRITIQUE - L’ex-avocate devenue humoriste déclenche l’hilarité au Théâtre des Mathurins en égratignant les « bobos », Anne Hidalgo ou Emmanuel Macron.
+date : Wed, 05 Feb 2025 14:25:12 +0100
+categories : ['Théâtre']
+
+id : https://www.lefigaro.fr/theatre/notre-critique-de-la-disparition-de-josef-mengele-mikael-chirinian-a-la-poursuite-du-monstre-20250204
+source : Le Figaro - Theatre.xml
+title : Notre critique de La Disparition de Josef Mengele: Mikaël Chirinian à la poursuite du monstre
+description : CRITIQUE - Adaptée du roman d’Olivier Guez, la pièce conte la traque du médecin SS réfugié en Amérique du Sud. Un spectacle fascinant.
+date : Tue, 04 Feb 2025 13:31:45 +0100
+categories : ['Théâtre']
+
+id : https://www.lefigaro.fr/theatre/les-monologues-du-vagin-lily-et-lily-ou-la-valse-des-pingouins-les-pieces-mythiques-a-l-honneur-en-cette-rentree-20250202
+source : Le Figaro - Theatre.xml
+title : Les Monologues du vagin, Lily et Lily ou La Valse des pingouins… Les pièces de théâtre mythiques à l’honneur en cette rentrée
+description : ENQUÊTE - L’appétence pour le théâtre de boulevard ne faiblit pas. Mais face à la pénurie de nouveaux textes, les salles parisiennes remettent en scène des valeurs sûres.
+date : Sun, 02 Feb 2025 16:43:54 +0100
+categories : ['Théâtre']
+
+id : https://www.lefigaro.fr/culture/je-reviendrai-peut-etre-en-politique-les-aveux-d-eric-dupond-moretti-de-retour-sur-les-planches-20250201
+source : Le Figaro - Theatre.xml
+title : «Je reviendrai peut-être en politique»: les aveux d’Éric Dupond-Moretti, de retour sur les planches
+description : Six ans après son premier seul en scène, l’ancien garde des Sceaux remonte sur les planches pour décrire les coulisses de la vie de ministre. Avec le style incisif qui le caractérise, comme nous avons pu l’observer lors des répétitions.
+date : Sat, 01 Feb 2025 14:53:06 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/culture/article-353-du-code-penal-le-juge-et-l-assassin-en-version-finisterienne-20250130
+source : Le Figaro - Theatre.xml
+title : Article 353, du Code pénal : le juge et l’assassin en version finistérienne
+description : Au Théâtre du Rond-Point, Vincent Garanger incarne un pauvre hère devant la justice. Un spectacle plein d’humanité d’Emmanuel Noblet.
+date : Thu, 30 Jan 2025 15:33:29 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/theatre/dans-le-proces-de-jeanne-judith-chemla-vaillante-en-jeanne-d-arc-20250130
+source : Le Figaro - Theatre.xml
+title : Dans Le Procès de Jeanne, Judith Chemla vaillante en Jeanne d’Arc
+description : CRITIQUE - La comédienne et chanteuse joue divinement Jeanne d’Arc, mis en scène par Yves Beaunesne au Théâtre des Bouffes du Nord, à Paris.
+date : Sun, 02 Feb 2025 15:49:29 +0100
+categories : ['Théâtre']
+
+id : https://www.lefigaro.fr/culture/edouard-baer-cyrano-nous-montre-que-l-esprit-est-une-arme-redoutable-et-un-kit-de-survie-20250129
+source : Le Figaro - Theatre.xml
+title : Édouard Baer : «Cyrano nous montre que l’esprit est une arme redoutable et un kit de survie»
+description : ENTRETIEN CROISÉ - C’est l’un des temps forts de cette rentrée théâtrale. Anne Kessler, sociétaire honoraire de la Comédie-Française, dirige le comédien dans Cyrano de Bergerac au Théâtre Antoine. Rencontre.
+date : Wed, 29 Jan 2025 16:43:35 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/theatre/disparition-de-la-comedienne-maaike-jansen-a-83-ans-20250128
+source : Le Figaro - Theatre.xml
+title : Disparition de la comédienne Maaike Jansen à 83 ans
+description : La comédienne d’origine hollandaise qui a beaucoup joué avec son mari Roland Giraud s’est éteinte, le 23 janvier à Sens, dans l’Yonne.
+date : Tue, 28 Jan 2025 21:50:03 +0100
+categories : ['Théâtre']
+
+id : https://www.lefigaro.fr/culture/vincent-dedienne-totalement-habite-par-jean-luc-lagarce-20250128
+source : Le Figaro - Theatre.xml
+title : Vincent Dedienne totalement habité par Jean-Luc Lagarce
+description : CRITIQUE - Au Théâtre de l’Atelier, le comédien fait revivre l’auteur mort du sida dans Juste la fin du monde et Il ne m’est jamais rien arrivé.
+date : Wed, 29 Jan 2025 16:47:35 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/culture/le-vrai-sport-au-theatre-c-est-faire-revivre-l-instantaneite-chaque-soir-francois-cluzet-drole-de-psy-20250127
+source : Le Figaro - Theatre.xml
+title : «Le vrai sport au théâtre, c’est faire revivre l’instantanéité chaque soir»: François Cluzet, drôle de psy
+description : Après 25 ans d’absence au théâtre, l’acteur a créé avec brio Encore une journée divine, adapté du livre de Denis Michelis par Emmanuel Noblet au Théâtre du Jeu de Paume, à Aix-en-Provence avant de jouer à Paris à partir du 25 janvier. Rencontre.
+date : Wed, 29 Jan 2025 16:48:33 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/theatre/notre-critique-du-misanthrope-avec-eric-elmosnino-un-etonnant-alceste-maniacodepressif-20250127
+source : Le Figaro - Theatre.xml
+title : Notre critique du Misanthrope, avec Éric Elmosnino: un étonnant Alceste maniacodépressif
+description : CRITIQUE - Pour la première fois, Georges Lavaudant s’attaque à Molière et a pris le pari de monter la pièce de Molière à la seule condition qu’Alceste soit interprété par l’acteur. Un très bon choix.
+date : Mon, 27 Jan 2025 15:26:03 +0100
+categories : ['Théâtre']
+
+id : https://www.lefigaro.fr/culture/touchee-par-les-fees-avec-ariane-ascaride-un-spectacle-miraculeux-sur-le-temps-des-secrets-et-la-fureur-de-jouer-20250126
+source : Le Figaro - Theatre.xml
+title : Touchée par les fées, avec Ariane Ascaride : un spectacle miraculeux sur le temps des secrets et la fureur de jouer
+description : CRITIQUE - Dans ce seul en scène, la comédienne raconte son enfance et ses débuts dans le métier. Émotion garantie.
+date : Wed, 29 Jan 2025 16:54:29 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/theatre/macron-et-de-gaulle-un-dialogue-imaginaire-signe-jean-marie-besset-20250126
+source : Le Figaro - Theatre.xml
+title : Macron et De Gaulle : un dialogue imaginaire signé Jean-Marie Besset
+description : La «fantaisie politique» du double récipiendaire du grand prix du théâtre de l’Académie français, intitulée De Gaulle apparaît en songe à Emmanuel Macron est à l’affiche du théâtre Dejazet à partir du 4 février.
+date : Wed, 29 Jan 2025 17:18:30 +0100
+categories : ['Théâtre']
+
+id : https://www.lefigaro.fr/theatre/le-joyeux-derapage-des-sea-girls-a-la-scala-20250124
+source : Le Figaro - Theatre.xml
+title : Le joyeux Dérapage des Sea Girls à La Scala
+description : CRITIQUE - Prunella Rivière, Delphine Simon et Judith Rémy charment le public avec un nouveau spectacle de music-hall.
+date : Wed, 29 Jan 2025 17:20:21 +0100
+categories : ['Théâtre']
+
+id : https://www.lefigaro.fr/theatre/ludmila-mikael-avec-pierre-arditi-on-est-comme-des-trapezistes-on-ne-se-lache-pas-20250123
+source : Le Figaro - Theatre.xml
+title : Ludmila Mikaël : «Avec Pierre Arditi, on est comme des trapézistes, on ne se lâche pas»
+description : ENTRETIEN - À l’affiche d’En fanfare, d’Emmanuel Courcol, elle revient au théâtre après six ans d’absence avec Le Prix, de Cyril Gely, Des bracelets porte-bonheur au bras, l’actrice évoque le métier et ses passions.
+date : Thu, 23 Jan 2025 11:46:26 +0100
+categories : ['Théâtre']
+
+id : https://www.lefigaro.fr/culture/programmation-affluence-financement-quel-avenir-pour-le-cabaret-francais-20250122
+source : Le Figaro - Theatre.xml
+title : Programmation, affluence, financement... Quel avenir pour le cabaret français&#160;?
+description : ENQUÊTE - Ce 21&amp;#160;janvier, Rachida Dati était au Moulin-Rouge pour annoncer des mesures en faveur du cabaret. Le milieu et ses créatures applaudissent.
+date : Wed, 22 Jan 2025 16:41:17 +0100
+categories : ['Culture']
+
+id : https://www.lefigaro.fr/theatre/le-hasard-merveilleux-ou-l-itineraire-d-une-enfant-pas-gatee-20250121
+source : Le Figaro - Theatre.xml
+title : Le hasard merveilleux ou l’itinéraire d’une enfant pas gâtée
+description : CRITIQUE - Brigitte Guedj porte sur ses épaules la pièce de Jean-Christophe Dollé au Lucernaire, à Paris. Un moment de grâce.
+date : Thu, 23 Jan 2025 10:39:33 +0100
+categories : ['Théâtre']
+

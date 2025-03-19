@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/economie/le-scan-eco/decryptage/quand-le-name-and-shame-fait-avancer-les-bonnes-pratiques-des-entreprises-20231102
+source : Le Figaro - Le Scan Eco.xml
+title : Quand le «name and shame» fait avancer les bonnes pratiques des entreprises
+description : ENQUÊTE - Délais de paiement trop longs, inégalité entre les hommes et les femmes, informations trompeuses… L’État n’hésite plus à user de ce procédé anglo-saxon consistant à dénoncer certains comportements.
+date : Thu, 02 Nov 2023 23:05:17 +0100
+categories : ['Décryptages']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/decryptage/relever-le-defi-des-carburants-d-aviation-durables-20230621
+source : Le Figaro - Le Scan Eco.xml
+title : Relever le défi des carburants d'aviation durables
+description : TRIBUNE - Les carburants d'aviation durables apparaissent comme l'option la plus réaliste pour décarboner massivement l'aérien.
+date : Wed, 21 Jun 2023 09:11:11 +0200
+categories : ['Décryptages']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/decryptage/emmanuel-macron-ou-l-impossible-pari-de-l-inversion-de-la-courbe-du-chomage-avant-la-presidentielle-20210507
+source : Le Figaro - Le Scan Eco.xml
+title : Emmanuel Macron ou l'impossible pari de l'inversion de la courbe du chômage avant la présidentielle
+description : ANALYSE - Pour espérer être réélu en 2022, le chef de l'État doit éviter de présenter des statistiques trop dégradées en matière d'emploi. Une stratégie contrariée par la violence de la crise...
+date : Fri, 07 May 2021 14:18:53 +0200
+categories : ['Décryptages']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/prets-garantis-par-l-etat-il-est-temps-d-assouplir-les-conditions-de-remboursement-et-d-allonger-la-duree-de-remboursement-a-8-ou-10-ans-20210210
+source : Le Figaro - Le Scan Eco.xml
+title : Prêts garantis par l'État : il est temps d'allonger la durée de remboursement à 8 ou 10 ans
+description : LE MACRONOMÊTRE - L'iFRAP note 6/10 la politique du gouvernement en matière de prêts garantis par l'État. Chaque semaine, le think-tank libéral évalue la politique du gouvernement dans Le Figaro
+date : Wed, 10 Feb 2021 17:12:15 +0100
+categories : ['Scan Eco']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/covid-19-enfin-la-publication-des-donnees-sur-la-proliferation-du-virus-dans-les-eaux-usees-20210203
+source : Le Figaro - Le Scan Eco.xml
+title : Covid-19 : «Enfin la publication des données sur la prolifération du virus dans les eaux usées !»
+description : LE MACRONOMÈTRE - L'iFRAP note 7/10 la décision de rendre accessibles ces données à tous les Français, à deux bémols près néanmoins. Chaque semaine, le think-tank libéral évalue la politique du gouvernement dans Le Figaro.
+date : Fri, 05 Feb 2021 18:10:18 +0100
+categories : ['Scan Eco']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/arrets-de-travail-automatiques-en-cas-de-covid-un-risque-de-derapage-des-couts-20210127
+source : Le Figaro - Le Scan Eco.xml
+title : Arrêts de travail automatiques en cas de Covid : «Un risque de dérapage des coûts»
+description : LE MACRONOMÈTRE - Le dispositif permettant de se placer en arrêt de travail sans jour de carence en cas de soupçon de Covid est noté 4/10 par l'iFRAP. Chaque semaine le think-tank libéral évalue une mesure du gouvernement.
+date : Tue, 21 Sep 2021 17:29:24 +0200
+categories : ['Scan Eco']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/le-nouveau-calcul-en-temps-reel-des-apl-premier-pas-vers-une-allocation-sociale-unique-plafonnee-et-imposable-20210120
+source : Le Figaro - Le Scan Eco.xml
+title : Le nouveau calcul «en temps réel» des APL, premier pas vers une allocation sociale unique plafonnée et imposable ?
+description : LE MACRONOMÈTRE - L'iFRAP salue la réforme des aides au logement entrée en vigueur le 1er janvier et lui accorde un 7/10. Chaque semaine, le think-tank libéral évalue dans Le Figaro l'action du gouvernement.
+date : Wed, 02 Feb 2022 12:14:56 +0100
+categories : ['Scan Eco']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/urgence-sanitaire-sans-vote-au-parlement-ce-projet-liberticide-que-le-gouvernement-a-bien-fait-d-abandonner-20210113
+source : Le Figaro - Le Scan Eco.xml
+title : Urgence sanitaire sans vote au Parlement : «ce projet liberticide que le gouvernement a bien fait d'abandonner»
+description : LE MACRONOMÈTRE - L'iFRAP salue la décision de l'exécutif d'abandonner son projet qui aurait permis de déclencher l'urgence sanitaire sans vote au Parlement. Un recul noté 7/10 par le think-tank libéral.
+date : Wed, 13 Jan 2021 13:14:16 +0100
+categories : ['Scan Eco']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/ce-delit-d-ecocide-qui-va-causer-tant-de-mal-a-l-economie-francaise-20210106
+source : Le Figaro - Le Scan Eco.xml
+title : «Ce délit d'écocide qui va causer tant de mal à l'économie française...»
+description : LE MACRONOMÈTRE - Un délit général de pollution et un délit de mise en danger de l'environnement vont être introduits. Une réforme notée 3/10 par le think-tank libéral iFRAP.
+date : Wed, 06 Jan 2021 12:53:22 +0100
+categories : ['Scan Eco']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/loi-pour-ameliorer-le-systeme-de-sante-ou-sont-passees-la-simplification-et-la-flexibilite-20201216
+source : Le Figaro - Le Scan Eco.xml
+title : Loi pour «améliorer le système de santé » : où sont passées la simplification et la flexibilité ?
+description : LE MACRONOMÈTRE - L'iFRAP note 4/10 la proposition de loi «Améliorer le système de santé par la confiance et la simplification» du groupe LREM, soutenue par le gouvernement.
+date : Wed, 16 Dec 2020 17:21:22 +0100
+categories : ['Scan Eco']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/carte-vitale-biometrique-la-proposition-evidente-du-senat-rejetee-de-maniere-incomprehensible-et-contre-productive-20201209
+source : Le Figaro - Le Scan Eco.xml
+title : Carte vitale biométrique : «La proposition évidente du Sénat rejetée de manière incompréhensible et contre-productive»
+description : LE MACRONOMÈTRE - La proposition sénatoriale a été rejetée par la majorité parlementaire, déplore l'iFRAP. Il est pourtant plus que temps de lutter contre la fraude, rappelle le think-tank libéral, qui note 4/10 la gestion de ce dossier.
+date : Fri, 11 Dec 2020 10:08:52 +0100
+categories : ['Scan Eco']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/loi-recherche-une-petite-revolution-est-en-marche-20201202
+source : Le Figaro - Le Scan Eco.xml
+title : Loi recherche : «Une petite révolution est en marche»
+description : LE MACRONOMÈTRE - L'iFRAP salue une loi qui facilite la contractualisation des chercheurs publics et accorde la note de 7/10 au gouvernement.
+date : Wed, 02 Dec 2020 16:36:52 +0100
+categories : ['Scan Eco']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/quand-aurons-nous-une-vraie-loi-de-programmation-de-securite-interieure-20201125
+source : Le Figaro - Le Scan Eco.xml
+title : «Quand aurons-nous une vraie loi de programmation de sécurité intérieure ?»
+description : LE MACRONOMÈTRE - Entre la loi sur la sécurité globale, celle sur les séparatismes et celle sur la délinquance des mineurs, le gouvernement se disperse, estime l'iFRAP, qui lui accorde un 5/10. Chaque semaine, le think-tank évalue l'action de l'exécutif.
+date : Fri, 27 Nov 2020 10:15:43 +0100
+categories : ['Scan Eco']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/le-nombre-d-operateurs-de-l-etat-a-baisse-mais-leurs-depenses-ont-augmente-20201118
+source : Le Figaro - Le Scan Eco.xml
+title : «Le nombre d'opérateurs de l'État a baissé, mais leurs dépenses ont augmenté»
+description : LE MACRONOMÈTRE - Le nombre d'agences rattachées à l'État a diminué de façon non négligeable, salue l'iFRAP, qui accorde un 6/10 au gouvernement. Des «points de fuite» importants demeurent cependant, pointe le think-tank libéral.
+date : Thu, 19 Nov 2020 16:19:11 +0100
+categories : ['Scan Eco']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/vers-une-urgence-sanitaire-sans-fin-et-sans-controle-20201104
+source : Le Figaro - Le Scan Eco.xml
+title : «Vers une urgence sanitaire sans fin et sans contrôle ?»
+description : LE MACRONOMÈTRE - La capacité du gouvernement à prendre seul toutes dispositions de restrictions des libertés publiques est excessive, selon l'iFRAP. Le think-tank libéral, qui chaque semaine évalue l'action de l'exécutif, lui accorde un 3/10.
+date : Thu, 05 Nov 2020 12:03:47 +0100
+categories : ['Scan Eco']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/chaque-vie-sauvee-grace-au-confinement-a-t-elle-un-cout-de-6-millions-d-euros-pour-la-collectivite-20201030
+source : Le Figaro - Le Scan Eco.xml
+title : Chaque vie sauvée grâce au  confinement a-t-elle un coût de 6 millions d'euros pour la collectivité ?
+description : LA VÉRIFICATION - Tel est le bilan de la première vague de l'épidémie et du confinement du printemps dernier selon l'économiste Patrick Artus.
+date : Fri, 30 Oct 2020 15:22:10 +0100
+categories : ['Scan Eco']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/la-charge-de-la-dette-publique-francaise-ne-baissera-plus-20201028
+source : Le Figaro - Le Scan Eco.xml
+title : «La charge de la dette publique française ne baissera plus»
+description : LE MACRONOMÈTRE - Le coût annuel de la dette publique a beaucoup baissé ces dernières années mais nous arrivons à la fin d'un cycle, pointe l'iFRAP. Chaque semaine, le think-tank libéral évalue dans Le Figaro l'action du gouvernement.
+date : Wed, 28 Oct 2020 16:28:52 +0100
+categories : ['Scan Eco']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/budget-pourquoi-le-deficit-2021-est-sous-evalue-20201021
+source : Le Figaro - Le Scan Eco.xml
+title : Budget : «Pourquoi le déficit 2021 est sous-évalué»
+description : LE MACRONOMÈTRE - En annonçant 132 milliards d'euros de déficit public pour 2021, le gouvernement pèche par optimise, estime l'iFRAP. Le think-tank libéral accorde un 4/10 à l'exécutif.
+date : Thu, 22 Oct 2020 18:16:38 +0200
+categories : ['Scan Eco']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/covid-19-un-reconfinement-general-serait-il-vraiment-plus-dangereux-pour-l-economie-que-les-restrictions-actuelles-20201016
+source : Le Figaro - Le Scan Eco.xml
+title : Covid-19 : un reconfinement général serait-il vraiment plus dangereux pour l'économie que les restrictions actuelles ?
+description : LA VÉRIFICATION - Le ministre de l'Économie Bruno Le Maire juge le coût du couvre-feu bien plus faible qu'un reconfinement. Le FMI est plus nuancé. Qui croire ?
+date : Mon, 26 Oct 2020 13:16:58 +0100
+categories : ['Scan Eco']
+
+id : https://www.lefigaro.fr/economie/le-scan-eco/la-masse-salariale-de-l-etat-n-a-pas-fini-d-augmenter-20201014
+source : Le Figaro - Le Scan Eco.xml
+title : «La masse salariale de l'État n'a pas fini d'augmenter»
+description : LE MACRONOMÈTRE - Alors qu'Emmanuel Macron s'était engagé à réduire le nombre de postes dans la fonction publique, les dépenses de personnel augmentent encore entre 2020 et 2021, déplore l'iFRAP.
+date : Wed, 14 Oct 2020 19:25:37 +0200
+categories : ['Scan Eco']
+

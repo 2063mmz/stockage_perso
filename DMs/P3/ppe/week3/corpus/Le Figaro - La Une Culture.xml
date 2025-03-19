@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/figaro_culture.xml" rel="self" type="application/rss+xml"/>
+        <category>Culture</category>
+        <title>Le Figaro - Culture : Cinéma, théâtre, arts, expositions, musique et télévision</title>
+        <description>Culture : Retrouvez nos critiques cinéma, les pièces de théâtre, les expositions et tous les évènements culturels à venir sur le Figaro</description>
+        <link>http://www.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Mon, 10 Feb 2025 13:33:23 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <image>
+            <title>Le Figaro - Culture : Cinéma, théâtre, arts, expositions, musique et télévision</title>
+            <url>https://static.lefigaro.fr/common/logos/logo-150x150.png</url>
+            <link>http://www.lefigaro.fr</link>
+            <description>Culture : Retrouvez nos critiques cinéma, les pièces de théâtre, les expositions et tous les évènements culturels à venir sur le Figaro</description>
+        </image>
+
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/god-save-the-tuche-mon-gateau-prefere-5-septembre-les-films-a-voir-et-a-ne-pas-voir-cette-semaine-20250205</guid>
+                <title>God Save the Tuche, Mon gâteau préféré, 5 septembre... Les films à voir et à ne pas voir cette semaine</title>
+                                <link>https://www.lefigaro.fr/cinema/god-save-the-tuche-mon-gateau-prefere-5-septembre-les-films-a-voir-et-a-ne-pas-voir-cette-semaine-20250205</link>
+                                    <description>Au cinéma cette semaine: une famille franchouillarde à la rencontre de la famille royale d’Angleterre, une ode aux femmes iranienne, la prise d’otage en direct d’athlètes israéliens lors des Jeux olympiques de Munich en 1972.</description>
+                                <category>Cinéma</category>
+                <pubDate>Wed, 05 Feb 2025 10:50:09 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2025/02/04/4a5f5df738e1c1f118c48f5a07814e2d8f782d060a49e857b790ddd25b2a913c.jpg" width="1920" height="1080">
+                            <media:description type="plain">Lili Farhadpour dans Mon gâteau préféré, Jean-Paul Rouve dans God Save the Tuche et John Magaro dans 5 Septembre.</media:description>
+                            <media:credit>(Arizona Distribution/Pathé Films-Nolita Cinéma/Constantin Film</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/sharon-stone-paris-hilton-beyonce-les-stars-se-mobilisent-pour-venir-en-aide-aux-victimes-des-incendies-a-los-angeles-20250113</guid>
+                <title>Sharon Stone, Beyoncé, Taylor Swift... Les stars se mobilisent pour venir en aide aux victimes des incendies à Los Angeles</title>
+                                <link>https://www.lefigaro.fr/culture/sharon-stone-paris-hilton-beyonce-les-stars-se-mobilisent-pour-venir-en-aide-aux-victimes-des-incendies-a-los-angeles-20250113</link>
+                                    <description>De nombreuses célébrités affichent leurs soutiens aux personnes ayant perdu leur maison, via des donations financières ou matérielles comme des vêtements et des chaussures. Un concert caritatif est également prévu le 30 janvier avec en tête d’affiche Lady Gaga, Katy Perry ou encore Billie Eilish.</description>
+                                <category>Culture</category>
+                <pubDate>Fri, 17 Jan 2025 16:03:41 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1870x1051_crop/2025/01/13/318da19473eefc9e2dd9349d17cc28e32aced41a01d7e38906ca74ba0d1cbe88.jpg" width="1870" height="1051">
+                            <media:description type="plain">Sharon Stone a proposé d’accueillir des amis et de la famille chez elle tandis que Paris Hilton et Beyoncé ont annoncé faire des dons.</media:description>
+                            <media:credit>Getty Images via AFP / AMY SUSSMAN / Getty Images via AFP / CHIP SOMODEVILLA / AFP / MIGUEL J. RODRIGUEZ CARRILLO</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/musique/un-concert-improvise-d-ed-sheeran-organise-en-pleine-rue-en-inde-interrompu-par-la-police-20250210</guid>
+                <title>Un concert improvisé d’Ed Sheeran organisé en pleine rue en Inde interrompu par la police</title>
+                                <link>https://www.lefigaro.fr/musique/un-concert-improvise-d-ed-sheeran-organise-en-pleine-rue-en-inde-interrompu-par-la-police-20250210</link>
+                                    <description>« Pas d’autorisation, pas de concert », a répliqué sur les réseaux sociaux un représentant du BJP, le parti nationaliste hindou, alors que le chanteur affirme avoir obtenu l’autorisation de se produire dans le quartier de Church Street.</description>
+                                <category>Musique</category>
+                <pubDate>Mon, 10 Feb 2025 13:11:16 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2025/02/10/810fd9836debf397ac24e587d0f14540e8c71e538edd758f8d00b85a349d5462.jpg" width="3000" height="1687">
+                            <media:description type="plain">Ed Sheeran (ici en 2024) a décidé de surprendre ses fans en organisant un concert improvisé dans le quartier de Church Street, à Bangalore, avant que les autorités n’interviennent. </media:description>
+                            <media:credit>DIA DIPASUPIL / Getty Images via AFP</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/des-fans-d-oasis-voient-leurs-billets-de-concert-annule-en-raison-des-fraudes-pour-le-marche-noir-20250210</guid>
+                <title>Des fans d’Oasis voient leurs billets de concert annulé en raison des fraudes pour le marché noir</title>
+                                <link>https://www.lefigaro.fr/culture/des-fans-d-oasis-voient-leurs-billets-de-concert-annule-en-raison-des-fraudes-pour-le-marche-noir-20250210</link>
+                                    <description>Pour la seconde fois en six mois, le géant de la billetterie TicketMaster explique avoir purgé des billets achetés par des escrocs. Mais plusieurs particuliers assurent avoir acheté leurs places annulées sur le site officiel.</description>
+                                <category>Culture</category>
+                <pubDate>Mon, 10 Feb 2025 13:05:40 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1667x938_crop/2025/02/10/773eb555471fefb08182cb53b6de3c5a0e1863f3fd1a406d21cc0ad15862a196.jpg" width="1667" height="938">
+                            <media:description type="plain">TicketMaster, géant américain de la billetterie et propriété de Live Nation, a annulé des milliers de billets achetés pour les concerts du groupe Oasis.</media:description>
+                            <media:credit>Capture Ticketmaster.com</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/tourne-le-biopic-de-pharrell-williams-par-michel-gondry-ne-verra-finalement-jamais-le-jour-20250210</guid>
+                <title>Tourné, le biopic de Pharrell Williams par Michel Gondry ne verra finalement jamais le jour</title>
+                                <link>https://www.lefigaro.fr/cinema/tourne-le-biopic-de-pharrell-williams-par-michel-gondry-ne-verra-finalement-jamais-le-jour-20250210</link>
+                                    <description>Golden, le film qui retrace l’enfance de la star de la musique américaine devait être dévoilé en mai aux États-Unis. Malgré un budget de 20 millions de dollars et casting 5 étoiles, le long-métrage ne serait pas à la hauteur des ambitions affichées par son équipe.</description>
+                                <category>Cinéma</category>
+                <pubDate>Mon, 10 Feb 2025 12:17:34 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/2403x1351_crop/2025/02/10/bcc2430d19e8062512016fbb4464afb1960529e3b12879b78ea1f3091af17e52.jpg" width="2403" height="1351">
+                            <media:description type="plain">Le biopic devait retracer l’enfance du chanteur Pharrell Williams, à Virginia Beach, en se concentrant sur l’été 1977.</media:description>
+                            <media:credit>KAYLA OADDAMS / Getty Images via AFP</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/machina-sapiens-ou-les-artistes-a-l-heure-de-l-ia-a-la-conciergerie-20250207</guid>
+                <title>«Machina Sapiens» ou les artistes à l’heure de l’IA à la Conciergerie</title>
+                                <link>https://www.lefigaro.fr/culture/machina-sapiens-ou-les-artistes-a-l-heure-de-l-ia-a-la-conciergerie-20250207</link>
+                                    <description>REPORTAGE - Cette exposition réunit une vingtaine d’artistes contemporains qui emploient l’IA pour créer. Ils devraient parler à la Génération Z, née entre 1997 et 2012, et, demain, à la Génération Alpha, née depuis 2010.</description>
+                                <category>Culture</category>
+                <pubDate>Mon, 10 Feb 2025 10:35:37 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2250_crop/2025/02/07/7032e7effbe7e6f9f61234a3256abf7300d32eb83cad2f65179d3b5d23cce9b1.jpg" width="3000" height="2250">
+                            <media:description type="plain">Pour deux petits jours, jusqu’à dimanche soir, l’exposition « Machina Sapiens» entend «cartographier les enjeux de l’IA générative et de son impact sur la société». </media:description>
+                            <media:credit>© Photo Valérie Duponchelle / Le Figaro</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/musique/nous-ne-sommes-pas-contre-l-ia-mais-pour-l-humain-sur-les-plateformes-de-streaming-les-abonnes-dans-le-flou-20250207</guid>
+                <title>«Nous ne sommes pas contre l’IA mais pour l’humain»: sur les plateformes de streaming, les abonnés dans le flou</title>
+                                <link>https://www.lefigaro.fr/musique/nous-ne-sommes-pas-contre-l-ia-mais-pour-l-humain-sur-les-plateformes-de-streaming-les-abonnes-dans-le-flou-20250207</link>
+                                    <description>Face à la montée des musiques générées par l’IA, les entreprises ne veulent pas se poser en arbitre.</description>
+                                <category>Musique</category>
+                <pubDate>Sat, 08 Feb 2025 13:16:11 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2001_crop/2025/02/07/d4c72498973a9a86907d3ffb8af600bc7ac73edf1deb11d8cd34e784c2902458.jpg" width="3000" height="2001">
+                            <media:description type="plain">Sur les 100.000 titres envoyés chaque jour sur les serveurs, 10% ont été générés par un logiciel.</media:description>
+                            <media:credit>LIONEL BONAVENTURE / AFP</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/quand-la-voix-contrefaite-de-sylvester-stallone-devient-le-symbole-de-la-lutte-des-comediens-contre-l-ia-20250208</guid>
+                <title>Quand la voix contrefaite de Sylvester Stallone devient le symbole de la lutte des comédiens contre l’IA</title>
+                                <link>https://www.lefigaro.fr/cinema/quand-la-voix-contrefaite-de-sylvester-stallone-devient-le-symbole-de-la-lutte-des-comediens-contre-l-ia-20250208</link>
+                                    <description>ENQUÊTE - Le secteur du doublage, qui emploie 15 000 personnes dont 5000 comédiens, se mobilise contre la généralisation de l’intelligence artificielle en l’absence de législation qui protégerait « l’exception culturelle française ».</description>
+                                <category>Cinéma</category>
+                <pubDate>Sat, 08 Feb 2025 13:00:00 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1916x1078_crop/2025/02/07/51dc4905f27fd9a4f5948d1f49a545a577791ea2609d1ad31fd219386d902d2c.jpg" width="1916" height="1078">
+                            <media:description type="plain">Les comédiens se sont rassemblés le 3 décembre pour lutter contre l’utilisation de l’IA dans le métier de doubleur.</media:description>
+                            <media:credit>Clement Hudson/ Capture Instagram UNSA Spectacle et Communication/ Les Voix</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/le-monde-de-la-culture-gronde-avant-le-sommet-sur-l-ia-des-decideurs-et-des-entreprises-20250207</guid>
+                <title>Le monde de la culture gronde avant le sommet sur l’IA « des décideurs et des entreprises »</title>
+                                <link>https://www.lefigaro.fr/culture/le-monde-de-la-culture-gronde-avant-le-sommet-sur-l-ia-des-decideurs-et-des-entreprises-20250207</link>
+                                    <description>Comédiens, écrivains, musiciens, cinéastes... Les acteurs de tous les champs culturels demandent des garanties et des règles avant d’accélérer dans le développement de l’intelligence artificielle.</description>
+                                <category>Culture</category>
+                <pubDate>Fri, 07 Feb 2025 17:53:49 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2001_crop/2025/02/07/163cec3779a6ce5157c2d7957b432c5324070382651675ba7f23339febbbdac0.jpg" width="3000" height="2001">
+                            <media:description type="plain">En France, en Europe, comme aux États-Unis, l’inquiétude gagne les milieux des créateurs et des artistes qui estiment que l’IA menace leur emploi ou préfigure un « pillage » de leurs œuvres.</media:description>
+                            <media:credit>JOEL SAGET / AFP</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/ia-et-musique-un-accord-encore-loin-d-etre-parfait-20250207</guid>
+                <title>IA et musique, un accord encore loin d’être parfait</title>
+                                <link>https://www.lefigaro.fr/culture/ia-et-musique-un-accord-encore-loin-d-etre-parfait-20250207</link>
+                                    <description>DÉCRYPTAGE - Des plateformes de streaming aux musiques générées à la demande, l’intelligence artificielle joue déjà sa partition dans notre quotidien avec ses potentielles dérives.</description>
+                                <category>Culture</category>
+                <pubDate>Fri, 07 Feb 2025 17:43:48 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2001_crop/2025/02/07/2b9223844a93637365d09756a947f4e9d524e7a0035913974c743b7a127837da.jpg" width="3000" height="2001">
+                            <media:description type="plain">Selon l’étude publiée l’an dernier par le cabinet Goldmayer, 35% des créateurs interrogés ont déjà eu recours à l’IA dans leur travail.</media:description>
+                            <media:credit>Anthony Brown - Adobe Stock</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/pascal-dusapin-il-faut-remettre-l-oeuvre-au-coeur-de-nos-societes-20250207</guid>
+                <title>Pascal Dusapin: «Il faut remettre l’œuvre musicale au cœur de nos sociétés»</title>
+                                <link>https://www.lefigaro.fr/culture/pascal-dusapin-il-faut-remettre-l-oeuvre-au-coeur-de-nos-societes-20250207</link>
+                                    <description>ENTRETIEN - Le compositeur avait travaillé avec l’IA en 2019 pour Lullaby Experience. Il évoque pour Le Figaro le bouleversement que celle-ci représente dans l’art.</description>
+                                <category>Culture</category>
+                <pubDate>Fri, 07 Feb 2025 15:53:32 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2000_crop/2025/02/07/d7afc9f1ecf28ca41e2f2c6f4135f3a6c94310c7defa56f001aaf4ed1649f4e6.jpg" width="3000" height="2000">
+                            <media:description type="plain">Entre installation sonore, spectacle et partition en mouvement, « Lullaby Experience », de Pascal Dusapin, a été composé avec l’Ircam à l’aide de l’intelligence artificielle.</media:description>
+                            <media:credit>Quentin Chevrier</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/l-ia-va-permettre-de-repousser-les-limites-de-la-creativite-humaine-selon-brad-smith-vice-chairman-de-microsoft-20250207</guid>
+                <title>« L’IA va permettre de repousser les limites de la créativité humaine », selon Brad Smith, vice-chairman de Microsoft</title>
+                                <link>https://www.lefigaro.fr/culture/l-ia-va-permettre-de-repousser-les-limites-de-la-creativite-humaine-selon-brad-smith-vice-chairman-de-microsoft-20250207</link>
+                                    <description>ENTRETIEN - Reconstitution du Débarquement ou visite virtuelle au Vatican, le groupe informatique emploie l’intelligence artificielle dans des projets à vocation culturelle. Des innovations aussi importantes que l’invention de l’électricité, explique Brad Smith.</description>
+                                <category>Culture</category>
+                <pubDate>Fri, 07 Feb 2025 13:08:59 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1594x896_crop/2025/02/07/606357da342411528b7825a56a219b0482ec0cb67c90c2f4e3e6d70823cad904.jpg" width="1594" height="896">
+                            <media:description type="plain">Si la reconstitution 3D de monument, comme la basilique Saint-Pierre de Rome, n’est pas une nouveauté, l’emploi de l’intelligence artificielle permet d’accélérer le processus de traitement des données. </media:description>
+                            <media:credit>Microsoft</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/les-artistes-pionniers-militent-pour-une-ia-personnalisee-20250207</guid>
+                <title>Musique: des artistes pionniers militent pour une IA personnalisée</title>
+                                <link>https://www.lefigaro.fr/culture/les-artistes-pionniers-militent-pour-une-ia-personnalisee-20250207</link>
+                                    <description>Les musiciens Benoît Carré ou Cécile DeLaurentis revendiquent une utilisation intelligente et adaptée des outils. À condition de les maîtriser. Propos recueillis.</description>
+                                <category>Culture</category>
+                <pubDate>Fri, 07 Feb 2025 17:43:18 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2025/02/07/ba3371c4731a683a20c0bbbee45f17fe5b11cfcb8b75e4c017ec5996d09af799.jpg" width="1920" height="1080">
+                            <media:description type="plain">Benoît Carré et Cécile DeLaurentis.</media:description>
+                            <media:credit>AFP / ERIC PIERMONT / AFP / Dominique Gau</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/le-monde-est-en-train-de-guerir-donald-trump-jubile-apres-les-huees-envers-taylor-swift-lors-du-super-bowl-20250210</guid>
+                <title>Super Bowl : « Le monde est en train de guérir », jubile Donald Trump après les huées envers Taylor Swift</title>
+                                <link>https://www.lefigaro.fr/culture/le-monde-est-en-train-de-guerir-donald-trump-jubile-apres-les-huees-envers-taylor-swift-lors-du-super-bowl-20250210</link>
+                                    <description>La pop star, en couple avec un des joueurs vedettes de Kansas City, a été sifflée par le public lorsqu’elle est apparue sur l’écran géant du stade. Un symbole pour le 47e président des États-Unis.</description>
+                                <category>Culture</category>
+                <pubDate>Mon, 10 Feb 2025 10:26:40 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/orig/2025/02/10/d5742291f5b1e6b21a5eba1ce0bbe7008301b3a645cf468a82584813cacd707d.jpg" width="1920" height="1080">
+                            <media:description type="plain">En 2024, Taylor Swift s’est impliquée dans la campagne électorale américaine en soutenant la démocrate Kamala Harris.</media:description>
+                            <media:credit>Getty Images via AFP / GREGORY SHAMUS / Getty Images via AFP / JAMIE SQUIRE</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/kendrick-lamar-au-super-bowl-le-quart-d-heure-de-gloire-de-la-culture-hip-hop-americaine-20250210</guid>
+                <title>Super Bowl : entre classiques du rap et attaques contre Drake, Kendric Lamar interprète une ode au hip-hop américain</title>
+                                <link>https://www.lefigaro.fr/culture/kendrick-lamar-au-super-bowl-le-quart-d-heure-de-gloire-de-la-culture-hip-hop-americaine-20250210</link>
+                                    <description>Lors de son show à la mi-temps de la finale du championnat de football américain, le rappeur de 37 ans n’a pas manqué d’interpréter son morceau rempli de haine pour son rival Drake.</description>
+                                <category>Culture</category>
+                <pubDate>Mon, 10 Feb 2025 10:53:42 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/orig/2025/02/10/bddac680127d3dd15c23b07bc1ee37c603b16e7edd86877a7d6f2fe0010381a6.jpg" width="3000" height="1687">
+                            <media:description type="plain">Kendrick Lamar est devenu dimanche soir le premier artiste de hip-hop à assurer en solo l’incontournable concert de la mi-temps du Super Bowl.</media:description>
+                            <media:credit>EMILEE CHINN / Getty Images via AFP</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/notre-critique-de-god-save-the-tuche-on-tuche-le-fond-20250203</guid>
+                <title>Notre critique de God Save the Tuche : on Tuche le fond !</title>
+                                <link>https://www.lefigaro.fr/cinema/notre-critique-de-god-save-the-tuche-on-tuche-le-fond-20250203</link>
+                                    <description>Après l’Amérique, Monaco et l’Élysée, Jeff et sa famille sont à Londres pour un cinquième volet consternant.</description>
+                                <category>Cinéma</category>
+                <pubDate>Tue, 04 Feb 2025 11:43:41 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1600x900_crop/2025/02/03/d6dfa997c67ea9715cc9b5dde34518b7aeb000d1b0b7b6f990a797c8f808c773.jpg" width="1600" height="900">
+                            <media:description type="plain">Jean-Paul Rouve, seul à la baguette de la réalisation, et Isabelle Nanty.</media:description>
+                            <media:credit>Marine Danaux</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/notre-critique-de-5-septembre-la-mort-sur-un-plateau-20250204</guid>
+                <title>Notre critique de 5 Septembre: la mort sur un plateau</title>
+                                <link>https://www.lefigaro.fr/cinema/notre-critique-de-5-septembre-la-mort-sur-un-plateau-20250204</link>
+                                    <description>CRITIQUE - Tim Fehlbaum raconte avec réalisme la prise d’otages aux JO de Munich, en 1972, d’athlètes israéliens. Filmé comme un documentaire, son long-métrage brille par son efficacité.</description>
+                                <category>Cinéma</category>
+                <pubDate>Tue, 04 Feb 2025 15:08:03 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x1688_crop/2025/02/04/2dfbff4e5f2061c471e160c1edb207eb5767695cd07802cb1a6cf9fe2a6cfebe.jpg" width="3000" height="1688">
+                            <media:description type="plain">Peter Sarsgaard (à gauche) incarne Roone Arledge, le producteur d’ABC chargé de la diffusion des JO de Munich pour le network américain.</media:description>
+                            <media:credit>Jürgen Olczyk/Courtesy of Paramount Pictures</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/notre-critique-de-paddington-au-perou-les-aventuriers-de-l-ourson-perdu-20250204</guid>
+                <title>Notre critique de Paddington au Pérou, les aventuriers de l’ourson perdu</title>
+                                <link>https://www.lefigaro.fr/culture/notre-critique-de-paddington-au-perou-les-aventuriers-de-l-ourson-perdu-20250204</link>
+                                    <description>CRITIQUE - Pour sa troisième transposition sur grand écran, le flegmatique petit plantigrade britannique part à la recherche de ses origines péruviennes. Une très belle réussite «so british» pour petits et grands.</description>
+                                <category>Cinéma</category>
+                <pubDate>Thu, 06 Feb 2025 09:52:11 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1390x948_crop/2025/02/04/fa36affb111f0fa98578fc0da1fc2d8d7a0243fda2b9d2459a34b1a4ce29f199.jpg" width="1390" height="948">
+                            <media:description type="plain">Le plus british des ours de la littérature jeunesse, créé en 1958 par Michael Bond, revient pour un troisième film, aussi tendre que virevoltant situé dans la jungle amazonienne et sur les montagnes du Machu Picchu. </media:description>
+                            <media:credit>Copyright STUDIOCANAL SAS Peter Mountain</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/cinema/notre-critique-de-maria-angelina-jolie-une-callas-honorable-20250204</guid>
+                <title>Notre critique de Maria : Angelina Jolie, une Callas honorable</title>
+                                <link>https://www.lefigaro.fr/cinema/notre-critique-de-maria-angelina-jolie-une-callas-honorable-20250204</link>
+                                    <description>CRITIQUE - Le film de Pablo Larrain avec Angelina Jolie dans le rôle de la cantatrice se regarde sans ennui. Mais sans passion non plus.</description>
+                                <category>Cinéma</category>
+                <pubDate>Tue, 04 Feb 2025 14:13:22 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/2850x1603_crop/2025/02/04/f5e938b2fcfbb49debdae122b630ebe01429611367b816dd8a8ed8f89d7a1ab6.jpg" width="2850" height="1603">
+                            <media:description type="plain">Angelina Jolie dans «Maria».</media:description>
+                            <media:credit>©Pablo Larraín/ARP Sélection</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://www.lefigaro.fr/culture/notre-critique-de-presence-un-remake-depressif-du-beetlejuice-de-burton-20250204</guid>
+                <title>Notre critique de Presence : un remake dépressif du Beetlejuice de Burton</title>
+                                <link>https://www.lefigaro.fr/culture/notre-critique-de-presence-un-remake-depressif-du-beetlejuice-de-burton-20250204</link>
+                                    <description>Très présent sur les plateformes ces dernières années, le réalisateur américain expérimente quand il revient au cinéma en salle. Sans convaincre.</description>
+                                <category>Culture</category>
+                <pubDate>Tue, 04 Feb 2025 14:28:51 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/2849x1602_crop/2025/02/04/a28c449ae6d6dc389814dc721f43a4a5a35f112581d6d9e953be50c967645bcc.jpg" width="2849" height="1602">
+                            <media:description type="plain">Callina Liang dans Presence, de Steven Soderbergh.</media:description>
+                            <media:credit>Peter Andrews - The Spectral Spirit Company</media:credit>
+                        </media:content>
+                                                </item>
+            </channel>
+</rss>

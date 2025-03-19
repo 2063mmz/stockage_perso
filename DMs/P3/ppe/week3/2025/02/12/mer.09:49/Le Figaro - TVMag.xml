@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <atom:link href="https://www.lefigaro.fr/rss/tvmag.xml" rel="self" type="application/rss+xml"/>
+        <category>Télévision</category>
+        <title>TV Magazine - Programme TV : Tout le Programme Télé des chaînes</title>
+        <description>Retrouvez le Programme TV de toutes les chaînes TNT, Câble et Satellite ainsi que toute l&#039;actu de la Télé, des Séries, des People et de la Télé-Réalité</description>
+        <link>http://tvmag.lefigaro.fr</link>
+        <language>fr</language>
+        <copyright>Droits de reproduction et de diffusion réservés LeFigaro.fr</copyright>
+        <lastBuildDate>Wed, 12 Feb 2025 09:41:57 +0100</lastBuildDate>
+        <docs>https://www.lefigaro.fr/rss</docs>
+        <image>
+            <title>TV Magazine - Programme TV : Tout le Programme Télé des chaînes</title>
+            <url>https://static.lefigaro.fr/common/logos/logo-150x150.png</url>
+            <link>http://tvmag.lefigaro.fr</link>
+            <description>Retrouvez le Programme TV de toutes les chaînes TNT, Câble et Satellite ainsi que toute l&#039;actu de la Télé, des Séries, des People et de la Télé-Réalité</description>
+        </image>
+
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/audiences-tv/audiences-intelligence-artificielle-la-grande-experience-boudee-sur-france-2-20250212</guid>
+                <title>Audiences : « Intelligence artificielle, la grande expérience » boudée sur France 2</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/audiences-tv/audiences-intelligence-artificielle-la-grande-experience-boudee-sur-france-2-20250212</link>
+                                    <description>Les audiences du mardi 11 février 2025 pour les programmes diffusés en première partie de soirée.</description>
+                                <category>Audiences TV</category>
+                <pubDate>Wed, 12 Feb 2025 09:20:52 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1800x1013_crop/2025/02/12/4fad3fc06c292183851975198a3506d04024dd451ae3eebc922becdd1c82e1f4.jpg" width="1800" height="1013">
+                            <media:description type="plain">« Intelligence artificielle, la grande expérience » sur France 2</media:description>
+                            <media:credit>France Télévisions</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/ce-soir-tele/michel-chasseuil-l-ivresse-d-une-collection-en-bouteilles-20250212</guid>
+                <title>Michel Chasseuil, l’ivresse d’une collection en 50 000 bouteilles</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/ce-soir-tele/michel-chasseuil-l-ivresse-d-une-collection-en-bouteilles-20250212</link>
+                                    <description>Dans ce documentaire étonnant de France 3, le plus grand propriétaire privé de vins au monde ouvre les portes de sa cave et, en partie, son âme.</description>
+                                <category>Ce soir à la télé</category>
+                <pubDate>Wed, 12 Feb 2025 09:09:46 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1489x838_crop/2025/02/12/b755b340488a67e3f0edac2d2dd7cf0daaa1f4cc5d13597ad9482182c800f5c3.jpg" width="1489" height="838">
+                            <media:description type="plain">Michel-Jack Chasseuil, le plus grand collectionneur de vins au monde</media:description>
+                            <media:credit>Les Films en Vrac</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/tele-realite/mariage-a-l-aveugle-nouvelle-experte-ce-que-reserve-la-saison-9-de-maries-au-premier-regard-sur-m6-20250212</guid>
+                <title>Mariage à l’aveugle, nouvelle experte... Ce que réserve la saison 9 de «Mariés au premier regard» sur M6</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/tele-realite/mariage-a-l-aveugle-nouvelle-experte-ce-que-reserve-la-saison-9-de-maries-au-premier-regard-sur-m6-20250212</link>
+                                    <description>La diffusion de la nouvelle édition du programme de romance débute le lundi 3 mars à 21h10. Aux côtés d’Estelle Dossin, le thérapeute de couple et sexologue Gilbert Bou Jaoudé a été remplacé.</description>
+                                <category>Télé-réalité</category>
+                <pubDate>Wed, 12 Feb 2025 08:05:34 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2025/02/12/0ba3bab568e177137424ea26fd8f0784ee3e181e4fa0bff75839de3a0bc33e07.jpg" width="1920" height="1080">
+                            <media:description type="plain">La saison 9 de « Mariés au premier regard »</media:description>
+                            <media:credit>M6</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/ce-soir-tele/presque-les-bons-copains-du-corbillard-20250212</guid>
+                <title>Presque, les bons copains du corbillard sur France 2</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/ce-soir-tele/presque-les-bons-copains-du-corbillard-20250212</link>
+                                    <description>Amis depuis dix-huit ans, le philosophe suisse Alexandre Jollien et l’ex-Inconnu Bernard Campan signent une comédie délicate sur le handicap.</description>
+                                <category>Ce soir à la télé</category>
+                <pubDate>Wed, 12 Feb 2025 07:00:00 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x1688_crop/2025/02/11/7e74b22e8d32af49db6d839f6f2242bd905e84fb0f167cc0e9a1a27f7fa7b173.jpg" width="3000" height="1688">
+                            <media:description type="plain">Alexandre Jollien (Igor) et Bernard Campan (Louis), acteurs et coréalisateurs de Presque</media:description>
+                            <media:credit>© Pan-Européenne / France 3 Cinéma / Apollo Films / ABS Productions / Les Productions JMH / S - Radio Télévision Suisse / SRG SSR/FTV</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/people/l-horoscope-gratuit-du-mercredi-12-fevrier-2025-20250212</guid>
+                <title>L’horoscope gratuit du mercredi 12 février 2025</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/people/l-horoscope-gratuit-du-mercredi-12-fevrier-2025-20250212</link>
+                                    <description>Chaque jour, Christine Haas livre ses prévisions inspirées par les astres.</description>
+                                <category>People</category>
+                <pubDate>Wed, 12 Feb 2025 02:00:00 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2003_crop/2025/02/05/a73d18aa589d3312b986b6da6d0fa754c5b3cf5394f58ea0ae3ff1b877eb4669.jpg" width="3000" height="2003">
+                            <media:description type="plain">Christine Haas.</media:description>
+                            <media:credit>Vincent Boisot / Le Figaro.</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/actu-tele/il-a-paye-des-billets-de-train-pas-cher-malik-bentalha-ironise-sur-son-passage-dans-nos-terres-inconnues-avec-frederic-lopez-20250211</guid>
+                <title>«Il a payé des billets de train pas cher» : Malik Bentalha ironise sur son passage dans «Nos terres inconnues» avec Frédéric Lopez</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/actu-tele/il-a-paye-des-billets-de-train-pas-cher-malik-bentalha-ironise-sur-son-passage-dans-nos-terres-inconnues-avec-frederic-lopez-20250211</link>
+                                    <description>Invité sur le plateau de «Quotidien», l’humoriste est revenu sur son passage dans «Nos terres inconnues». Reçu en 2018 par Frédéric Lopez au cœur des Cévennes, il avait été surpris de ne pas s’envoler pour une destination idyllique comme ses prédécesseurs.</description>
+                                <category>Actu télé</category>
+                <pubDate>Tue, 11 Feb 2025 23:27:05 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x2001_crop/2025/02/11/cc4a77418a085913cd710f4ded6e202bfebddd9eb085e97cdc0696b092dc47c3.jpg" width="3000" height="2001">
+                            <media:description type="plain">Malik Bentalha</media:description>
+                            <media:credit>Marechal Aurore/ABACA</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/actu-tele/deces-de-maurice-candidat-des-saisons-11-et-13-de-pekin-express-a-l-age-de-86-ans-20250211</guid>
+                <title>Décès de Maurice, candidat des saisons 11 et 13 de «Pékin Express», à l’âge de 86 ans</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/actu-tele/deces-de-maurice-candidat-des-saisons-11-et-13-de-pekin-express-a-l-age-de-86-ans-20250211</link>
+                                    <description>La production de l’émission et M6 ont annoncé la nouvelle aujourd’hui. Maurice Domenge avait participé en 2018 à l’aventure aux côtés de son fils Thierry et avait réitéré l’expérience deux ans plus tard.</description>
+                                <category>Actu télé</category>
+                <pubDate>Tue, 11 Feb 2025 20:05:18 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2025/02/11/6a2a8f79cf38da5d104f4f64317930e48954bdfeb7e92c456310caa983de53ee.jpg" width="1920" height="1080">
+                            <media:description type="plain">Maurice et son fils Thierry dans «Pékin Express»</media:description>
+                            <media:credit>Capture d&#039;écran M6 </media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/actu-tele/tout-le-charme-de-cheverny-sur-le-figaro-tv-20250211</guid>
+                <title>Tout le charme de Cheverny sur Le Figaro TV</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/actu-tele/tout-le-charme-de-cheverny-sur-le-figaro-tv-20250211</link>
+                                    <description>L’histoire ancienne et contemporaine du château de Cheverny est racontée dans ce beau documentaire diffusé ce mardi 11 février à 21h sur Le Figaro TV.</description>
+                                <category>Actu télé</category>
+                <pubDate>Tue, 11 Feb 2025 18:01:18 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2025/02/11/0802540182b6e01e4ef9554e039bbd31ea3c4282d602715b9685e916683a38ee.jpg" width="1920" height="1080">
+                            <media:description type="plain">Le château de Cheverny à inspiré Hergé pour imaginer Moulinsart</media:description>
+                            <media:credit>Le Figaro TV</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/ce-soir-tele/la-transition-ecologique-est-un-mensonge-yann-arthus-bertrand-tacle-la-politique-environnementale-20250211</guid>
+                <title>«La transition écologique est un mensonge» : Yann Arthus-Bertrand tacle la politique environnementale</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/ce-soir-tele/la-transition-ecologique-est-un-mensonge-yann-arthus-bertrand-tacle-la-politique-environnementale-20250211</link>
+                                    <description>VIDÉO - Invité du «Buzz TV», le photographe et militant écologiste lance son dernier film, Nature : pour une réconciliation, ce soir sur M6. L’occasion de faire un constat sur l’état de la planète et d’ouvrir son cœur à la vie.</description>
+                                <category>Ce soir à la télé</category>
+                <pubDate>Tue, 11 Feb 2025 22:22:52 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2025/02/11/3ef445664b903f275ecca965d9ca3f2a990c0bd6c51eec6f8b1d91efa6f520be.png" width="1920" height="1080">
+                            <media:description type="plain">Yann Arthus-Bertrand sur le plateau du «Buzz TV».</media:description>
+                            <media:credit>Capture écran / Figaro TV</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/miss-france/meme-pour-tout-l-or-du-monde-je-n-y-mets-pas-un-pied-diane-leyre-horrifiee-par-l-ile-de-la-tentation-espagnole-20250211</guid>
+                <title>«Même pour tout l’or du monde, je n’y mets pas un pied» : Diane Leyre horrifiée par «L’Île de la tentation» espagnole</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/miss-france/meme-pour-tout-l-or-du-monde-je-n-y-mets-pas-un-pied-diane-leyre-horrifiee-par-l-ile-de-la-tentation-espagnole-20250211</link>
+                                    <description>VIDÉO - Sur son compte TikTok, Miss France 2022 réagit aux séquences devenues virales de la téléréalité. Outrée par les images et la véritable épreuve que constitue cette aventure, l’ancienne reine de beauté ne mâche pas ses mots.</description>
+                                <category>Miss France</category>
+                <pubDate>Tue, 11 Feb 2025 16:39:11 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/2850x1603_crop/2025/02/11/2cb0837779a23869cd75b1b8e6d46b37ecd9a02ce41dc3257439deb7d947f528.jpg" width="2850" height="1603">
+                            <media:description type="plain">Diane Leyre</media:description>
+                            <media:credit>Domine Jerome/ABACA</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/les-sacrifies-de-l-ia-c-est-la-lutte-des-clics-sur-france-2-20250211</guid>
+                <title>Les sacrifiés de l’IA : c’est la lutte des clics, sur France 2</title>
+                                <link>https://tvmag.lefigaro.fr/les-sacrifies-de-l-ia-c-est-la-lutte-des-clics-sur-france-2-20250211</link>
+                                    <description>Alors qu’un sommet mondial se tient à Paris, ce documentaire Les sacrifiés de l’IA, pessimiste et parfois artificiel, questionne les enjeux éthiques de la révolution numérique en cours. À voir ce mardi 11 février à 22h40 sur France 2 dans le cadre d’une soirée spéciale qui commence à 21h10.</description>
+                                <category>Accueil</category>
+                <pubDate>Tue, 11 Feb 2025 16:29:31 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/2702x1115_crop/2025/02/11/222e40aa4cb57d4a6b471505383e090e8692e056e11edcd88c7cdb7687c9a3f2.jpg" width="2702" height="1115">
+                            <media:description type="plain">Comme les modérateurs des réseaux sociaux, les « data workers » peuvent être confrontés à des situations de violence.</media:description>
+                            <media:credit>Ⓒ StoryCircus /FTV</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/people/les-12-coups-de-midi-emilien-frole-la-catastrophe-dans-le-jeu-de-tf1-20250211</guid>
+                <title>«Les 12 coups de midi» : Émilien frôle la catastrophe dans le jeu de TF1</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/people/les-12-coups-de-midi-emilien-frole-la-catastrophe-dans-le-jeu-de-tf1-20250211</link>
+                                    <description>Le détenteur du record de gains et de longévité dans le jeu de Jean-Luc Reichmann proposé chaque jour sur la Une a failli perdre la mise sur une histoire d’olive et de cannelle.</description>
+                                <category>People</category>
+                <pubDate>Tue, 11 Feb 2025 16:14:49 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1498x842_crop/2025/02/11/f3c46ed53e7304da586934e7fb9cb7c6d4b2b248b87de1fed2ce01df13df352d.jpg" width="1498" height="842">
+                            <media:description type="plain">Émilien, champion toutes catégories du jeu de TF1.</media:description>
+                            <media:credit>ｩ Jean-Philippe BALTEL / TF1</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/series/j-etais-comme-chez-moi-frankie-muniz-evoque-le-debut-de-tournage-du-reboot-de-malcolm-20250211</guid>
+                <title>«J’étais comme chez moi» : Frankie Muniz évoque le début de tournage du reboot de Malcolm</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/series/j-etais-comme-chez-moi-frankie-muniz-evoque-le-debut-de-tournage-du-reboot-de-malcolm-20250211</link>
+                                    <description>En décembre dernier, la plateforme de streaming Disney+ annonçait une suite pour cette sitcom culte. L’acteur principal donne des nouvelles depuis les coulisses.</description>
+                                <category>Séries</category>
+                <pubDate>Tue, 11 Feb 2025 15:57:53 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/2566x1443_crop/2025/02/11/87658ab3422766a7604828417b4c641034dea460466b1ce75a035cfd66add2ab.jpg" width="2566" height="1443">
+                            <media:description type="plain">Erik Per Sullivan, Justin Berfield, Frankie Muniz, et Bryan Cranston dans Malcolm.</media:description>
+                            <media:credit>Everett Collection Archive/ABACA</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/ce-soir-tele/nature-pour-une-reconciliation-sur-m6-faut-il-regarder-le-nouveau-film-documentaire-de-yann-arthus-bertrand-20250211</guid>
+                <title>Nature, pour une réconciliation sur M6 : faut-il regarder le nouveau film documentaire de Yann Arthus-Bertrand ?</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/ce-soir-tele/nature-pour-une-reconciliation-sur-m6-faut-il-regarder-le-nouveau-film-documentaire-de-yann-arthus-bertrand-20250211</link>
+                                    <description>CRITIQUE - Après Legacy, Home et Human, le photographe dresse un nouvel état des lieux des ravages commis par l’humanité sur le vivant et des solutions encore envisageables au global comme sur le plan individuel. Pédagogique, passionnant.</description>
+                                <category>Ce soir à la télé</category>
+                <pubDate>Tue, 11 Feb 2025 15:23:10 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1486x836_crop/2025/02/11/7013700571e37e58ffc73fc07bac1403e61edb690fd9dffefa7c3c413ec2b880.jpg" width="1486" height="836">
+                            <media:description type="plain">Vue aérienne d’un cimetière d’avions. </media:description>
+                            <media:credit>Yann Arthus-Bertrand - Hope Production 2025</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/people/j-espere-devenir-un-jour-une-grenouille-pierre-garnier-repond-aux-critiques-de-pascal-obispo-20250211</guid>
+                <title>«J’espère devenir un jour une grenouille» : Pierre Garnier répond aux critiques de Pascal Obispo</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/people/j-espere-devenir-un-jour-une-grenouille-pierre-garnier-repond-aux-critiques-de-pascal-obispo-20250211</link>
+                                    <description>Reçu par Léa Salamé dans la matinale de France Inter, le lauréat de «Star Academy» réagit aux propos de l’interprète de Lucie sur la génération de chanteurs à laquelle il appartient.</description>
+                                <category>People</category>
+                <pubDate>Tue, 11 Feb 2025 14:03:35 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2025/02/11/caa9dd9e871b939a2c7f9d6ac04a7959d163afdc310e499c73c875f07d60b1ab.jpg" width="1920" height="1080">
+                            <media:description type="plain">«J’espère devenir un jour une grenouille» : Pierre Garnier répond aux critiques de Pascal Obispo</media:description>
+                            <media:credit>Jumeau Alexis/ABACA / Jumeau Alexis</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/actu-tele/tout-ce-que-l-on-dit-est-interpretable-et-interprete-zaz-dement-les-rumeurs-de-brouille-avec-patricia-kaas-dans-the-voice-20250211</guid>
+                <title>«Tout ce que l’on dit est interprétable et interprété» : Zaz dément les rumeurs de brouille avec Patricia Kaas dans «The Voice»</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/actu-tele/tout-ce-que-l-on-dit-est-interpretable-et-interprete-zaz-dement-les-rumeurs-de-brouille-avec-patricia-kaas-dans-the-voice-20250211</link>
+                                    <description>La chanteuse a évoqué sa relation avec l’autre coach de la saison 14 du télécrochet de TF1. Et les réserves qu’elle avait en amont de sa participation.</description>
+                                <category>Actu télé</category>
+                <pubDate>Tue, 11 Feb 2025 14:53:19 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/3000x1687_crop/2025/02/11/28a67dce1eaff7e951fbe08342b1f5f9d0c28c34d5674a89f3a3b5bd8926e234.jpg" width="3000" height="1687">
+                            <media:description type="plain">Zaz.</media:description>
+                            <media:credit>PAUL BERGEN / AFP</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/people/meurtre-de-louise-christophe-beaugrand-proche-de-la-famille-pris-malgre-lui-dans-la-tempete-mediatique-20250211</guid>
+                <title>Meurtre de Louise : Christophe Beaugrand, proche de la famille, pris malgré lui dans la tempête médiatique</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/people/meurtre-de-louise-christophe-beaugrand-proche-de-la-famille-pris-malgre-lui-dans-la-tempete-mediatique-20250211</link>
+                                    <description>Depuis la publication, sur Facebook d’une lettre d’une tendresse infinie à l’attention de la famille de la collégienne retrouvée morte vendredi dernier, le journaliste fait face à un tsunami de haine.</description>
+                                <category>People</category>
+                <pubDate>Tue, 11 Feb 2025 12:41:59 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1425x801_crop/2025/02/11/19905353800a914a9e8f338fde4c40ccf818057dbdbfe9b7a9f433e1561ac574.jpg" width="1425" height="801">
+                            <media:description type="plain">Christophe Beaugrand.</media:description>
+                            <media:credit>Jumeau Alexis/ABACA</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/actu-tele/qui-est-benoit-le-plus-grand-champion-de-l-histoire-du-jeu-n-oubliez-pas-les-paroles-sur-france-2-20250211</guid>
+                <title>Qui est Benoît, le plus grand champion de l’histoire du jeu «N’oubliez pas les paroles» sur France 2 ?</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/actu-tele/qui-est-benoit-le-plus-grand-champion-de-l-histoire-du-jeu-n-oubliez-pas-les-paroles-sur-france-2-20250211</link>
+                                    <description>Le photographe de 31 ans, originaire du Maine-et-Loire, a quitté la compétition musicale animée par Nagui après 111 victoires consécutives. Le total de ses gains s’élève à 746.000 euros.</description>
+                                <category>Actu télé</category>
+                <pubDate>Tue, 11 Feb 2025 11:24:59 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1920x1080_crop/2025/02/11/cdcd4f86175b1ebd074b8c8691adbdbe42cd27cc5e7764e76dec99898a804e6c.jpg" width="1920" height="1080">
+                            <media:description type="plain">Benoît dans le numéro inédit de « N’oubliez pas les paroles » diffusé le 10 février 2025</media:description>
+                            <media:credit>Capture écran France 2</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/miss-france/bienvenue-dans-mon-petit-paradis-angelique-angarni-filopon-rejoue-les-hotesses-de-l-air-pour-son-retour-en-martinique-20250211</guid>
+                <title>«Bienvenue dans mon petit paradis» : Angélique Angarni-Filopon rejoue les hôtesses de l’air pour son retour en Martinique</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/miss-france/bienvenue-dans-mon-petit-paradis-angelique-angarni-filopon-rejoue-les-hotesses-de-l-air-pour-son-retour-en-martinique-20250211</link>
+                                    <description>EN IMAGES - La jeune femme de 34 ans a voyagé sur la compagnie aérienne Corsair qui l’employait pour son vol à destination de son île. Elle y a reçu un accueil incroyable.</description>
+                                <category>Miss France</category>
+                <pubDate>Tue, 11 Feb 2025 11:06:05 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/1822x1025_crop/2025/02/11/88b6ecfee441159b4c240da95e4c529e889c81eb7fdcc4351c23e7372cf0c9a2.jpg" width="1822" height="1025">
+                            <media:description type="plain">Angélique Angarni-Filopon </media:description>
+                            <media:credit>Capture d&#039;écran Instagram</media:credit>
+                        </media:content>
+                                                </item>
+                    <item>
+                <guid>https://tvmag.lefigaro.fr/programme-tv/series/whiskey-on-the-rocks-sur-disney-le-sous-marin-ivre-qui-faillit-embraser-la-guerre-froide-20250211</guid>
+                <title>Whiskey on the Rocks sur Disney + : le sous-marin ivre qui faillit embraser la guerre froide</title>
+                                <link>https://tvmag.lefigaro.fr/programme-tv/series/whiskey-on-the-rocks-sur-disney-le-sous-marin-ivre-qui-faillit-embraser-la-guerre-froide-20250211</link>
+                                    <description>CRITIQUE - Cette série satirique retrace l’échouage en 1981 sur les côtes suédoises d’un bâtiment soviétique. Savoureux et absurde.</description>
+                                <category>Séries</category>
+                <pubDate>Tue, 11 Feb 2025 10:00:00 +0100</pubDate>
+
+                                                            <media:content url="https://i.f1g.fr/media/cms/2049x1367_crop/2025/02/11/a80ff594cad0a98893e8700aeee7db8d5db0e9b1df67ffd6060833630dfe0ba9.jpg" width="2049" height="1367">
+                            <media:description type="plain">Tout commence par un heureux événement. L’officier politique du KGB à bord du S-363 est devenu père. Avec la bénédiction du capitaine, la vodka coule à flots.</media:description>
+                            <media:credit>Disney +</media:credit>
+                        </media:content>
+                                                </item>
+            </channel>
+</rss>

@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/mode-homme/la-question-existentielle-d-ou-vient-le-jean-francais-de-kendrick-lamar-au-super-bowl-20250210
+source : Le Figaro - La Une Style.xml
+title : La question existentielle: d’où vient le jean français de Kendrick Lamar au Super Bowl?
+description : Quand un rappeur américain s’inspire (malgré lui?) de Serge Gainsbourg.
+date : Mon, 10 Feb 2025 13:17:54 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/style/calvin-klein-le-come-back-d-un-mythe-americain-20250209
+source : Le Figaro - La Une Style.xml
+title : Calvin Klein, le come-back d’un mythe américain
+description : Vendredi, l’Italienne Veronica Leoni ranimait sur les podiums de la Fashion Week de New York, l’esprit « CK » des années 1990, son minimalisme sensuel et ses coupes aiguisées. En présence du créateur culte et de Kate Moss !
+date : Sun, 09 Feb 2025 20:28:53 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/avec-l-oreal-jacquemus-a-trouve-un-investisseur-et-un-partenaire-pour-son-parfum-20250207
+source : Le Figaro - La Une Style.xml
+title : Avec L’Oréal, Jacquemus a trouvé un investisseur et un partenaire pour son parfum
+description : Le groupe français de cosmétique devient investisseur minoritaire dans Jacquemus et développera pour la première fois, les produits de beauté de la marque solaire et appréciée des jeunes générations, fondée en 2009 par le créateur provençal, Simon Porte Jacquemus.
+date : Fri, 07 Feb 2025 10:03:57 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/81-boulevard-voltaire-a-nous-tous-on-balaie-un-siecle-de-mode-20250207
+source : Le Figaro - La Une Style.xml
+title : Au 81 boulevard Voltaire à Paris, le concept store secret dédié au vintage que le monde nous envie : « À nous tous, on balaie un siècle de mode »
+description : Une poignée de spécialistes du vintage, du vêtement de travail ancien au sportswear italien, ont investi pour quelques mois un bâtiment abandonné du 11e arrondissement, à Paris. Une expérience rare qui ravive les années underground de la capitale.
+date : Sat, 08 Feb 2025 22:39:35 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/mode-homme/la-rayure-force-le-trait-20250207
+source : Le Figaro - La Une Style.xml
+title : La rayure force le trait
+description : Sur les podiums, dans les collections, vestes et costumes rayés retrouvent la ligne et donnent du panache à la silhouette.
+date : Fri, 07 Feb 2025 07:00:09 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/horlogerie/retromobile-des-bolides-et-des-montres-20250207
+source : Le Figaro - La Une Style.xml
+title : Rétromobile: des bolides et des montres
+description : Le salon dédié aux amoureux de l’automobile et de la moto de collection, est aussi le rendez-vous des amateurs d’horlogerie.
+date : Fri, 07 Feb 2025 07:00:06 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/mode-homme/prise-de-poids-taillons-dans-le-vif-20250207
+source : Le Figaro - La Une Style.xml
+title : Prise de poids? Taillons dans le vif
+description : LA CHRONIQUE DE JULIEN SCAVINI - Très peu d’hommes vont voir le retoucheur pour faire élargir un pantalon ou, si c’est nécessaire, en racheter un autre.
+date : Fri, 07 Feb 2025 10:39:20 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/la-petite-histoire-de-true-religion-la-nouvelle-marque-de-jeans-preferee-de-timothee-chalamet-20250206
+source : Le Figaro - La Une Style.xml
+title : La petite histoire de True Religion, la nouvelle marque de jeans préférée de Timothée Chalamet
+description : Il joue Bob Dylan à l’écran mais, à la ville, ne jure que par une marque de denim des années 2000 qu’on croyait un peu ringarde et oubliée. Pourquoi? Explications.
+date : Thu, 06 Feb 2025 14:49:29 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/mode-homme/le-client-berluti-se-distingue-par-son-allure-remarquable-20250206
+source : Le Figaro - La Une Style.xml
+title : « Le client Berluti se distingue par son allure remarquable »
+description : Jean-Marc Mansvelt, le nouveau directeur général, revient aux fondamentaux de la marque avec l’emblématique soulier Alessandro qui célèbre ses 130 ans et la mythique veste Forestière de Le Corbusier taillée à l’origine par Arnys.
+date : Thu, 06 Feb 2025 13:48:31 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/style/gucci-met-fin-au-contrat-de-sabato-de-sarno-20250206
+source : Le Figaro - La Une Style.xml
+title : Luxe : Gucci met fin au contrat de son directeur créatif Sabato de Sarno
+description : La marque florentine dans le giron de Kering a annoncé ce 6 février le départ de son directeur créatif arrivé il y a seulement deux ans. Un divorce qui ne surprend pas vraiment, au regard des mauvais chiffres, mais survient plus tôt que prévu.
+date : Thu, 06 Feb 2025 10:15:03 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/un-sac-de-luxe-donne-t-il-vraiment-de-l-allure-analyse-20250206
+source : Le Figaro - La Une Style.xml
+title : Le sac de luxe : un atout élégant ou un investissement superflu ?
+description : Dépenser un demi-salaire dans un modèle de l’avenue Montaigne suffit-il à rendre chic ? Nous avons pesé les pour et les contre…
+date : Fri, 07 Feb 2025 11:54:55 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/la-taille-emeraude-d-une-pierre-deux-coups-20250205
+source : Le Figaro - La Une Style.xml
+title : La taille émeraude, d’une pierre deux coups
+description : Longtemps réservée aux gemmes vertes ultraprécieuses, cette forme rectangulaire à angles coupés, qui magnifie les reflets d’une pierre et attire les regards par son volume, connaît une cote inédite.
+date : Wed, 05 Feb 2025 15:04:01 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/le-concept-store-lulli-phenomene-mode-du-sud-20250205
+source : Le Figaro - La Une Style.xml
+title : Le concept-store Lulli, phénomène mode du Sud
+description : Fondé en 2003, le multimarque marseillais a fait des petits à Nice, Toulon ou Cassis. Son vestiaire solaire toujours « à la page » fait la fierté des filles du Midi.
+date : Wed, 05 Feb 2025 14:59:38 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/vous-avez-le-choix-dans-la-vie-maroquinerie-pour-femme-ou-maroquinerie-pour-homme-20250205
+source : Le Figaro - La Une Style.xml
+title : « Vous avez le choix, dans la vie : maroquinerie pour femme… ou maroquinerie pour homme »
+description : La formule pleine d’humour était celle que répétait Philippe Cassegrain à ses petits-enfants. Aujourd’hui, ils ont entre 30 et 35 ans, et ont repris le flambeau auprès de leurs parents chez Longchamp. Juliette Poupard, Adrien et Hector Cassegrain racontent cette transmission au sein de l’entreprise familiale et indépendante.
+date : Wed, 05 Feb 2025 07:00:00 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/east-west-marquise-divorce-ring-petit-glossaire-de-gros-diamants-de-star-20250204
+source : Le Figaro - La Une Style.xml
+title : « East-West », marquise, « divorce ring », petit glossaire de gros diamants de star
+description : Les stars planétaires adorent montrer leur gros caillou sur leur compte Instagram et ainsi étoffer notre culture joaillière. Lexique.
+date : Tue, 04 Feb 2025 18:00:00 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/angelina-jolie-le-pouvoir-d-une-femme-vient-toujours-de-l-interieur-mais-la-bonne-nuance-de-rouge-a-levres-renforce-son-essence-20250204
+source : Le Figaro - La Une Style.xml
+title : Angelina Jolie : « Le pouvoir d’une femme vient toujours de l’intérieur, mais la bonne nuance de rouge à lèvres renforce son essence »
+description : Deux rôles pour l’actrice en ce début d’année, la Callas dans « Maria » de Pablo Larrain, qui sort aujourd’hui en salle, et égérie de Tom Ford Beauty dans une campagne signée Mert et Marcus.
+date : Tue, 04 Feb 2025 17:06:11 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/horlogerie/a-l-heure-des-amoureux-20250203
+source : Le Figaro - La Une Style.xml
+title : À l’heure des amoureux
+description : Et si elle et lui portaient tous les deux la même, ou presque ? Les montres de couple sont (presque) de retour.
+date : Mon, 03 Feb 2025 16:49:16 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/horlogerie/daniel-craig-david-beckham-lewis-hamilton-pourquoi-leur-poignet-passionne-tant-les-watch-spotters-20250203
+source : Le Figaro - La Une Style.xml
+title : Horlogerie : Daniel Craig, David Beckham, Lewis Hamilton... Pourquoi leur poignet passionne tant les «watch spotters» ?
+description : Quand Omega « teste » ses nouveautés au poignet de Daniel Craig, tout comme Tudor avec David Beckham, ce sont les aficionados de nouvelles montres qui se chargent du buzz sur internet…
+date : Mon, 03 Feb 2025 17:00:54 +0100
+categories : ['Horlogerie']
+
+id : https://www.lefigaro.fr/style/lucien-pages-j-ai-une-collection-de-300-flacons-de-parfums-factices-geants-20250203
+source : Le Figaro - La Une Style.xml
+title : Lucien Pagès : « J’ai une collection de 300 flacons de parfums factices géants ! »
+description : Avec sa passion des flacons XXL - des années 1980 en particulier -, l’attaché de presse le plus connu de la mode est devenu une référence du genre sur TikTok !
+date : Mon, 03 Feb 2025 12:45:47 +0100
+categories : ['Style']
+
+id : https://www.lefigaro.fr/style/je-ne-porte-jamais-deux-fois-de-suite-le-meme-parfum-quand-se-parfumer-tourne-a-l-obsession-20250203
+source : Le Figaro - La Une Style.xml
+title : «Je ne porte jamais deux fois de suite le même parfum» : quand se parfumer tourne à l’obsession
+description : Qu’ils les portent la nuit ou en superposition, qu’ils collectionnent les flacons ou qu’ils traquent les odeurs disparues, ces fous de parfums en partagent une même vision : celle d’un objet esthétique, vecteur de sensorialité et d’émotions.
+date : Mon, 03 Feb 2025 12:40:02 +0100
+categories : ['Style']
+

@@ -1,0 +1,28 @@
+id : https://www.liberation.fr/checknews/photos-hallucinatoires-et-redacteurs-virtuels-news-of-marseille-le-site-touristique-a-la-sauce-ia-20250209_OIIXPPWQUVCPBCUQPPD4JL7RBY/
+source : Libération - CheckNews.xml
+title : <![CDATA[Photos hallucinatoires et rédacteurs virtuels : «News of Marseille», le site touristique à la sauce IA]]>
+description : <![CDATA[Malgré ses images de paysages inventés et ses journalistes fictifs, cette plateforme a réussi à se hisser parmi les sites d’actualité mis en avant par Google.]]>
+date : Sun, 09 Feb 2025 07:30:00 +0000
+categories : 
+
+id : https://www.liberation.fr/checknews/remplacees-par-chatgpt-les-petites-mains-africaines-du-web-voient-fondre-leurs-revenus-20250209_QAYYKAD3JRATBHK56XYHDNHHFE/
+source : Libération - CheckNews.xml
+title : <![CDATA[Remplacées par ChatGPT, les «petites mains» africaines du web voient fondre leurs revenus]]>
+description : <![CDATA[L’apparition de l’intelligence artificielle a fortement bousculé le secteur des rédacteurs francophones, entre clients envolés et perte de sens de leur métier.]]>
+date : Sun, 09 Feb 2025 07:30:00 +0000
+categories : 
+
+id : https://www.liberation.fr/checknews/lacetamipride-pesticide-de-la-famille-des-neonicotinoides-possede-t-il-un-faible-taux-de-toxicite-comme-laffirme-le-senateur-laurent-duplomb-20250208_BWJAXVTQEBC2JLER5SHG6DQXO4/
+source : Libération - CheckNews.xml
+title : <![CDATA[L’acétamipride, pesticide de la famille des néonicotinoïdes, possède-t-il un «faible taux de toxicité», comme l’affirme le sénateur Laurent Duplomb ?]]>
+description : <![CDATA[L’élu LR de Haute-Loire, coauteur du texte visant à réintroduire temporairement l’acétamipride en France, affirme que plusieurs études ne le classent pas comme «produit toxique». Sa toxicité a pourtant été plusieurs fois avérée.]]>
+date : Sat, 08 Feb 2025 14:40:18 +0000
+categories : 
+
+id : https://www.liberation.fr/checknews/jai-ecrit-20-lignes-et-chatgpt-ma-fait-les-40-autres-comment-lia-modifie-les-pratiques-des-journalistes-20250208_KRQVNECQGRCVNLGZO2JUXCC45I/
+source : Libération - CheckNews.xml
+title : <![CDATA[«J’ai écrit 20 lignes et ChatGPT m’a fait les 40 autres» : comment l’IA modifie les pratiques des journalistes]]>
+description : <![CDATA[Des journalistes de presse généraliste, notamment les plus jeunes, confient à «CheckNews» se servir au quotidien des outils d’IA pour rédiger leurs articles, le plus souvent à l’insu de leur direction. Même si certains médias revendiquent l’utilisation du robot rédacteur pour certains contenus.]]>
+date : Sat, 08 Feb 2025 07:05:00 +0000
+categories : 
+

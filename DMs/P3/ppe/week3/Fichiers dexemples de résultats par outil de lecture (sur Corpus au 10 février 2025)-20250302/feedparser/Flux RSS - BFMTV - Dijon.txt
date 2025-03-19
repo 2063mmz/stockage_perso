@@ -1,0 +1,28 @@
+id : https://www.bfmtv.com/dijon/dijon-le-maire-francois-rebsamen-ancien-ministre-de-francois-hollande-quitte-ses-fonctions_AN-202411180926.html
+source : Flux RSS - BFMTV - Dijon.xml
+title : Dijon: le maire François Rebsamen, ancien ministre de François Hollande, quitte ses fonctions
+description : Dans une interview au journal local Le Bien Public, le maire PS de Dijon annonce quitter la tête de la municipalité au profit de sa première adjointe. À 73 ans, il se dit "fatigué" mais affirme n'avoir aucun problème de santé. Il précise d'ailleurs qu'il restera président de la métropole.
+date : Mon, 18 Nov 2024 18:49:17 GMT
+categories : ['Home Dijon - actualités']
+
+id : https://www.bfmtv.com/dijon/homme-tue-d-une-balle-perdue-a-dijon-six-personnes-presentees-devant-un-juge_AD-202312040419.html
+source : Flux RSS - BFMTV - Dijon.xml
+title : Homme tué d'une balle perdue à Dijon: six personnes présentées devant un juge
+description : Après la mort par balle perdue d'un quinquagénaire qui dormait dans son lit à Dijon le 26 novembre, six personnes ont été présentées devant un juge, a annoncé le parquet.
+date : Mon, 04 Dec 2023 11:50:47 GMT
+categories : ['Home Dijon - actualités']
+
+id : https://www.bfmtv.com/dijon/on-a-vu-le-mec-nous-braquer-la-peur-dans-un-quartier-de-dijon-apres-qu-une-balle-perdue-a-tue-un-habitant_AV-202311270462.html
+source : Flux RSS - BFMTV - Dijon.xml
+title : "On a vu le mec nous braquer": la peur dans un quartier de Dijon après qu'une balle perdue a tué un habitant
+description : Après la mort d'un quinquagénaire, tué dans son lit par une balle perdue à Dijon, les habitants du quartier racontent ce qu'ils ont vu de la fusillade et la peur qu'ils éprouvent après le drame.
+date : Mon, 27 Nov 2023 10:51:59 GMT
+categories : ['Home Dijon - actualités']
+
+id : https://www.bfmtv.com/dijon/dijon-ancien-chien-maltraite-natsu-integre-les-rangs-de-la-police_AN-202301250217.html
+source : Flux RSS - BFMTV - Dijon.xml
+title : Dijon: ancien chien maltraité, Natsu intègre les rangs de la police
+description : L'animal avait été retrouvé suspendu à un balcon en juin 2022. Dans le cadre d'une convention passée entre la SPA et la police, l'animal a finalement intégré les rangs de la brigade canine dijonnaise.
+date : Wed, 25 Jan 2023 08:24:05 GMT
+categories : ['Home Dijon - actualités']
+

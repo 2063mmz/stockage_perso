@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/musique/un-concert-improvise-d-ed-sheeran-organise-en-pleine-rue-en-inde-interrompu-par-la-police-20250210
+source : Le Figaro - Musique.xml
+title : Un concert improvisé d’Ed Sheeran organisé en pleine rue en Inde interrompu par la police
+description : « Pas d’autorisation, pas de concert », a répliqué sur les réseaux sociaux un représentant du BJP, le parti nationaliste hindou, alors que le chanteur affirme avoir obtenu l’autorisation de se produire dans le quartier de Church Street.
+date : Mon, 10 Feb 2025 13:11:16 +0100
+categories : ['Musique']
+
+id : https://www.lefigaro.fr/culture/des-fans-d-oasis-voient-leurs-billets-de-concert-annule-en-raison-des-fraudes-pour-le-marche-noir-20250210
+source : Le Figaro - Musique.xml
+title : Des fans d’Oasis voient leurs billets de concert annulé en raison des fraudes pour le marché noir
+description : Pour la seconde fois en six mois, le géant de la billetterie TicketMaster explique avoir purgé des billets achetés par des escrocs. Mais plusieurs particuliers assurent avoir acheté leurs places annulées sur le site officiel.
+date : Mon, 10 Feb 2025 13:05:40 +0100
+categories : ['Culture', 'Musique']
+
+id : https://www.lefigaro.fr/culture/laurence-equilbey-chef-d-orchestre-notre-vrai-patrimoine-ce-ne-sont-pas-nos-clochers-c-est-d-abord-la-musique-20250209
+source : Le Figaro - Musique.xml
+title : Laurence Equilbey, chef d’orchestre: «Notre vrai patrimoine, ce ne sont pas nos clochers, c’est d’abord la musique !»
+description : ENTRETIEN - La chef dirige Médée de Cherubini à l’Opéra-Comique et fête les dix ans de son orchestre : Insula Orchestra installé à La Seine musicale. Il est devenu l’un des fers de lance de la pratique historiquement informée tout en pariant sur les nouvelles technologies.
+date : Sun, 09 Feb 2025 16:59:55 +0100
+categories : ['Culture', 'Musique']
+
+id : https://www.lefigaro.fr/musique/comment-sabrina-carpenter-tente-de-s-imposer-sur-la-tres-concurrentielle-scene-de-la-pop-americaine-20250209
+source : Le Figaro - Musique.xml
+title : Comment Sabrina Carpenter tente de s’imposer sur la très concurrentielle scène de la pop américaine
+description : PORTRAIT - La chanteuse de 25 ans, qui vient de remporter deux Grammy Awards, a mis dix ans pour percer et se défaire de son image de petite fille sage de la télé Disney.
+date : Sun, 09 Feb 2025 11:20:08 +0100
+categories : ['Musique']
+
+id : https://www.lefigaro.fr/musique/le-nuc-plus-ultra-le-nouvel-album-de-yoa-et-une-reedition-de-wilco-20250208
+source : Le Figaro - Musique.xml
+title : Yoa et Wilco, découvrez les albums de la semaine du Figaro
+description : LE NUC PLUS ULTRA - Au programme cette semaine, le premier album de la jeune chanteuse franco-suisse et la réédition de A Ghost is Born, vingt ans après sa sortie.
+date : Sat, 08 Feb 2025 10:00:00 +0100
+categories : ['Musique']
+
+id : https://www.lefigaro.fr/musique/nous-ne-sommes-pas-contre-l-ia-mais-pour-l-humain-sur-les-plateformes-de-streaming-les-abonnes-dans-le-flou-20250207
+source : Le Figaro - Musique.xml
+title : «Nous ne sommes pas contre l’IA mais pour l’humain»: sur les plateformes de streaming, les abonnés dans le flou
+description : Face à la montée des musiques générées par l’IA, les entreprises ne veulent pas se poser en arbitre.
+date : Sat, 08 Feb 2025 13:16:11 +0100
+categories : ['Musique']
+
+id : https://www.lefigaro.fr/culture/les-artistes-pionniers-militent-pour-une-ia-personnalisee-20250207
+source : Le Figaro - Musique.xml
+title : Musique: des artistes pionniers militent pour une IA personnalisée
+description : Les musiciens Benoît Carré ou Cécile DeLaurentis revendiquent une utilisation intelligente et adaptée des outils. À condition de les maîtriser. Propos recueillis.
+date : Fri, 07 Feb 2025 17:43:18 +0100
+categories : ['Culture', 'Musique']
+
+id : https://www.lefigaro.fr/musique/intelligence-artificielle-la-sacem-en-route-vers-une-reglementation-20250207
+source : Le Figaro - Musique.xml
+title : Intelligence artificielle: la Sacem en route vers une réglementation
+description : Face aux nombreux programmes de génération de musique basés sur l’IA qui ne s’acquittent d’aucuns droits, l’organisme français souhaite réglementer ses usages.
+date : Fri, 07 Feb 2025 15:57:19 +0100
+categories : ['Musique']
+
+id : https://www.lefigaro.fr/culture/ia-et-musique-un-accord-encore-loin-d-etre-parfait-20250207
+source : Le Figaro - Musique.xml
+title : IA et musique, un accord encore loin d’être parfait
+description : DÉCRYPTAGE - Des plateformes de streaming aux musiques générées à la demande, l’intelligence artificielle joue déjà sa partition dans notre quotidien avec ses potentielles dérives.
+date : Fri, 07 Feb 2025 17:43:48 +0100
+categories : ['Culture', 'Musique']
+
+id : https://www.lefigaro.fr/musique/elton-john-sortira-un-nouvel-album-en-duo-avec-brandi-carlile-intitule-who-believes-in-angels-20250206
+source : Le Figaro - Musique.xml
+title : Elton John sortira un nouvel album en duo avec Brandi Carlile intitulé Who Believes in Angels ?
+description : L’interprète de Rocket Man a enregistré ce nouveau disque avec la chanteuse en seulement vingt jours au Sunset Sound Records de Los Angeles en octobre 2023.
+date : Fri, 07 Feb 2025 11:00:56 +0100
+categories : ['Musique']
+
+id : https://www.lefigaro.fr/musique/deux-femmes-et-un-homme-portent-a-leur-tour-plainte-contre-p-diddy-pour-agressions-sexuelles-20250206
+source : Le Figaro - Musique.xml
+title : Deux femmes et un homme portent à leur tour plainte contre P. Diddy pour agressions sexuelles
+description : Deux plaignantes affirment avoir été droguées et contraintes à des rapports sexuels au Trump Hotel en 1997. Une troisième plainte a été déposée par un homme, qui aurait travaillé pour le rappeur entre 2007 et 2012.
+date : Thu, 06 Feb 2025 13:03:42 +0100
+categories : ['Musique']
+
+id : https://www.lefigaro.fr/musique/ozzy-osbourne-et-black-sabbath-sur-scene-pour-un-ultime-concert-a-birmingham-20250206
+source : Le Figaro - Musique.xml
+title : Ozzy Osbourne et Black Sabbath sur scène pour un ultime concert à Birmingham
+description : Le groupe mythique va se reformer, le 5 juillet prochain, pour « le plus grand spectacle de heavy metal de tous les temps », promettent les organisateurs.
+date : Thu, 06 Feb 2025 10:47:42 +0100
+categories : ['Musique']
+
+id : https://www.lefigaro.fr/culture/les-difficiles-adieux-de-thierry-malandain-au-ballet-de-biarritz-20250205
+source : Le Figaro - Musique.xml
+title : «Une libération et un accablement» : les difficiles adieux de Thierry Malandain au Ballet de Biarritz
+description : PORTRAIT - Le chorégraphe a œuvré pendant vingt-cinq ans pour porter la compagnie à son zénith. Il la quittera l’an prochain. Après une ultime année de spectacles.
+date : Wed, 05 Feb 2025 15:08:43 +0100
+categories : ['Culture', 'Musique']
+
+id : https://www.lefigaro.fr/musique/beyonce-apres-son-sacre-aux-grammys-awards-les-ecoutes-de-son-dernier-album-explosent-sur-spotify-20250204
+source : Le Figaro - Musique.xml
+title : Beyoncé : après son sacre aux Grammys Awards, les écoutes de son dernier album explosent sur Spotify
+description : La 67e cérémonie a été marquée par le triomphe de La chanteuse originaire du Texas, lauréate du « meilleur album de l’année» et du « meilleur album country » pour Cowboy Carter dont le nombre d’écoutes sur la plateforme musicale a considérablement augmenté.
+date : Tue, 04 Feb 2025 09:33:33 +0100
+categories : ['Musique']
+
+id : https://www.lefigaro.fr/musique/emportee-par-ses-paroles-je-me-suis-sentie-lourde-immersion-dans-un-concert-sous-hypnose-20250204
+source : Le Figaro - Musique.xml
+title : « Emportée par ses paroles, je me suis sentie lourde » : immersion dans un concert sous hypnose
+description : NOUS Y ÉTIONS - Pendant deux heures, Geoffrey Secco guide son public, tout en jouant du saxophone, afin d’explorer les recoins de leur inconscient.
+date : Tue, 04 Feb 2025 06:00:00 +0100
+categories : ['Musique']
+
+id : https://www.lefigaro.fr/culture/laura-cahen-victor-solf-solann-les-bons-crus-de-la-musique-actuelle-20250203
+source : Le Figaro - Musique.xml
+title : Laura Cahen, Victor Solf, Solann: les bons crus de la musique actuelle
+description : LA SÉLECTION DU FIGARO - Ce début d’année voit l’irruption de jeunes artistes marquants sur la scène française. Des talents à suivre dont les albums font preuve d’audace. Décryptage.
+date : Mon, 03 Feb 2025 15:00:02 +0100
+categories : ['Culture', 'Musique']
+
+id : https://www.lefigaro.fr/musique/olga-neuwirth-quand-j-ai-commence-je-voulais-donner-des-coups-de-marteau-dans-la-musique-contemporaine-20250203
+source : Le Figaro - Musique.xml
+title : Olga Neuwirth: «Quand j’ai commencé, je voulais donner des coups de marteau dans la musique contemporaine»
+description : ENTRETIEN - Figure marquante de la création contemporaine, la compositrice autrichienne est invitée du Festival Présences à la Maison de la radio.
+date : Mon, 03 Feb 2025 13:45:02 +0100
+categories : ['Musique']
+
+id : https://www.lefigaro.fr/musique/le-rappeur-hatik-interrompt-son-concert-a-clermont-ferrand-pour-aller-aux-urgences-20250203
+source : Le Figaro - Musique.xml
+title : Le rappeur Hatik interrompt son concert à Clermont-Ferrand pour aller aux urgences
+description : Le chanteur de 32 ans, « blessé au sternum lors d’une séance à la salle de sport », a été contraint de quitter la scène après avoir interprété quelques titres.
+date : Sun, 09 Feb 2025 11:26:30 +0100
+categories : ['Musique']
+
+id : https://www.lefigaro.fr/musique/aya-nakamura-objet-d-un-dictionnaire-critique-aux-accents-hagiographiques-20250202
+source : Le Figaro - Musique.xml
+title : Aya Nakamura, objet d’un dictionnaire critique aux accents hagiographiques
+description : Le journaliste Ismaël Mereghetti vient de sortir chez Lattes, une analyse très bienveillante du succès de la chanteuse française actuellement la plus écoutée au monde.
+date : Mon, 03 Feb 2025 09:35:37 +0100
+categories : ['Musique']
+
+id : https://www.lefigaro.fr/culture/the-weeknd-steely-dan-decouvrez-les-albums-de-la-semaine-du-figaro-20250201
+source : Le Figaro - Musique.xml
+title : The Weeknd, Steely Dan : découvrez les albums de la semaine du Figaro
+description : LE NUC PLUS ULTRA - La superstar du R&B revient avec son sixième album et les new-yorkais de Steely Dan ressortent un de leurs classiques.
+date : Sat, 01 Feb 2025 07:00:00 +0100
+categories : ['Culture', 'Musique']
+

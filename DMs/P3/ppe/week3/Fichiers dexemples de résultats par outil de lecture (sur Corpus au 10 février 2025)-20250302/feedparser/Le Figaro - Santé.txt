@@ -1,0 +1,140 @@
+id : https://sante.lefigaro.fr/psychologie/vider-la-maison-de-ses-parents-un-deuil-singulier-20250210
+source : Le Figaro - Santé.xml
+title : Vider la maison de ses parents, un deuil singulier
+description : PSYCHOLOGIE - Un jour ou l’autre, nous devenons orphelins. Il nous incombe alors de choisir parmi les objets ayant appartenu à nos parents ce que nous allons garder, jeter ou donner. Cette plongée bouleversante dans leurs souvenirs et les nôtres ne se fait pas sans tiraillements.
+date : Mon, 10 Feb 2025 08:00:00 +0100
+categories : ['Psychologie', 'Santé']
+
+id : https://sante.lefigaro.fr/medecine/trouble-mental-moins-d-une-personne-sur-dix-recoit-un-traitement-adapte-20250210
+source : Le Figaro - Santé.xml
+title : Trouble mental : moins d’une personne sur dix reçoit un traitement adapté
+description : Une étude menée dans 21 pays identifie de nombreux obstacles aux soins, pour éclairer les décisions de politique de santé publique.
+date : Mon, 10 Feb 2025 07:42:41 +0100
+categories : ['Médecine', 'Santé']
+
+id : https://sante.lefigaro.fr/social/sante-publique/faut-il-faire-un-bilan-cardiaque-a-partir-de-50-ans-20250209
+source : Le Figaro - Santé.xml
+title : Faut-il faire un bilan cardiaque à partir de 50 ans ?
+description : NOS CONSEILS SANTÉ - C’est a priori plutôt intuitif : faire contrôler l’état de son cœur à partir d’un certain âge ne peut être que bénéfique, même si l’on est en bonne santé par ailleurs. Les spécialistes que nous avons interrogés sont plus nuancés.
+date : Sun, 09 Feb 2025 07:30:00 +0100
+categories : ['Santé', 'Santé publique']
+
+id : https://sante.lefigaro.fr/mieux-etre/sexualite/les-jeux-de-role-une-bonne-idee-pour-pimenter-sa-sexualite-20250208
+source : Le Figaro - Santé.xml
+title : Les jeux de rôle, une bonne idée pour pimenter sa sexualité !
+description : SEXOLOGIE - La geôlière, le strip-teaseur, l’exhibitionniste, le gigolo ou la princesse endormie... On peut tout être dans l’intimité du couple, pour peu que les deux partenaires soient d’accord. Et cela fait du bien parfois très au-delà de la sexualité...
+date : Sat, 08 Feb 2025 19:30:00 +0100
+categories : ['Santé', 'Sexualité']
+
+id : https://sante.lefigaro.fr/medecine/le-nouvel-antidouleur-qui-veut-detroner-les-opioides-20250208
+source : Le Figaro - Santé.xml
+title : Le nouvel antidouleur qui veut détrôner les opioïdes
+description : DÉCRYPTAGE - L’agence du médicament américaine vient d’autoriser le Journavx. Son principe actif, la suzetrigine, cible un tout nouveau mécanisme de la douleur et n’entraîne a priori pas de risques d’addiction.
+date : Sun, 09 Feb 2025 12:46:48 +0100
+categories : ['Médecine', 'Santé']
+
+id : https://sante.lefigaro.fr/reprendre-le-ski-apres-10-ans-pourquoi-le-corps-n-oublie-pas-20250208
+source : Le Figaro - Santé.xml
+title : Reprendre le ski après 10 ans: pourquoi le corps n’oublie pas ?
+description : DÉCRYPTAGE - Déborah Nourrit, enseignante-chercheuse à l’Université de Montpellier, explique au Figaro les parties du corps qui sont à l’œuvre et les secrets de cet apprentissage dont on se souvient «pour la vie».
+date : Sat, 08 Feb 2025 15:00:00 +0100
+categories : ['Actualité Santé', 'Santé']
+
+id : https://sante.lefigaro.fr/medecine/les-tabous-de-la-sante-quand-l-herpes-se-cache-sous-un-pudique-bouton-de-fievre-20250208
+source : Le Figaro - Santé.xml
+title : Les tabous de la santé : quand l’herpès se cache sous un pudique « bouton de fièvre »
+description : Mauvaises odeurs, douleurs mal placées, gênes intimes... Petits ou gros, certains de nos maux peinent à se dire au médecin. Pourtant, ils peuvent être soulagés, ou mériter de plus amples explorations.
+date : Sat, 08 Feb 2025 07:30:00 +0100
+categories : ['Médecine', 'Santé']
+
+id : https://sante.lefigaro.fr/medecine/vitamine-d-chez-l-enfant-pourquoi-il-faut-eviter-les-complements-alimentaires-20250207
+source : Le Figaro - Santé.xml
+title : Vitamine D chez l’enfant : pourquoi il faut éviter les compléments alimentaires
+description : Les pédiatres mettent en garde contre l’administration de vitamine D sous forme de compléments alimentaires, qui peuvent aboutir à des surdosages.
+date : Fri, 07 Feb 2025 11:50:20 +0100
+categories : ['Médecine', 'Santé']
+
+id : https://sante.lefigaro.fr/medecine/les-meres-de-jumeaux-ont-plus-de-risques-cardio-vasculaires-dans-l-annee-suivant-la-naissance-20250207
+source : Le Figaro - Santé.xml
+title : Les mères de jumeaux ont plus de risques cardio-vasculaires dans l’année suivant la naissance
+description : De plus en plus fréquentes avec l’avancée de l’âge maternel et le recours aux PMA, les grossesses gémellaires exposent à un surrisque d’hospitalisation pour maladies cardiovasculaires, jusqu’à un an post-partum.
+date : Fri, 07 Feb 2025 08:00:00 +0100
+categories : ['Médecine', 'Santé']
+
+id : https://sante.lefigaro.fr/social/enfance-famille/les-terreurs-nocturnes-ces-cauchemars-pas-comme-les-autres-qui-desemparent-les-parents-20250206
+source : Le Figaro - Santé.xml
+title : Les terreurs nocturnes, ces cauchemars pas comme les autres qui désemparent les parents
+description : Ces épisodes de cris et de pleurs inexpliqués en première partie de nuit touchent environ 15 % des enfants. Faut-il s’en inquiéter ? Réponse avec deux spécialistes.
+date : Thu, 06 Feb 2025 19:27:54 +0100
+categories : ['Famille', 'Santé']
+
+id : https://sante.lefigaro.fr/medecine/comment-ne-pas-passer-a-cote-des-premiers-signes-d-une-meningite-cette-infection-grave-qui-represente-une-urgence-vitale-20250205
+source : Le Figaro - Santé.xml
+title : Comment ne pas passer à côté des premiers signes d’une méningite, cette infection grave qui représente une urgence vitale ?
+description : NOS CONSEILS SANTÉ - Une jeune femme de 18 ans est décédée des suites d’une méningite à méningocoque à Rennes cette semaine. Ces infections représentent une urgence médicale absolue.
+date : Wed, 05 Feb 2025 22:17:13 +0100
+categories : ['Médecine', 'Santé']
+
+id : https://sante.lefigaro.fr/social/sante-publique/les-donnees-synthetiques-des-deepfakes-ethiques-pour-doper-la-recherche-et-l-economie-20250205
+source : Le Figaro - Santé.xml
+title : Les données synthétiques, des « deepfakes » éthiques pour doper la recherche et l’économie ?
+description : AVIS D’EXPERTS - « Falsifier » des données grâce à l’intelligence artificielle peut aussi être une solution d’avenir pour faciliter leur partage et leur utilisation à des fins de recherche.
+date : Wed, 05 Feb 2025 09:52:25 +0100
+categories : ['Santé', 'Santé publique']
+
+id : https://sante.lefigaro.fr/medecine/contre-parkinson-cette-prouesse-de-chercheurs-francais-qui-injectent-de-la-dopamine-directement-dans-le-cerveau-20250204
+source : Le Figaro - Santé.xml
+title : Contre Parkinson, cette prouesse de chercheurs français qui injectent de la dopamine directement dans le cerveau
+description : DÉCRYPTAGE - Des chercheurs lillois ont mis au point une technologie permettant de fournir au cerveau des patients la molécule qui leur fait défaut. Avec de bons résultats préliminaires, et de moindres effets secondaires.
+date : Tue, 04 Feb 2025 19:41:19 +0100
+categories : ['Médecine', 'Santé']
+
+id : https://sante.lefigaro.fr/social/sante-publique/faut-il-abaisser-l-age-de-depistage-du-cancer-du-sein-avant-50-ans-20250204
+source : Le Figaro - Santé.xml
+title : Faut-il abaisser l’âge de dépistage du cancer du sein avant 50 ans ?
+description : La Haute autorité de santé a été saisie sur cette question par le ministère de la santé. Le Figaro fait le point sur les avantages et les inconvénients d’avancer l’âge du dépistage organisé du cancer du sein.
+date : Tue, 04 Feb 2025 12:46:32 +0100
+categories : ['Santé', 'Santé publique']
+
+id : https://sante.lefigaro.fr/social/sante-publique/depistages-organises-des-cancers-la-france-a-encore-des-progres-a-faire-20250204
+source : Le Figaro - Santé.xml
+title : Dépistages des cancers : la France a encore des progrès à faire
+description : Cancer du sein, colorectal et du col de l’utérus font l’objet de programmes de dépistage national organisé. Mais des difficultés d’accès ou d’orientation freinent la participation des Français, pointe Santé publique France dans un état des lieux inédit.
+date : Tue, 04 Feb 2025 10:40:40 +0100
+categories : ['Santé', 'Santé publique']
+
+id : https://sante.lefigaro.fr/medecine/cancer-la-radiotherapie-flash-d-immenses-promesses-mais-tout-autant-de-defis-20250203
+source : Le Figaro - Santé.xml
+title : La radiothérapie flash, un nouvel espoir contre le cancer
+description : Avec des irradiations très puissantes mais d’une durée extrêmement courte, cette technologie permettrait de traiter des tumeurs profondes de mauvais pronostic. L’Institut Curie, qui vient de lancer le projet Frathea, espère développer en quatre ans une machine à très haute énergie.
+date : Sun, 09 Feb 2025 21:25:06 +0100
+categories : ['Médecine', 'Santé']
+
+id : https://sante.lefigaro.fr/psychologie/pourquoi-etre-l-enfant-prefere-n-est-pas-une-sinecure-20250203
+source : Le Figaro - Santé.xml
+title : Pourquoi être l’enfant préféré n’est pas une sinécure
+description : PSYCHOLOGIE - La relation que l’on noue avec chacun de ses enfants est toujours singulière. Mais les parents doivent veiller à respecter l’équité... Et la fratrie se garder d’en vouloir durablement au chouchou.
+date : Mon, 03 Feb 2025 07:00:00 +0100
+categories : ['Psychologie', 'Santé']
+
+id : https://sante.lefigaro.fr/mieux-etre/sexualite/faciliter-l-orgasme-feminin-avec-des-exercices-mentaux-20250201
+source : Le Figaro - Santé.xml
+title : Faciliter l’orgasme féminin avec des exercices mentaux
+description : SEXOLOGIE - Le secret de l’épanouissement sexuel pourrait se cacher dans la capacité à percevoir ses sensations internes. « Le Figaro » vous dévoile comment améliorer cette « conscience intéroceptive ».
+date : Sat, 01 Feb 2025 20:00:00 +0100
+categories : ['Santé', 'Sexualité']
+
+id : https://sante.lefigaro.fr/medecine/les-tabous-de-la-sante-la-constipation-quand-le-bien-etre-est-en-transit-20250201
+source : Le Figaro - Santé.xml
+title : Les tabous de la santé : la constipation, quand le bien-être est en transit
+description : Mauvaises odeurs, douleurs mal placées, gênes intimes... Petits ou gros, certains de nos maux peinent à se dire au médecin. Pourtant, ils peuvent être soulagés, ou mériter de plus amples explorations.
+date : Sat, 01 Feb 2025 13:00:00 +0100
+categories : ['Médecine', 'Santé']
+
+id : https://sante.lefigaro.fr/social/sante-publique/la-taxe-sur-les-sodas-efficace-mais-pas-suffisante-pour-faire-maigrir-les-jeunes-20250131
+source : Le Figaro - Santé.xml
+title : La taxe sur les sodas, efficace mais pas suffisante pour faire maigrir les jeunes
+description : Cette mesure de santé publique a été évaluée pour la première fois en Californie, où les taux de surpoids et d’obésité sont très élevés.
+date : Fri, 31 Jan 2025 17:40:13 +0100
+categories : ['Santé', 'Santé publique']
+

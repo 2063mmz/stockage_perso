@@ -1,0 +1,140 @@
+id : https://elucid.media/economie/eviction-du-pdg-carlos-tavares-l-echec-d-un-psychopathe-de-la-performance
+source : Elucid -.xml
+title : Éviction du PDG Carlos Tavares : l&#039;échec d&#039;un « psychopathe de la performance »
+description : 
+date : Mon, 10 Feb 2025 06:10:46 +0000
+categories : ['<![CDATA[Économie]]>', '<![CDATA[Industrie]]>', '<![CDATA[Industrie, Services]]>', '<![CDATA[Industrie - Services]]>', '<![CDATA[Démocratie]]>', '<![CDATA[Dérives autoritaires]]>', '<![CDATA[Ploutocratie]]>']
+
+id : https://elucid.media/politique/la-mort-du-politique-qui-pour-resister-a-l-hegemonie-americaine
+source : Elucid -.xml
+title : La mort du politique : qui pour résister à l’hégémonie américaine ?
+description : 
+date : Mon, 10 Feb 2025 05:35:24 +0000
+categories : ['<![CDATA[Gouvernement]]>', '<![CDATA[Politique]]>', '<![CDATA[Démocratie]]>', '<![CDATA[Souveraineté]]>']
+
+id : https://elucid.media/politique/l-union-europeenne-est-une-machine-a-produire-du-neoliberalisme-leila-chaibi
+source : Elucid -.xml
+title : « L&#039;Union européenne est une machine à produire du néolibéralisme » - Leïla Chaibi
+description : 
+date : Sun, 09 Feb 2025 05:35:02 +0000
+categories : ['<![CDATA[Politique]]>', '<![CDATA[Union Européenne]]>', '<![CDATA[Parlement Européen]]>', '<![CDATA[Démocratie]]>', '<![CDATA[Dérives autoritaires]]>', '<![CDATA[Lobbying]]>']
+
+id : https://elucid.media/politique/aurelien-bernier-marches-europeens-de-l-energie-de-liberalisation-ou-libre-echange-a-marche-forcee
+source : Elucid -.xml
+title : Marchés européens de l&#039;énergie : « dé-libéralisation » ou libre-échange à marche forcée ?
+description : 
+date : Sat, 08 Feb 2025 06:10:23 +0000
+categories : ['<![CDATA[Politique]]>', '<![CDATA[Union Européenne]]>', '<![CDATA[Commission Européenne]]>', '<![CDATA[environnement]]>', '<![CDATA[Énergie]]>', '<![CDATA[Mix énergétique]]>', 'free']
+
+id : https://elucid.media/democratie/face-au-desert-aride-du-commentaire-mediatique-la-realite-se-dissout
+source : Elucid -.xml
+title : Face au désert aride du commentaire médiatique, la réalité se dissout
+description : 
+date : Sat, 08 Feb 2025 05:35:25 +0000
+categories : ['<![CDATA[Médias sous influence]]>', '<![CDATA[Démocratie]]>', '<![CDATA[Propagande]]>', '<![CDATA[Société]]>', '<![CDATA[Culture - Loisirs]]>', '<![CDATA[Médias - Journalisme]]>']
+
+id : https://elucid.media/podcast-resume-livre/il-faut-s-adapter-barbara-stiegler
+source : Elucid -.xml
+title : « Il faut s&#039;adapter » - Barbara Stiegler
+description : 
+date : Fri, 07 Feb 2025 05:35:13 +0000
+categories : ['<![CDATA[Souveraineté Politique]]>', '<![CDATA[Démocratie]]>', '<![CDATA[Souveraineté]]>']
+
+id : https://elucid.media/analyse-graphique/chomage-france/explosion-du-chomage-macron-n-a-plus-les-moyens-de-masquer-son-echec-economique
+source : Elucid -.xml
+title : Le chômage en France 4ème trimestre 2024
+description : 
+date : Thu, 06 Feb 2025 05:35:44 +0000
+categories : ['<![CDATA[Économie]]>', '<![CDATA[Chômage]]>', '<![CDATA[Travail, Chômage]]>', '<![CDATA[Travail - Chômage]]>', '<![CDATA[Politique]]>', '<![CDATA[Gouvernement]]>', 'free']
+
+id : https://elucid.media/economie/la-france-enfer-socialiste-ou-paradis-liberal-francois-boulo
+source : Elucid -.xml
+title : La France : enfer socialiste ou paradis libéral ? - François Boulo
+description : 
+date : Wed, 05 Feb 2025 05:35:40 +0000
+categories : ['<![CDATA[Économie]]>', '<![CDATA[Dépenses publiques]]>', '<![CDATA[Finances Publiques]]>', '<![CDATA[Fiscalité]]>', '<![CDATA[Politique]]>', '<![CDATA[Gouvernement]]>', 'free']
+
+id : https://elucid.media/democratie/les-possedants-et-les-liberaux-autoritaires-ont-mis-hitler-au-pouvoir-johann-chapoutot
+source : Elucid -.xml
+title : « Les possédants et les libéraux autoritaires ont mis Hitler au pouvoir » Johann Chapoutot
+description : 
+date : Tue, 04 Feb 2025 05:35:09 +0000
+categories : ['<![CDATA[Dérives autoritaires]]>', '<![CDATA[Démocratie]]>', '<![CDATA[Politique]]>', '<![CDATA[Gouvernement]]>', 'free']
+
+id : https://elucid.media/democratie/journalistes-sous-influence-le-financement-suspect-par-les-etats-unis-de-l-occrp
+source : Elucid -.xml
+title : Journalistes sous influence : le financement suspect par les États-Unis de l’OCCRP
+description : 
+date : Mon, 03 Feb 2025 05:35:27 +0000
+categories : ['<![CDATA[Médias sous influence]]>', '<![CDATA[Démocratie]]>', '<![CDATA[Propagande]]>', '<![CDATA[Dérives autoritaires]]>', '<![CDATA[Corruption]]>']
+
+id : https://elucid.media/environnement/l-ecologie-du-spectacle-est-aveugle-a-la-critique-du-capitalisme-clement-senechal
+source : Elucid -.xml
+title : « L’écologie du spectacle est aveugle à la critique du capitalisme » - Clément Sénéchal
+description : 
+date : Sun, 02 Feb 2025 05:35:29 +0000
+categories : ['<![CDATA[Environnement]]>', '<![CDATA[Transition écologique]]>', '<![CDATA[environnement]]>', '<![CDATA[Écosystèmes]]>']
+
+id : https://elucid.media/societe/vous-etes-responsable-de-votre-bonheur-une-pensee-au-service-du-neoliberalisme
+source : Elucid -.xml
+title : « Vous êtes responsable de votre bonheur ! » : une pensée au service du néolibéralisme
+description : 
+date : Sat, 01 Feb 2025 09:32:18 +0000
+categories : ['<![CDATA[Sociologie]]>', '<![CDATA[Société]]>', 'free']
+
+id : https://elucid.media/democratie/le-narcissisme-de-macron-est-fondamentalement-pervers-marc-joly
+source : Elucid -.xml
+title : « Le narcissisme de Macron est fondamentalement pervers » - Marc Joly
+description : 
+date : Sat, 01 Feb 2025 02:00:03 +0000
+categories : ['<![CDATA[Dérives autoritaires]]>', '<![CDATA[Démocratie]]>', '<![CDATA[Politique]]>', '<![CDATA[Gouvernement]]>', '<![CDATA[Institutions]]>', 'free']
+
+id : https://elucid.media/politique/le-jeu-dangereux-de-la-france-avec-l-algerie-l-escalade-continue
+source : Elucid -.xml
+title : Le jeu dangereux de la France avec l’Algérie : l’escalade continue
+description : 
+date : Fri, 31 Jan 2025 06:10:38 +0000
+categories : ['<![CDATA[Relations Internationales]]>', '<![CDATA[Politique]]>', '<![CDATA[International]]>']
+
+id : https://elucid.media/podcast-resume-livre/l-illusion-du-bloc-bourgeois-bruno-amable-stefano-palombarini
+source : Elucid -.xml
+title : L&#039;illusion du bloc bourgeois - Bruno Amable, Stefano Palombarini
+description : 
+date : Fri, 31 Jan 2025 05:35:08 +0000
+categories : ['<![CDATA[Vie des Partis]]>', '<![CDATA[Politique]]>', '<![CDATA[Partis]]>']
+
+id : https://elucid.media/analyse-graphique/dette-publique-etats-unis/l-economie-americaine-est-menacee-par-un-deficit-public-hors-de-controle
+source : Elucid -.xml
+title : La dette publique des États-Unis 2024
+description : 
+date : Thu, 30 Jan 2025 05:35:00 +0000
+categories : ['<![CDATA[Économie]]>', '<![CDATA[Budget, Dette publique]]>', '<![CDATA[Finances Publiques]]>', '<![CDATA[Budget - Dette publique]]>']
+
+id : https://elucid.media/societe/la-sacralite-n-est-pas-religieuse-elle-est-anthropolitique
+source : Elucid -.xml
+title : La sacralité n’est pas religieuse, elle est « anthropolitique »
+description : 
+date : Wed, 29 Jan 2025 05:35:23 +0000
+categories : ['<![CDATA[Sociologie]]>', '<![CDATA[Société]]>', '<![CDATA[Religion]]>']
+
+id : https://elucid.media/democratie/le-bilan-du-president-jimmy-carter-est-sanglant-et-lamentable-chris-hedges
+source : Elucid -.xml
+title : « Le bilan du président Jimmy Carter est sanglant et lamentable » - Chris Hedges
+description : 
+date : Tue, 28 Jan 2025 05:35:26 +0000
+categories : ['<![CDATA[Dérives autoritaires]]>', "<![CDATA[Droits de l'homme]]>", '<![CDATA[Démocratie]]>', '<![CDATA[Politique]]>', '<![CDATA[International]]>', '<![CDATA[Relations Internationales]]>', 'free']
+
+id : https://elucid.media/analyse-graphique/le-royaume-uni-est-sorti-du-charbon-et-ce-n-est-pas-grace-au-gouvernement-britannique
+source : Elucid -.xml
+title : Le Royaume-Uni est sorti du charbon, et ce n’est pas grâce au gouvernement britannique
+description : 
+date : Mon, 27 Jan 2025 05:35:43 +0000
+categories : ['<![CDATA[Énergie]]>', '<![CDATA[Pétrole, Gaz, Charbon]]>', '<![CDATA[Environnement]]>', '<![CDATA[environnement]]>', '<![CDATA[Pétrole - Gaz - Charbon]]>', '<![CDATA[Matières premières]]>']
+
+id : https://elucid.media/politique/le-systeme-n-a-pas-interet-a-nous-emanciper-et-nous-informer-correctement-natacha-polony
+source : Elucid -.xml
+title : Le système n’a pas intérêt à nous émanciper et nous informer correctement - Natacha Polony
+description : 
+date : Sat, 25 Jan 2025 09:32:35 +0000
+categories : ['<![CDATA[Politique]]>', 'free']
+

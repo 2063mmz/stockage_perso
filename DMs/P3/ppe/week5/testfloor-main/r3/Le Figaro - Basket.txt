@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/sports/basket/basket-fournier-et-hoard-forfaits-pour-les-derniers-matches-de-qualification-a-l-euro-2025-luwawu-cabarot-et-cornelie-appeles-20250210
+source : Le Figaro - Basket.xml
+title : Basket : Fournier et Hoard forfaits pour les derniers matches de qualification à l’Euro 2025, Luwawu-Cabarot et Cornelie appelés
+description : L’équipe de France joue ses deux derniers matches de qualification à l’Euro 2025 les 21 et 24 février, en Croatie et en Bosnie-Herzégovine.
+date : Mon, 10 Feb 2025 11:14:11 +0100
+categories : ['Basket']
+
+id : https://www.lefigaro.fr/sports/basket/nba/nba-damian-lillard-monumental-yabusele-en-forme-diabate-blesse-et-fin-de-serie-negative-pour-houston-20250209
+source : Le Figaro - Basket.xml
+title : NBA : Damian Lillard monumental, Yabusele en forme, Diabaté blessé et fin de série négative pour Houston
+description : Ce dimanche, Milwaukee a tenu bon face à Philadelphie grâce à un grand Damian Lillard alors que le Français Diabaté s’est blessé avec Charlotte.
+date : Sun, 09 Feb 2025 23:47:52 +0100
+categories : ['NBA']
+
+id : https://www.lefigaro.fr/sports/basket/basket-porte-par-un-grand-tj-shorts-paris-basketball-domine-l-asvel-20250209
+source : Le Figaro - Basket.xml
+title : Basket : porté par un grand TJ Shorts, Paris Basketball domine l'Asvel
+description : Ce dimanche, le Paris Basketball a battu l’Asvel (111-96) grâce à un grand TJ Shorts, auteur de 30 points et 12 passes.
+date : Sun, 09 Feb 2025 22:01:52 +0100
+categories : ['Basket']
+
+id : https://www.lefigaro.fr/sports/basket/nba/nba-blesse-giannis-antetokounmpo-forfait-pour-le-all-star-game-20250209
+source : Le Figaro - Basket.xml
+title : NBA : blessé, Giannis Antetokounmpo forfait pour le All-Star Game
+description : Le joueur de Milwaukee Giannis Antetokounmpo, blessé au mollet gauche, manquera le All-Star Game de la NBA.
+date : Sun, 09 Feb 2025 22:03:32 +0100
+categories : ['NBA']
+
+id : https://www.lefigaro.fr/sports/basket/nba/nba-pour-sa-premiere-avec-dallas-anthony-davis-se-blesse-20250209
+source : Le Figaro - Basket.xml
+title : NBA : pour sa première avec Dallas, Anthony Davis... se blesse
+description : Anthony Davis s’est blessé ce samedi dès son premier match avec Dallas face aux Rockets de Houston.
+date : Sun, 09 Feb 2025 00:09:04 +0100
+categories : ['NBA']
+
+id : https://www.lefigaro.fr/sports/basket/nba/nba-davis-veut-donner-espoir-aux-fans-de-dallas-assommes-par-le-depart-de-doncic-20250208
+source : Le Figaro - Basket.xml
+title : NBA : Davis veut «donner espoir» aux fans de Dallas assommés par le départ de Doncic
+description : L’ex-intérieur des Lakers a tenté de rassurer des fans de la franchise texane inconsolables après le départ de Doncic.
+date : Sat, 08 Feb 2025 15:30:17 +0100
+categories : ['NBA']
+
+id : https://www.lefigaro.fr/sports/basket/nba/nba-avec-un-wembanyama-sans-eclat-les-spurs-tombent-face-a-charlotte-20250208
+source : Le Figaro - Basket.xml
+title : NBA: avec un Wembanyama sans éclat, les Spurs tombent face à Charlotte
+description : Avec 16 points, 11 rebonds et 6 contres, le Français n’a pu éviter à son équipe de chuter la nuit dernière.
+date : Sat, 08 Feb 2025 09:04:55 +0100
+categories : ['NBA']
+
+id : https://www.lefigaro.fr/sports/basket/euroligue-au-buzzer-evan-fournier-crucifie-le-barca-video-20250208
+source : Le Figaro - Basket.xml
+title : Euroligue : au buzzer, Evan Fournier crucifie le Barça (vidéo)
+description : EN VIDÉO - L’arrière international tricolore de 32 ans a inscrit le panier de la gagne à la dernière seconde vendredi, en Espagne, lors de Barça-Olympiakos (88-90).
+date : Sat, 08 Feb 2025 07:27:32 +0100
+categories : ['Basket']
+
+id : https://www.lefigaro.fr/sports/basket/euroligue-le-paris-basket-l-emporte-sur-le-parquet-de-bologne-20250207
+source : Le Figaro - Basket.xml
+title : Euroligue : le Paris Basket l’emporte sur le parquet de Bologne
+description : Après un début de match difficile, le Paris Basketball a finalement battu le Virtus Bologne sur son parquet (83-77) vendredi lors de la 26e journée d’Euroligue. Au classement, les coéquipiers de TJ Shorts restent proches du top 6.
+date : Fri, 07 Feb 2025 23:22:43 +0100
+categories : ['Basket']
+
+id : https://www.lefigaro.fr/sports/basket/basket-monaco-n-a-pas-fait-le-poids-contre-le-partizan-belgrade-en-euroligue-20250207
+source : Le Figaro - Basket.xml
+title : Basket : Monaco n’a pas fait le poids contre le Partizan Belgrade en Euroligue
+description : Ce vendredi soir, les Monégasques ont lourdement chuté à domicile face au Partizan Belgrade (69-86).
+date : Fri, 07 Feb 2025 21:43:08 +0100
+categories : ['Basket']
+
+id : https://www.lefigaro.fr/sports/basket/nba/nba-wembanyama-dans-l-equipe-de-jokic-pour-le-all-star-game-20250207
+source : Le Figaro - Basket.xml
+title : NBA : Victor Wembanyama dans l'équipe de Nikola Jokic pour le All-Star Game
+description : Le prodige français participera à son premier All-Star Game, le 16 février prochian à San Francisco.
+date : Fri, 07 Feb 2025 15:00:12 +0100
+categories : ['NBA']
+
+id : https://www.lefigaro.fr/sports/basket/nba/nba-trois-paniers-a-trois-points-consecutifs-a-une-distance-folle-le-show-lebron-james-en-video-20250207
+source : Le Figaro - Basket.xml
+title : NBA: trois paniers à trois points consécutifs à une distance folle, le show LeBron James en vidéo
+description : Auteur de 42 points à 40 ans, LeBron James s’est fait remarquer jeudi soir avec les Lakers face à Golden State.
+date : Fri, 07 Feb 2025 09:55:25 +0100
+categories : ['NBA']
+
+id : https://www.lefigaro.fr/sports/basket/nba/nba-merveilleux-lebron-james-marque-42-points-et-permet-aux-lakers-de-s-imposer-face-a-golden-state-20250207
+source : Le Figaro - Basket.xml
+title : NBA : 42 points, 40 ans, éternel LeBron James qui «rejoint» Michael Jordan
+description : Auteur d’une sublime performance, LeBron James a amplement participé au succès des Los Angeles Lakers face aux Golden State Warriors de Stephen Curry, 120-112, dans la nuit de jeudi à vendredi.
+date : Fri, 07 Feb 2025 09:54:57 +0100
+categories : ['NBA']
+
+id : https://www.lefigaro.fr/sports/basket/basket-l-asvel-s-incline-a-munich-contre-le-bayern-76-67-en-euroligue-20250206
+source : Le Figaro - Basket.xml
+title : Euroligue : jamais deux sans trois pour l'Asvel, battue à Munich
+description : L’Asvel s’est inclinée dans la salle du Bayern Munich ce jeudi, lors de la 26e journée de l’Euroligue. Un troisième revers de rang qui la met à deux victoires de la 10e place.
+date : Fri, 07 Feb 2025 09:58:15 +0100
+categories : ['Basket']
+
+id : https://www.lefigaro.fr/sports/basket/basket-les-bleues-humilient-l-irlande-et-se-qualifient-pour-l-euro-2025-20250206
+source : Le Figaro - Basket.xml
+title : Basket : qualifiées pour l’Euro 2025, les Bleues humilient l'Irlande avec un écart record de... 101 points
+description : L’équipe de France féminine de basket a détruit l’Irlande et validé son billet pour l’Euro ce jeudi, à Chalon-sur-Saône.
+date : Thu, 06 Feb 2025 22:19:15 +0100
+categories : ['Basket']
+
+id : https://www.lefigaro.fr/sports/basket/nba/nba-les-lakers-tiennent-leur-interieur-mark-williams-trade-a-los-angeles-20250206
+source : Le Figaro - Basket.xml
+title : NBA : les Lakers tiennent leur intérieur, Mark Williams tradé à Los Angeles
+description : Après avoir envoyé Anthony Davis à Dallas en échange de Luka Doncic, les Angelinos cherchaient activement un pivot avant la deadline. Ils l’ont trouvé avec Mark Williams.
+date : Thu, 06 Feb 2025 18:10:08 +0100
+categories : ['NBA']
+
+id : https://www.lefigaro.fr/sports/basket/nba/nba-la-fete-a-bercy-deux-trades-en-moins-d-une-semaine-et-une-fin-de-contrat-pour-sidy-cissoko-20250206
+source : Le Figaro - Basket.xml
+title : Basket: la fête à Bercy, deux trades en moins d’une semaine et une fin de contrat... Sidy Cissoko face à l’univers impitoyable de la NBA
+description : Passé de San Antonio à Sacramento puis à Washington en quelques jours, le jeune (20 ans) meneur français a été coupé par les Wizards ce jeudi et se retrouve sans contrat.
+date : Thu, 06 Feb 2025 17:30:29 +0100
+categories : ['NBA']
+
+id : https://www.lefigaro.fr/sports/basket/nba/nba-wembanyama-decisif-face-a-atlanta-les-cavs-s-imposent-au-buzzer-20250206
+source : Le Figaro - Basket.xml
+title : NBA : Victor Wembanyama décisif face à Atlanta, les Cavs s’imposent au buzzer
+description : Les Spurs de Wembanyama, les Cavaliers et le Thunder étaient sur le pont cette nuit. Retrouvez le compte rendu des matches de NBA.
+date : Thu, 06 Feb 2025 10:00:04 +0100
+categories : ['NBA']
+
+id : https://www.lefigaro.fr/sports/basket/je-prends-beaucoup-de-plaisir-retour-gagnant-a-paris-pour-fournier-comme-un-poisson-dans-l-eau-a-l-olympiakos-20250206
+source : Le Figaro - Basket.xml
+title : «Je prends beaucoup de plaisir» : retour gagnant à Paris pour Fournier, comme un poisson dans l’eau à l’Olympiakos
+description : RÉCIT – Vainqueur à Paris mercredi soir, à l’Adidas Arena, quelques mois après la médaille d’argent à Paris 2024, le Francilien a retrouvé le plaisir de jouer en Grèce.
+date : Thu, 06 Feb 2025 10:00:38 +0100
+categories : ['Basket']
+
+id : https://www.lefigaro.fr/sports/basket/nba/nba-nouveau-tremblement-de-terre-jimmy-butler-envoye-a-golden-state-20250206
+source : Le Figaro - Basket.xml
+title : NBA : nouveau tremblement de terre, Jimmy Butler envoyé à Golden State
+description : En quête d’une nouvelle star pour épauler Steph Curry depuis de longs mois, les Warriors ont mis le grappin sur Jimmy Butler à la veille de la deadline des trade, ce jeudi.
+date : Thu, 06 Feb 2025 10:01:53 +0100
+categories : ['NBA']
+

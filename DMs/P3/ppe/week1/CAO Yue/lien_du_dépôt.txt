@@ -1,0 +1,78 @@
+https://gitlab.com/2063mmz/ppe2-2425-tp1
+
+2/5corriger:
+cd ppe2-///
+git log 查看状态
+less dormeur.txt 查看txt文件，不能修改
+git checkoout -b casse 创建branche
+vim dormeur.txt 操作
+git diff dormeur.txt
+git config
+git commit -m ""
+git log
+git checkoout main
+git checkoout -b numerotation
+less txt
+git log
+git diff txt
+git add
+git commit -m
+git merge casse
+git status
+(这一步把两个不同的改成相同的)
+git add
+git commit -m
+git checkoout main
+git merge
+git status(好像是，参考自己的作业)
+
+ex2
+retourner
+git switch (num de log) 会提示，当前下面没有branche只是查看
+git checkoout -b = git switch -c doc 创建新的branche doc那样的话doc在switch之后没有txt文件里。
+echo "" > journal.txt可以手打journal在终端里，or自己先vim
+
+
+2/05 笔记
+所以，以后python起名字要简单一些，方便后续直接import
+用sys.stdin和argparse。
+
+小组作业：
+每个人先做，做完之后每个人做一个类似“fin_r1”的tag
+然后互相merge.所以在命名的时候每个人记得都不一样，否则merge不了。like： G10_r1
+然后在最后的最（先不到main）
+
+看ppt
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

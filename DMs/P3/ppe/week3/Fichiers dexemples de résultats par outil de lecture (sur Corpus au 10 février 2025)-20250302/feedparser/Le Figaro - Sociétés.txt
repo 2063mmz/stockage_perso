@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/societes/un-atterrissage-brutal-panique-sur-un-vol-easyjet-apres-le-malaise-du-pilote-20250210
+source : Le Figaro - Sociétés.xml
+title : Un atterrissage «brutal» : panique sur un vol EasyJet après le malaise du pilote
+description : L’avion, qui reliait l’Égypte à l’Angleterre, a été dérouté samedi et s’est finalement posé à Athènes.
+date : Mon, 10 Feb 2025 10:39:50 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/economie/acheter-des-billets-de-train-avec-des-miles-d-air-france-est-desormais-possible-20250209
+source : Le Figaro - Sociétés.xml
+title : Acheter des billets de train avec des miles d’Air France est désormais possible
+description : Les deux entreprises célèbrent les 30 ans du partenariat Train + Air qui permet de relier les aéroports de Roissy et Orly à 22 gares françaises via le TGV.
+date : Sun, 09 Feb 2025 18:47:46 +0100
+categories : ['Sociétés', 'Économie']
+
+id : https://www.lefigaro.fr/societes/pilule-orale-medicaments-encore-plus-efficaces-ce-que-preparent-les-labos-contre-l-obesite-20250209
+source : Le Figaro - Sociétés.xml
+title : Pilule, médicaments encore plus efficaces: ce que préparent les labos contre l’obésité
+description : Novo Nordisk et Eli Lilly sont pour l’instant les champions de ce nouveau marché. Ils préparent les nouvelles générations de médicaments.
+date : Sun, 09 Feb 2025 22:04:46 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/societes/plongee-sous-la-mer-de-glace-ce-gigantesque-glacier-exploite-par-edf-pour-produire-de-l-electricite-20250209
+source : Le Figaro - Sociétés.xml
+title : Plongée sous la mer de Glace, ce gigantesque glacier exploité par EDF pour produire de l’électricité
+description : REPORTAGE - Sous le plus grand glacier de France, à Chamonix, se cache l’installation électrique la plus secrète de l’énergéticien. Une infrastructure que le groupe est contraint d’adapter au réchauffement climatique et à l’accélération de la fonte du site.
+date : Sun, 09 Feb 2025 08:00:00 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/societes/je-me-prepare-a-recruter-de-nouveau-comment-les-entreprises-israeliennes-s-adaptent-a-la-guerre-la-plus-longue-de-leur-histoire-20250208
+source : Le Figaro - Sociétés.xml
+title : «Je me prépare à recruter de nouveau»: comment les entreprises israéliennes s’adaptent à la guerre la plus longue de leur histoire
+description : REPORTAGE - Mobilisation des réservistes, manque de main-d’œuvre, baisse de l’activité... Malgré le cessez-le-feu et la libération d’otages, le conflit impacte toujours le quotidien des affaires.
+date : Sat, 08 Feb 2025 14:00:00 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/societes/l-enseigne-outdoor-ekosport-poursuit-son-ascension-20250208
+source : Le Figaro - Sociétés.xml
+title : L’enseigne outdoor Ekosport poursuit son ascension
+description : Le distributeur va ouvrir cette année une deuxième boutique dans la capitale. Et il se développe également à l’international.
+date : Sat, 08 Feb 2025 08:00:00 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/societes/un-niveau-historique-en-2024-les-banques-francaises-portees-par-leurs-activites-de-detail-20250207
+source : Le Figaro - Sociétés.xml
+title : Dans les banques Françaises, les activités de détail commencent à redresser la tête
+description : DÉCRYPTAGE - Les établissements tricolores ont renoué avec de solides profits, dégageant au total 32,1 milliards d’euros de résultat net en 2024.
+date : Fri, 07 Feb 2025 20:21:01 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/societes/parfums-rouges-a-levres-palettes-l-oreal-offre-a-jacquemus-les-moyens-de-poursuivre-son-ascension-20250207
+source : Le Figaro - Sociétés.xml
+title : Parfums, rouges à lèvres, palettes... L’Oréal offre à Jacquemus les moyens de poursuivre son ascension
+description : DÉCRYPTAGE - Le groupe prend une part de la marque de mode et signe un accord de licence pour le parfum et le maquillage.
+date : Fri, 07 Feb 2025 19:13:54 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/societes/echec-dans-l-electrique-ventes-en-berne-en-asie-porsche-dans-la-tourmente-20250207
+source : Le Figaro - Sociétés.xml
+title : Échec dans l’électrique, ventes en berne en Asie... Porsche dans la tourmente
+description : DÉCRYPTAGE - La marque de voitures de luxe vient de lancer un avertissement sur résultat. Porsche annonce une offensive avec des modèles thermiques et hybrides.
+date : Sat, 08 Feb 2025 08:59:03 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/societes/le-transport-aerien-vent-debout-contre-la-hausse-de-la-taxe-sur-les-billets-d-avion-20250207
+source : Le Figaro - Sociétés.xml
+title : Le transport aérien vent debout contre la hausse de la taxe sur les billets d’avion
+description : DÉCRYPTAGE - Les compagnies aériennes et l’aviation d’affaires affirment que cette mesure leur fera perdre des clients et des parts de marché, par rapport à leurs concurrents étrangers.
+date : Fri, 07 Feb 2025 18:33:52 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/societes/vinci-gagne-desormais-plus-d-argent-hors-de-france-20250207
+source : Le Figaro - Sociétés.xml
+title : Vinci gagne désormais plus d’argent hors de France
+description : En 2024, 53% du résultat net du géant des concessions et de la construction est réalisé hors de l’Hexagone.
+date : Fri, 07 Feb 2025 17:16:23 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/economie/jungle-speed-doddles-cartes-pokemon-detache-d-ambracer-asmodee-repart-a-l-offensive-20250206
+source : Le Figaro - Sociétés.xml
+title : Jungle Speed, Dobble, cartes Pokémon... Détaché d’Embracer, Asmodee repart à l’offensive
+description : DÉCRYPTAGE - Asmodee, numéro un mondial des jeux de société, se cote sur le Nasdaq à Stockholm, lors de la scission d’Embracer.
+date : Fri, 07 Feb 2025 10:47:59 +0100
+categories : ['Sociétés', 'Économie']
+
+id : https://www.lefigaro.fr/societes/pourquoi-les-syndicats-lancent-une-greve-illimitee-chez-lidl-ce-vendredi-20250206
+source : Le Figaro - Sociétés.xml
+title : Pourquoi les syndicats lancent une grève «illimitée» chez Lidl ce vendredi
+description : La tension monte chez le hard-dicounter allemand. Après l’annonce surprise du départ de son dirigeant en France, Michel Biero, les syndicats de l’enseigne alimentaire montent au créneau.
+date : Thu, 06 Feb 2025 18:32:52 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/societes/entre-nissan-et-honda-un-mariage-avorte-sur-fond-de-torts-partages-20250205
+source : Le Figaro - Sociétés.xml
+title : Entre Nissan et Honda, un mariage avorté sur fond de torts partagés
+description : RÉCIT - Les deuxième et troisième constructeurs japonais suspendent leur projet de fusion quarante jours seulement après l’avoir annoncé.
+date : Wed, 05 Feb 2025 20:13:53 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/societes/pourquoi-wall-street-attire-les-groupes-francais-20250205
+source : Le Figaro - Sociétés.xml
+title : Pourquoi Wall Street attire les groupes français
+description : DÉCRYPTAGE - L’action TotalEnergies sera bientôt cotée à Paris et à New York, a confirmé le patron du groupe. D’autres pourraient suivre.
+date : Wed, 05 Feb 2025 20:12:47 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/societes/nous-ne-sommes-pas-la-poule-aux-oeufs-d-or-le-patron-d-orangina-et-d-oasis-vent-debout-contre-l-alourdissement-de-la-taxe-soda-20250205
+source : Le Figaro - Sociétés.xml
+title : «Nous ne sommes pas la poule aux œufs d’or» : le patron d’Orangina et d’Oasis vent debout contre l’alourdissement de la taxe soda
+description : Le directeur général de la filiale française du géant japonais Suntory chiffre son impact à plusieurs dizaines de millions d’euros. Et craint de voir ses ventes baisser de 5 % à 10 %.
+date : Mon, 10 Feb 2025 10:40:21 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/societes/comment-la-chine-est-devenue-le-leader-mondial-des-energies-renouvelables-20250205
+source : Le Figaro - Sociétés.xml
+title : Comment la Chine est devenue le leader mondial des énergies renouvelables
+description : DÉCRYPTAGE - La Chine reste le premier émetteur de CO2 au monde, avec des émissions trois fois supérieures à celle des États-Unis. Mais l’empire du Milieu a déjà effectué une bascule importante.
+date : Wed, 05 Feb 2025 17:43:32 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/societes/je-comprends-son-ras-le-bol-fiscal-thierry-cotillard-en-phase-avec-bernard-arnault-sur-la-surtaxe-du-gouvernement-20250205
+source : Le Figaro - Sociétés.xml
+title : «Je comprends son ras-le-bol fiscal»: Thierry Cotillard, patron d’Intermarché, «en phase» avec Bernard Arnault sur la surtaxe du gouvernement
+description : «La vraie solution, c’est de s’attaquer à la dépense publique, et de savoir où va l’argent qu’on met en impôts», affirme le président du Groupement des Mousquetaires sur le plateau d’«Esprit d’Entreprise» du Figaro TV.
+date : Wed, 05 Feb 2025 18:15:09 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/societes/relancer-l-ecotaxe-investir-davantage-augmenter-l-offre-le-plaidoyer-de-jean-pierre-farandou-avant-son-depart-de-la-sncf-20250205
+source : Le Figaro - Sociétés.xml
+title : Relancer l’écotaxe, investir davantage, augmenter l’offre: le plaidoyer de Jean-Pierre Farandou avant son départ de la SNCF
+description : DÉCRYPTAGE - Dans une note à la fondation Jean Jaurès, le PDG du groupe ferroviaire, un rien lyrique, explique comment le train peut avoir un rôle à jouer dans l’aménagement du territoire... à condition d’y mettre les moyens.
+date : Wed, 05 Feb 2025 14:54:33 +0100
+categories : ['Entreprises', 'Sociétés']
+
+id : https://www.lefigaro.fr/societes/qu-est-ce-que-l-overture-cet-avion-hypersonique-qui-veut-etre-le-successeur-du-concorde-20250205
+source : Le Figaro - Sociétés.xml
+title : Qu’est-ce que l’Overture, cet avion supersonique qui veut être le successeur du Concorde ?
+description : DÉCRYPTAGE - Le démonstrateur XB-1, développé par la start-up américaine Boom Supersonic, a réussi son premier vol supersonique fin janvier. Une étape cruciale avant le développement de la version commerciale, baptisée Overture.
+date : Sun, 09 Feb 2025 11:24:06 +0100
+categories : ['Entreprises', 'Sociétés']
+

@@ -1,0 +1,7 @@
+id : https://www.bfmtv.com/bastia/bastia-un-membre-du-grand-banditisme-corse-assassine-dans-un-bar_AD-202310171018.html
+source : Flux RSS - BFMTV - Bastia.xml
+title : Bastia: un membre du grand banditisme corse assassiné dans un bar
+description : Un homme de 41 ans a été tué ce mardi 17 octobre dans le centre-ville de Bastia alors qu'il était attablé à la terrasse d'un bar.
+date : Tue, 17 Oct 2023 21:50:19 GMT
+categories : ['Home Bastia - actualités']
+

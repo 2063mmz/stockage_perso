@@ -1,0 +1,28 @@
+id : https://www.bfmtv.com/nancy/nancy-les-cures-thermales-contraintes-de-fermer-pour-une-duree-indeterminee-a-cause-d-un-probleme-d-eau_AD-202308180429.html
+source : Flux RSS - BFMTV - Nancy.xml
+title : Nancy: les cures thermales contraintes de fermer "pour une durée indéterminée" à cause d'un problème d'eau
+description : Seulement ouvertes mi-juillet, les cures thermales nancéennes doivent déjà fermer leurs portes dès samedi pour des problèmes de maintien de la qualité de l'eau, une difficulté à l'origine du report de son inauguration.<br /><br /><img src="https://images.bfmtv.com/XkX-bbUPLVXqbvRcw91ybW_tksM=/7x111:2039x1254/800x0/images/Le-complexe-Nancy-Thermal-le-30-mars-2023-1691072.jpg" />
+date : Fri, 18 Aug 2023 15:05:20 GMT
+categories : ['No category']
+
+id : https://www.bfmtv.com/nancy/a-nancy-le-saint-nicolas-milite-pour-les-gestes-barrieres-et-se-fait-huer-par-la-foule_AN-202112060338.html
+source : Flux RSS - BFMTV - Nancy.xml
+title : A Nancy, le Saint-Nicolas milite pour les gestes barrières et se fait huer par la foule
+description : À l'approche des fêtes de fin d'année, la mairie de Nancy a tenté de faire de la prévention vis-à-vis de la pandémie de Covid-19 en utilisant l'image de Saint-Nicolas. Mais une partie des spectateurs n'a pas apprécié ce message. <br /><br /><img src="https://images.bfmtv.com/5cMcoTcX-1vyeNhqEyNmYlmaWrI=/0x106:2048x1258/800x0/images/Saint-Nicolas-au-balcon-de-la-mairie-de-Nancy-en-decembre-2018-1182750.jpg" />
+date : Mon, 06 Dec 2021 16:15:23 GMT
+categories : ['No category']
+
+id : https://www.bfmtv.com/nancy/la-place-stanislas-a-nancy-elue-monument-prefere-des-francais_AN-202109160074.html
+source : Flux RSS - BFMTV - Nancy.xml
+title : La place Stanislas à Nancy élue monument préféré des Français
+description : L'émission "Le Monument préféré des Français" vient de sacrer la place Stanislas de Nancy. Cette récompense devrait avoir d'importantes retombées touristiques.<br /><br /><img src="https://images.bfmtv.com/X1nQiabau_FaZQbC_jvMTf9SCtk=/4x3:996x561/800x0/images/-76782.jpg" />
+date : Thu, 16 Sep 2021 06:18:27 GMT
+categories : ['No category']
+
+id : https://www.bfmtv.com/nancy/nancy-un-policier-traine-par-des-fuyards-sur-pres-d-un-kilometre_AD-202008280180.html
+source : Flux RSS - BFMTV - Nancy.xml
+title : Nancy: un policier traîné par des fuyards sur près d'un kilomètre
+description : Après une nuit passée à l'hôpital, l'agent des forces de l'ordre a pu regagner son domicile ce vendredi matin. Quatre jeunes ont par ailleurs été interpellés à l'issue de la course-poursuite.<br /><br /><img src="https://images.bfmtv.com/EUCa69JVfnyJwBS-gCjXEGJqnas=/0x0:800x450/800x0/images/police-384752.jpg" />
+date : Fri, 28 Aug 2020 12:15:54 GMT
+categories : ['No category']
+

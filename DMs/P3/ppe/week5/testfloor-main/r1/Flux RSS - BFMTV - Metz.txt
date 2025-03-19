@@ -1,0 +1,28 @@
+id : https://www.bfmtv.com/metz/metz-un-adolescent-se-tue-en-manipulant-un-mortier-d-artifice_AD-202301030610.html
+source : Flux RSS - BFMTV - Metz.xml
+title : <![CDATA[Metz: un adolescent se tue en manipulant un mortier d'artifice]]>
+description : <![CDATA[Âgé de 17 ans, l'adolescent a été blessé mortellement par l'explosion d'un mortier d'artifice. Une enquête pour rechercher les causes de la mort a été ouverte.<br /><br /><img src="https://images.bfmtv.com/-Xcgo8cGkCZtY-Bck4cYp_jZlUY=/0x0:928x522/800x0/images/-333518.jpg" />]]>
+date : Tue, 03 Jan 2023 19:11:47 GMT
+categories : 
+
+id : https://www.bfmtv.com/metz/moselle-plus-de-400-personnes-forcent-les-portes-d-un-centre-nautique_AN-202206200012.html
+source : Flux RSS - BFMTV - Metz.xml
+title : <![CDATA[Moselle: plus de 400 personnes forcent les portes d'un centre nautique]]>
+description : <![CDATA[L'entrée "illégale" de centaines de personnes dans un centre nautique en Moselle ce samedi a provoqué la panique, raconte la presse régionale. <br /><br /><img src="https://images.bfmtv.com/5roHCcMd1dWnuQz5jfOlNKaFxZg=/0x0:1920x1080/800x0/images/Le-centre-aquatique-Aquarives-a-Hagondange-en-Moselle-1434923.jpg" />]]>
+date : Mon, 20 Jun 2022 00:50:58 GMT
+categories : 
+
+id : https://www.bfmtv.com/metz/metz-4-mois-de-prison-ferme-pour-un-homme-interpelle-dans-la-cathedrale-avec-un-couteau_AD-202205120467.html
+source : Flux RSS - BFMTV - Metz.xml
+title : <![CDATA[Metz: 4 mois de prison ferme pour un homme interpellé dans la cathédrale avec un couteau]]>
+description : <![CDATA[L'homme avait été arrêté dimanche dans le lieu de culte, alcoolisé et portant une arme blanche. L'apologie du terrorisme n'a pas été retenue. <br /><br /><img src="https://images.bfmtv.com/5zGygIgeH-oVZNQI7kEl8Xtxo3M=/0x71:1024x647/800x0/images/Cathedrale-de-Metz-1411949.jpg" />]]>
+date : Thu, 12 May 2022 14:42:05 GMT
+categories : 
+
+id : https://www.bfmtv.com/metz/un-rassemblement-organise-a-metz-ou-une-mosquee-a-ete-visee-par-des-cocktails-molotov_AD-202205070127.html
+source : Flux RSS - BFMTV - Metz.xml
+title : <![CDATA[Metz: une mosquée visée par des cocktails Molotov]]>
+description : <![CDATA[Deux cocktails Molotov ont été projetés contre la façade du lieu de culte. Une enquête a été confiée à la sûreté départementale et un rassemblement est organisé ce samedi. <br /><br /><img src="https://images.bfmtv.com/4TcbRUwxOASLpn2pjCweLqaPVUs=/0x0:1920x1080/800x0/images/Mosquee-Metz-1408847.jpg" />]]>
+date : Sat, 07 May 2022 10:32:49 GMT
+categories : 
+

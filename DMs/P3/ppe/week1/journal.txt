@@ -1,0 +1,9 @@
+02/2 第一周 PPE作业
+我先从LearnGitBranching开始做，这个练习能帮助我熟练基础命令并且理清和理解branche的操作思路。这也让我非常轻松的把_branche-solo_做完了。
+接下来的branche-solo的部分
+首先第一步先使用fork去进行克隆老师的gitlab。 也学到一个口语表达：jetez un œil 。
+第二步就像LearnGitBranching里的一样，用git checkout -b创建两个branches，并且分别进行不同的修改。 不过有一个点需要注意。就是为了实现第三步的合并冲突，第二步创建两个分支时，要分别在main分支中进行创建和操作。在第一遍的时候，我在casse操作完，直接在casse分支下创建numerotation,导致创建后的文档包含casse分支中修改的部分。应该要操作完casse之后，回到main,然后再git checkout -b numerotation.然后再根据2.2进行操作。删除branche用 git branche -D. 用 sed -i 's/^\(.\)/\U\1/' 去remettre les majuscules。
+第三步就是出现合并的冲突。显示：因为casse分支下的文本文件和numero下的不一样，导致在合并的时候出现冲突。为了解决这个冲突，让两个分支成功合并，就要让两个分支下的文本内容一致。这时候用meld进行对比修改。并且，最后commit的内容一定要清晰，因为涉及到几个分支的修改。
+第四步回到没有txt文件的version，最开始，我本来想用reset的，但是需要创建一个新的branche的话，就不需要在main分支上进行操作了。我可以在doc分支里，回到那个没有txt文件的version. 所以，先git log,查看哪个version没有包含txt文件。然后用git checkout 标识符 去返回那个version. 然后给出提示：Vous êtes dans l'état « HEAD détachée ». 意味着我并没有处于一个分支中，只是在查看一个旧的version。这个时候，就需要给他创建一个新的分支，doc就用上了。在git checkout -b doc 之后，用 ls 检查一下是否包含txt文件。
+然后，就可以写journal了。
+现在journal也写完了。 就可以push了！

@@ -1,0 +1,210 @@
+id : https://www.bfmtv.com/cuisine/les-pommes-de-terres-germent-plus-vite-depuis-l-interdiction-du-chlorprophame-en-2020_VN-202502030093.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Les pommes de terres germent plus vite depuis l'interdiction du chlorprophame en 2020
+description : Très utilisée par les agriculteurs cette molécules, interdite depuis 2020, permettait de lutter contre la germination des pommes de terre pendant leur stockage.
+date : Mon, 03 Feb 2025 05:53:03 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/le-japon-sacre-champion-du-monde-de-la-patisserie-la-france-arrive-deuxieme-position_VN-202501260399.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Le Japon sacré Champion du monde de la pâtisserie, la France arrive deuxième position
+description : Pour la deuxième fois consécutive, le Japon a remporté le championnat du monde pâtisserie qui se tenait à Lyon ce samedi. "C'est dur", a confié le coach de l'équipe de France, arrivée deuxième.
+date : Sun, 26 Jan 2025 19:25:41 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/dry-january-comment-faire-un-bon-cocktail-sans-alcool_VN-202501240831.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Dry January: comment faire un bon cocktail sans alcool?
+description : Tarek Nini est chef cocktail chez Colada et donne des cours spécialisés de mocktails. Comme il l'explique, il s'agit de trouver l'équilibre entre le sucré et l'acide. En ce mois de janvier, dédié pour certains à la sobriété, les mocktails apparaissent comme une bonne alternative pour participer à une fête sans ivresse.
+date : Fri, 24 Jan 2025 17:30:59 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/designe-meilleur-fromage-de-france-l-ossau-iraty-voit-ses-ventes-exploser_VN-202501220350.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Désigné meilleur fromage de France, l'Ossau-Iraty voit ses ventes exploser
+description : Désigné meilleur fromage de France lors des World Cheese Awards, le fromage basque Ossau-Iraty connaît une explosion de ses ventes. En décembre, les ventes du fromage ont augmenté de 43%.
+date : Wed, 22 Jan 2025 09:16:50 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/un-plat-pour-les-monstres-ce-restaurant-anglais-facture-120-euros-sa-pizza-a-l-ananas_AD-202501160590.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Un plat pour les "monstres": ce restaurant anglais facture 120 euros sa pizza à l'ananas
+description : Lorsqu'il s'agit de pizza à l'ananas, les avis semblent diverger inévitablement. Un pizzaïolo anglais à, quant à lui, décidé d'intégrer cette option à la carte de son restaurant - mais pour la modique somme de 100 livres sterling.
+date : Thu, 16 Jan 2025 14:58:27 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/the-fork-revele-son-classement-2024-des-100-meilleurs-restaurants-de-france_AN-202501080448.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : The Fork révèle son classement 2024 des 100 meilleurs restaurants de France
+description : L'application de réservation de restaurants vient de dévoiler son classement 2024 des meilleures tables de France. Neuf établissements parisiens occupent le top 10.
+date : Wed, 08 Jan 2025 10:50:11 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/frangipane-aux-pommes-bricohee-la-grande-bataille-des-galettes-des-locales-bfm_VN-202501060056.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Frangipane, aux pommes, bricohée... la grande bataille des galettes des locales BFM
+description : À la frangipane, au chocolat, à l’andouille et au camembert, chaque région possède sa spécialité. Elles se disputent le titre de galette préférée des Français. Le grand vainqueur sera dévoilé le lundi 20 janvier, après deux semaines de votes, lors d’une annonce spéciale diffusée sur l’ensemble des chaînes locales.
+date : Mon, 06 Jan 2025 05:38:10 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/le-gateau-des-rois-une-institution-en-provence_VN-202501020076.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Le gâteau des rois: une institution en Provence
+description : Le gâteau des rois, une brioche garnie de fruits confits, est un incontournable en Provence. Ilravit petits et grands, avec une fève à dénicher. Pour savourer cette douceur, comptez 22 euros pour 4 personnes.
+date : Thu, 02 Jan 2025 06:09:31 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/repas-de-fetes-quel-vin-servir-avec-vos-plats_VN-202501010141.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Repas de fêtes: quel vin servir avec vos plats ?
+description : Le chef Maxime Vergely, du restaurant la Halle aux Grains, cuisine un dos de biche et une purée de coing. Philippe Toinard conseille de déguster avec un verre de Côtes de Duras rouge.
+date : Wed, 01 Jan 2025 08:04:49 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/pour-le-nouvel-an-des-saint-jacques-au-caviar-accompagnees-de-champagne_VN-202412310192.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Pour le Nouvel an, des Saint-Jacques au caviar accompagnées de champagne
+description : Accorder des Saint-Jacques avec du caviar et du champagne, c'est la recette proposée par le chef Grégory Garimbay, du restaurant Bellefeuille.
+date : Tue, 31 Dec 2024 08:01:42 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/repas-de-fetes-nos-conseils-pour-reussir-du-cerf-aux-trompettes-de-la-mort_VN-202412300185.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Repas de fêtes: nos conseils pour réussir du cerf aux trompettes de la mort
+description : Le chef Victor Mercier du restaurant Fief cuisine du cerf aux trompettes de la mort et pommes gaufrette que Philippe Toinard conseille de déguster avec un verre de Côtes du Vivarais.
+date : Mon, 30 Dec 2024 07:54:31 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/cuisinez-fetes-comment-reussir-son-cerf-aux-poivres_VN-202412290237.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : CUISINEZ FÊTES - Comment réussir son cerf aux poivres
+description : Pour les fêtes de fin d'années, on vous propose de tester de nouvelles recettes pour ravir vos papilles et celles de vos invités. Ce 29 décembre, on vous propose une recette de cerf aux poivres.
+date : Sun, 29 Dec 2024 14:52:19 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/pour-les-fetes-voici-comment-accompagner-au-mieux-vos-plats_VN-202412280082.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Pour les fêtes, voici comment accompagner au mieux vos plats
+description : En pleine période de fêtes de fin d'année, BFMTV est partie rencontrer le chef Clément Leroy pour cuisiner un croque-monsieur à l'huître.
+date : Sat, 28 Dec 2024 07:54:20 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/cuisinez-fetes-l-ile-flottante-a-la-marmelade-de-clementines-corses_VN-202412270127.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : CUISINEZ FÊTES - L'île flottante à la marmelade de clémentines corses
+description : Pour les fêtes de fin d'années, on vous propose de tester de nouvelles recettes pour ravir vos papilles et celles de vos invités. Ce 27 décembre, on vous propose une recette d'île flottante à la marmelade.
+date : Fri, 27 Dec 2024 07:14:53 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/cuisinez-fetes-le-chevreuil-en-croute-facon-wellington_VN-202412260150.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : CUISINEZ FÊTES - Le chevreuil en croûte façon Wellington
+description : Pour les fêtes de fin d'années, on vous propose de tester de nouvelles recettes pour ravir vos papilles et celles de vos invités. Ce 26 décembre, on vous propose une recette de chevreuil en croûte façon Wellington.
+date : Thu, 26 Dec 2024 07:15:31 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/cuisinez-fetes-une-delicieuse-recette-de-noix-de-saint-jacques-au-kumquat_VN-202412250122.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : CUISINEZ FÊTES - Une délicieuse recette de noix de Saint-Jacques au kumquat
+description : Pour les fêtes de fin d'années, on vous propose de tester de nouvelles recettes pour ravir vos papilles et celles de vos invités. Ce 25 décembre, on vous propose une recette de noix de Saint-Jacques au kumquat, à déguster avec un vin blanc corse (l'alcool est à consommer avec modération).
+date : Wed, 25 Dec 2024 07:13:55 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/civet-de-chevreuil-galette-et-muscat-les-specialites-occitanes-mises-en-avant-aux-halles-de-narbonne-pour-les-fetes-de-noel_VN-202412220097.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Civet de chevreuil, galette et muscat... Les spécialités occitanes mises en avant aux halles de Narbonne pour les fêtes de Noël
+description : À l'approche des fêtes, les traiteurs se préparent pour le Réveillon. Le civet de chevreuil, mariné et mijoté, est le plat phare, tandis que les bûches du fournil de Gilles, à partir de 23 euros, séduisent les gourmands. La galette occitane et le muscat de Noël complètent ce festin.
+date : Sun, 22 Dec 2024 07:18:14 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/saumon-coquilles-saint-jacques-quels-sont-les-produits-stars-par-des-repas-de-noel_VN-202412220074.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Saumon, coquilles Saint-Jacques... Quels sont les produits stars par des repas de Noël?
+description : Pour Noël 2024, le saumon Gravlax fait sensation, tandis que la lotte, les noix de Saint-Jacques et les huîtres s'imposent comme les meilleures ventes dans les halles de Narbonne.
+date : Sun, 22 Dec 2024 06:16:13 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/aux-halles-de-narbonne-les-francais-preferent-le-chapon-a-la-dinde-pour-les-fetes-de-noel_VN-202412220049.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Aux halles de Narbonne, les Français préfèrent le chapon à la dinde pour les fêtes de Noël
+description : Les fêtes de fin d'année approchent et les Français courent dans les magasins pour les derniers préparatifs. Mais quels seront les plats au menu pour les fêtes de Noël? À Narbonne, le chapon et le cassoulet sont mis en avant par les commerçants pour des plats conviviaux et réconfortants.
+date : Sun, 22 Dec 2024 05:20:47 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/qui-fera-le-meilleur-pate-croute-notre-reporter-est-au-championnat-du-monde-a-lyon_VN-202412020456.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Qui fera le meilleur pâte-croûte? Notre reporter est au championnat du monde à Lyon
+description : Le championnat du monde de pâté-croûte s'ouvre aujourd'hui à Lyon pour sa 15e édition. Un concours très sérieux qui a permis de remettre en avant un produit parfois laissé de côté dans les charcuteries.
+date : Mon, 02 Dec 2024 10:42:06 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/championnat-du-monde-de-pate-croute-notre-reporter-n-a-pas-resiste_VN-202412020275.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Championnat du monde de pâté-croûte: notre reporter n'a pas résisté
+description : La 15ᵉ édition du championnat du monde de pâté-croûte se déroule le 2 décembre à La Sucrière. Les participants viennent des quatre coins du monde, comme par exemple le chef japonais Seigio Ishimoto. Les pâté-croûte vont être jugés à leur croustillants, à leur gelée, au positionnement des morceaux de viande à l'intérieur du mets. Cette année, deux Lyonnais participeront à ces championnats.
+date : Mon, 02 Dec 2024 07:18:28 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/les-championnats-du-monde-de-pate-croute-se-deroulent-ce-lundi-2-decembre-a-lyon_VN-202412020194.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Les championnats du monde de pâté-croûte se déroulent ce lundi 2 décembre à Lyon
+description : La 15ᵉ édition du championnat du monde de pâté-croûte se déroule le 2 décembre à La Sucrière. Les participants viennent des quatre coins du monde, comme par exemple le chef japonais Seigio Ishimoto. Les pâté-croûte vont être jugés à leur croustillants, à leur gelée, au positionnement des morceaux de viande à l'intérieur du mets. Cette année, deux Lyonnais participeront à ces championnats.
+date : Mon, 02 Dec 2024 06:16:42 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/guy-savoy-meilleur-chef-du-monde-pour-la-8e-annee-consecutive-selon-la-liste_AD-202411250848.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Guy Savoy, meilleur chef du monde pour la 8e année consécutive selon La Liste
+description : Le chef français Guy Savoy, est pour la huitième année consécutive le meilleur chef du monde, selon le "classement des classements" gastronomique.
+date : Mon, 25 Nov 2024 17:16:36 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/en-dordogne-la-saison-de-la-truffe-est-lancee-avec-l-ouverture-du-premier-marche_VN-202411250339.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : En Dordogne, la saison de la truffe est lancée avec l’ouverture du premier marché
+description : En Dordogne le premier marché au truffes de la saison a ouvert ses portes à Val-de-Louyre-et-Caudeau.
+date : Mon, 25 Nov 2024 07:22:29 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/frederic-anton-cuisinier-de-l-annee-2025-selon-le-guide-gault-et-millau_AD-202411190260.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Frédéric Anton cuisinier de l'année 2025, selon le guide Gault et Millau
+description : Le chef parisien du Pré Catelan et du restaurant Jules Verne à la Tour Eiffel, a été désigné cuisinier de l'année 2025 par le guide Gault et Millau. Il succède à Yoann Conte.
+date : Tue, 19 Nov 2024 07:34:41 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/guide-fooding-2025-le-palmares-complet-devoile-priorite-aux-petites-tables-regionales_AD-202411181063.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Guide Fooding 2025: le palmarès complet dévoilé, priorité aux petites tables régionales
+description : Les prix du guide culinaire Fooding 2025 ont été dévoilés ce lundi. Ils sont axés sur les "petites tables "sincères et humaines" en régions.
+date : Mon, 18 Nov 2024 21:31:50 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/grand-prix-de-la-patisserie-les-coulisses-de-la-degustation-avec-pierre-herme_VN-202411150961.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Grand Prix de la pâtisserie: les coulisses de la dégustation avec Pierre Hermé
+description : La quatrième édition du Grand Prix de la pâtisserie de Paris se déroulait ce vendredi au syndicat des boulangers-pâtissiers du Grand Paris. Pierre Hermé est l'un des organisateurs de ce concours avec la Ville de Paris. C'est le pâtissier Mathieu Leveque qui a été récompensé.
+date : Fri, 15 Nov 2024 19:57:54 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/guy-savoy-premier-chef-etoile-elu-a-l-academie-francaise-des-beaux-arts_AD-202411140530.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Guy Savoy, premier chef étoilé élu à l'Académie française des beaux-arts
+description : Guy Savoy a été élu mercredi à l'Académie française des beaux-art, devenant ainsi le premier chef étoilé à intégrer l'institution.
+date : Thu, 14 Nov 2024 11:57:49 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/un-chef-etoile-a-la-tete-d-un-restaurant-routier_VN-202410220815.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Un chef étoilé à la tête d'un restaurant routier
+description : Dans le Pas-de-Calais un relais routier situé sur la départementale 939 entre Arras et Le Touquet vient de rouvrir. L'ambiance y est chaleureuse et les prix, petits. Tous les codes du routier sont réunis, à ceci près qu'en cuisine, c'est un chef étoilé qui est à l'œuvre.
+date : Tue, 22 Oct 2024 17:05:32 GMT
+categories : ['Home Food - actualités']
+
+id : https://www.bfmtv.com/cuisine/faut-il-saler-sa-viande-avant-la-cuisson-ou-apres-la-cuisson_VN-202410190126.html
+source : Flux RSS - BFMTV - Cuisine.xml
+title : Faut-il saler sa viande avant la cuisson ou après la cuisson?
+description : Les conseils de Philippe Toinard pour saler parfaitement sa viande.
+date : Sat, 19 Oct 2024 06:13:33 GMT
+categories : ['Home Food - actualités']
+

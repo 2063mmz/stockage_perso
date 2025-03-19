@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Home Orléans - actualités</title>
+        <link>https://www.bfmtv.com/orleans/</link>
+        <description>Suivez toute l'actualité politique, économique, météo, sportive et sociale d'Orléans et ses alentours en temps réel</description>
+        <lastBuildDate>Mon, 10 Feb 2025 12:41:15 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>BFMTV</generator>
+        <language>fr</language>
+        <image>
+            <title>Home Orléans - actualités</title>
+            <url>https://www.bfmtv.com/assets/v11/images/BFMTV_default_16x9.8715a163008e9f3fc3799c8e2c6ebafa.jpg</url>
+            <link>https://www.bfmtv.com/orleans/</link>
+        </image>
+        <copyright>Copyright BFMTV</copyright>
+        <category>Home Orléans - actualités</category>
+        <atom:link href="https://www.bfmtv.com/orleans/" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Orléans: la préfecture dément le déplacement de migrants depuis Paris en vue des Jeux olympiques]]></title>
+            <link>https://www.bfmtv.com/orleans/orleans-la-prefecture-dement-le-deplacement-de-migrants-depuis-paris-en-vue-des-jeux-olympiques_AD-202403260651.html</link>
+            <guid>https://www.bfmtv.com/orleans/orleans-la-prefecture-dement-le-deplacement-de-migrants-depuis-paris-en-vue-des-jeux-olympiques_AD-202403260651.html</guid>
+            <pubDate>Tue, 26 Mar 2024 15:12:59 GMT</pubDate>
+            <description><![CDATA[La préfecture du Loiret a démenti, ce mardi 26 mars, les rumeurs suggérant que des migrants auraient été déplacés dans la ville d'Orléans depuis Paris en vue des Jeux olympiques de Paris cet été.<br /><br /><img src="https://images.bfmtv.com/t6rzAfg03Q_cc6HOT3sH0EjDScI=/0x151:2048x1303/800x0/images/Une-photo-prise-le-23-decembre-2015-montre-la-facade-de-la-prefecture-du-Loiret-a-Orleans-dans-le-centre-de-la-France-1832483.jpg" />]]></description>
+            <enclosure url="https://images.bfmtv.com/t6rzAfg03Q_cc6HOT3sH0EjDScI=/0x151:2048x1303/800x0/images/Une-photo-prise-le-23-decembre-2015-montre-la-facade-de-la-prefecture-du-Loiret-a-Orleans-dans-le-centre-de-la-France-1832483.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

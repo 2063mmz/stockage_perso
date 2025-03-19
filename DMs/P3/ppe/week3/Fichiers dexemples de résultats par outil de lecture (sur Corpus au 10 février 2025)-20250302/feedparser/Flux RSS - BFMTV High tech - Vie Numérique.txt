@@ -1,0 +1,210 @@
+id : https://www.bfmtv.com/tech/vie-numerique/interdire-le-telephone-a-l-ecole-n-ameliore-ni-les-notes-ni-le-comportement-des-eleves-selon-une-etude_AV-202502060409.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Interdire le téléphone à l'école n'améliore ni les notes ni le comportement des élèves, selon une étude
+description : Selon une étude, l'interdiction des téléphones dans les écoles n'améliorerait pas les notes des élèves ou leur bien-être mental. En revanche, les chercheurs conseillent de réduire le temps d'écran des jeunes.
+date : Thu, 06 Feb 2025 10:47:02 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/taxe-lapin-doctolib-dit-oui-mais-a-certaines-conditions_AV-202502060392.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Taxe lapin: Doctolib dit oui, mais à certaines conditions
+description : Le patron de Doctolib a expliqué qu'il mettrait en place cette taxe destinée aux patients qui ne se présentent pas à leur rendez-vous médical uniquement si les médecins le demandent.
+date : Thu, 06 Feb 2025 10:33:35 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/linky-que-risquez-vous-si-vous-piratez-votre-compteur_AV-202502050368.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Piratage de Linky: que risquez-vous si vous "flashez" votre compteur électrique connecté?
+description : Le compteur connecté d'Enedis et bientôt obligatoire dans les habitations Linky fait l'objet de multiples recours, et est aussi victime de piratages via des groupes Telegram.
+date : Wed, 05 Feb 2025 17:09:15 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/pour-eviter-le-doomscrolling-un-navigateur-veut-ameliorer-le-bien-etre-mental_AV-202502050380.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Pour éviter le "doomscrolling", un navigateur veut améliorer le bien-être mental
+description : Afin de se différencier des autres navigateur, Opera lance une nouvelle fonctionnalité se focalisant sur "un web plus beau".
+date : Wed, 05 Feb 2025 10:04:36 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/les-salaries-etaient-filmes-en-permanence-une-entreprise-epinglee-pour-surveillance-disproportionnee_AV-202502040581.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : "Les salariés étaient filmés en permanence": une entreprise épinglée pour "surveillance disproportionnée"
+description : Intervenant dans le secteur immobilier, l'entreprise, qui n'est pas nommée par la Cnil, surveillait ses employés à l'aide d'un logiciel et d'un système de vidéosurveillance.
+date : Tue, 04 Feb 2025 14:46:40 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/pourquoi-utiliser-votre-smartphone-comme-reveil-n-est-pas-une-bonne-idee_AV-202502010037.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Pourquoi utiliser votre smartphone comme réveil n'est pas une bonne idée
+description : Un médecin américain alerte sur la trop grande présence du téléphone portable dans la chambre à coucher.
+date : Sat, 01 Feb 2025 06:13:00 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/ce-capteur-de-logitech-va-permettre-a-des-entreprises-de-surveiller-leurs-employes-en-toute-discretion_AV-202501300657.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Ce capteur de Logitech veut faciliter la vie des entreprises (mais risque aussi de devenir un outil de surveillance)
+description : Le spécialiste des accessoires informatiques et gaming a récemment présenté Logitech Spot, un capteur notamment capable de détecter si une pièce est occupée.
+date : Thu, 30 Jan 2025 17:00:34 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/personne-n-est-en-danger-la-police-americaine-calme-l-emballement-autour-de-messages-aeriens-alarmistes-sur-google-maps_AN-202501290701.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : "Personne n'est en danger": la police américaine calme l'emballement autour de messages aériens alarmistes sur Google Maps
+description : Plusieurs internautes ont repéré de curieux messages "help" écrits sur le sol d'une propriété à Los Angeles. Contrairement aux rumeurs, la police locale a confirmé qu'il ne s'agissait pas d'un trafic d'être humains.
+date : Wed, 29 Jan 2025 16:20:48 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/ecrans-63-des-parents-constatent-des-effets-negatifs-sur-leurs-enfants_AN-202501290513.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Ecrans: 63% des parents "constatent des effets négatifs" sur leurs enfants
+description : La question du temps d'écran et de son impact sur le développement de l'enfant revient dans l'actualité à la faveur du nouveau baromètre publié par la Fondation de l'Enfance.
+date : Wed, 29 Jan 2025 13:00:00 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/du-matrix-au-human-form-les-prototypes-les-plus-bizarres-de-nokia_AV-202501260020.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Du Matrix au Human Form: les prototypes les plus bizarres de Nokia
+description : La marque, qui a réussi à populariser l'utilisation d'un téléphone mobile à travers le monde, est aussi connue pour avoir imaginé tout et n'importe quoi en matière de design.
+date : Sun, 26 Jan 2025 06:17:00 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/aujourd-hui-encore-je-recois-des-menaces-la-streameuse-ultia-face-a-ses-cyberharceleurs-au-tribunal-de-paris_AV-202501210338.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Trois ans après la polémique du ZEvent, la streameuse Ultia face à ses cyberharceleurs au tribunal
+description : Ce mardi 21 janvier, la streameuse Ultia a rendez-vous au tribunal de Paris pour faire face à quatre personnes accusées de l'avoir cyberharcelée pendant des années.
+date : Tue, 21 Jan 2025 12:20:21 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/intel-space-x-et-elon-musk-candidats-serieux-au-rachat_AV-202501200600.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Intel: SpaceX et Elon Musk, candidats sérieux au rachat
+description : Le milliardaire Elon Musk serait l'un des candidats sérieux au rachat du géant américain des semi-conducteurs, Intel.
+date : Mon, 20 Jan 2025 14:43:41 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/je-ne-me-sens-pas-responsable-le-createur-d-akha-se-defend-de-faciliter-les-actes-de-violences-dans-les-transports_AV-202501150300.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : "Je ne me sens pas responsable": le créateur d'Akha se défend de faciliter les actes de violences dans les transports
+description : Interrogé par BFMTV, le créateur de cette application permettant de signaler les incidents dans les transports a tenu a répondre à Valérie Pécresse.
+date : Wed, 15 Jan 2025 08:44:26 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/faux-brad-pitt-deepfake-de-florent-pagny-comment-l-amour-d-une-star-peut-aveugler-au-point-de-se-faire-arnaquer_AV-202409240716.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Escroquée de 830.000 euros par un faux Brad Pitt: pourquoi tant de personnes se font avoir par de fausses célébrités
+description : Une femme a été piégée par un arnaqueur qui se faisait passer pour l'acteur américain Brad Pitt. L'escroc lui a soutiré l'importante somme de 830.000 euros.
+date : Mon, 13 Jan 2025 17:13:07 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/verification-par-ia-ou-par-carte-ce-qui-change-pour-les-sites-pornographiques-ce-11-janvier_AV-202501090532.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Vérification par IA ou par carte: ce qui change pour les sites pornographiques ce 11 janvier
+description : L'Arcom avait laissé trois mois aux acteurs du monde pornographique pour se conformer à de nouvelles règles.
+date : Thu, 09 Jan 2025 12:47:47 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/comment-microsoft-copie-google-pour-duper-les-internautes-sur-son-moteur-de-recherche_AV-202501070548.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Comment Microsoft copie Google pour duper les internautes sur son moteur de recherche
+description : Le moteur de recherche maison de Microsoft, Bing, cherche par tous les moyens à s'imposer chez les utilisateurs.
+date : Tue, 07 Jan 2025 13:00:59 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/arnaque-en-ligne-pourquoi-les-virements-instantanes-sont-plus-risques-que-les-virements-classiques_AV-202501050013.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Arnaque en ligne: pourquoi les virements instantanés sont plus risqués que les virements classiques
+description : Alors que toutes les banques de France devront permettre d’effectuer des virements instantanés gratuitement dans les prochains jours, la plateforme communautaire Signal-Arnaques alerte sur le danger de ces derniers.
+date : Sun, 05 Jan 2025 06:53:00 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/depart-du-dg-crainte-d-un-plan-social-la-nouvelle-annee-s-annonce-compliquee-pour-le-geant-d-internet-webedia_AV-202501030450.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Départ du DG, crainte d’un plan social: la nouvelle année s’annonce compliquée pour le géant d'internet Webedia
+description : Propulsé sur le devant de la scène grâce aux rachats d'Allociné, Jeuxvideo.com, et par des Youtubeurs comme Inoxtag, Squeezie et Michou, Webedia entame une année 2025 compliquée, avec de nouveaux licenciements en perspective.
+date : Fri, 03 Jan 2025 15:17:25 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/des-robots-sexuels-pour-remplacer-les-hommes-en-2025-d-ou-vient-cette-etrange-prediction-annoncee-en-2016_AV-202501020346.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Des robots sexuels pour remplacer les hommes en 2025: d'où vient cette étrange prédiction annoncée en 2016?
+description : Depuis quelques jours, un ancien article du tabloïd anglais The Sun fait beaucoup rire les internautes. Il annonçait qu'en 2025, les robots remplaceraient les hommes dans le coeur des femmes. La réalité est plus complexe.
+date : Thu, 02 Jan 2025 13:11:16 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/le-premier-defi-du-xx-ie-siecle-pourquoi-le-bug-de-l-an-2000-etait-si-inquietant_AV-202501010028.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Faut-il craindre un nouveau "bug de l’an 2000"?
+description : Le 1er janvier 2000, la crainte d'une panne informatique massive a créé un vent de panique mondial. En cause, le risque pour les systèmes informatiques de se tromper d'année entre 2000 et 1900.
+date : Thu, 02 Jan 2025 08:33:17 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/cela-doit-cesser-la-grece-lance-une-campagne-pour-proteger-les-ados-contre-l-addiction-a-internet_AD-202412300391.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : "Cela doit cesser": la Grèce lance une campagne pour protéger les ados contre "l'addiction" à internet
+description : Outre cette campagne, la Grèce va introduire un outil de vérification d'âge pour imposer des limites quotidiennes aux jeunes en avril.
+date : Mon, 30 Dec 2024 15:29:34 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/prendre-des-livres-dans-les-transports-le-nouveau-carnet-de-sante-de-vos-enfants-s-attaque-aux-ecrans_AV-202412270245.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : "Prendre des livres dans les transports": le nouveau carnet de santé de vos enfants s'attaque aux écrans
+description : Le nouveau carnet de santé de l’enfant arrive le 1er janvier 2025. Plus complet, il comporte notamment des pages de conseils liés à l'utilisation des écrans.
+date : Fri, 27 Dec 2024 10:35:47 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/en-2024-le-jet-prive-d-elon-musk-a-multiplie-les-allers-retours-vers-la-residence-de-donald-trump_AV-202412270217.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : En 2024, le jet privé d'Elon Musk a multiplié les allers-retours vers la résidence de Donald Trump
+description : Sur ses 335 voyages aériens en 2024, Elon Musk aurait emprunté 31 fois un de ses jets pour se rendre ou revenir de Mar-a-Lago, où se trouve la résidence de Donald Trump. Des trajets qui traduisent bien les ambitions politiques du milliardaire.
+date : Fri, 27 Dec 2024 09:44:26 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/annee-record-de-pluie-sur-paris-trois-applications-meteo-a-tester-sur-i-os-ou-android-pour-ne-pas-finir-trempe_AV-202412250227.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Année record de pluie sur Paris: trois applications météo à tester sur iOS ou Android pour ne pas finir trempé
+description : Paris a battu son record historique de pluie en 2024. Voici trois applications pour éviter de vous faire surprendre par une énième averse.
+date : Wed, 25 Dec 2024 11:28:29 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/vetements-livres-cartes-cadeaux-les-meilleures-plateformes-pour-bien-revendre-ses-cadeaux-de-noel_AV-202412250014.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Vêtements, livres, cartes-cadeaux... Les meilleures plateformes pour bien revendre ses cadeaux de Noël
+description : Près de la moitié des Français admettent avoir déjà revendu un cadeau de Noël, selon le dernier baromètre Ebay avec Kantar. Si vous vous apprêtez à faire la même chose, voici quelques plateformes pour vous aider à revendre vos présents.
+date : Wed, 25 Dec 2024 07:33:00 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/luigi-mangione-le-geant-de-l-assurance-united-health-s-attaque-aux-produits-glorifiant-le-tueur-presume_AV-202412200435.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Luigi Mangione: le géant de l'assurance UnitedHealth s'attaque aux produits glorifiant le tueur présumé
+description : Depuis quelques jours, une entité opérant pour l'employeur de Brian Thompson cherche à supprimer les produits dérivés autour du principal suspect de son meurtre.
+date : Fri, 20 Dec 2024 10:34:13 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/environ-2-000-euros-par-semaine-sur-les-reseaux-sociaux-l-escroquerie-au-refund-seduit-de-jeunes-internautes-peu-scrupuleux_AN-202412200049.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : "2.000 euros par semaine": sur les réseaux sociaux, l'escroquerie au "refund" séduit de jeunes internautes peu scrupuleux
+description : De plus en plus d'internautes se lancent dans le "refund", une pratique qui consiste à se faire rembourser ses achats en ligne et à les revendre. Un business qui peut rapporter gros... mais évidemment illégal.
+date : Fri, 20 Dec 2024 06:09:00 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/qu-est-ce-que-le-refund-la-fraude-au-remboursement-qui-s-attaque-a-amazon-et-consorts_AN-202412200048.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Qu'est ce que le "refund", la fraude au remboursement qui s'attaque à Amazon et consorts?
+description : Une technique de fraude en ligne appelée "refund" se démocratise à travers les réseaux sociaux. Alors que la pratique se professionnalise, les plateformes de vente tentent de contrer les fraudeurs.
+date : Fri, 20 Dec 2024 05:08:00 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/maintenant-on-va-etre-heureux-c-est-quoi-papillon-l-application-qui-ameliore-enfin-pronote_AV-202412170727.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : "Maintenant on va être heureux": c'est quoi Papillon, l'application qui améliore (enfin) Pronote?
+description : Sur Tiktok, les internautes se passionnent pour Papillon, une application qui propose aux lycéens de voir leurs notes et de gérer leur emploi du temps. Le tout, de manière fluide et très esthétique. La plateforme est numéro un des téléchargements dans la catégorie "Éducation" sur l'App store.
+date : Tue, 17 Dec 2024 17:32:08 GMT
+categories : ['Home Vie numérique - actualités']
+
+id : https://www.bfmtv.com/tech/vie-numerique/pourquoi-wordpress-vous-oblige-a-aimer-les-pizzas-a-l-ananas_AN-202412170660.html
+source : Flux RSS - BFMTV High tech - Vie Numérique.xml
+title : Pourquoi Wordpress vous oblige à aimer les pizzas à l'ananas
+description : Depuis quelques jours, pour se connecter à Wordpress, il faut désormais attester de son amour pour la pizza à l'ananas. Mais cette blague cache un problème bien plus profond.
+date : Tue, 17 Dec 2024 16:42:31 GMT
+categories : ['Home Vie numérique - actualités']
+

@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/international/royaume-uni-keir-starmer-se-teste-contre-le-vih-en-public-une-premiere-pour-un-dirigeant-du-g7-20250210
+source : Le Figaro - International.xml
+title : Royaume-Uni : Keir Starmer se teste contre le VIH en public, une première pour un dirigeant du G7
+description : Le premier ministre britannique montre l’exemple en se dépistant lui-même après s’être engagé à mettre fin aux nouvelles transmissions du virus en Angleterre d’ici 2030.
+date : Mon, 10 Feb 2025 13:15:22 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/bresil-les-transgenres-en-campagne-20250210
+source : Le Figaro - International.xml
+title : Brésil : les transgenres en campagne
+description : REPORTAGE - Alors que Donald Trump réaffirme qu’ «il y a deux genres seulement : homme et femme», la parlementaire transsexuelle Erika Hilton affiche ses ambitions politiques au Brésil. La communauté LGBT+ veut faire émerger une nouvelle société tandis que la droite bolsonariste dénonce «une petite minorité organisée».
+date : Mon, 10 Feb 2025 13:11:03 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/nomme-par-erreur-comment-le-nouveau-directeur-du-fbi-est-devenu-le-symbole-improbable-de-la-resistance-a-trump-20250210
+source : Le Figaro - International.xml
+title : Nommé par erreur, comment le nouveau directeur du FBI est devenu le «symbole improbable de la résistance» à Trump
+description : RÉCIT - L’expérimenté agent du FBI Brian Driscoll a été propulsé directeur par intérim de l’institution grâce à une erreur informatique. Il s’emploie désormais à protéger ses employés de la purge annoncée du Département de la Justice.
+date : Mon, 10 Feb 2025 13:08:25 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/tout-ce-qu-on-peut-imaginer-en-matiere-d-intelligence-artificielle-va-se-produire-bertrand-rondepierre-ingenieur-de-l-ia-militaire-20250210
+source : Le Figaro - International.xml
+title : «Tout ce qu’on peut imaginer en matière d’intelligence artificielle va se produire»: Bertrand Rondepierre, ingénieur de l’IA militaire
+description : PORTRAIT - Après avoir œuvré chez DeepMind, la filiale de Google spécialisée dans l’intelligence artificielle, le mathématicien a été nommé l’année dernière directeur de l’Amiad, l’agence française pour l’IA de défense.
+date : Mon, 10 Feb 2025 09:53:59 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/allemagne-entre-olaf-scholz-et-friedrich-merz-un-duel-televise-sans-derapages-20250209
+source : Le Figaro - International.xml
+title : Allemagne : entre Olaf Scholz et Friedrich Merz, un duel télévisé sans dérapages
+description : L’immigration et l’économie ont dominé le débat entre le candidat social-démocrate et son adversaire conservateur.
+date : Mon, 10 Feb 2025 11:32:52 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/scandales-sexuels-crise-des-vocations-chute-des-pratiquants-l-eglise-d-angleterre-dans-la-tourmente-20250209
+source : Le Figaro - International.xml
+title : Scandales sexuels, crise des vocations, chute des pratiquants: l’Église d’Angleterre dans la tourmente
+description : ENQUÊTE - Les démissions de l’archevêque de Canterbury et de l’évêque de Liverpool sur fond de scandale ont mis en lumière une crise historique. Profondément divisée entre progressistes et conservateurs, l’Église anglicane semble plus affaiblie que jamais.
+date : Sun, 09 Feb 2025 22:09:41 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/politique/a-madrid-les-droites-souverainistes-croient-a-un-moment-historique-20250209
+source : Le Figaro - International.xml
+title : À Madrid, les droites souverainistes croient à un «moment historique»
+description : DÉCRYPTAGE - Réunis dans la capitale espagnole, Marine Le Pen et ses alliés européens tablent sur des victoires aussi bien idéologiques qu’électorales.
+date : Sun, 09 Feb 2025 19:21:55 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/international/les-etats-majors-militaires-dans-la-boucle-de-l-intelligence-artificielle-20250209
+source : Le Figaro - International.xml
+title : Les états-majors militaires dans la boucle de l’intelligence artificielle
+description : La vitesse de planification et de prise de décision sera un facteur essentiel de supériorité militaire.
+date : Mon, 10 Feb 2025 10:22:13 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/la-france-ne-peut-pas-passer-a-cote-de-cette-revolution-le-gratin-mondial-de-l-intelligence-artificielle-a-rendez-vous-a-paris-20250209
+source : Le Figaro - International.xml
+title : «La France ne peut pas passer à côté de cette révolution»: le gratin mondial de l’intelligence artificielle a rendez-vous à Paris
+description : DÉCRYPTAGE - L’Europe voudrait rattraper son retard et s’imposer sur un marché dominé par les États-Unis et la Chine.
+date : Mon, 10 Feb 2025 09:54:38 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/aux-etats-unis-une-elue-democrate-annonce-s-etre-fait-steriliser-pour-echapper-a-la-politique-de-trump-20250209
+source : Le Figaro - International.xml
+title : Aux États-Unis, une élue démocrate annonce s’être fait stériliser pour échapper à la politique de Trump
+description : Laurie Pohutsky, élue démocrate du Michigan, a déclaré s’être fait stériliser suite à l’élection présidentielle de novembre. Afin que son corps ne soit pas «traité comme une monnaie». Une étape de plus dans la dramatisation du débat politique américain.
+date : Mon, 10 Feb 2025 10:12:58 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/un-gouvernement-de-salut-et-de-reforme-pour-le-liban-20250209
+source : Le Figaro - International.xml
+title : Un gouvernement «de salut et de réforme» pour le Liban
+description : L’annonce de la formation du nouvel exécutif dirigé par le premier ministre, Nawaf Salam, met un terme à deux ans de vacance du pouvoir.
+date : Sun, 09 Feb 2025 18:35:53 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/le-cessez-le-feu-dans-la-bande-de-gaza-plus-fragile-que-jamais-20250209
+source : Le Figaro - International.xml
+title : Le cessez-le-feu dans la bande de Gaza plus fragile que jamais
+description : DÉCRYPTAGE - Horrifiés par l’état des trois otages libérés samedi, les Israéliens appellent à la mise en œuvre complète de l’accord.
+date : Mon, 10 Feb 2025 12:49:35 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/les-terribles-images-des-otages-israeliens-liberes-le-visage-creuse-par-des-seize-mois-de-captivite-a-gaza-20250209
+source : Le Figaro - International.xml
+title : Les terribles images des otages israéliens libérés, le visage creusé par seize mois de captivité à Gaza
+description : Ce samedi, et en échange de 183 prisonniers palestiniens, le Hamas a libéré trois otages israéliens qui ont vécu dans des «conditions inhumaines» sous la coupe du Hamas. La différence avec des photographies d’avant le 7 octobre est poignante.
+date : Mon, 10 Feb 2025 10:42:53 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/treillis-au-milieu-des-palmiers-et-de-l-eau-turquoise-face-a-la-chine-le-paradis-marin-du-pacifique-de-palau-se-prepare-a-la-guerre-20250208
+source : Le Figaro - International.xml
+title : Treillis au milieu des palmiers et de l'eau turquoise : face à la Chine, le paradis marin du Pacifique de Palau se prépare à la guerre
+description : REPORTAGE - Les petites îles du Pacifique se remilitarisent, avec le soutien des États-Unis. Pour les habitants, le souvenir des terribles combats qui ont opposé Américains et Japonais pendant la Seconde Guerre mondiale se double de préoccupations stratégiques et environnementales.
+date : Sat, 08 Feb 2025 21:28:34 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/les-scenarios-d-une-gouvernance-a-gaza-apres-les-annonces-stupefiantes-de-donald-trump-20250208
+source : Le Figaro - International.xml
+title : Les scénarios d’une gouvernance à Gaza après les annonces stupéfiantes de Donald Trump
+description : DÉCRYPTAGE - Alors que le président américain a effaré le monde en annonçant sa volonté de «prendre le contrôle» de Gaza, il est resté particulièrement flou sur les formes que pourrait prendre la future administration de cette enclave.
+date : Sat, 08 Feb 2025 12:34:22 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/donald-trump-part-en-croisade-contre-le-brutalisme-20250208
+source : Le Figaro - International.xml
+title : Donald Trump part en croisade contre le brutalisme
+description : VU D’AILLEURS - Le président américain a ordonné un retour à la « tradition architecturale classique » nationale, caractérisée par des colonnes blanches, de vastes arcades ou encore des aigles et des escaliers majestueux. Adieu les figures géométriques austères en blocs de béton des années 1960-1970.
+date : Sat, 08 Feb 2025 09:00:00 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/rdc-le-m23-peut-il-aller-jusqu-a-kinshasa-comme-le-pretendent-les-rebelles-20250208
+source : Le Figaro - International.xml
+title : RDC: le M23 peut-il aller «jusqu’à Kinshasa», comme le prétendent les rebelles ?
+description : DÉCRYPTAGE - Le groupe rebelle téléguidé par le Rwanda a annoncé son intention de renverser le régime de Felix Tshisekedi. Mais les réalités de terrain complexifient cet objectif.
+date : Sat, 08 Feb 2025 12:36:38 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/la-cour-penale-internationale-peut-elle-se-defendre-contre-les-sanctions-inedites-de-donald-trump-20250207
+source : Le Figaro - International.xml
+title : La Cour pénale internationale peut-elle se défendre contre les sanctions inédites de Donald Trump ?
+description : DÉCRYPTAGE - La décision de Donald Trump, dont les contours sont encore flous, va grandement compliquer la tâche de la juridiction internationale.
+date : Sun, 09 Feb 2025 11:27:44 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/les-idees-radicales-nous-ont-ete-imposees-de-l-exterieur-a-damas-les-nouveaux-maitres-adaptent-leurs-preches-a-la-realite-du-pays-20250207
+source : Le Figaro - International.xml
+title : «Les idées radicales nous ont été imposées de l’extérieur»: à Damas, les nouveaux maitres adaptent leurs prêches à la réalité du pays
+description : REPORTAGE - Originellement lié au salafisme le plus radical, le groupe Hayat Tahrir al-Cham prétend désormais incarner une voie médiane entre les divers courants religieux qui prévalent en Syrie.
+date : Sat, 08 Feb 2025 08:57:17 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/international/les-syriennes-scrutent-les-premiers-pas-du-nouveau-gouvernement-20250207
+source : Le Figaro - International.xml
+title : Les Syriennes veulent défendre leurs droits face au nouveau pouvoir: le récit de l’envoyée spéciale du Figaro
+description : REPORTAGE - Les femmes s’inquiètent de la place que leur réservera le pouvoir post-Assad, issu des rangs des islamistes du HTC.
+date : Fri, 07 Feb 2025 18:54:55 +0100
+categories : ['International']
+

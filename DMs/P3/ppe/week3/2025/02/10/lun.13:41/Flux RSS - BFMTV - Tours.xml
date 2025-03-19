@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Home Tours - actualités</title>
+        <link>https://www.bfmtv.com/tours/</link>
+        <description>Suivez toute l'actualité politique, économique, météo, sportive et sociale de Tours et ses alentours en temps réel</description>
+        <lastBuildDate>Mon, 10 Feb 2025 12:41:16 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>BFMTV</generator>
+        <language>fr</language>
+        <image>
+            <title>Home Tours - actualités</title>
+            <url>https://www.bfmtv.com/assets/v11/images/BFMTV_default_16x9.8715a163008e9f3fc3799c8e2c6ebafa.jpg</url>
+            <link>https://www.bfmtv.com/tours/</link>
+        </image>
+        <copyright>Copyright BFMTV</copyright>
+        <category>Home Tours - actualités</category>
+        <atom:link href="https://www.bfmtv.com/tours/" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Tours: un enfant de 4 ans survit miraculeusement à une chute du sixième étage]]></title>
+            <link>https://www.bfmtv.com/tours/tours-un-enfant-de-4-ans-survit-miraculeusement-a-une-chute-du-sixieme-etage_AN-202205310282.html</link>
+            <guid>https://www.bfmtv.com/tours/tours-un-enfant-de-4-ans-survit-miraculeusement-a-une-chute-du-sixieme-etage_AN-202205310282.html</guid>
+            <pubDate>Tue, 31 May 2022 09:49:02 GMT</pubDate>
+            <description><![CDATA[Âgé de 4 ans, l'enfant aurait échappé à la surveillance de son père. Il a été transporté à l'hôpital et souffre de fractures, mais ses jours ne sont pas en danger. <br /><br /><img src="https://images.bfmtv.com/NmJie52YWSKYKgoRSUdZKyhcIAA=/1x43:1121x673/800x0/images/Tours-chute-1422576.jpg" />]]></description>
+            <enclosure url="https://images.bfmtv.com/NmJie52YWSKYKgoRSUdZKyhcIAA=/1x43:1121x673/800x0/images/Tours-chute-1422576.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Tours: une enquête ouverte après le décès d'un homme d'une vingtaine d'années par arme blanche]]></title>
+            <link>https://www.bfmtv.com/tours/tours-une-enquete-ouverte-apres-le-deces-d-un-homme-d-une-vingtaine-d-annees-par-arme-blanche_AD-202112250128.html</link>
+            <guid>https://www.bfmtv.com/tours/tours-une-enquete-ouverte-apres-le-deces-d-un-homme-d-une-vingtaine-d-annees-par-arme-blanche_AD-202112250128.html</guid>
+            <pubDate>Sat, 25 Dec 2021 17:27:45 GMT</pubDate>
+            <description><![CDATA[Transporté à l'hôpital dans la nuit, un homme âgé d'une vingtaine d'années est décédé des suites de blessures provoquées, a priori, par arme blanche. Une enquête a été ouverte ce samedi.<br /><br /><img src="https://images.bfmtv.com/cww6Sr5ge9Gfk7rMmNBVSu-NOoI=/4x3:1252x705/800x0/images/-117160.jpg" />]]></description>
+            <enclosure url="https://images.bfmtv.com/cww6Sr5ge9Gfk7rMmNBVSu-NOoI=/4x3:1252x705/800x0/images/-117160.jpg" length="0" type="image/jpg"/>
+        </item>
+    </channel>
+</rss>

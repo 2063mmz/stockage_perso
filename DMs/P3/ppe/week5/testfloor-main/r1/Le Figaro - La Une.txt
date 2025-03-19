@@ -1,0 +1,133 @@
+id : https://www.lefigaro.fr/international/nomme-par-erreur-comment-le-nouveau-directeur-du-fbi-est-devenu-le-symbole-improbable-de-la-resistance-a-trump-20250210
+source : Le Figaro - La Une.xml
+title : Nommé par erreur, comment le nouveau directeur du FBI est devenu le «symbole improbable de la résistance» à Trump
+description : RÉCIT - L’expérimenté agent du FBI Brian Driscoll a été propulsé directeur par intérim de l’institution grâce à une erreur informatique. Il s’emploie désormais à protéger ses employés de la purge annoncée du Département de la Justice.
+date : Mon, 10 Feb 2025 13:08:25 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/politique/identite-nationale-le-ps-participera-au-debat-pour-defendre-une-france-metissee-pluriculturelle-et-plurireligieuse-20250210
+source : Le Figaro - La Une.xml
+title : Identité nationale : le PS participera au débat pour défendre une France «métissée, pluriculturelle et plurireligieuse»
+description : Invité sur BFMTV, Olivier Faure a dénoncé la vision «passéiste» et «rance» de l’identité nationale portée par Bruno Retailleau et Gérald Darmanin.
+date : Mon, 10 Feb 2025 11:17:50 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/politique/droit-du-sol-francois-hollande-fustige-un-debat-inutile-sur-un-des-principes-fondamentaux-de-la-republique-20250209
+source : Le Figaro - La Une.xml
+title : Droit du sol : François Hollande fustige un débat «inutile» sur «un des principes fondamentaux de la République»
+description : Invité ce dimanche de BFMTV, l’ancien président de la République a considéré que le pays n’a pas «besoin de cacophonie et de confusion» sur ces sujets, mais plutôt de «stabilité et d’action».
+date : Mon, 10 Feb 2025 13:02:55 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/actualite-france/droit-des-etrangers-judiciaire-ou-administratif-le-juge-est-tout-puissant-20250207
+source : Le Figaro - La Une.xml
+title : Droit des étrangers: judiciaire ou administratif, le juge est tout-puissant
+description : ANALYSE - À l’image de l’affaire Doualemn, chaque décision du ministère de l’Intérieur en matière d’expulsion est aujourd’hui frappée du sceau de la fragilité.
+date : Sun, 09 Feb 2025 16:09:35 +0100
+categories : ['Société']
+
+id : https://www.lefigaro.fr/faits-divers/seances-de-tortures-d-adolescentes-et-sextortion-plongee-dans-le-monde-sadique-de-rohan-bourreau-virtuel-aux-sevices-bien-reels-20250210
+source : Le Figaro - La Une.xml
+title : Séances de tortures d’adolescentes et «sextortion»: dans le monde sadique de Rohan, bourreau virtuel aux sévices bien réels
+description : RÉCIT - Rohan R. doit être jugé à Paris pour avoir été le donneur d’ordre de séance de tortures de jeunes filles en ligne. Des «actes déshumanisants» plébiscités par une meute d’internautes sur la plateforme Discord.
+date : Mon, 10 Feb 2025 10:07:37 +0100
+categories : ['Faits divers']
+
+id : https://www.lefigaro.fr/politique/pour-marion-marechal-le-choix-de-richard-ferrand-comme-president-du-conseil-constitutionnel-est-tres-politique-20250210
+source : Le Figaro - La Une.xml
+title : Pour Marion Maréchal, le choix de Richard Ferrand comme président du Conseil constitutionnel est «très politique»
+description : La députée européenne nationaliste défend une réforme constitutionnelle visant à «dépolitiser» l’institution de la rue de Montpensier.
+date : Mon, 10 Feb 2025 10:37:40 +0100
+categories : ['Politique']
+
+id : https://www.lefigaro.fr/international/roumanie-le-president-iohannis-demissionne-sous-pression-apres-l-annulation-du-scrutin-20250210
+source : Le Figaro - La Une.xml
+title : Roumanie : le président Iohannis démissionne, sous pression après l’annulation du scrutin
+description : «Afin d’épargner à la Roumanie et aux citoyens roumains une crise, je quitterai mes fonctions» mercredi, a-t-il déclaré lors d’une allocution solennelle à Bucarest.
+date : Mon, 10 Feb 2025 13:36:20 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/flash-sport/affaire-du-baiser-force-l-absence-de-jenni-hermoso-apres-le-scandale-n-etait-pas-une-punition-assure-la-selectionneuse-20250210
+source : Le Figaro - La Une.xml
+title : Affaire du baiser forcé : l'absence de Jenni Hermoso après le scandale n'était «pas une punition», assure la sélectionneuse
+description : Témoignant lors du procès de l’ex-patron de la Fédération espagnole, Montserrat Tomé a nié ne pas avoir sélectionné la joueuse pour la sanctionner.
+date : Mon, 10 Feb 2025 13:35:25 +0100
+categories : ['Football']
+
+id : https://www.lefigaro.fr/international/syrie-des-milliers-de-personnes-rejoignent-la-nouvelle-armee-affirme-le-president-20250210
+source : Le Figaro - La Une.xml
+title : Syrie : des milliers de personnes rejoignent «la nouvelle armée», affirme le président
+description : «Je n’ai pas imposé la conscription obligatoire en Syrie. J’ai plutôt opté pour l’enrôlement volontaire, et aujourd’hui des milliers de personnes rejoignent la nouvelle armée syrienne», s’est félicité le président dans le podcast «The Rest is Politics».
+date : Mon, 10 Feb 2025 13:33:39 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/vox/histoire/david-engels-avec-trump-et-musk-l-occident-entame-sans-doute-sa-mutation-imperiale-20250210
+source : Le Figaro - La Une.xml
+title : David Engels : « Avec Trump et Musk, l’Occident entame sans doute sa mutation impériale »
+description : LE FIGARO HISTOIRE - GRAND ENTRETIEN Spécialiste de l’œuvre d’Oswald Spengler et de la théorie des cycles civilisationnels, l’historien estime que le monde occidental pourrait connaître rapidement des bouleversements profonds, préalables à son unification politique.
+date : Mon, 10 Feb 2025 13:24:43 +0100
+categories : ['Vox Histoire']
+
+id : https://www.lefigaro.fr/faits-divers/meurtre-de-louise-un-important-dispositif-de-recherches-en-cours-dans-le-bois-des-templiers-20250209
+source : Le Figaro - La Une.xml
+title : Meurtre de Louise, 11 ans, à Épinay-sur-Orge : le point sur l’enquête
+description : Plus de 120 policiers ont été mobilisés ce dimanche après-midi pour quadriller la zone où l’adolescente de 11 ans a été retrouvée morte dans la nuit de vendredi à samedi.
+date : Mon, 10 Feb 2025 12:06:09 +0100
+categories : ['Faits divers']
+
+id : https://www.lefigaro.fr/faits-divers/a-epinay-sur-orge-le-calvaire-de-louise-cette-petite-fille-souriante-et-bienveillante-lardee-de-coups-de-couteau-dans-les-bois-20250208
+source : Le Figaro - La Une.xml
+title : À Épinay-sur-Orge, le calvaire de Louise, cette petite fille «souriante» et «bienveillante» lardée de coups de couteau dans les bois
+description : RÉCIT - Deuil et sidération dans la ville de l’Essonne, jusque-là sans histoire, où le corps de l’enfant, 11 ans, a été découvert dans la nuit de vendredi à samedi.
+date : Sun, 09 Feb 2025 15:43:49 +0100
+categories : ['Faits divers']
+
+id : https://www.lefigaro.fr/international/royaume-uni-keir-starmer-se-teste-contre-le-vih-en-public-une-premiere-pour-un-dirigeant-du-g7-20250210
+source : Le Figaro - La Une.xml
+title : Royaume-Uni : Keir Starmer se teste contre le VIH en public, une première pour un dirigeant du G7
+description : Le premier ministre britannique montre l’exemple en se dépistant lui-même après s’être engagé à mettre fin aux nouvelles transmissions du virus en Angleterre d’ici 2030.
+date : Mon, 10 Feb 2025 13:15:22 +0100
+categories : ['International']
+
+id : https://madame.lefigaro.fr/celebrites/actu-people/pourquoi-taylor-swift-a-t-elle-huee-au-superbowl-20250210
+source : Le Figaro - La Une.xml
+title : Pourquoi Taylor Swift a-t-elle été huée au Super Bowl ?
+description : Ce dimanche, la chanteuse américaine a été huée lorsque son visage a été projeté sur l’écran géant du Caesars Superdome, pendant la finale du championnat de football américain.
+date : Mon, 10 Feb 2025 12:44:41 +0100
+categories : ['Actu people']
+
+id : https://www.lefigaro.fr/mode-homme/la-question-existentielle-d-ou-vient-le-jean-francais-de-kendrick-lamar-au-super-bowl-20250210
+source : Le Figaro - La Une.xml
+title : La question existentielle: d’où vient le jean français de Kendrick Lamar au Super Bowl?
+description : Quand un rappeur américain s’inspire (malgré lui?) de Serge Gainsbourg.
+date : Mon, 10 Feb 2025 13:17:54 +0100
+categories : ['Mode Homme']
+
+id : https://www.lefigaro.fr/culture/le-monde-est-en-train-de-guerir-donald-trump-jubile-apres-les-huees-envers-taylor-swift-lors-du-super-bowl-20250210
+source : Le Figaro - La Une.xml
+title : Super Bowl : « Le monde est en train de guérir », jubile Donald Trump après les huées envers Taylor Swift
+description : La pop star, en couple avec un des joueurs vedettes de Kansas City, a été sifflée par le public lorsqu’elle est apparue sur l’écran géant du stade. Un symbole pour le 47e président des États-Unis.
+date : Mon, 10 Feb 2025 10:26:40 +0100
+categories : ['Culture']
+
+id : https://madame.lefigaro.fr/celebrites/actu-people/qui-est-ce-gamin-on-dirait-le-garde-du-corps-du-president-theodore-7-ans-fils-d-ivanka-trump-star-du-super-bowl-aux-cotes-de-son-grand-pere-20250210
+source : Le Figaro - La Une.xml
+title : «Qui est ce gamin ? On dirait le garde du corps du président» : Theodore, 7 ans, fils d’Ivanka Trump, star du Super Bowl aux côtés de son grand-père
+description : Le petit garçon n’a pas lâché Donald Trump d’une semelle, ce dimanche, tandis qu’ils assistaient tous les deux au match du Super Bowl, cette grand-messe de la culture américaine.
+date : Mon, 10 Feb 2025 10:15:33 +0100
+categories : ['Actu people']
+
+id : https://www.lefigaro.fr/international/les-etats-majors-militaires-dans-la-boucle-de-l-intelligence-artificielle-20250209
+source : Le Figaro - La Une.xml
+title : Les états-majors militaires dans la boucle de l’intelligence artificielle
+description : La vitesse de planification et de prise de décision sera un facteur essentiel de supériorité militaire.
+date : Mon, 10 Feb 2025 10:22:13 +0100
+categories : ['International']
+
+id : https://www.lefigaro.fr/secteur/high-tech/yann-le-cun-joelle-barral-arthur-mensch-ces-sept-grandes-figures-francaises-de-l-intelligence-artificielle-20250206
+source : Le Figaro - La Une.xml
+title : Yann Le Cun, Joëlle Barral, Arthur Mensch... Ces sept grandes figures françaises de l’intelligence artificielle
+description : PORTRAITS - Discrètes, ces personnalités façonnent pourtant le monde de demain. Beaucoup d’entre elles ont fait leurs armes au sein des Gafam avant, parfois, de déployer leurs solutions en France. Le Figaro dresse le portrait de ces cerveaux hors du commun.
+date : Fri, 07 Feb 2025 10:08:13 +0100
+categories : ['Tech &amp; Web']
+

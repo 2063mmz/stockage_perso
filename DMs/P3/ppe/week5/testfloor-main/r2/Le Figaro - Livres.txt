@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/livres/nicolas-ungemuth-mammiferes-ii-radioscopie-jouissive-des-miseres-du-monde-moderne-20250209
+source : Le Figaro - Livres.xml
+title : Nicolas Ungemuth: «Mammifères II, radioscopie jouissive des misères du monde moderne»
+description : CRITIQUE - Pierre Mérot raconte, vingt ans après son premier volume, les travers de l’oncle — protagoniste et double de l’auteur.
+date : Sun, 09 Feb 2025 16:00:00 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/saviano-l-histoire-vraie-d-un-martyre-de-la-guerre-contre-la-mafia-20250209
+source : Le Figaro - Livres.xml
+title : Roberto Saviano : l’histoire vraie d’un martyr de la guerre contre la mafia
+description : L’auteur de Gomorra restitue les derniers mois du juge anti-terroriste Giovanni Falcone, qui a été assassiné, le 23 mai 1992, à Palerme.
+date : Sun, 09 Feb 2025 15:02:06 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/regis-debray-j-essaierai-d-ecrire-des-livres-qui-restent-sur-une-epoque-qui-passe-20250208
+source : Le Figaro - Livres.xml
+title : Régis Debray: «J’essaierai d’écrire des livres qui restent sur une époque qui passe»
+description : UN HOMME, UNE VOIX - Si Julien Gracq l’avait à l’estomac, l’ancien révolutionnaire la porte au plus profond de lui, telle la blessure d’un amour auquel il aurait renoncé trop tôt au profit du monde et de ses illusions.
+date : Sat, 08 Feb 2025 16:00:00 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/cedric-gras-l-appel-de-la-russie-20250208
+source : Le Figaro - Livres.xml
+title : Cédric Gras, l’appel de la Russie : «Je la voyais comme un énième voyage, c’est le seul pays où j’ai eu envie de m’arrêter»
+description : PORTRAIT - Itinéraire d’un voyageur curieux, géographe fasciné par la Russie et les grands espaces.
+date : Sat, 08 Feb 2025 07:00:00 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/frederic-beigbeder-j-ecris-l-iliade-de-pierre-michon-le-baroud-d-honneur-de-notre-plus-grand-ecrivain-20250207
+source : Le Figaro - Livres.xml
+title : Frédéric Beigbeder: «J’écris l’Iliade de Pierre Michon, le baroud d’honneur de notre plus grand écrivain»
+description : CHRONIQUE - Le dernier livre du meilleur prosateur français alterne voyage érotique chez Homère et souvenirs de clochard céleste.
+date : Fri, 07 Feb 2025 16:31:09 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/christian-jambet-premier-islamologue-recu-a-l-academie-francaise-20250206
+source : Le Figaro - Livres.xml
+title : Christian Jambet, premier islamologue, reçu à l’Académie française
+description : Ce jeudi 6 février, le philosophe fait officiellement son entrée sous la coupole.
+date : Fri, 07 Feb 2025 13:03:18 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/paul-loup-sulitzer-le-romancier-des-annees-fric-20250206
+source : Le Figaro - Livres.xml
+title : Paul-Loup Sulitzer, le romancier des années fric
+description : L’écrivain à succès et ancien homme d’affaires a marqué de sa plume ce qu’on a appelé les « années fric », c’est-dire la décennie 1980, avec le retour en grâce de la finance et de l’économie dans les médias.
+date : Thu, 06 Feb 2025 22:00:56 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/a-qui-sait-attendre-de-michael-connelly-l-affaire-du-dahlia-noir-20250206
+source : Le Figaro - Livres.xml
+title : À qui sait attendre, de Michael Connelly: l’affaire du Dahlia noir
+description : CRITIQUE - Un nouveau thriller de haute tenue dans lequel le romancier entrecroise trois intrigues, dont une concernant le plus célèbre fait divers américain du XX e  siècle.
+date : Thu, 06 Feb 2025 14:00:09 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/le-roman-de-mecene-de-pascale-roze-a-la-rencontre-d-un-citoyen-romain-extravagant-passe-a-la-posterite-20250206
+source : Le Figaro - Livres.xml
+title : Le Roman de Mécène, de Pascale Roze: à la rencontre d’un citoyen romain extravagant passé à la postérité
+description : CRITIQUE - La Prix Goncourt 1996 déjoue les codes du roman historique avec malice et intelligence, tout en conférant à son chevalier étrusque une troublante humanité.
+date : Thu, 06 Feb 2025 13:00:11 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/au-dela-du-mur-de-katja-hoyer-il-etait-une-fois-la-rda-20250206
+source : Le Figaro - Livres.xml
+title : Au-delà du mur, de Katja Hoyer: il était une fois la RDA
+description : CRITIQUE - De l’après-guerre à la chute du Mur, en passant par la relative prospérité des années 1970, l’histoire passionnante de l’Allemagne de l’Est.
+date : Thu, 06 Feb 2025 12:00:11 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/le-duc-de-bourgogne-de-jean-de-la-rochefoucauld-l-homme-qui-ne-fut-jamais-roi-20250206
+source : Le Figaro - Livres.xml
+title : Le duc de Bourgogne, de Jean de La Rochefoucauld: l’homme qui ne fut jamais roi
+description : LA CHRONIQUE DE JACQUES DE SAINT-VICTOR - Un portrait passionnant qui rend sa place au petit-fils de Louis XIV et père de Louis XV, qui ne monta jamais sur le trône.
+date : Thu, 06 Feb 2025 11:00:11 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/l-age-fragile-de-donatella-di-pietrantonio-meurtre-au-camping-20250206
+source : Le Figaro - Livres.xml
+title : L’âge fragile de Donatella Di Pietrantonio : meurtre au camping
+description : CRITIQUE - Inspiré d’un fait divers survenu à la fin des années 1990, dans les Abruzzes, ce roman a reçu le plus prestigieux prix littéraire en Italie.
+date : Thu, 06 Feb 2025 10:00:00 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/nouvelles-de-jeunesse-de-tennessee-williams-quelque-chose-de-tennessee-20250206
+source : Le Figaro - Livres.xml
+title : Nouvelles de jeunesse, de Tennessee Williams: quelque chose de Tennessee
+description : CRITIQUE - Publication de ses nouvelles de jeunesse inédites et réédition d’un roman introuvable.
+date : Thu, 06 Feb 2025 09:30:08 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/juno-et-legs-de-karl-geary-une-belle-ballade-irlandaise-20250206
+source : Le Figaro - Livres.xml
+title : Juno et Legs, de Karl Geary: une belle ballade irlandaise
+description : LA CHRONIQUE D’ÉRIC NEUHOFF - Dans ce deuxième roman, l’auteur accompagne ses héros de sa prose bourrée de vitalité et de tendresse. Il y a des éclaircies dans la dèche la plus totale.
+date : Thu, 06 Feb 2025 09:00:00 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/un-effondrement-parfait-de-jerome-leroy-autoportrait-de-l-artiste-en-joyeux-melancolique-20250206
+source : Le Figaro - Livres.xml
+title : Un effondrement parfait, de Jérôme Leroy : autoportrait de l’artiste en joyeux mélancolique
+description : CRITIQUE - Face au temps qui passe, Jérôme Leroy couche les souvenirs d’un écrivain poète.
+date : Thu, 06 Feb 2025 08:30:00 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/6-avenue-george-v-de-thomas-b-reverdy-une-valse-a-quatre-temps-20250206
+source : Le Figaro - Livres.xml
+title : 6 avenue George V, de Thomas B. Reverdy: une valse à quatre temps
+description : CRITIQUE - Un récit vibrant qui s’inscrit dans la part autobiographique de son œuvre commencée par La Montée des eaux. Un livre en forme de «piège à émotions».
+date : Thu, 06 Feb 2025 08:00:00 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/vers-la-joie-de-laurence-tardieu-du-chaos-a-la-redemption-20250205
+source : Le Figaro - Livres.xml
+title : Vers la joie, de Laurence Tardieu: du chaos à la rédemption
+description : CRITIQUE - Un témoignage brut et solaire sur la maladie soudaine d’un enfant et la façon dont la vie va reprendre le dessus.
+date : Wed, 05 Feb 2025 18:00:00 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/daniel-liszt-un-fils-mal-aime-de-charles-dupechez-duel-d-ego-20250205
+source : Le Figaro - Livres.xml
+title : Daniel Liszt, un fils mal-aimé, de Charles Dupêchez: duel d’ego
+description : CRITIQUE - Comment le jeune homme, de santé fragile, négligé par son père, le pianiste Franz Liszt, devenu selon George Sand un «charlatan de son génie», s’est intéressé à la musique et a fait la connaissance de Berlioz, Ernest Renan, Émile Littré...
+date : Wed, 05 Feb 2025 17:00:00 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/tout-le-monde-aime-clara-de-david-foenkinos-ils-se-sont-tant-aimes-20250205
+source : Le Figaro - Livres.xml
+title : Tout le monde aime Clara, de David Foenkinos: ils se sont tant aimés
+description : CRITIQUE - Le dernier roman de l’écrivain est beau, intense et vivifiant.
+date : Wed, 05 Feb 2025 16:00:13 +0100
+categories : ['Livres']
+
+id : https://www.lefigaro.fr/livres/ta-promesse-de-camille-laurens-anatomie-d-une-relation-devoree-par-un-pervers-narcissique-20250205
+source : Le Figaro - Livres.xml
+title : Ta promesse, de Camille Laurens: anatomie d’une relation dévorée par un pervers narcissique
+description : CRITIQUE - Ce roman couronne une œuvre forte qui sonde l’essence même de la relation amoureuse. Une forme de comédie humaine. Une œuvre qui tire sa quintessence de sa dimension romanesque et de sa quête de vérité.
+date : Wed, 05 Feb 2025 15:00:00 +0100
+categories : ['Livres']
+

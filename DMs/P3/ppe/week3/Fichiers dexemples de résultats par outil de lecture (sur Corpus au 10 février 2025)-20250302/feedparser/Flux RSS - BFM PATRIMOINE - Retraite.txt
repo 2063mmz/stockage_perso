@@ -1,0 +1,210 @@
+id : https://www.bfmtv.com/economie/patrimoine/retraite/retraites-pourquoi-votre-pension-va-augmenter-ce-vendredi_AN-202502070052.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Retraites: pourquoi votre pension va augmenter ce vendredi
+description : Si la revalorisation des pensions de base à hauteur de 2,2% est officielle depuis le 1er janvier, elle sera effective pour la première fois ce vendredi.
+date : Fri, 07 Feb 2025 05:11:15 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/retraites-la-mission-de-la-cour-des-comptes-sera-plus-large-que-prevu_AD-202501230530.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Retraites: la mission de la Cour des comptes sera plus large que prévu
+description : Dans une lettre de mission adressée à la Cour, Matignon demande aux Sages d'analyser les effets d'éventuelles modifications des paramètres du système de retraite sur la compétitivité et l'emploi.
+date : Thu, 23 Jan 2025 12:24:21 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/les-retraites-sont-ils-plus-riches-que-le-reste-de-la-population_AV-202501220552.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Les retraités sont-ils plus riches que le reste de la population?
+description : Les retraités ont un meilleur niveau de vie que la population française, une fois les loyers imputés pris en compte.
+date : Wed, 22 Jan 2025 13:04:51 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/7-minutes-pour-comprendre-budget-la-ministre-du-travail-et-de-l-emploi-plaide-pour-une-taxation-des-retraites-aises_VN-202501220260.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : 7 MINUTES POUR COMPRENDRE - Budget: la ministre du Travail et de l'Emploi plaide pour une taxation des retraités aisés
+description : Le débat sur la contribution des retraités au financement de la sécurité sociale s'intensifie. La ministre du Travail évoque une participation des retraités aisés, suscitant des réactions. Les enjeux de solidarité et de niveau de vie des retraités sont au cœur des discussions politiques.
+date : Wed, 22 Jan 2025 07:28:58 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/direct-retraites-francois-bayrou-lance-la-concertation-avec-les-partenaires-sociaux_LN-202501170167.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Retraites: la ministre chargée du Travail estime qu'"on peut avoir un accord global comme des accords ponctuels"
+description : Le Premier ministre recevait ce vendredi à partir de 11 heures les organisations syndicales et patronales afin de "fixer le cadre et la méthode" de la négociation sur les retraites.
+date : Fri, 17 Jan 2025 19:54:50 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/financement-des-retraites-la-cour-des-comptes-rendra-ses-conclusions-le-19-fevrier_AD-202501170517.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Financement des retraites: la Cour des Comptes rendra ses conclusions le 19 février
+description : Chargée d'établir un diagnostic sur la situation financière du système de retraites, la Cour des comptes rendra son rapport à François Bayrou le 19 février.
+date : Fri, 17 Jan 2025 12:05:38 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/negociations-avec-les-syndicats-le-patron-du-medef-ne-veut-pas-discuter-des-retraites-du-public_AD-202501160471.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Négociations avec les syndicats: le patron du Medef ne veut pas discuter des retraites du public
+description : Le président du Medef, Patrick Martin, estime "qu'il y a un certain nombre de sujets sur lesquels on peut se mettre d'accord comme l'usure au travail".
+date : Thu, 16 Jan 2025 11:57:34 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/retraites-missionnee-par-le-gouvernement-la-cour-des-comptes-rendra-son-rapport-dans-quelques-semaines_AV-202501160374.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Retraites: missionnée par le gouvernement, la Cour des comptes rendra son rapport "dans quelques semaines"
+description : Le président de la Cour des comptes, Pierre Moscovici, a assuré que la Cour travaillera "en toute indépendance" pour "établir la vérité des chiffres" sur le système de retraite.
+date : Thu, 16 Jan 2025 10:11:11 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/une-opportunite-inedite-marylise-leon-salue-la-remise-en-chantier-de-la-reforme-des-retraites_AD-202501160295.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Une "opportunité inédite": Marylise Léon salue la remise "en chantier" de la réforme des retraites
+description : La patronne de la CFDT estime que la réforme des retraites "est bien sur pause" depuis l'annonce l'ouverture d'un "conclave" de renégociation de trois mois.
+date : Thu, 16 Jan 2025 08:40:55 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/mission-impossible-discussion-difficile-comment-les-partenaires-sociaux-abordent-la-negociation-sur-les-retraites_AD-202501150104.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : "Mission impossible", "discussion difficile": comment les partenaires sociaux abordent la négociation sur les retraites
+description : Si la CGT redoute "des discussions corsetées", la CFDT et la CFTC croient davantage en la possibilité d'un accord sur la réforme des retraites, alors que François Bayrou a donné trois mois aux partenaires sociaux pour s'entendre. Le patronat, lui, met déjà en garde contre toute proposition augmentant le coût du travail.
+date : Wed, 15 Jan 2025 05:50:09 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/on-nous-refile-la-patate-chaude-le-patronat-inquiet-d-une-eventuelle-suspension-de-la-reforme-des-retraites_AV-202501140234.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : "On nous refile la patate chaude": le patronat inquiet d'une éventuelle suspension de la réforme des retraites
+description : En cas de suspension de la réforme des retraites, les partenaires sociaux devront se mettre autour de la table pour assurer l'équilibre du régime. Une perspective qui préoccupe les organisations patronales.
+date : Tue, 14 Jan 2025 07:30:37 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/ce-que-couterait-la-suppression-de-l-abattement-fiscal-de-10-aux-retraites_AV-202501100437.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Ce que coûterait la suppression de l'abattement fiscal de 10% aux retraités
+description : Le président du Medef a appelé à supprimer l'abattement fiscal de 10% sur les pensions de retraite. Une mesure jugée plus "équitable" que le gel des pensions pendant six mois défendue par l'ex-gouvernement Barnier. Elle épargnerait en effet les 15% de retraités les plus modestes et mettrait davantage les plus aisés à contribution, selon l'OFCE.
+date : Fri, 10 Jan 2025 10:34:56 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/ce-n-est-pas-le-moment-le-patron-du-medef-appelle-a-ne-pas-toucher-a-la-reforme-des-retraites_AV-202501090299.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : "Ce n'est pas le moment": le patron du Medef appelle à ne "pas toucher" à la réforme des retraites
+description : Invité sur RMC et BFMTV ce jeudi 9 janvier, le président du Medef, Patrick Martin, s'est opposé à une remise en cause de la réforme des retraites. Il a également dénoncé "un niveau de dépenses sociales insupportable" et appelé à supprimer l'abattement fiscal pour frais professionnels dont bénéficient les retraités.
+date : Thu, 09 Jan 2025 08:15:18 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/fin-des-64-ans-systeme-a-points-capitalisation-les-propositions-fusent-pour-une-nouvelle-reforme-des-retraites_AD-202501080490.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Fin des 64 ans, système à points, capitalisation... Les propositions fusent pour une nouvelle réforme des retraites
+description : Le gouvernement a rouvert les discussions autour des retraites avec les différentes forces politiques et les partenaires sociaux. Le Premier ministre s'est dit prêt à remplacer la réforme de 2023 si un "compromis est trouvé".
+date : Wed, 08 Jan 2025 11:29:07 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/retraites-de-combien-va-augmenter-votre-pension-en-2025_AD-202501010037.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Retraites: de combien va augmenter votre pension en 2025?
+description : En l'absence de Budget de la Sécu pour 2025, les pensions de base sont revalorisées de 2,2% ce mercredi 1er janvier, conformément à ce que prévoit la loi. Le premier versement aura lieu en février.
+date : Wed, 01 Jan 2025 05:11:59 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/reprendre-sans-suspendre-entre-prudence-et-hostilite-les-syndicats-reagissent-a-la-proposition-de-bayrou-sur-la-reforme-des-retraites_AD-202412190825.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : "Reprendre sans suspendre": entre prudence et hostilité, les syndicats réagissent à la proposition de Bayrou sur la réforme des retraites
+description : Si la CFDT entend saisir "toutes les opportunités pour rediscuter" de la réforme des retraites, la CGT et l'Unsa juge que la proposition du Premier ministre est "totalement creuse".
+date : Thu, 19 Dec 2024 18:30:05 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/les-retraites-percevaient-en-moyenne-une-pension-de-1-512-euros-net-en-2022_AD-202410300567.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Les retraités percevaient en moyenne une pension de 1.512 euros net en 2022
+description : Selon la Drees, la pension moyenne des retraités a progressé de 5,4 % entre 2021 et 2022 mais a baissé de 0,4 % en euros constants, après prise en compte de l'inflation.
+date : Wed, 30 Oct 2024 13:13:37 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/sondage-bfmtv-retraites-73-des-francais-s-opposent-au-gel-des-pensions-pendant-six-mois_AV-202410230681.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : SONDAGE BFMTV. Retraites: 73% des Français s’opposent au gel des pensions pendant six mois
+description : Selon le sondage Elabe pour BFMTV publié ce mercredi 23 octobre, une majorité des Français s'oppose au report la revalorisation des pensions de retraites.
+date : Wed, 23 Oct 2024 14:50:39 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/agirc-arrco-les-retraites-complementaires-du-prive-seront-revalorisees-de-1-6_AV-202410150664.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Agirc-Arrco: les retraites complémentaires du privé seront revalorisées de 1,6% en novembre
+description : Les pensions de retraite complémentaire des salariés du privé augmenteront de 1,6% au 1er novembre.
+date : Tue, 15 Oct 2024 15:37:40 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/retraites-complementaires-du-prive-les-pensions-seront-revalorisees-entre-1-5-et-1-7_AD-202410100972.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Retraites complémentaires du privé: les pensions seront revalorisées entre 1,5 et 1,7%
+description : Les pensions de retraite complémentaires de l'Agirc-Arrco seront revalorisées dans une fourchette comprise entre 1,5 et 1,7%. La décision sera rendue mardi.
+date : Thu, 10 Oct 2024 20:02:46 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/lfi-proposera-l-abrogation-de-la-reforme-des-retraites-lors-de-sa-niche-parlementaire-le-28-novembre_AP-202409240555.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : LFI proposera l'abrogation de la réforme des retraites lors de sa niche parlementaire le 28 novembre
+description : La présidente des insoumis à l'Assemblée, Mathilde Panot, a annoncé sa volonté de proposer l'abrogation de la réforme des retraites lors de la niche parlementaire de son groupe, le 28 novembre.
+date : Tue, 24 Sep 2024 12:30:15 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/retraites-la-ministre-du-travail-astrid-panosyan-bouvet-veut-rendre-la-reforme-plus-soutenable_AD-202409230546.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Retraites: la ministre du Travail, Astrid Panosyan-Bouvet, veut rendre la réforme "plus soutenable"
+description : La nouvelle ministre du Travail estime qu'il faut "répondre aux anxiétés" que la réforme des retraites "a pu générer, en particulier chez les femmes".
+date : Mon, 23 Sep 2024 12:23:29 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/abrogation-de-la-reforme-des-retraites-la-proposition-de-loi-de-la-france-insoumise-peut-elle-passer_AV-202408040093.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Abrogation de la réforme des retraites: la proposition de loi de la France insoumise peut-elle passer?
+description : En cas d'accession à Matignon, le Nouveau Front populaire a promis d'abroger la réforme des retraites. LFI a déjà déposé une proposition de loi qui pourrait toutefois se heurter à l'article 40 que le camp présidentiel ne manquera pas d'invoquer.
+date : Sun, 04 Aug 2024 07:32:38 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/pourquoi-un-million-de-retraites-vont-voir-leur-pension-augmenter-en-septembre_AV-202408020284.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Pourquoi un million de retraités vont voir leur pension augmenter en septembre
+description : Ces retraités vont bénéficier avec retard mais avec effet rétroactif de la revalorisation des petites pensions prévue par la réforme des retraites.
+date : Fri, 02 Aug 2024 09:37:47 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/de-plus-en-plus-de-francais-declarent-placer-de-l-argent-en-vue-de-la-retraite-le-per-a-le-vent-en-poupe_AV-202406270688.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : De plus en plus de Français déclarent placer de l'argent en vue de la retraite, le PER a le vent en poupe
+description : Les Français sont inquiets du montant des pensions qu'ils percevront à la retraite. C'est un des constats de la 11e étude sur "Les Français, l'épargne et la retraite" qui identifie aussi une percée du PER souscrit par un Français interrogé sur cinq.
+date : Thu, 27 Jun 2024 15:26:35 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/age-legal-ou-age-de-la-retraite-a-taux-plein-ce-que-proposent-les-trois-blocs-pour-les-legislatives_VN-202406260183.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Âge légal ou âge de la retraite à taux plein: ce que proposent les trois blocs pour les législatives
+description : À cinq jours du premier tour des élections législatives anticipées, Nicolas Doze décrypte les propositions concernant les retraites des candidats des différents partis aux législatives, suite au débat opposant Jordan Bardella, Gabriel Attal et Manuel Bompard, ce mardi 25 juin sur TF1.
+date : Wed, 26 Jun 2024 05:07:48 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/le-nouveau-front-populaire-promet-une-grande-loi-sur-la-retraite-a-60-ans-avant-2027_AP-202406210473.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Le Nouveau Front populaire promet "une grande loi" sur la retraite à 60 ans "avant 2027"
+description : Cette loi sera conçue "avec les partenaires sociaux", a expliqué le député sortant Eric Coquerel ce vendredi.
+date : Fri, 21 Jun 2024 10:55:49 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/retraites-emmanuel-macron-assure-que-les-pensions-resteront-indexees-sur-l-inflation_AD-202406120441.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Retraites: Emmanuel Macron assure que les pensions resteront "indexées sur l'inflation"
+description : Évoquant des "rumeurs", le président a affirmé qu'il n'avait pas pour projet de désindexer les pensions sur l'indice des prix.
+date : Wed, 12 Jun 2024 10:08:49 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/retraite-complementaire-pourquoi-certaines-pensions-vont-evoluer-en-mars_AV-202402170046.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Retraite complémentaire: pourquoi certaines pensions vont évoluer en mars
+description : En raison de l'actualisation des taux de CSG, certains retraités verront leur pension complémentaire augmenter ou baisser à partir du mois de mars.
+date : Sat, 17 Feb 2024 06:00:00 GMT
+categories : ['Home Retraite - actualités']
+
+id : https://www.bfmtv.com/economie/patrimoine/retraite/travailler-jusqu-a-71-ans-c-est-ce-qui-attend-les-britanniques-s-ils-veulent-equilibrer-leur-systeme-de-retraite_AD-202402050707.html
+source : Flux RSS - BFM PATRIMOINE - Retraite.xml
+title : Travailler jusqu'à 71 ans? C'est ce qui attend les Britanniques s'ils veulent équilibrer leur système de retraite
+description : Au Royaume-Uni, l'Etat prend en charge une pension publique (qui s'élève actuellement 203.85 livres, soit 238 euros, au maximum par semaine) et une majorité de retraités Britanniques touche en outre une retraite privée.
+date : Mon, 05 Feb 2024 16:39:48 GMT
+categories : ['Home Retraite - actualités']
+

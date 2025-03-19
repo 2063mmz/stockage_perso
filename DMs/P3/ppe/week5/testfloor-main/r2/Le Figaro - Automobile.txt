@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/automobile/depardieu-en-caleche-depannage-en-helico-et-escorte-du-gign-les-perles-des-voituriers-d-hotels-de-luxe-20250207
+source : Le Figaro - Automobile.xml
+title : Dépannages en hélico, Lamborghini, escorte du GIGN... Les histoires secrètes des voituriers de grands hôtels
+description : TÉMOIGNAGES - C’est le métier de rêve pour qui veut conduire des voitures à plusieurs centaines de milliers d’euros. Nous avons demandé aux voituriers de grands hôtels de luxe de nous raconter leurs anecdotes les plus marquantes.
+date : Mon, 10 Feb 2025 11:27:38 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/peninsula-classics-best-of-the-best-a-une-ferrari-250-lm-20250210
+source : Le Figaro - Automobile.xml
+title : Peninsula Classics, Best of the Best à une Ferrari 250 LM
+description : La dixième édition du concours organisé par la chaîne hôtelière hongkongaise a récompensé la berlinette provenant de la collection de la famille Cox.
+date : Mon, 10 Feb 2025 12:24:20 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/une-voiture-volee-toutes-les-4-minutes-en-france-voici-les-modeles-preferes-des-malfrats-20250206
+source : Le Figaro - Automobile.xml
+title : Une voiture volée toutes les 4 minutes en France : voici les modèles préférés des malfrats
+description : Selon l’Observatoire Coyote, les vols de voitures sont en hausse. Des réseaux organisés sévissent sur certains types de modèles et dans des régions précises.
+date : Thu, 06 Feb 2025 16:17:14 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/si-ma-voiture-tombe-trop-souvent-en-panne-puis-je-faire-un-recours-contre-le-constructeur-20250206
+source : Le Figaro - Automobile.xml
+title : «Si ma voiture tombe trop souvent en panne, puis-je faire un recours contre le constructeur ?»
+description : LE COURRIER DES MOTEURS - Cette semaine, Vincent, propriétaire d’un véhicule Peugeot 3008 à Chalon-sur-Saône, se demande s’il peut faire un recours en justice contre Stellantis après des pannes trop fréquentes à son goût.
+date : Thu, 06 Feb 2025 17:24:59 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/pres-de-35-millions-d-euros-pour-la-ferrari-250-lm-victorieuse-au-mans-20250206
+source : Le Figaro - Automobile.xml
+title : Près de 35 millions d’euros pour la Ferrari 250 LM victorieuse au Mans
+description : ENCHÈRES - En marge du salon Rétromobile, la neuvième Ferrari victorieuse dans la Sarthe a battu un record en vente publique.
+date : Thu, 06 Feb 2025 09:51:35 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/agressivite-sur-la-route-pourquoi-perdons-nous-si-facilement-notre-calme-au-volant-20250205
+source : Le Figaro - Automobile.xml
+title : Pourquoi s’énerve-t-on facilement au volant ? Les réponses d’un psychologue
+description : PSYCHOLOGIE - En conduisant, même les personnes les plus sages peuvent se révéler extrêmement violentes. Le psychologue Jean-Pascal Assailly explique que cela est lié à des facteurs bien précis.
+date : Wed, 05 Feb 2025 20:49:42 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/l-ecologie-l-ecologie-tu-parles-la-voie-de-covoiturage-sur-le-peripherique-parisien-divise-les-automobilistes-20250204
+source : Le Figaro - Automobile.xml
+title : «L’écologie, tu parles...» : la future voie de covoiturage du périphérique peine à séduire les automobilistes franciliens
+description : TÉMOIGNAGES - Une voie réservée au covoiturage entrera en vigueur le 3 mars sur le périphérique parisien. Les automobilistes interrogés par Le Figaro, affichent globalement leur mécontentement.
+date : Tue, 04 Feb 2025 20:22:38 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/non-le-controle-technique-ne-va-pas-devenir-annuel-20250204
+source : Le Figaro - Automobile.xml
+title : Non, le contrôle technique ne va pas devenir annuel
+description : Une fausse information a circulé sur plusieurs sites et sur les réseaux sociaux, lundi.
+date : Tue, 04 Feb 2025 10:33:16 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/baptiste-nicolosi-sur-les-traces-familiales-20250204
+source : Le Figaro - Automobile.xml
+title : Baptiste Nicolosi, sur les traces familiales
+description : Baptiste Nicolosi, le fils du fondateur de Rétromobile, organise avec l’étude Osenat, une vente d’objets automobiles le vendredi 7 février.
+date : Tue, 04 Feb 2025 11:38:03 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/si-vous-tombez-en-panne-sur-autoroute-gare-a-l-arnaque-des-depanneurs-pirates-20250203
+source : Le Figaro - Automobile.xml
+title : Si vous tombez en panne sur autoroute, gare à l’arnaque des «dépanneurs pirates»
+description : Sur les autoroutes et routes réglementées, des dépanneuses non-agréés gonflent la facture des automobilistes en panne ou accidentés, qui ne seront pas remboursés par leur assureur.
+date : Tue, 04 Feb 2025 11:00:53 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/retromobile-2025-pour-ne-rien-rater-20250203
+source : Le Figaro - Automobile.xml
+title : Rétromobile 2025, pour ne rien rater
+description : ACTUALITÉ Organisé du mardi 4 au dimanche 9 février à Paris, porte de Versailles, le plus prestigieux salon de la voiture de collection au monde rivalise d’animations.
+date : Mon, 03 Feb 2025 18:01:40 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/matthieu-lamoure-les-collectionneurs-raffolent-des-belles-histoires-20250204
+source : Le Figaro - Automobile.xml
+title : Matthieu Lamoure : « Les collectionneurs raffolent des belles histoires »
+description : Le directeur général du département Motorcars de l’étude française Artcurial appartient à la nouvelle génération des responsables de maisons d’enchères. Il est bien placé pour partager les évolutions du marché de la voiture de collection.
+date : Tue, 04 Feb 2025 09:29:20 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/automobile-la-semaine-de-toutes-les-surencheres-20250202
+source : Le Figaro - Automobile.xml
+title : Automobiles de collection : la semaine qui vient sera celle de toutes les surenchères
+description : À raison d’une vente par jour, de mardi à dimanche prochain, à l’occasion du salon Rétromobile, les maisons d’enchères vont disperser à Paris pour plus de 150 millions d’euros de voitures de collection, selon les estimations basses.
+date : Sun, 02 Feb 2025 13:33:51 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/tesla-comment-vont-fonctionner-les-robotaxis-bientot-deployes-au-texas-20250203
+source : Le Figaro - Automobile.xml
+title : Tesla : comment vont fonctionner les robotaxis bientôt déployés au Texas ?
+description : Elon Musk a annoncé le lancement du service en juin à Austin avec des véhicules de test. A terme, les propriétaires de Tesla compatibles pourront mettre leur voiture personnelle à disposition et ainsi s’assurer une source de revenus.
+date : Mon, 03 Feb 2025 17:01:27 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/la-f1-mercedes-de-fangio-estimee-pres-de-50-millions-d-euros-20250122
+source : Le Figaro - Automobile.xml
+title : Plus de 50 millions d’euros pour la F1 de Fangio
+description : ENCHÈRES - Nouveau record pour un monstre sacré de collection : la Flèche d’argent au volant de laquelle le champion argentin a remporté son grand prix national en 1955 a été adjugée 51,155 millions d’euros.
+date : Sat, 01 Feb 2025 17:59:14 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/les-secrets-pour-reussir-un-creneau-a-tous-les-coups-meme-dans-les-cas-desesperes-20250131
+source : Le Figaro - Automobile.xml
+title : Créneaux parfaits : la méthode efficace d’une monitrice d’auto-école
+description : Voici les conseils avisés d’une monitrice d’auto-école pour vous aider à devenir l’expert en matière de stationnement que vous rêvez d’être. Soufflez bien fort, il n’y a rien de compliqué !
+date : Fri, 31 Jan 2025 19:40:53 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/une-premiere-mondiale-sur-l-a10-une-voie-d-autoroute-qui-alimente-les-batteries-20250131
+source : Le Figaro - Automobile.xml
+title : Une première mondiale sur l’A10 : une voie d’autoroute qui alimente les batteries
+description : Vinci autoroutes met au point une expérimentation qui permettrait, à l’horizon 2035, aux camions électriques de se recharger sans même s’arrêter.
+date : Fri, 31 Jan 2025 18:11:59 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/renault-filante-2025-sur-la-piste-des-records-20250131
+source : Le Figaro - Automobile.xml
+title : Renault Filante 2025, sur la piste des records
+description : Au salon Rétromobile, la firme au losange fête le centenaire des records de sa 40 CV par un incroyable concept électrique appelé à chasser des records d’efficience.
+date : Fri, 31 Jan 2025 10:44:34 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/chaines-contre-chaussettes-a-neige-le-match-des-equipements-d-hiver-pour-vos-pneus-20250131
+source : Le Figaro - Automobile.xml
+title : Chaînes contre chaussettes à neige : le match des équipements d’hiver pour vos pneus
+description : COMPARATIF - Quel appareillage est le plus efficace, le plus économique, le plus facile à installer ? Avant les départs en vacances vers les stations de ski, Le Figaro arbitre la partie.
+date : Fri, 31 Jan 2025 15:54:14 +0100
+categories : ['Automobile']
+
+id : https://www.lefigaro.fr/automobile/comment-faire-pour-que-l-adblue-n-endommage-pas-mon-moteur-diesel-20250130
+source : Le Figaro - Automobile.xml
+title : «Comment faire pour que l’AdBlue n’endommage pas mon moteur diesel ?»
+description : LE COURRIER DES MOTEURS - Cette semaine, Alexis, propriétaire d’une Peugeot 308 dans le Tarn, se demande comment faire le plein d’AdBlue sans risquer de mauvaises surprises.
+date : Fri, 31 Jan 2025 12:39:53 +0100
+categories : ['Automobile']
+

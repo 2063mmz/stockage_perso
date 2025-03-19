@@ -1,0 +1,42 @@
+id : https://www.liberation.fr/sports/superbowl-donald-trump-taylor-swift-kendrick-lamar-drapeaux-palestinien-et-soudanais-brandis-les-moments-forts-dune-soiree-hors-normes-20250210_FM7T2KBSLVEXPNHGWVGS3NZHIY/
+source : Libération - Sports.xml
+title : <![CDATA[Super Bowl : Donald Trump, Taylor Swift, Kendrick Lamar, drapeaux palestinien et soudanais brandis… les moments forts d’une soirée hors normes]]>
+description : <![CDATA[L’annuelle cérémonie du football américain a vu se réunir dimanche 9 février au sein du même stade des ennemis jurés - Taylor Swift et Donald Trump -, le sacre des Eagles de Philadelphie et un grain de sable dans le show de Kendrick Lamar.]]>
+date : Mon, 10 Feb 2025 08:08:58 +0000
+categories : 
+
+id : https://www.liberation.fr/portraits/marie-barsacq-sang-melee-20250209_IO5XIOK4ENDTDGT6MMJE4N3LE4/
+source : Libération - Sports.xml
+title : <![CDATA[Marie Barsacq, sang mêlée]]>
+description : <![CDATA[La ministre des Sports, de la Jeunesse et de la Vie associative , originaire du Sud-Ouest et fan de rugby, s’est épanouie au sein du comité d’organisation des JO de Paris 2024.]]>
+date : Sun, 09 Feb 2025 16:08:51 +0000
+categories : 
+
+id : https://www.liberation.fr/lifestyle/consommation/etats-unis-quand-super-bowl-rime-avec-guacamole-20250209_UBOJT7EHXBBXXCUFEHMFQKAT6I/
+source : Libération - Sports.xml
+title : <![CDATA[Etats-Unis : quand Super Bowl rime avec guacamole]]>
+description : <![CDATA[L’événement sportif, qui réunira dimanche plus de 100 millions d’Américains devant leur télé, s’accompagne d’une consommation record de purée d’avocats importés du Mexique. Mais les menaces tarifaires de Trump et l’infiltration des cartels de la drogue pourraient entraver le commerce de «l’or vert».]]>
+date : Sun, 09 Feb 2025 12:35:00 +0000
+categories : 
+
+id : https://www.liberation.fr/sports/super-bowl-donald-trump-et-la-nfl-deux-mondes-qui-ne-peuvent-pas-se-sacker-20250209_HAM7MOSQIBASXJSTY4ENUQXVW4/
+source : Libération - Sports.xml
+title : <![CDATA[Super Bowl : Donald Trump et la NFL, deux mondes qui ne peuvent pas se sacker]]>
+description : <![CDATA[En prévoyant d’assister dimanche 9 février pour la première fois à l’événement sportif le plus populaire aux Etats-Unis, le Président ramène la politique sur le terrain de la puissante ligue de football américain, avec qui il entretient une relation houleuse depuis plus de quarante ans.]]>
+date : Sun, 09 Feb 2025 07:05:00 +0000
+categories : 
+
+id : https://www.liberation.fr/sports/rugby/tournoi-des-six-nations-la-france-privee-de-victoire-par-langleterre-en-toute-fin-du-match-20250208_XHHIWY5ZQBCN7CJQTWYQN7SAOQ/
+source : Libération - Sports.xml
+title : <![CDATA[Tournoi des six nations : la France tombe d’un point, mais de haut, en Angleterre]]>
+description : <![CDATA[Sur un score rageant de 26 à 25, les Bleus ont perdu le Crunch de ce samedi 8 février à Twickenham lors de la deuxième semaine de la compétition. Les Tricolores n’ont pas fini de ressasser un scénario qui, avec plus d’adresse et d’application, aurait dû leur sourire.]]>
+date : Sat, 08 Feb 2025 18:40:57 +0000
+categories : 
+
+id : https://www.liberation.fr/portraits/violette-dorange-la-bleue-20241018_PLNTW5NJZFEVNNRQIN6HMI7POU/
+source : Libération - Sports.xml
+title : <![CDATA[Violette Dorange, la bleue]]>
+description : <![CDATA[La navigatrice de 23 ans est la benjamine du Vendée Globe qu’elle dispute sur l’ancien bateau de Jean Le Cam, le doyen de l’épreuve.]]>
+date : Sun, 09 Feb 2025 11:49:36 +0000
+categories : 
+

@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/vox/societe/murielle-popa-fabre-si-les-europeens-ne-developpent-pas-d-ia-ils-pourraient-avoir-du-mal-a-y-imprimer-leur-marque-culturelle-20250209
+source : Le Figaro - Vox.xml
+title : Murielle Popa-Fabre: «Si les Européens ne développent pas d’IA, ils pourraient avoir du mal à y imprimer leur marque culturelle»
+description : GRAND ENTRETIEN - À l’occasion du Sommet pour l’action sur l’intelligence artificielle, qui se tient à Paris, l’ancienne chercheuse au Collège de France Murielle Popa-Fabre décortique les enjeux philosophiques et anthropologiques que représente l’arrivée aussi inéluctable que révolutionnaire de l’IA dans tous les pans de notre vie.
+date : Mon, 10 Feb 2025 10:00:31 +0100
+categories : ['Home Figaro Vox', 'Vox Société']
+
+id : https://www.lefigaro.fr/vox/histoire/david-engels-avec-trump-et-musk-l-occident-entame-sans-doute-sa-mutation-imperiale-20250210
+source : Le Figaro - Vox.xml
+title : David Engels : « Avec Trump et Musk, l’Occident entame sans doute sa mutation impériale »
+description : LE FIGARO HISTOIRE - GRAND ENTRETIEN Spécialiste de l’œuvre d’Oswald Spengler et de la théorie des cycles civilisationnels, l’historien estime que le monde occidental pourrait connaître rapidement des bouleversements profonds, préalables à son unification politique.
+date : Mon, 10 Feb 2025 13:24:43 +0100
+categories : ['Home Figaro Vox', 'Vox Histoire']
+
+id : https://www.lefigaro.fr/vox/politique/samuel-fitoussi-de-cyril-hanouna-a-xavier-bertrand-petit-panorama-des-candidats-de-la-droite-et-du-centre-pour-2027-20250210
+source : Le Figaro - Vox.xml
+title : Samuel Fitoussi: «De Cyril Hanouna à Xavier Bertrand, petit panorama des candidats de la droite et du centre pour 2027»
+description : CHRONIQUE - Chaque semaine, pour Le Figaro, notre chroniqueur pose son regard ironique sur l’actualité. Aujourd’hui, il fait un tour d’horizon des candidatures — plus ou moins probables — à la prochaine élection présidentielle.
+date : Mon, 10 Feb 2025 10:05:28 +0100
+categories : ['Home Figaro Vox', 'Vox Politique']
+
+id : https://www.lefigaro.fr/vox/monde/nicolas-baverez-l-amerique-de-donald-trump-saisie-par-la-demesure-20250209
+source : Le Figaro - Vox.xml
+title : Nicolas Baverez: «L’Amérique de Donald Trump saisie par la démesure»
+description : CHRONIQUE - La seconde Administration Trump n’est pas placée sous le signe de l’art du deal mais de l’ingénierie du chaos. Et ce pour le plus grand bonheur des adversaires du libéralisme et des ennemis de la démocratie, Chine et Russie en tête.
+date : Mon, 10 Feb 2025 10:07:47 +0100
+categories : ['Home Figaro Vox', 'Vox Monde']
+
+id : https://www.lefigaro.fr/vox/politique/leur-pensee-marginale-devient-presque-hegemonique-sur-les-traces-des-libertariens-ces-ideologues-qui-inspirent-musk-et-milei-20250207
+source : Le Figaro - Vox.xml
+title : «Leur pensée, marginale, devient presque hégémonique»: sur les traces des libertariens, ces idéologues qui inspirent Musk et Milei
+description : RÉCIT - Avec l’élection en Argentine du «premier président libertarien de l’histoire» en 2023 et l’ascension d’Elon Musk aux côtés de Donald Trump, le libertarianisme a le vent en poupe. D’Ayn Rand à Murray Rothbard, qui sont les penseurs phares de cette philosophie radicale encore pratiquement inconnue en Europe ?
+date : Fri, 07 Feb 2025 19:06:27 +0100
+categories : ['Home Figaro Vox', 'Vox Politique']
+
+id : https://www.lefigaro.fr/vox/politique/michel-onfray-face-au-hamas-pourquoi-la-gauche-a-t-elle-abandonne-son-combat-contre-la-torture-20250207
+source : Le Figaro - Vox.xml
+title : Michel Onfray: «Face au Hamas, pourquoi la gauche a-t-elle abandonné son combat contre la torture ?»
+description : TRIBUNE - D’Henri Alleg pendant la guerre d’Algérie à Michel Foucault, les grandes figures de gauche ont toujours dénoncé l’usage de la torture. Avant que les exactions du Hamas ne les rendent aveugles à ce fléau, déplore le philosophe.
+date : Fri, 07 Feb 2025 20:25:47 +0100
+categories : ['Home Figaro Vox', 'Vox Politique']
+
+id : https://www.lefigaro.fr/vox/societe/pierre-danon-si-elle-le-veut-la-france-peut-reduire-le-cout-de-l-immigration-a-hauteur-de-7-milliards-d-euros-par-an-20250207
+source : Le Figaro - Vox.xml
+title : Pierre Danon: «Si elle le veut, la France peut réduire le coût de l’immigration à hauteur de 7 milliards d’euros par an»
+description : EXCLUSIF - Dans une note réalisée pour l’Observatoire de l’immigration et de la démographie, l’entrepreneur a calculé les économies réalisables en matière d’immigration, alors que celle-ci coûte 75 milliards d’euros aux finances publiques chaque année. Entretien.
+date : Fri, 07 Feb 2025 17:43:44 +0100
+categories : ['Home Figaro Vox', 'Vox Société']
+
+id : https://www.lefigaro.fr/vox/monde/mathieu-bock-cote-le-moment-libertarien-et-la-montee-de-la-droite-afueriste-20250207
+source : Le Figaro - Vox.xml
+title : Mathieu Bock-Côté: «Le moment libertarien et la montée de la droite “afuériste”»
+description : CHRONIQUE - Longtemps considéré comme une doctrine élitiste, le libertarianisme surgit aujourd’hui sur un mode insurrectionnel. De l’Argentine de Milei à l’Amérique de Trump, il exprime une colère longtemps refoulée.
+date : Fri, 07 Feb 2025 18:49:37 +0100
+categories : ['Home Figaro Vox', 'Vox Monde']
+
+id : https://www.lefigaro.fr/vox/histoire/la-communaute-europeenne-de-defense-ce-projet-qui-a-enflamme-les-francais-dans-les-annees-50-20250206
+source : Le Figaro - Vox.xml
+title : La Communauté européenne de défense, ce projet qui a enflammé les Français dans les années 50
+description : GRAND RÉCIT - La Commission européenne revendique un rôle en matière de défense. Or, voilà plus de 70 ans, un traité instituant une armée européenne, la Communauté européenne de défense (CED), avait profondément divisé notre pays.
+date : Thu, 06 Feb 2025 07:00:00 +0100
+categories : ['Home Figaro Vox', 'Vox Histoire']
+
+id : https://www.lefigaro.fr/vox/politique/marine-le-pen-avec-une-ambition-politique-forte-fiere-et-souveraine-la-france-saura-etre-a-la-hauteur-du-defi-de-l-ia-20250208
+source : Le Figaro - Vox.xml
+title : Marine Le Pen : «Avec une ambition politique forte, fière et souveraine, la France saura être à la hauteur du défi de l’IA»
+description : TRIBUNE - À la veille du sommet pour l’action sur l’intelligence artificielle, la France semble simple spectatrice des réussites américaine et chinoise. Il faudra un vrai volontarisme politique pour la remettre sur les rails de la puissance, estime la présidente du groupe RN à l’Assemblée nationale.
+date : Sat, 08 Feb 2025 08:36:04 +0100
+categories : ['Home Figaro Vox', 'Vox Politique']
+
+id : https://www.lefigaro.fr/vox/politique/jean-luc-melenchon-emmanuel-macron-transforme-la-france-en-colonie-numerique-20250208
+source : Le Figaro - Vox.xml
+title : Jean-Luc Mélenchon : «Emmanuel Macron transforme la France en colonie numérique»
+description : TRIBUNE - À l’occasion du sommet pour l’action sur l’intelligence artificielle qui se tient à Paris, le leader de la France insoumise critique la stratégie française dans ce domaine. Le président de la République est, selon lui, en train de nous jeter dans les bras des milliardaires de la Silicon Valley.
+date : Sat, 08 Feb 2025 12:29:03 +0100
+categories : ['Home Figaro Vox', 'Vox Politique']
+
+id : https://www.lefigaro.fr/vox/monde/michael-prazan-il-y-a-une-detestation-presque-instinctive-de-l-etat-juif-qui-s-est-enkystee-a-gauche-20250206
+source : Le Figaro - Vox.xml
+title : Michaël Prazan : « Il y a une détestation presque instinctive de l’État juif qui s’est enkystée à gauche »
+description : ENTRETIEN - Dans La Vérité sur le Hamas et ses «idiots utiles», l’écrivain et documentariste remonte aux origines de l’organisation terroriste. Et dénonce la responsabilité des partis d’extrême gauche, de certains intellectuels et ONG, dans la propagation de l’islamisme et la résurgence de l’antisémitisme.
+date : Thu, 06 Feb 2025 12:00:00 +0100
+categories : ['Home Figaro Vox', 'Vox Monde']
+
+id : https://www.lefigaro.fr/vox/politique/anne-marie-le-pourhiet-on-a-multiplie-les-entraves-a-l-action-publique-depuis-des-decennies-20250207
+source : Le Figaro - Vox.xml
+title : Anne-Marie Le Pourhiet: «On a multiplié les entraves à l’action publique depuis des décennies»
+description : ENTRETIEN - L’empilement des cours de justice et des lois ne pouvait déboucher que sur l’annulation de l’OQTF de l’influenceur algérien Doualemn, argumente Anne-Marie Le Pourhiet, professeur de droit public.
+date : Fri, 07 Feb 2025 19:06:31 +0100
+categories : ['Home Figaro Vox', 'Vox Politique']
+
+id : https://www.lefigaro.fr/vox/monde/au-japon-les-tentatives-de-decentralisation-se-heurtent-aux-singes-et-aux-sangliers-20250207
+source : Le Figaro - Vox.xml
+title : «Au Japon, les tentatives de décentralisation se heurtent aux singes et aux sangliers»
+description : FIGAROVOX/TRIBUNE - Le nouveau premier ministre japonais a annoncé ce 24 janvier, dans son discours d’investiture, vouloir œuvrer à la décentralisation de l’archipel. Un vieux mantra politique en décalage avec les réalités locales, analyse l’historien du Japon Christian Kessler.
+date : Fri, 07 Feb 2025 16:26:40 +0100
+categories : ['Home Figaro Vox', 'Vox Monde']
+
+id : https://www.lefigaro.fr/vox/culture/pourquoi-la-france-rurale-et-periurbaine-a-le-vent-en-poupe-au-cinema-20250206
+source : Le Figaro - Vox.xml
+title : Pourquoi la France rurale et périurbaine a le vent en poupe au cinéma
+description : ANALYSE - En fanfare, Les Barbares, Fario, Leurs enfants après eux, Vingt dieux… En 2024, le grand écran a fait la part belle à la «France des territoires», selon une formule chère aux technocrates déconnectés. Comme si le cinéma français cherchait à se racheter.
+date : Fri, 07 Feb 2025 11:10:27 +0100
+categories : ['Home Figaro Vox', 'Vox Culture']
+
+id : https://www.lefigaro.fr/vox/monde/stephen-breyer-ancien-juge-a-la-cour-supreme-plus-la-societe-est-fracturee-moins-les-citoyens-sont-enclins-a-accepter-la-loi-20250207
+source : Le Figaro - Vox.xml
+title : Stephen Breyer, ancien juge à la Cour suprême : «Plus la société est fracturée, moins les citoyens sont enclins à accepter la loi»
+description : ENTRETIEN - L’ancien juge à la Cour suprême des États-Unis publie Interpréter la Constitution américaine, traduit en français par les éditions Odile Jacob. Il met en garde contre les dangers d’une lecture littéraliste du droit, qui a selon lui pour conséquence de fragiliser l’unité des États-Unis.
+date : Fri, 07 Feb 2025 19:04:17 +0100
+categories : ['Home Figaro Vox', 'Vox Monde']
+
+id : https://www.lefigaro.fr/vox/medias/s-ils-n-apprennent-pas-a-dompter-l-ia-les-medias-traditionnels-sont-condamnes-a-disparaitre-20250207
+source : Le Figaro - Vox.xml
+title : «S’ils n’apprennent pas à dompter l’IA, les médias traditionnels sont condamnés à disparaître»
+description : FIGAROVOX/TRIBUNE - L’essor des IA, donnant une crédibilité et une ampleur nouvelles aux contenus mensongers, ouvre une nouvelle ère dans la guerre de l’information. Les rédactions ne doivent pas laisser cet outil aux mains des pourfendeurs de la démocratie, estime le journaliste Laurent Guimier.
+date : Fri, 07 Feb 2025 17:46:02 +0100
+categories : ['Home Figaro Vox', 'Vox Médias']
+
+id : https://www.lefigaro.fr/vox/societe/les-agriculteurs-aspirent-a-d-autres-formes-de-representation-que-le-systeme-syndical-traditionnel-20250207
+source : Le Figaro - Vox.xml
+title : «Les agriculteurs aspirent à d’autres formes de représentation que le système syndical traditionnel»
+description : FIGAROVOX/ENTRETIEN - Sorti vainqueur des élections agricoles, le tandem FNSEA-JA enregistre toutefois un recul historique, talonné par la Coordination rurale. Pour Jean-Paul Pelras, ancien maraîcher et responsable syndical, ces résultats sanctionnent une politique qui n’avantage que certaines filières.
+date : Fri, 07 Feb 2025 14:20:14 +0100
+categories : ['Home Figaro Vox', 'Vox Société']
+
+id : https://www.lefigaro.fr/vox/societe/laurence-de-charette-la-fin-de-vie-et-ses-non-dits-s-invite-sur-grand-ecran-20250206
+source : Le Figaro - Vox.xml
+title : Laurence de Charette : «La fin de vie (et ses non-dits) s’invite sur grand écran»
+description : LE BLOC-NOTES - Deux géants du cinéma, Costa-Gavras et Pedro Almodovar, consacrent, chacun à leur manière, un film à l’épineuse question de la fin de vie. Éclairant, alors que le débat arrive à l’Assemblée nationale.
+date : Thu, 06 Feb 2025 19:18:05 +0100
+categories : ['Home Figaro Vox', 'Vox Société']
+
+id : https://www.lefigaro.fr/vox/politique/benjamin-morel-apres-l-adoption-du-budget-il-est-temps-de-comprendre-ce-qui-paralyse-vraiment-notre-vie-politique-20250206
+source : Le Figaro - Vox.xml
+title : Benjamin Morel : «Après l’adoption du budget, il est temps de comprendre ce qui paralyse vraiment notre vie politique»
+description : TRIBUNE - L’échec des motions de censure contre le gouvernement Bayrou n’offre qu’un sursis à un système en crise profonde, analyse le constitutionnaliste. Outre le mode de scrutin, inadapté à la situation actuelle, le système est aujourd’hui paralysé par son incapacité à intégrer au jeu politique les 50 % de l’électorat ayant voté pour le RN ou LFI.
+date : Thu, 06 Feb 2025 19:17:05 +0100
+categories : ['Home Figaro Vox', 'Vox Politique']
+

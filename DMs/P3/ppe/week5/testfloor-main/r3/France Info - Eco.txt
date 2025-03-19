@@ -1,0 +1,140 @@
+id : https://www.francetvinfo.fr/economie/crise/blocus-des-agriculteurs/nouvelles-mobilisations-des-agriculteurs-dans-le-sud-ouest-de-la-france-contre-le-traite-du-mercosur_7066319.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : Nouvelles mobilisations des agriculteurs dans le sud-ouest de la France contre le traité du Mercosur
+description : Le mouvement est revendiqué par les Ultras de l’A64, un mouvement asyndical mené par Jérôme Bayle, qui n'exclut pas de poursuivre la contestation à Bruxelles prochainement.
+date : Mon, 10 Feb 2025 11:14:05 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/economie/immobilier/gare-au-bail-code-civil_7058417.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : Gare au bail code civil!
+description : Pour contourner les encadrements des loyers, certains propriétaires pensent avoir trouvé la solution grâce à Napoléon,  enfin grâce à son code civil et un type de bail toujours en vigueur.  Quitte à fermer les yeux sur certaines règles.
+date : Mon, 10 Feb 2025 11:11:00 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/replay-radio/bientot-chez-vous/l-ia-remplace-les-agents-immobiliers-et-revolutionne-le-marche-a-singapour_7038245.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : L'IA remplace les agents immobiliers et révolutionne le marché à Singapour
+description : À Singapour, l'agence Mogul lance un service d'intelligence artificielle qui remplace les agents immobiliers traditionnels, offrant des services à moindre coût et simplifiant la recherche de logement.
+date : Mon, 10 Feb 2025 11:03:44 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/economie/transports/transport-les-billets-d-avion-en-hausse-apres-l-augmentation-de-la-taxe-de-solidarite_7066274.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : Transport : les billets d'avion en hausse après l'augmentation de la taxe de solidarité
+description : Après l'adoption du budget par le Parlement, le taxe de solidarité va augmenter, entraînant ainsi une hausse du prix des billets d'avion.
+date : Mon, 10 Feb 2025 10:11:26 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/economie/impots/surtaxe-d-impot-sur-les-grandes-societes-un-mauvais-signal-envoye-aux-investisseurs-estime-xavier-niel_7066265.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : Surtaxe d'impôt sur les grandes sociétés : un "mauvais signal" envoyé aux investisseurs, estime Xavier Niel
+description : Cette surtaxe c'est autant d'argent "qu'on ne va pas mettre dans de l'infrastructure en France", argumente le propriétaire du groupe Iliad.
+date : Mon, 10 Feb 2025 10:08:56 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/sante/handicap/20-ans-de-la-loi-handicap-quelles-revolutions_7066130.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : 20 ans de la loi handicap : quelles révolutions ?
+description : Le 11 février 2025, la loi pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées célébrera ses vingt ans. Alors qu’a-t-elle vraiment changé en deux décennies ?
+date : Mon, 10 Feb 2025 09:03:12 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/replay-radio/le-decryptage-eco/le-ministre-de-l-economie-planche-deja-sur-le-budget-2026-avec-le-defi-de-reduire-le-deficit-sans-alourdir-la-fiscalite_7038218.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : Le ministre de l'Économie planche déjà sur le budget 2026 avec le défi de réduire le déficit sans alourdir la fiscalité
+description : À peine adopté, le budget 2025 est déjà sous surveillance. Éric Lombard, ministre de l'Économie, assure qu’il va mettre des outils de pilotage pour éviter tout dérapage et commence à travailler sur le budget 2026.
+date : Mon, 10 Feb 2025 08:59:13 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/economie/transports/lyon-turin-dans-les-entrailles-du-chantier-xxl_7066166.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : Lyon-Turin : dans les entrailles du chantier XXL
+description : Le chantier du tunnel entre Lyon et Turin mobilise 3 000 ouvriers à plus de 1 000 mètres sous les Alpes pour creuser 37 millions de tonnes de roche entre la ville française et la ville italienne. Le Lyon-Turin est un serpent de mer, un projet contesté, dangereux. Trois morts en deux ans et son coût ne cesse de grimper avec 11 milliards d’investissements en plus.
+date : Mon, 10 Feb 2025 08:06:41 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/replay-radio/le-brief-eco/intelligence-artificielle-stellantis-et-mistral-ai-mettent-au-point-un-robot-conversationnel-d-aide-aux-conducteurs_7038275.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : Intelligence artificielle : Stellantis et Mistral AI mettent au point un robot conversationnel d'aide aux conducteurs
+description : Le constructeur Stellantis (ex PSA-Peugeot-Citroën) et la start-up française Mistral AI Stellantis travaillent maintenant main dans la main. L'intelligence artificielle va notamment aider à réduire considérablement le temps d'analyse lors de la conception d'un modèle, mais aussi permettre de créer un assistant permanent, actionnable à la voix.
+date : Mon, 10 Feb 2025 08:00:15 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/internet/intelligence-artificielle/l-ia-au-service-de-votre-garde-robe_7066121.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : L'IA au service de votre garde-robe
+description : L’enjeu pour la France est de se positionner dans cette révolution de l’intelligence artificielle qui touche tous les secteurs, comme celui de la mode. En effet, l’IA est en train de bouleverser le commerce en ligne. Explications.
+date : Mon, 10 Feb 2025 07:13:52 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/internet/intelligence-artificielle/ia-et-management-et-si-la-technologie-permettait-aux-chefs-d-equipes-de-se-concentrer-sur-l-humain_7041266.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : Intelligence artificielle et management : et si la technologie permettait aux chefs d'équipes de se concentrer sur l'humain ?
+description : Le déploiement de l'intelligence artificielle est particulièrement scruté dans le monde du travail. Certains l'accusent de se substituer aux rapports humains, d'autres y voient, au contraire, une chance pour les managers de se consacrer davantage à leurs équipes.
+date : Mon, 10 Feb 2025 06:26:45 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/internet/intelligence-artificielle/l-intelligence-artificielle-un-tournant-pour-l-economie_7065083.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : L’intelligence artificielle : un tournant pour l’économie ?
+description : L’intelligence artificielle commence à prendre de plus en plus de place au quotidien. Si son impact peut faire progresser de nombreux domaines, notamment économiques, faut-il s’inquiéter de son importance toujours plus grandissante ? Axel de Tarlé apporte des éléments de réponse au 20 Heures de France 2.
+date : Sun, 09 Feb 2025 21:58:36 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/economie/fraude/piratage-un-nouveau-boitier-tres-prise-des-escrocs_7065035.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : Piratage : un nouveau boitier très prisé des escrocs
+description : En vente libre sur Internet, un boîtier permet de pirater les informations bancaires ou de copier le signal de clés électroniques. Néanmoins, un étui doublé d’une couche de métal permet de s’en prémunir.
+date : Sun, 09 Feb 2025 21:30:05 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/economie/transports/lyon-turin-au-c-ur-du-chantier-du-plus-long-tunnel-ferroviaire-au-monde_7065044.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : Lyon-Turin : au cœur du chantier du plus long tunnel ferroviaire au monde
+description : À mille mètres sous les Alpes, quelque 3 000 ouvriers se relayent quotidiennement pour creuser 37 millions de tonnes de roches. Un chantier qui s'inscrit dans le cadre du projet Lyon-Turin, le plus long tunnel du monde.
+date : Sun, 09 Feb 2025 20:37:26 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/economie/budget/info-franceinfo-c-est-completement-indecent-des-associations-decouvrent-la-suppression-d-une-enveloppe-dediee-a-la-recherche-sur-les-cancers-pediatriques_7062767.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : INFO FRANCEINFO. "C'est complètement indécent" : des associations découvrent la suppression d'une enveloppe dédiée à la recherche sur les cancers pédiatriques
+description : Une enveloppe de 15 millions d'euros de crédits pour la recherche sur les cancers pédiatriques a disparu du budget après avoir pourtant été adoptée par les parlementaires.
+date : Sun, 09 Feb 2025 12:38:44 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/replay-radio/c-est-mon-boulot/marche-invisible-du-travail-quand-les-entreprises-recrutent-sans-publier-d-offres-d-emploi_7036673.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : Marché invisible du travail : quand les entreprises recrutent sans publier d’offres d’emploi
+description : Bouche à oreille, renouvellement de CDD : l’an dernier, plus d’un recrutement sur deux a été finalisé sans qu’aucune offre d’emploi n’ait été publiée, selon le groupe d’intérim Randstad.
+date : Sun, 09 Feb 2025 10:00:02 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/economie/budget/recherche-contre-les-cancers-pediatriques-c-est-un-soulagement-reagit-un-depute-apres-l-annonce-du-gouvernement-de-renoncer-a-la-baisse-du-budget_7063373.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : Recherche contre les cancers pédiatriques : "C'est un soulagement", réagit un député après l'annonce du gouvernement de renoncer à la baisse du budget
+description : "Ça nous a échaudés en tant que parlementaires parce qu'on avait eu un vote unanime aussi bien à l'Assemblée nationale qu'au Sénat", a lancé, le député (Horizons & Indépendants) Vincent Thiébaut, samedi sur franceinfo.
+date : Sat, 08 Feb 2025 23:00:30 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/economie/budget/le-gouvernement-s-engage-a-completer-de-15-millions-d-euros-le-budget-consacre-a-la-lutte-contre-les-cancers-pediatriques_7063232.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : Le gouvernement s’engage à compléter de 15 millions d’euros le budget consacré à la lutte contre les cancers pédiatriques
+description : L'annonce intervient au lendemain d'une vague d'indignation d'associations et de députés. Ils ont appris vendredi, par surprise, qu'une enveloppe de 15 millions d'euros pour la recherche avait disparu du texte sur le projet de loi de finances 2025
+date : Sat, 08 Feb 2025 19:27:32 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/replay-radio/le-conseil-conso/poeles-antiadhesives-les-risques-pour-la-sante-et-les-bonnes-pratiques-d-utilisation_7035038.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : Poêles antiadhésives, les risques pour la santé et les bonnes pratiques d'utilisation
+description : Passer aux poêles en inox ou garder celles avec un revêtement antiadhésif ? Le magazine 60 Millions de consommateurs a réalisé des tests révélant la présence de substances chimiques persistantes, malgré le respect des normes actuelles. Alors peut-on utiliser certaines poêles en toute sécurité ?
+date : Sat, 08 Feb 2025 15:55:01 +0100
+categories : ['No category']
+
+id : https://www.francetvinfo.fr/economie/budget/budget-2025-la-suppression-de-15-millions-d-euros-dedies-a-la-recherche-sur-les-cancers-pediatriques-jugee-completement-indecente-par-des-associations_7062893.html#xtor=RSS-3-[general]
+source : France Info - Eco.xml
+title : Budget 2025 : la suppression de 15 millions d'euros dédiés à la recherche sur les cancers pédiatriques jugée "complètement indécente" par des associations
+description : Une enveloppe de 15 millions d'euros de crédits pour la recherche sur les cancers pédiatriques a disparu du budget après avoir pourtant été adoptée par les parlementaires.
+date : Sat, 08 Feb 2025 13:14:37 +0100
+categories : ['No category']
+

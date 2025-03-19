@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/sports/football/ligue-1/des-grands-discours-neal-maupay-se-moque-d-angers-sur-les-reseaux-sociaux-apres-la-victoire-marseillaise-20250210
+source : Le Figaro - Football.xml
+title : «Des grands discours» : Neal Maupay se moque d’Angers sur les réseaux sociaux après la victoire marseillaise
+description : LE SCAN SPORT - Ce dimanche soir dans une story Instagram, l’attaquant marseillais a charrié Jean-Jacques Batoum, préparateur physique du SCO, et son discours d’avant-match.
+date : Mon, 10 Feb 2025 09:02:36 +0100
+categories : ['Football', 'Ligue 1']
+
+id : https://www.lefigaro.fr/sports/football/jaloux-de-mbappe-refus-de-prolonger-cicatrice-du-ballon-d-or-entre-vinicius-et-le-real-madrid-le-torchon-brule-20250210
+source : Le Figaro - Football.xml
+title : Jaloux de Mbappé, refus de prolonger, cicatrice du Ballon d’Or... Entre Vinicius et le Real Madrid, le torchon brûle
+description : DÉCRYPTAGE - Depuis de nombreuses semaines, Vinicius Jr n’est plus que l’ombre de lui-même au Real Madrid. Selon la presse espagnole, un véritable malaise serait même présent entre la star brésilienne et la Maison Blanche.
+date : Mon, 10 Feb 2025 11:23:42 +0100
+categories : ['Football']
+
+id : https://www.lefigaro.fr/sports/football/ligue-1/classement-ligue-1-paris-leader-intouchable-marseille-solide-dauphin-nice-sur-le-podium-20250210
+source : Le Figaro - Football.xml
+title : Classement Ligue 1 : Paris leader intouchable, Marseille solide dauphin, Nice sur le podium
+description : Le PSG toujours en tête, Marseille solide deuxième, Montpellier retrouve les abysses, Monaco doublé par Nice... retrouvez le classement de la Ligue 1 après 21 journées.
+date : Mon, 10 Feb 2025 08:00:00 +0100
+categories : ['Football', 'Ligue 1']
+
+id : https://www.lefigaro.fr/sports/football/ligue-1/angers-marseille-on-a-vraiment-joue-comme-une-grande-equipe-savoure-de-zerbi-20250210
+source : Le Figaro - Football.xml
+title : Ligue 1 : «On a vraiment joué comme une grande équipe», savoure Roberto De Zerbi
+description : L’entraîneur de Marseille s’est satisfait de la victoire des siens ce dimanche soir à Angers (0-2) et souligne la performance de son équipe.
+date : Mon, 10 Feb 2025 08:20:27 +0100
+categories : ['Football', 'Ligue 1']
+
+id : https://www.lefigaro.fr/sports/football/ligue-1/angers-marseille-un-sauveur-nomme-rabiot-une-premiere-periode-calamiteuse-les-tops-et-les-flops-20250209
+source : Le Figaro - Football.xml
+title : Angers-Marseille : un sauveur nommé Rabiot, une première période calamiteuse... les tops et les flops
+description : Dans la douleur, l’OM a fait le travail sur le terrain d’Angers pour s’imposer (0-2) et prendre une belle avance sur ses concurrents au classement. Découvrez ce qui a plu... et déplu à notre rédaction.
+date : Sun, 09 Feb 2025 23:29:46 +0100
+categories : ['Football', 'Ligue 1']
+
+id : https://www.lefigaro.fr/sports/football/italie/serie-a-le-leader-naples-cale-a-domicile-face-a-l-udinese-20250209
+source : Le Figaro - Football.xml
+title : Serie A : le leader Naples cale à domicile face à l’Udinese
+description : Ce dimanche, Naples, pourtant leader, a concédé un match nul sur sa pelouse face à l’Udinese. (1-1).
+date : Sun, 09 Feb 2025 23:19:48 +0100
+categories : ['Football', 'Italie']
+
+id : https://www.lefigaro.fr/sports/football/espagne/liga-barcelone-marche-sur-seville-et-revient-a-deux-points-du-real-madrid-20250209
+source : Le Figaro - Football.xml
+title : Liga : Barcelone marche sur Séville et revient à deux points du Real Madrid
+description : Ce dimanche, le FC Barcelone a écrasé Séville (4-1) et revient à deux points du leader madrilène.
+date : Sun, 09 Feb 2025 23:15:55 +0100
+categories : ['Espagne', 'Football']
+
+id : https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-d-abord-brouillon-marseille-finit-par-l-emporter-face-a-de-faibles-angevins-20250209
+source : Le Figaro - Football.xml
+title : Ligue 1 : d’abord brouillon, Marseille finit par l’emporter face à de faibles angevins
+description : Ce dimanche en clôture de la 21e journée, l’Olympique de Marseille a battu Angers (0-2) malgré une première période brouillonne et sans réussite.
+date : Sun, 09 Feb 2025 22:59:47 +0100
+categories : ['Football', 'Ligue 1']
+
+id : https://www.lefigaro.fr/sports/football/foot-11-buts-marques-en-un-seul-match-messi-n-aurait-finalement-pas-reussi-cette-performance-20250209
+source : Le Figaro - Football.xml
+title : Foot : 11 buts marqués en un seul match ? Messi n’aurait, finalement... pas réussi cette performance
+description : LE SCAN SPORT - Selon divers médias à travers le monde vendredi, Thiago Messi, fils aîné de la légende argentine, aurait inscrit pas moins de 11 buts dans un seul et même match. Mais, finalement, cette information est erronée.
+date : Sun, 09 Feb 2025 23:30:51 +0100
+categories : ['Football']
+
+id : https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-vous-etes-des-nuls-ambiance-electrique-a-saint-etienne-apres-la-defaite-face-a-rennes-20250209
+source : Le Figaro - Football.xml
+title : Ligue 1 : « Vous êtes des nuls ! », ambiance électrique à Saint-Etienne après la défaite face à Rennes
+description : Samedi soir à Geoffroy-Guichard, l’AS Saint-Etienne s’est sèchement inclinée face au Stade Rennais (0-2). Une nouvelle défaite qui n’a pas (du tout) été du goût des supporters stéphanois.
+date : Sun, 09 Feb 2025 22:05:44 +0100
+categories : ['Football', 'Ligue 1']
+
+id : https://www.lefigaro.fr/sports/football/les-1-000-buts-oui-mais-pas-que-l-autre-objectif-dementiel-de-la-fin-de-carriere-de-cristiano-ronaldo-20250209
+source : Le Figaro - Football.xml
+title : « Les 1000 buts ? Oui, mais pas que... » : l’autre objectif démentiel de la fin de carrière de Cristiano Ronaldo
+description : Malgré ses 40 ans et une carrière déjà fabuleuse, la star portugaise a encore un dernier rêve particulier à accomplir.
+date : Sun, 09 Feb 2025 22:09:39 +0100
+categories : ['Football']
+
+id : https://www.lefigaro.fr/sports/football/allemagne/bundesliga-le-rb-leipzig-maitrise-sankt-pauli-et-reste-4e-de-bundesliga-20250209
+source : Le Figaro - Football.xml
+title : Bundesliga : le RB Leipzig maîtrise Sankt Pauli et reste 4e de Bundesliga
+description : Le RB Leipzig s’est imposé dimanche 2-0 sur sa pelouse contre Sankt Pauli en clôture de la 21e journée de Bundesliga. Cette victoire permet aux hommes de Marco Rose de garder la quatrième place de la Bundesliga.
+date : Sun, 09 Feb 2025 19:51:36 +0100
+categories : ['Allemagne', 'Football']
+
+id : https://www.lefigaro.fr/sports/football/live/ligue-1/2024/2448591/angers-marseille
+source : Le Figaro - Football.xml
+title : Angers-Marseille : revivez le nouveau succès de l’OM à l’extérieur
+description : Victorieux de l’OL le 2 février dernier, l’Olympique de Marseille a su enchaîner ce dimanche soir à Angers (0-2).
+date : Sun, 09 Feb 2025 22:42:36 +0100
+categories : ['Football', 'Ligue 1']
+
+id : https://www.lefigaro.fr/faits-divers/seine-et-marne-un-blesse-grave-dans-l-attaque-d-une-equipe-de-football-en-plein-match-20250209
+source : Le Figaro - Football.xml
+title : Seine-et-Marne: un blessé grave dans l'attaque d'une équipe de football en plein match
+description : Le match des U20 comptant pour le Régional 2 se déroulait dans le calme ce dimanche au stade de Dammarie-les-Lys devant le public lorsqu’un groupe de jeunes de la ville est entré dans l’enceinte, armé, pour s’en prendre aux joueurs de Meaux.
+date : Sun, 09 Feb 2025 21:25:27 +0100
+categories : ['Faits divers', 'Football']
+
+id : https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-strasbourg-enfonce-montpellier-toulouse-arrache-un-nul-a-auxerre-20250209
+source : Le Figaro - Football.xml
+title : Ligue 1 : Strasbourg enfonce Montpellier, Toulouse arrache le nul à Auxerre
+description : Strasbourg a décroché une précieuse victoire 2-0 sur sa pelouse contre Montpellier ce dimanche après-midi. Après avoir mené deux fois au score, Auxerre a finalement dû concéder le nul 2-2 contre Toulouse.
+date : Sun, 09 Feb 2025 19:40:23 +0100
+categories : ['Football', 'Ligue 1']
+
+id : https://www.lefigaro.fr/flash-sport/lyon-reims-cherki-et-tolisso-bouillants-la-patte-fonseca-les-champenois-en-pleine-hemorragie-les-tops-flops-20250209
+source : Le Figaro - Football.xml
+title : Lyon-Reims : Cherki et Tolisso bouillants, la patte « Fonseca », les Champenois en pleine hémorragie... Les tops/flops
+description : À l’issue du festival offensif de l’Olympique Lyonnais face au Stade de Reims (4-0) dimanche, lors de la 21e journée de Ligue 1, découvrez ce qui a plu... et déplu à notre rédaction.
+date : Sun, 09 Feb 2025 18:49:35 +0100
+categories : ['Football', 'Ligue 1']
+
+id : https://www.lefigaro.fr/sports/football/angleterre/coupe-d-angleterre-exploit-gigantesque-pour-le-dernier-de-d2-plymouth-tombeur-de-liverpool-20250209
+source : Le Figaro - Football.xml
+title : Coupe d'Angleterre: exploit gigantesque pour le dernier de D2 Plymouth tombeur de Liverpool
+description : Lanterne rouge de la deuxième division anglaise, Plymouth a éliminé au quatrième tour de la coupe d’Angleterre Liverpool. Un exploit monumental.
+date : Sun, 09 Feb 2025 18:25:54 +0100
+categories : ['Angleterre', 'Football']
+
+id : https://www.lefigaro.fr/sports/football/ligue-des-champions/ligue-des-champions-lucas-vazquez-blesse-le-real-madrid-dans-la-galere-avant-city-20250209
+source : Le Figaro - Football.xml
+title : Ligue des champions : Lucas Vazquez blessé, le Real Madrid dans la galère avant City
+description : Avant d’affronter Manchester City ce mardi, le Real Madrid doit faire face à une nouvelle blessure : celle de Lucas Vazquez.
+date : Sun, 09 Feb 2025 18:11:56 +0100
+categories : ['Football', 'Ligue des champions']
+
+id : https://www.lefigaro.fr/sports/football/ligue-1/ligue-1-lyon-se-reveille-et-punit-un-stade-de-reims-en-perdition-20250209
+source : Le Figaro - Football.xml
+title : Ligue 1 : Lyon se réveille et gifle un Stade de Reims en perdition
+description : Dimanche au Groupama Stadium, l’Olympique Lyonnais a surclassé (4-0) une équipe champenoise en détresse, lors de la 21e journée.
+date : Sun, 09 Feb 2025 18:45:13 +0100
+categories : ['Football', 'Ligue 1']
+
+id : https://www.lefigaro.fr/sports/football/ligue-1/en-direct-ligue-1-suivez-le-multiplex-de-la-21e-journee-20250209
+source : Le Figaro - Football.xml
+title : Ligue 1 : revivez le multiplex de la 21e journée
+description : Au programme ce dimanche, Auxerre-Toulouse et Strasbourg-Montpellier.
+date : Sun, 09 Feb 2025 19:15:21 +0100
+categories : ['Football', 'Ligue 1']
+

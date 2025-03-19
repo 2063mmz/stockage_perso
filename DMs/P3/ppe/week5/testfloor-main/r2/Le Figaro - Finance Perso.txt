@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/argent/secrets-d-heritage-fort-de-ces-informations-j-ai-commence-a-croire-a-la-possibilite-d-un-retournement-de-situation-20250208
+source : Le Figaro - Finance Perso.xml
+title : Secrets d’héritage : «Je suis tombé des nues, mais le testament signé par mon père avait été fait dans les règles»
+description : Des stratagèmes préparés de longue date, des héritiers qui soudain se manifestent, et comment faire face. Cette semaine, Pierre-Emmanuel, son fils Alain, sa nouvelle épouse Sabine et une issue heureuse.
+date : Sun, 09 Feb 2025 10:28:51 +0100
+categories : ['Argent']
+
+id : https://www.lefigaro.fr/placement/scpi-apres-la-tempete-nos-conseils-pour-bien-investir-et-faire-prosperer-son-epargne-20250208
+source : Le Figaro - Finance Perso.xml
+title : SCPI : après la tempête, nos conseils pour bien investir et faire prospérer son épargne
+description : Chahutée ces deux dernières années, la pierre papier devrait retrouver des couleurs cette année. La méthode pour tirer profit d’une offre pléthorique et très hétérogène.
+date : Sat, 08 Feb 2025 08:00:00 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/argent/cette-subtilite-inattendue-qui-vous-permet-d-echapper-a-la-future-hausse-des-frais-de-notaire-20250207
+source : Le Figaro - Finance Perso.xml
+title : Cette subtilité inattendue qui vous permet d’échapper à la future hausse des frais de notaire
+description : DÉCRYPTAGE - La hausse des droits de mutation, prévue dans le budget 2025 adopté au Parlement, devrait épargner une population inattendue.
+date : Sat, 08 Feb 2025 15:20:39 +0100
+categories : ['Argent']
+
+id : https://www.lefigaro.fr/placement/les-stations-de-ski-ou-investir-dans-un-chalet-ou-un-appartement-pres-des-pistes-20250206
+source : Le Figaro - Finance Perso.xml
+title : Les stations de ski où investir dans un chalet ou un appartement près des pistes
+description : CLASSEMENT EXCLUSIF - Parmi 106 communes françaises accueillant une station de ski sur leur territoire, découvrez où la rentabilité annuelle d’un appartement ou d’un chalet loué à des vacanciers est la plus intéressante en 2025.
+date : Thu, 06 Feb 2025 07:00:00 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/argent/quand-des-heritages-reveles-par-des-genealogistes-virent-au-cauchemar-cet-argent-est-devenu-un-poison-20250205
+source : Le Figaro - Finance Perso.xml
+title : «Cet argent est devenu un poison» : quand des héritages révélés par des généalogistes virent au cauchemar
+description : ENQUÊTE - Successions gérées en dépit du bon sens, honoraires exorbitants, assignations en justice, pénalités fiscales et injonctions de payer, les héritages tombés du ciel peuvent aussi créer bien des soucis à leurs bénéficiaires.
+date : Thu, 06 Feb 2025 19:29:36 +0100
+categories : ['Argent']
+
+id : https://www.lefigaro.fr/placement/immobilier-ou-investir-dans-une-petite-surface-en-2025-pour-un-rendement-optimal-20250204
+source : Le Figaro - Finance Perso.xml
+title : Immobilier : où investir dans une petite surface en 2025 pour un rendement optimal ?
+description : SIMULATEUR – Rendement locatif, prix, fiscalité, tension du marché… Le Figaro a passé au crible près de 2000 communes pour vous aider à faire les bons choix. Découvrez notre simulateur exclusif et identifiez les villes les plus rentables pour votre investissement locatif.
+date : Tue, 04 Feb 2025 13:00:00 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/finances-perso/c-etait-un-enfer-je-n-en-dormais-plus-ces-contribuables-imposes-a-tort-par-le-nouvel-outil-du-fisc-20250201
+source : Le Figaro - Finance Perso.xml
+title : « C’était un enfer, je n’en dormais plus » : ces contribuables imposés à tort par le nouvel outil du fisc
+description : TÉMOIGNAGES - La Cour des comptes a pointé l’outil de déclaration fiscal «Gérer mes biens immobiliers», qui n’était pas prêt lors de sa mise en production. Au grand dam de plusieurs propriétaires, victimes des dysfonctionnements du système.
+date : Sat, 01 Feb 2025 11:45:34 +0100
+categories : ['Finances perso']
+
+id : https://www.lefigaro.fr/finances-perso/comment-se-defendre-en-cas-de-detournement-d-heritage-20250131
+source : Le Figaro - Finance Perso.xml
+title : Comment se défendre en cas de détournement d’héritage ?
+description : NOS CONSEILS - Quand un héritier détourne des biens faisant partie de la succession, au détriment des autres, il se rend coupable de recel successoral. Aller en justice est alors une épreuve, parfois inévitable.
+date : Fri, 31 Jan 2025 15:03:00 +0100
+categories : ['Finances perso']
+
+id : https://www.lefigaro.fr/argent/cette-astuce-meconnue-pour-reussir-a-decrocher-un-taux-canon-pour-son-credit-immobilier-20250129
+source : Le Figaro - Finance Perso.xml
+title : Cette astuce méconnue pour réussir à décrocher un taux canon pour son crédit immobilier
+description : NOS CONSEILS - Les premières hausses de taux de crédit sont déjà tombées. Un coup dur pour les futurs acheteurs. À charge pour eux de profiter des offres avantageuses des banques.
+date : Wed, 29 Jan 2025 16:38:07 +0100
+categories : ['Argent']
+
+id : https://www.lefigaro.fr/placement/on-peut-dans-certaines-villes-trouver-un-rendement-de-7-net-comment-bien-investir-dans-l-immobilier-commercial-20250127
+source : Le Figaro - Finance Perso.xml
+title : «On peut, dans certaines villes trouver un rendement de 7% net» : comment bien investir dans l’immobilier commercial
+description : NOS CONSEILS - La crise du Covid et l’e-commerce n’ont pas sonné le glas de tous les centres-villes et investir dans des murs abritant des commerces peut se révéler une intéressante, et lucrative, diversification de patrimoine. À condition d’être prudent. Voici comment être gagnant.
+date : Mon, 27 Jan 2025 10:05:19 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/argent/secrets-d-heritage-notre-soeur-ainee-s-est-vengee-en-nous-privant-de-tous-les-biens-de-nos-parents-20250125
+source : Le Figaro - Finance Perso.xml
+title : Secrets d’héritage : «Notre sœur aînée s’est vengée en nous privant de tous les biens de nos parents»
+description : Des stratagèmes préparés de longue date, des héritiers qui soudain se manifestent, et comment faire face. Cette semaine en Bretagne, Maryvonne, sa fille Yvette et ses frères et sœurs.
+date : Sat, 08 Feb 2025 21:37:05 +0100
+categories : ['Argent']
+
+id : https://www.lefigaro.fr/finances-perso/assurance-emprunteur-comment-eviter-de-payer-le-prix-fort-20250125
+source : Le Figaro - Finance Perso.xml
+title : Assurance emprunteur, comment éviter de payer le prix fort ?
+description : NOS CONSEILS - La loi Lemoine du 28&#160;février 2022 a libéralisé l’assurance emprunteur. Son objectif&#160;: tirer à la baisse les tarifs en facilitant la mise en concurrence. Malheureusement, de trop nombreuses banques se montrent réticentes.
+date : Sat, 25 Jan 2025 15:00:00 +0100
+categories : ['Finances perso']
+
+id : https://www.lefigaro.fr/argent/ledger-qu-est-ce-que-ce-mastodonte-des-wallets-crypto-cofonde-par-david-balland-20250124
+source : Le Figaro - Finance Perso.xml
+title : Ledger : qu’est-ce que ce mastodonte des «wallets» crypto, cofondé par David Balland ?
+description : DÉCRYPTAGE - La licorne Française dont David Balland, l’un des cofondateurs, a été kidnappé cette semaine s’est hissée sur le podium du Palmarès Fintech en dix ans d’existence.
+date : Sat, 25 Jan 2025 13:53:13 +0100
+categories : ['Argent']
+
+id : https://www.lefigaro.fr/argent/les-recettes-gagnantes-d-un-investisseur-en-crowdfunding-immobilier-j-ai-touche-60-000-euros-d-interets-l-an-dernier-20250124
+source : Le Figaro - Finance Perso.xml
+title : Les recettes gagnantes d’un investisseur en crowdfunding immobilier : «J’ai touché 60.000 euros d’intérêts l’an dernier»
+description : NOS CONSEILS - Jérémy a tourné le dos à l’investissement locatif classique qu’il jugeait beaucoup trop chronophage. Maintenant, il ne jure plus que par «les revenus passifs» du financement participatif.
+date : Fri, 24 Jan 2025 12:50:01 +0100
+categories : ['Argent']
+
+id : https://www.lefigaro.fr/impots/biens-immobiliers-ce-fiasco-retentissant-qui-a-coute-plus-d-un-milliard-a-l-etat-20250123
+source : Le Figaro - Finance Perso.xml
+title : Biens immobiliers : ce fiasco retentissant qui a coûté plus d’un milliard à l’État
+description : La Cour des comptes publie, ce jeudi, un rapport au vitriol sur cet outil de déclaration fiscale pour les propriétaires fustigeant une campagne «chaotique».
+date : Thu, 23 Jan 2025 10:28:44 +0100
+categories : ['Impôts']
+
+id : https://www.lefigaro.fr/placement/le-livret-a-et-le-ldds-ont-rapporte-des-interets-records-en-2024-20250122
+source : Le Figaro - Finance Perso.xml
+title : Le livret A et le LDDS ont rapporté des intérêts records en 2024
+description : Grâce à un encours au plus haut et une rémunération élevée, le livret A et le livret de développement durable et solidaire (LDDS) ont généré 16,8&#160;milliards d’euros d’intérêts l’an dernier.
+date : Wed, 22 Jan 2025 20:00:07 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/finances-perso/risque-d-incendie-votre-logement-va-t-il-subir-une-decote-s-il-est-proche-de-forets-20250122
+source : Le Figaro - Finance Perso.xml
+title : Risque d’incendie : votre logement va-t-il subir une décote s’il est proche de forêts ?
+description : Depuis le 1er janvier, les annonces immobilières doivent mentionner l’obligation de débroussaillement. Les logements situés dans les zones à risque incendie peuvent-ils voir leur valeur diminuer ?
+date : Sun, 26 Jan 2025 19:13:03 +0100
+categories : ['Finances perso']
+
+id : https://www.lefigaro.fr/social/hausse-de-la-fiscalite-sous-indexation-des-pensions-mettre-a-contribution-les-retraites-un-tabou-qui-est-en-train-de-sauter-20250121
+source : Le Figaro - Finance Perso.xml
+title : Hausse de la fiscalité, sous-indexation des pensions... Mettre à contribution les retraités, un «tabou qui est en train de sauter»
+description : DÉCRYPTAGE - Pour le moment, le gouvernement Bayrou n’a pas voulu franchir le pas. Mais des voix s’élèvent pour davantage solliciter cette population.
+date : Wed, 22 Jan 2025 11:24:37 +0100
+categories : ['Social']
+
+id : https://www.lefigaro.fr/placement/assurance-vie-les-conseillers-pas-toujours-a-l-aise-avec-l-investissement-durable-20250119
+source : Le Figaro - Finance Perso.xml
+title : Assurance-vie: les conseillers pas toujours à l’aise avec l’investissement durable
+description : Taxinomie, indicateurs PAI, classification SFDR, votre banquier sait-il comment verdir votre assurance-vie?
+date : Sun, 19 Jan 2025 10:14:55 +0100
+categories : ['Placement']
+
+id : https://www.lefigaro.fr/finances-perso/investissement-responsable-un-tiers-des-fonds-pourraient-perdre-leur-labellisation-20250118
+source : Le Figaro - Finance Perso.xml
+title : Investissement responsable: un tiers des fonds pourraient perdre leur labellisation
+description : Depuis le 1er janvier 2025, les exigences permettant de décrocher la certification ISR ont été renforcées.
+date : Sat, 18 Jan 2025 09:36:06 +0100
+categories : ['Finances perso']
+

@@ -1,0 +1,140 @@
+id : https://www.lefigaro.fr/voyages/conseils/que-vaut-la-nouvelle-carte-de-fidelite-de-corsair-20250210
+source : Le Figaro - Consommation.xml
+title : Que vaut la nouvelle carte de fidélité de Corsair ?
+description : Corsair, la compagnie aérienne française, a dévoilé une refonte de son programme de fidélité, le Club Corsair, avec une promesse alléchante : récompenser davantage ses clients les plus fidèles. Mais que vaut réellement cette nouvelle carte de fidélité ?
+date : Mon, 10 Feb 2025 11:36:26 +0100
+categories : ['Conseils', 'Consommation']
+
+id : https://www.lefigaro.fr/conso/alimentation-quels-ont-ete-les-fruits-et-legumes-les-plus-achetes-par-les-francais-cet-automne-20250128
+source : Le Figaro - Consommation.xml
+title : Alimentation : quels ont été les fruits et légumes les plus achetés par les Français, cet automne ?
+description : Publié la semaine dernière, un classement réalisé par l’institut d’études Kantar lève le voile sur les goûts des consommateurs. Ceux-ci se sont surtout tournés vers des produits qui ont vu leurs prix baisser par rapport à 2023.
+date : Tue, 28 Jan 2025 12:55:07 +0100
+categories : ['Consommation']
+
+id : https://www.lefigaro.fr/conso/sncf-faites-vous-vraiment-une-bonne-affaire-en-prenant-un-train-ouigo-20250125
+source : Le Figaro - Consommation.xml
+title : SNCF : faites-vous vraiment une bonne affaire en prenant un train Ouigo?
+description : DÉCRYPTAGE - Les tarifs de l’offre low-cost de la compagnie ferroviaire ont bondi de 24% en quatre ans, selon une association d’usagers. Le Figaro a comparé les prix sur plusieurs trajets.
+date : Sat, 25 Jan 2025 09:15:00 +0100
+categories : ['Consommation']
+
+id : https://www.lefigaro.fr/conjoncture/c-est-insupportable-quand-l-imperatif-de-reserver-ses-billets-de-train-plusieurs-mois-a-l-avance-agace-les-clients-de-la-sncf-20250122
+source : Le Figaro - Consommation.xml
+title : «C’est insupportable !» : quand l’impératif de réserver ses billets de train plusieurs mois à l’avance agace les clients de la SNCF
+description : TÉMOIGNAGES - Comme d’habitude, la compagnie ferroviaire a ouvert ce mercredi, très en amont, les réservations pour les prochaines vacances, de Pâques en l’occurrence. Ce qui oblige les voyageurs à anticiper leurs voyages, souvent contre leur gré.
+date : Wed, 22 Jan 2025 17:36:00 +0100
+categories : ['Consommation']
+
+id : https://www.lefigaro.fr/voyages/italie-fin-des-avis-truques-pour-les-hotels-et-restaurants-une-revolution-pour-les-voyageurs-20250120
+source : Le Figaro - Consommation.xml
+title : Italie : fin des avis truqués pour les hôtels et restaurants, une révolution pour les voyageurs ?
+description : Un vent de transparence souffle sur l’Italie. Le gouvernement prévoit d’exiger une pièce d’identité pour publier des avis en ligne sur hôtels, restaurants et attractions touristiques. Une mesure inédite pour lutter contre les faux commentaires et garantir l’authenticité.
+date : Mon, 20 Jan 2025 07:15:00 +0100
+categories : ['Consommation', 'Voyage']
+
+id : https://www.lefigaro.fr/conso/huile-d-olive-chocolat-essence-electricite-ces-produits-dont-les-prix-ont-le-plus-evolue-en-2024-20250115
+source : Le Figaro - Consommation.xml
+title : Huile d’olive, chocolat, essence, électricité... Ces produits dont les prix ont le plus évolué en 2024
+description : INFOGRAPHIE - L’Insee estime l’inflation à 2% en moyenne en 2024. Un ralentissement, par rapport à l’année précédente, malgré l’augmentation fulgurante des prix de certains produits.
+date : Thu, 16 Jan 2025 11:18:07 +0100
+categories : ['Consommation']
+
+id : https://www.lefigaro.fr/animaux/nouveau-rappel-de-croquettes-pour-chats-et-chiens-en-raison-d-une-contamination-aux-salmonelles-20250109
+source : Le Figaro - Consommation.xml
+title : Nouveau rappel de croquettes pour chats et chiens en raison d’une contamination aux salmonelles
+description : Après une première campagne de rappel fin décembre, d’autres références sont potentiellement contaminées. Ces aliments peuvent s’avérer dangereux pour vos animaux.
+date : Thu, 09 Jan 2025 16:45:05 +0100
+categories : ['Animaux', 'Consommation']
+
+id : https://www.lefigaro.fr/conso/citroen-toyota-tesla-comment-l-age-des-acheteurs-de-voitures-neuves-varie-en-fonction-des-marques-20250109
+source : Le Figaro - Consommation.xml
+title : Citroën, Toyota, Tesla... Comment l’âge des acheteurs de voitures neuves varie en fonction des marques
+description : Avec une moyenne de 54 ans, l’âge des acquéreurs de véhicules en France ne cesse de monter depuis des décennies.
+date : Thu, 09 Jan 2025 13:53:53 +0100
+categories : ['Consommation']
+
+id : https://www.lefigaro.fr/voyages/traverser-l-atlantique-sans-casser-sa-tirelire-cette-compagnie-aerienne-lance-sa-promo-de-l-annee-20250109
+source : Le Figaro - Consommation.xml
+title : Traverser l’Atlantique sans casser sa tirelire : cette compagnie aérienne lance sa promo de l’année
+description : Avec des vols aller-retour à partir de 349 € tout inclus, Air Transat propose aux Français de s’envoler pour le Canada à prix doux depuis Paris et plusieurs villes de l’Hexagone.
+date : Thu, 09 Jan 2025 08:30:00 +0100
+categories : ['Consommation', 'Voyage']
+
+id : https://www.lefigaro.fr/voyages/conseils/votre-voyage-se-passe-mal-vous-n-etes-pas-sans-ressources-voici-qui-contacter-en-cas-de-probleme-20250109
+source : Le Figaro - Consommation.xml
+title : Votre voyage se passe mal ? Voici qui contacter
+description : Des associations et structures spécialisées permettent aux voyageurs de résoudre -sans aucun frais- des problèmes survenus lors d’un séjour.
+date : Mon, 13 Jan 2025 09:26:44 +0100
+categories : ['Conseils', 'Consommation']
+
+id : https://www.lefigaro.fr/economie/pourquoi-les-francais-ne-se-ruent-plus-sur-les-soldes-20250107
+source : Le Figaro - Consommation.xml
+title : Pourquoi les Français ne se ruent plus sur les soldes
+description : DÉCRYPTAGE - Les soldes d’hiver débutent dans l’indifférence quasi générale mais les commerçants changent de stratégie.
+date : Thu, 09 Jan 2025 16:09:42 +0100
+categories : ['Consommation', 'Économie']
+
+id : https://www.lefigaro.fr/conso/le-train-est-beaucoup-trop-cher-comment-les-vols-a-bas-prix-malmenent-la-conscience-ecolo-des-jeunes-voyageurs-20250104
+source : Le Figaro - Consommation.xml
+title : «Le train est beaucoup trop cher» : comment les vols à bas prix malmènent la conscience écolo des jeunes voyageurs
+description : TÉMOIGNAGES - À l’heure où l’avion reste souvent l’option la plus économique, ils tentent de concilier leurs convictions et leurs contraintes budgétaires. Mais ne sont pas prêts à tous les sacrifices.
+date : Sat, 04 Jan 2025 08:50:20 +0100
+categories : ['Consommation']
+
+id : https://www.lefigaro.fr/conso/les-systemes-classiques-paraissent-obsoletes-comment-les-virements-instantanes-ont-revolutionne-notre-gestion-de-l-argent-20250103
+source : Le Figaro - Consommation.xml
+title : «C’est tellement plus simple» : comment les virements instantanés ont révolutionné notre gestion de l’argent
+description : TÉMOIGNAGES - Les services de paiement mobile, portés par des plateformes comme Wero ou l’application Lydia, séduisent de plus en plus de Français grâce à leur simplicité et leur sécurité.
+date : Thu, 09 Jan 2025 09:16:11 +0100
+categories : ['Consommation']
+
+id : https://www.lefigaro.fr/conso/pates-steaks-haches-farine-peut-on-toujours-acheter-des-aliments-interdits-avec-des-titres-restaurant-20250103
+source : Le Figaro - Consommation.xml
+title : Pâtes, steaks hachés, farine... Peut-on toujours acheter des aliments «interdits» avec des titres-restaurant ?
+description : Au 1er janvier, la liste des aliments payables en titres-restaurants s’est réduite. Sur le principe, tous les produits non transformés ne peuvent plus être payés grâce à ce moyen de paiement bien particulier.
+date : Sat, 04 Jan 2025 21:32:51 +0100
+categories : ['Consommation']
+
+id : https://www.lefigaro.fr/conso/beaucoup-d-habitants-nous-remercient-mais-ne-savent-pas-que-ca-existe-la-lente-disparition-de-la-pratique-des-etrennes-20250103
+source : Le Figaro - Consommation.xml
+title : «Beaucoup d’habitants nous remercient, mais ne savent pas que ça existe» : la lente disparition de la pratique des étrennes
+description : Donner de l’argent à son gardien d’immeuble, à son facteur ou à ceux qui nous rendent service... la pratique n’a plus forcément la cote. Et si certains continuent de se montrer généreux, les Français semblent désormais privilégier les avantages en nature à l’argent.
+date : Sat, 04 Jan 2025 14:28:54 +0100
+categories : ['Consommation']
+
+id : https://www.lefigaro.fr/conso/produits-mensongers-denomination-abusive-les-derives-du-business-tres-lucratif-des-jouets-montessori-20241231
+source : Le Figaro - Consommation.xml
+title : «Produits mensongers», dénomination abusive... Les dérives du business très lucratif des jouets Montessori
+description : ENQUÊTE - De plus en plus d’enseignes commercialisent des jeux éducatifs portant le nom de la célèbre pédagogue italienne, aux dépens du contenu, qui s’avère souvent contre-productif pour les enfants.
+date : Tue, 31 Dec 2024 06:00:00 +0100
+categories : ['Consommation']
+
+id : https://www.lefigaro.fr/conso/colis-soi-disant-jamais-livres-et-faux-retours-ces-clients-serial-fraudeurs-qui-exploitent-les-failles-du-e-commerce-20241228
+source : Le Figaro - Consommation.xml
+title : Colis prétendument jamais livrés et faux retours : ces clients «serial fraudeurs» qui exploitent les failles du e-commerce
+description : ENQUÊTE - Les escroqueries à la livraison ou au retour de commande, punies par la loi, font florès sur les sites de vente en ligne, en particulier dans le secteur textile. Et posent de sérieux dilemmes aux vendeurs, qu’il s’agisse de grandes plateformes ou de marques plus confidentielles.
+date : Sat, 28 Dec 2024 16:22:33 +0100
+categories : ['Consommation']
+
+id : https://www.lefigaro.fr/conso/les-francais-revendent-deja-leurs-cadeaux-de-noel-20241225
+source : Le Figaro - Consommation.xml
+title : Noël : plus d’un million de cadeaux remis en vente sur les sites de seconde main
+description : Tirée par la possibilité de trouver un repreneur rapidement, la revente des cadeaux reçus en double ou simplement décevants enregistre une hausse cette année.
+date : Thu, 26 Dec 2024 14:20:28 +0100
+categories : ['Consommation']
+
+id : https://www.lefigaro.fr/conso/prototypes-regles-fabrication-dans-les-coulisses-de-la-creation-des-jeux-de-societe-best-seller-de-noel-20241224
+source : Le Figaro - Consommation.xml
+title : Prototypes, règles, fabrication… Dans les coulisses de la création des jeux de société, best-seller de Noël
+description : REPORTAGE - Ils sont l’un des cadeaux les plus offerts lors des fêtes de fin d’année, et pourtant, leurs recettes de fabrication sont énigmatiques. Le Figaro s’est invité chez un grand studio d’édition, Zygomatic, propriété du géant français Asmodee, pour en percer les mystères.
+date : Tue, 24 Dec 2024 14:00:00 +0100
+categories : ['Consommation']
+
+id : https://www.lefigaro.fr/conso/paquets-de-chips-places-de-concert-livres-bouteilles-ces-cadeaux-recus-par-les-deputes-en-2024-20241223
+source : Le Figaro - Consommation.xml
+title : Paquets de chips, places de concert, livres, bouteilles... Ces cadeaux reçus par les députés en 2024
+description : Tenus de déclarer les dons et invitations reçus tout au long de l’année, nos élus ne sont pas tous logés à la même enseigne. Florilège des présents reçus par les députés élus en juillet dernier.
+date : Mon, 23 Dec 2024 17:03:07 +0100
+categories : ['Consommation']
+

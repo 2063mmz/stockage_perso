@@ -1,0 +1,21 @@
+id : https://www.bfmtv.com/limoges/limoges-perd-son-embleme-l-homme-en-bleu-cycliste-emblematique-de-la-ville-meurt-renverse-par-une-voiture_AD-202411110349.html
+source : Flux RSS - BFMTV - Limoges.xml
+title : "Limoges perd son emblème": "l'homme en bleu", cycliste emblématique de la ville, meurt renversé par une voiture
+description : Un cycliste septuagénaire, surnommé "l'homme en bleu", a été mortellement renversé par une voiture vendredi 8 novembre. Sa mort a suscité beaucoup d'émotion car se déplaçant toujours à vélo en bleu de travail, il était considéré comme une figure "emblématique". <br /><br /><img src="https://images.bfmtv.com/5ajaVyqYmKjpf447wWgydoLJObI=/339x0:1651x738/800x0/images/L-Homme-en-bleu-de-Limoges-mort-le-8-novembre-renverse-par-un-automobiliste-1974080.jpg" />
+date : Mon, 11 Nov 2024 10:12:07 GMT
+categories : ['No category']
+
+id : https://www.bfmtv.com/limoges/tensions-au-conseil-municipal-de-limoges-apres-une-enquete-pour-harcelement-moral-visant-le-maire_AD-202403201018.html
+source : Flux RSS - BFMTV - Limoges.xml
+title : Tensions au conseil municipal de Limoges après une enquête pour harcèlement moral visant le maire
+description : Emile-Roger Lombertie a retiré des débats une délibération portant sur sa protection fonctionnelle. Une décision qui a privé l'opposition de la possibilité de prendre la parole sur un sujet liée à l'enquête préliminaire ouverte après le dépôt d'une plainte pour harcèlement et visant le maire de Limoges.<br /><br /><img src="https://images.bfmtv.com/8Mr7zwak0VNnZC0Ma7dT8J29_eg=/0x285:1904x1356/800x0/images/Le-maire-de-Limoges-Emile-Roger-Lombertie-le-31-mars-2014-1817097.jpg" />
+date : Wed, 20 Mar 2024 23:04:28 GMT
+categories : ['No category']
+
+id : https://www.bfmtv.com/limoges/en-route-pour-l-hopital-une-mere-donne-naissance-sur-un-parking_AN-202307010201.html
+source : Flux RSS - BFMTV - Limoges.xml
+title : Haute-Vienne: en route pour l'hôpital, une mère donne naissance sur un parking
+description : La petite Lydia-Shirley est née sur une aire de covoiturage de Haute-Vienne. Ses parents se rendaient à l'hôpital de Limoges. <br /><br /><img src="https://images.bfmtv.com/D4gQTzyJ_ttYfXVpY0ga3nQUCFc=/0x54:768x486/800x0/images/Les-bebes-nes-en-2022-peuvent-esperer-statistiquement-vivre-93-ans-pour-les-filles-et-90-ans-pour-les-garcons-1518340.jpg" />
+date : Sat, 01 Jul 2023 10:04:55 GMT
+categories : ['No category']
+

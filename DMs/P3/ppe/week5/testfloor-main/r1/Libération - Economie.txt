@@ -1,0 +1,105 @@
+id : https://www.liberation.fr/economie/economie-numerique/lia-durable-entre-voeu-pieux-et-opportunite-de-marche-20250210_RRW3GZT5KFDSRCH4MIAYXKFKYE/
+source : Libération - Economie.xml
+title : <![CDATA[L’IA durable, entre vœu pieux et opportunité de marché]]>
+description : <![CDATA[Avec l’avènement de l’intelligence artificielle, se pose la question de l’impact environnemental des centres de données, mais aussi les conséquences sur la consommation et la répartition électrique globale. Le ministère français de la Transition écologique, lui, y voit l’occasion d’être compétitif.]]>
+date : Mon, 10 Feb 2025 05:48:00 +0000
+categories : 
+
+id : https://www.liberation.fr/economie/medias/chatgpt-a-lest-republicain-eric-barbier-un-delegue-syndical-a-loffensive-20250210_HZJOWL7QRBBKZAKV2BWL34RVTQ/
+source : Libération - Economie.xml
+title : <![CDATA[ChatGPT à «l’Est républicain» : Eric Barbier, un délégué syndical à l’offensive contre l’IA dans les médias]]>
+description : <![CDATA[Témoin d’une expérimentation de l’intelligence artificielle générative au sein de sa rédaction, le journaliste est devenu l’une des principales voix critiques de son utilisation dans les médias. Au point d’être à l’initiative d’un contre-sommet de l’IA lundi 10 février à Paris.]]>
+date : Mon, 10 Feb 2025 05:20:00 +0000
+categories : 
+
+id : https://www.liberation.fr/economie/economie-numerique/sommet-pour-laction-sur-lintelligence-artificielle-la-france-se-pose-en-tech-pensante-20250209_BXFH3TG6BZDYDLTJJXW4WE774A/
+source : Libération - Economie.xml
+title : <![CDATA[Sommet sur l’IA : avec les 109 milliards d’investissements voulus par Macron, la France se pose en tech pensante]]>
+description : <![CDATA[Chefs d’Etats et de gouvernement, institutions, entrepreneurs et société civile se réunissent ce lundi 10 et mardi 11 février dans le cadre du grand raout parisien. L’objectif : dessiner les contours d’une voie capable de peser face aux mastodontes américains et chinois. ]]>
+date : Sun, 09 Feb 2025 20:39:27 +0000
+categories : 
+
+id : https://www.liberation.fr/idees-et-debats/editorial/sommet-de-paris-la-chasse-a-lia-20250209_KSSNBLJBRVC6PGRJHC5IGSTEGU/
+source : Libération - Economie.xml
+title : <![CDATA[Sommet de Paris : la chasse à l’IA]]>
+description : <![CDATA[Dans un secteur en pleine croissance et sans garde-fous, la France espère tirer son épingle du jeu face aux concurrents chinois et américains.]]>
+date : Sun, 09 Feb 2025 19:40:24 +0000
+categories : 
+
+id : https://www.liberation.fr/economie/economie-numerique/chatbot-prompt-slop-labc-de-lia-20250209_5ROEY5LHW5CZHHQE5CLXPZYLSY/
+source : Libération - Economie.xml
+title : <![CDATA[«Chatbot», «prompt», «slop»… l’ABC de l’IA]]>
+description : <![CDATA[Avant le sommet qui s’ouvre à Paris ce lundi 10 février, tout ce que vous avez toujours voulu savoir sur l’intelligence artificielle sans oser le demander.]]>
+date : Sun, 09 Feb 2025 16:40:51 +0000
+categories : 
+
+id : https://www.liberation.fr/economie/le-patron-de-la-cpme-amir-reza-tofighi-veut-sinspirer-delon-musk-pour-reduire-les-depenses-publiques-en-france-20250209_PZMB3QGCANDJDKHZ56QKUSLSRQ/
+source : Libération - Economie.xml
+title : <![CDATA[Le patron de la CPME, Amir Reza-Tofighi, veut s’inspirer d’Elon Musk pour réduire les dépenses publiques en France]]>
+description : <![CDATA[Tout juste élu à la tête de l’organisation patronale, Amir Reza-Tofighi estime que Donald Trump a eu raison de nommer un entrepreneur à la tête d’une commission politique. Il aimerait que la France fasse de même pour un organe chargé de «réduire drastiquement les dépenses publiques».]]>
+date : Sun, 09 Feb 2025 15:13:05 +0000
+categories : 
+
+id : https://www.liberation.fr/economie/medias/merwane-benlazar-repond-a-la-polemique-par-un-sketch-je-savais-que-jallais-etre-vire-un-jour-par-une-arabe-cest-chiant-mais-je-savais-20250209_2ZDTCE7EAJGXDIP4CI2ZQTZ3JI/
+source : Libération - Economie.xml
+title : <![CDATA[Merwane Benlazar répond à la polémique par un sketch : «Je savais que j’allais être viré un jour, par une Arabe, c’est chiant, mais je savais»]]>
+description : <![CDATA[L’humoriste a répondu par le biais d’un sketch publié samedi 8 février au tollé provoqué une semaine plus tôt par sa tenue lors de sa chronique sur le plateau de «C à vous».]]>
+date : Sun, 09 Feb 2025 12:32:12 +0000
+categories : 
+
+id : https://www.liberation.fr/checknews/remplacees-par-chatgpt-les-petites-mains-africaines-du-web-voient-fondre-leurs-revenus-20250209_QAYYKAD3JRATBHK56XYHDNHHFE/
+source : Libération - Economie.xml
+title : <![CDATA[Remplacées par ChatGPT, les «petites mains» africaines du web voient fondre leurs revenus]]>
+description : <![CDATA[L’apparition de l’intelligence artificielle a fortement bousculé le secteur des rédacteurs francophones, entre clients envolés et perte de sens de leur métier.]]>
+date : Sun, 09 Feb 2025 07:30:00 +0000
+categories : 
+
+id : https://www.liberation.fr/societe/madagascar-tunisie-bulgarie-pour-les-uniformes-de-ses-armees-la-france-fait-limpasse-sur-le-made-in-france-20250208_JRHDJI36IZCPTJNHO4WTA4QHLA/
+source : Libération - Economie.xml
+title : <![CDATA[Madagascar, Tunisie, Bulgarie… Pour les uniformes de ses armées, la France fait l’impasse sur le «made in France»]]>
+description : <![CDATA[L’entreprise française Marck & Balsan, qui produit ses uniformes dans l’Hexagone, ferme une usine à Calais après la perte d’un marché public au profit d’un concurrent tricolore qui fabrique notamment à Madagascar. Entre économies sur les coûts et enjeux de sécurité, la confection française semble être devenue une exception pour l’habillement des militaires.]]>
+date : Sat, 08 Feb 2025 15:32:00 +0000
+categories : 
+
+id : https://www.liberation.fr/economie/conso/decathlon-la-fausse-promesse-du-sport-accessible-pour-tous-et-responsable-20250208_ERVROYMGCJAZZGTQFBL4QMY2VI/
+source : Libération - Economie.xml
+title : <![CDATA[Decathlon : la fausse promesse du sport «accessible pour tous» et responsable]]>
+description : <![CDATA[Petits prix, innovation et engagement… La recette du succès de l’enseigne d’équipement et de vêtement sportif repose sur des pratiques dignes des grandes enseignes low-cost, selon une enquête réalisée par plusieurs médias.]]>
+date : Sat, 08 Feb 2025 09:44:00 +0000
+categories : 
+
+id : https://www.liberation.fr/checknews/jai-ecrit-20-lignes-et-chatgpt-ma-fait-les-40-autres-comment-lia-modifie-les-pratiques-des-journalistes-20250208_KRQVNECQGRCVNLGZO2JUXCC45I/
+source : Libération - Economie.xml
+title : <![CDATA[«J’ai écrit 20 lignes et ChatGPT m’a fait les 40 autres» : comment l’IA modifie les pratiques des journalistes]]>
+description : <![CDATA[Des journalistes de presse généraliste, notamment les plus jeunes, confient à «CheckNews» se servir au quotidien des outils d’IA pour rédiger leurs articles, le plus souvent à l’insu de leur direction. Même si certains médias revendiquent l’utilisation du robot rédacteur pour certains contenus.]]>
+date : Sat, 08 Feb 2025 07:05:00 +0000
+categories : 
+
+id : https://www.liberation.fr/economie/transports/confronte-a-une-baisse-de-ses-ventes-tesla-nest-plus-seul-en-son-royaume-electrique-20250207_NFKYGQFINBAWFEE5S6A6WAOLOI/
+source : Libération - Economie.xml
+title : <![CDATA[Confronté à une baisse de ses ventes, Tesla n’est plus seul en son royaume électrique]]>
+description : <![CDATA[Les véhicules de l’entreprise d’Elon Musk, qui apparaissaient longtemps comme incontournables sur le marché de l’électrique, cèdent du terrain face à la concurrence européenne et chinoise.]]>
+date : Fri, 07 Feb 2025 19:31:24 +0000
+categories : 
+
+id : https://www.liberation.fr/economie/economie-numerique/sommet-de-lia-a-paris-chez-les-etudiants-on-ne-peut-pas-dire-que-la-french-tech-fasse-rever-20250206_BGVMDYEKJFCUDMWWLVHD3KLO2M/
+source : Libération - Economie.xml
+title : <![CDATA[Sommet de l’IA à Paris : chez les étudiants, «on ne peut pas dire que la French Tech fasse rêver»]]>
+description : <![CDATA[Sur le campus de Polytechnique, deux Journées scientifiques se déroulent à partir de ce jeudi 6 février, en amont du grand Sommet de l’IA, les 10 et 11 février, au Grand Palais, à Paris. Rencontre avec les étudiants présents sur place, entre fascination et répulsion.]]>
+date : Thu, 06 Feb 2025 18:52:20 +0000
+categories : 
+
+id : https://www.liberation.fr/economie/medias/hanouna-ambition-intime-mimi-marchand-les-campagnes-de-karine-le-marchand-20250206_OYL6L57XQFFXZJQ47BMVK6GSU4/
+source : Libération - Economie.xml
+title : <![CDATA[Hanouna, «Une ambition intime», Mimi Marchand : les campagnes de Karine Le Marchand  ]]>
+description : <![CDATA[En apprenant que le présentateur de «TPMP» pouvait rejoindre M6, l’animatrice préférée des Français a menacé de démissionner. Bien plus politique qu’on ne l’imagine, elle défend ses choix.]]>
+date : Thu, 06 Feb 2025 12:47:19 +0000
+categories : 
+
+id : https://www.liberation.fr/economie/social/rsa-dans-le-nord-des-acteurs-sociaux-denoncent-une-politique-qui-risque-denfoncer-les-gens-20250206_YV3RJXR7TJEORBQDMA4775HTQY/
+source : Libération - Economie.xml
+title : <![CDATA[RSA : dans le Nord, des acteurs sociaux dénoncent une politique qui risque «d’enfoncer les gens»]]>
+description : <![CDATA[Porté par l’obsession du retour à l’emploi, également au cœur de l’expérimentation sur le territoire du RSA rénové, le département a durci fin octobre les sanctions contre ses allocataires absents à un rendez-vous. Au risque de créer du non-recours.]]>
+date : Thu, 06 Feb 2025 10:42:00 +0000
+categories : 
+
